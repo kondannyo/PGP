@@ -15,14 +15,16 @@
 # Set PROJECT to the name of the .tex file to build.
 PROJECT =majjhima_nikaya_master
 SOURCE_DIR = sc_po_text
-BIN_DIR = ../bin
-BUILD_DIR = build
-TXMKR_BUILD_DIR = tex_build
+BIN_DIR = ../bin/
+BUILD_DIR = build/
+TXMKR_BUILD_DIR = tex_build/
 
 default: $(BUILD_DIR)/$(PROJECT).pdf
 
 display: default
 	(${PDFVIEWER} $(PROJECT).pdf &)
+
+print-%  : ; @echo $* = $($*)
 
 wc: default
 	@ echo "Word count:"
@@ -44,6 +46,11 @@ TEX_FILES = \
 	$(TXMKR_BUILD_DIR)/mn003.tex \
 	$(TXMKR_BUILD_DIR)/mn004.tex \
 	$(TXMKR_BUILD_DIR)/mn005.tex 
+BIN_FILES = \
+	$(BIN_DIR)/txmkr \
+	$(BIN_DIR)/txmakerwrapper.py \
+	$(BIN_DIR)/glosstext.py
+
 STY_FILES = $(shell find . -name '*.sty')
 	#share/PM_AnsiADefinition.tex 
 	#share/PM_AnsiBDefinition.tex 
@@ -94,19 +101,19 @@ $(BUILD_DIR):
 $(TXMKR_BUILD_DIR):
 	mkdir -p $(TXMKR_BUILD_DIR)
 
-$(TXMKR_BUILD_DIR)/mn001.tex: $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn001_sc_pali $(SOURCE_DIR)/mn001_sc_engl
+$(TXMKR_BUILD_DIR)/mn001.tex: $(BIN_FILES) $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn001_sc_pali $(SOURCE_DIR)/mn001_sc_engl
 	$(BIN_DIR)/txmkr -n --output=$(TXMKR_BUILD_DIR)mn001.tex $(SOURCE_DIR)/mn001_sc_pali $(SOURCE_DIR)/mn001_sc_engl
 
-$(TXMKR_BUILD_DIR)/mn002.tex: $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn002_sc_pali $(SOURCE_DIR)/mn002_sc_engl
+$(TXMKR_BUILD_DIR)/mn002.tex: $(BIN_FILES) $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn002_sc_pali $(SOURCE_DIR)/mn002_sc_engl
 	$(BIN_DIR)/txmkr -n --output=$(TXMKR_BUILD_DIR)mn002.tex $(SOURCE_DIR)/mn002_sc_pali $(SOURCE_DIR)/mn002_sc_engl
 
-$(TXMKR_BUILD_DIR)/mn003.tex: $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn003_sc_pali $(SOURCE_DIR)/mn003_sc_engl
+$(TXMKR_BUILD_DIR)/mn003.tex: $(BIN_FILES) $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn003_sc_pali $(SOURCE_DIR)/mn003_sc_engl
 	$(BIN_DIR)/txmkr -n --output=$(TXMKR_BUILD_DIR)mn003.tex $(SOURCE_DIR)/mn003_sc_pali $(SOURCE_DIR)/mn003_sc_engl
 
-$(TXMKR_BUILD_DIR)/mn004.tex: $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn004_sc_pali $(SOURCE_DIR)/mn004_sc_engl
+$(TXMKR_BUILD_DIR)/mn004.tex: $(BIN_FILES) $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn004_sc_pali $(SOURCE_DIR)/mn004_sc_engl
 	$(BIN_DIR)/txmkr -n --output=$(TXMKR_BUILD_DIR)mn004.tex $(SOURCE_DIR)/mn004_sc_pali $(SOURCE_DIR)/mn004_sc_engl
 
-$(TXMKR_BUILD_DIR)/mn005.tex: $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn005_sc_pali $(SOURCE_DIR)/mn005_sc_engl
+$(TXMKR_BUILD_DIR)/mn005.tex: $(BIN_FILES) $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn005_sc_pali $(SOURCE_DIR)/mn005_sc_engl
 	$(BIN_DIR)/txmkr -n --output=$(TXMKR_BUILD_DIR)mn005.tex $(SOURCE_DIR)/mn005_sc_pali $(SOURCE_DIR)/mn005_sc_engl
 
 #build/$(PROJECT).aux: $(TEX_FILES) $(STY_FILES) | build/
@@ -119,6 +126,6 @@ $(TXMKR_BUILD_DIR)/mn005.tex: $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn005_sc_pali $(S
 #	xelatex $(LATEX_FLAGS) $(PROJECT)
 #endif
 	
-$(BUILD_DIR)/$(PROJECT).pdf: $(TEX_FILES) | $(BUILD_DIR)
+$(BUILD_DIR)/$(PROJECT).pdf: $(TEX_FILES) $(BIN_FILES) | $(BUILD_DIR)
 	xelatex $(LATEX_FLAGS) $(PROJECT).tex
 

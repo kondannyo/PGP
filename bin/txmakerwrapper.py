@@ -29,10 +29,10 @@ paracol = """
 alternating = """
 \\begin{{absolutelynopagebreak}}
 \\setstretch{{.7}}
-{{\\PaliColumn{{{0}}}}}\\\\
+{{\\PaliGlossA{{{0}}}}}\\\\
 \\begin{{addmargin}}[1em]{{2em}}
 \\setstretch{{.5}}
-{{\\EnglishColumn{{{1}}}}}\\\\
+{{\\PaliGlossB{{{1}}}}}\\\\
 \\end{{addmargin}}
 \\end{{absolutelynopagebreak}}
 """
