@@ -1,0 +1,112 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** usabhaj pavaraj viraj mahesij vijitavinaj ******
+        ****** anejaj nhatakaj buddhaj tam ahaj brumi brahmanaj ******
+                            ****** (DhP 422) ******
+===============================================================================
+
+
+Sentence Translation:
+Who is strong, noble, a hero, a great seer, victorious,
+free from craving, his task finished and is awakened - him do I call a Brahmin.
+
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+usabhaj pavaraj viraj maha+isij vijitavinaj
+|                   |           |         |        |           |
+N.m.       Adj.m.    N.m.  Adj.  N.m.   Adj.m.
+Acc.Sg.   Acc.Sg. Acc.Sg.   |   Acc.Sg. Acc.Sg.
+|                   |           |         |_____|          |
+|___________|______|_______|_________|________________
+List of Abbreviations
+anejaj nhatakaj buddhaj  tam         ahaj     brumi   brahmanaj
+|                  |              |           |               |            
+|              |
+Adj.m    Adj.m.      Adj.m.  Pron.m.    Pron.    V.act.in.    N.m.
+Acc.Sg. Acc.Sg.     Acc.Sg.  Acc.Sg.  Nom.Sg. 1.Sg.pres. Acc.Sg.
+|__________|________|           |               |             |              |
+______|___________________|               |             |              |
+                            |__________________|_______|________|
+                                                             |     |____|
+                                                             |_____|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+usabhaj: usabha-, N.m.: bull (as a symbol of strength). Acc.Sg. = usabhaj.
+pavaraj: pavara-, Adj.: excellent, noble. Acc.Sg.m. = pavaraj.
+viraj: vira-, N.m.: hero. Acc.Sg. = viraj.
+mahesij: mahesi-, N.m.: great seer. It is a compound of:
+    mahant-, Adj.: big, great. The compound form is maha-.
+    isi-, N.m.: seer.
+Euphonic combination: maha- + isi- = mahesi-.
+Acc.Sg. = mahesij.
+vijitavinaj: vijitavin-, Adj.: victorious. It is derived from the verb root ji-
+(to conquer, to win) with the strengthening prefix vi-. Acc.Sg.m. =
+vijitavinaj.
+anejaj: aneja-, Adj.: free from craving. It is the word eja-, N.f.: craving,
+negated by the negative prefix -an. Acc.Sg.m. = anejaj.
+List of Abbreviations
+nhatakaj: nhataka-, N.m.: one who is perfect in the Buddha's teaching. Lit.
+"one who has bathed." In traditional Vedic religion this means a young man who
+has finished his studies and taken a ritual bath. In Buddhism the meaning is
+changed into "who completed his study [of the Dharma]." Acc.Sg. = nhatakaj.
+buddhaj: buddha-, Adj.: Awakened, Enlightened. It is a pp. of the verb root
+budh-, to awaken. Acc.Sg.m.: buddhaj.
+tam: tad-, Pron.: it. Masculine form: so-, he. Acc.Sg. = tam (him).
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+brahmanaj: brahmana-, N.m.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+List of Abbreviations
+    The subject of this sentence is the pronoun ahaj (I, nominative singular).
+The verb is brumi ([I] say, 1st person, singular, active, indicative, present
+tense). The object is the noun brahmanaj (Brahmin, accusative singular). It has
+nine attributes, the pronoun tam (him, accusative singular), the nouns usabhaj
+(bull, accusative singular), viraj (hero, accusative singular), mahesij (great
+seer, accusative singular), nhatakaj (task finished, accusative singular) and
+the adjectives pavaraj (noble, accusative singular), vijitavinaj (victorious,
+accusative singular), anejaj (free from craving, accusative singular) and
+buddhaj (awakened, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The Kinf Pasenadi and Queen Mallika once gave alms to the Buddha and
+Community. The offering was done on a big scale. There was an elephant holding
+an umbrella over each monk. Because there were many monks, one untrained
+elephant had to be used. He held an umbrella over Venerable Avgulimala.
+Everybody was afraid that something would happen; however nothing did.
+    Later, other monks asked Avgulimala if he was scared at that time. He
+replied that he was not, since he was an Arahant. The Buddha then confirmed
+Avgulimala's attainment with this verse.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+usabhaj
+pavaraj
+viraj
+mahesij
+maha
+isij
+vijitavinaj
+anejaj
+nhatakaj
+buddhaj
+tam
+ahaj
+brumi
+brahmanaj 
+===============================================================================

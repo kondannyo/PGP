@@ -1,0 +1,129 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** ayoge yubjam attanaj yogasmij ca ayojanaj ******
+            ****** atthaj hitva piyaggahi pihetattanuyoginaj ******
+                            ****** (DhP 209) ******
+===============================================================================
+
+
+Sentence Translation:
+Undertaking what is not to be undertaken, not undertaking what is to be
+undertaken,
+having renounced spiritual welfare; one grasping after the pleasant envies one
+who is pursuing the purification of mind.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+ayoge    yubjam attanaj yogasmij ca ayojanaj
+|                 |            |             |         |          |
+N.m.      Adj.m.    N.m.      N.m.  conj.    N.n.
+Loc.Sg. Nom.Sg. Acc.Sg.  Loc.Sg.   |     Nom.Sg.
+|                 |_______|             |_____|_____|
+|_____________|                         |__|
+            |______________________|_________________________________
+List of Abbreviations
+atthaj  hitva   piya+ggahi      piheti     atta+anuyoginaj
+|               |         |        |              |           |            |
+N.n.     V.ger.  Adj. Adj.m.   V.act.in.  N.m.     Adj.m.
+Acc.Sg.    |         |   Nom.Sg. 3.Sg.pres.   |        Acc.Sg.
+|________|         |_____|              |          |_______|
+        |                     |                   |_________|
+        |                     |_______________|
+____|___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+ayoge: ayoga-, N.m.: what is not to be undertaken. It is the word yoga-, N.m.:
+see below, negated by the negative prefix a-. Loc.Sg. = ayoge.
+yubjam: yubjant-, Adj.: pursuing, undertaking. It is an a.pr.p. of the verb
+root yuj- (to connect). Nom.Sg.m. = yubjam.
+attanaj: attan-, N.m.: self, oneself. Acc.Sg. = attanaj.
+yogasmij: yoga-, N.m.: lit. endeavor, effort, undertaking. It is derived from
+the verb root yuj- (to connect). Here: what is to be undertaken. Loc.Sg. =
+yogasmij.
+ca, conj.: and.
+ayojanaj: ayojana-, N.n.: pursuing, undertaking. It is derived from the verb
+root yuj- (to connect) with the negative prefix a-. Nom.Sg. = ayojanaj.
+atthaj: attha-, N.n.: welfare, attainment. Here in the sense of "spiritual
+attainment". Acc.Sg. = atthaj.
+List of Abbreviations
+hitva, V.ger.: having renounced, having left behind. It is a ger. of the verb
+ha- (to abandon, to leave).
+piyaggahi: piyagahin-, Adj.: grasping after the pleasant. It is a compound of:
+    piya-, Adj.: dear, beloved, pleasant.
+    gahin-, Adj.: grasping. It is derived from the verb root gah- (to grasp)
+with the possessive suffix -in. Nom.Sg.m. = piyagahi.
+piheti, V.: envy, covet, desire. The verb root is pih-. 3.Sg.act.in.pres. =
+piheti.
+attanuyoginaj: attanuyogin-, Adj.: pursuing the purification of one's mind.
+Lit. pursuing oneself, given to oneself. It is a compound of:
+    attan-, N.m.: self, oneself. Compound form: atta-.
+    anuyogin-, Adj.: pursuing, given to. It is derived from the verb root yuj-
+(to connect) with the prefix anu- (after) and the possessive suffix -in.
+Euphonic combination: atta- + anuyogin- = attanuyogin-.
+Acc.Sg.m. = attanuyoginaj.
+Euphonic combination: piheti + attanuyoginaj = pihetattanuyoginaj.
+List of Abbreviations
+    This verse consists of four related sentences. They are:
+    1) ayoge yubjam attanaj (undertaking what is not to be undertaken). The
+subject is omitted. The verb is in the active present participle, yubjam
+(undertaking, nominative singular). It has an attribute, the noun attanaj
+(oneself, accusative singular). The object is the noun ayoge (what is not to be
+undertaken, locative singular).
+    2) yogasmij ca ayojanaj (not undertaking what is to be undertaken). The
+subject is the noun ayojanaj (not undertaking, nominative singular). The verb
+is omitted, implying the verb "to be". The object is the noun yogasmij (what is
+to be undertaken, locative singular). The conjunction ca (and) connects the
+sentence to the previous one.
+    3) atthaj hitva (having renounced spiritual welfare). The subject is
+omitted. The verb is in gerund, hitva (having renounced). The object is the
+noun atthaj (spiritual welfare, accusative singular).
+    4) piyaggahi pihetattanuyoginaj (one grasping after the pleasant envies one
+who is pursuing the purification of mind). The subject is the compound
+adjective piyaggahi (one who is grasping after the pleasant, nominative
+singular). The verb is piheti (envies, 3rd person, singular, active,
+indicative, present tense). The object is the adjective attanuyoginaj (one who
+is pursuing the purification of mind, accusative singular).
+===============================================================================
+
+
+Commentary:
+    A young man from Savatthi became a monk. Both his parents were very
+strongly attached to their son, so they left home too. But even in the
+monastery they could not live without each other. They stayed together, ate
+together, all day only talking, as if they were still at home. When the Buddha
+heard this, he admonished them strongly that by becoming monks and a nun, they
+should leave behind all worldly attachments. He also told them this verse as
+well as the two following ones (DhP 210, DhP 211).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+ayoge
+yubjam
+attanaj
+yogasmij
+ca
+ayojanaj
+atthaj
+hitva
+piyaggahi
+piya
+gahi
+piheti
+attanuyoginaj
+atta
+anuyoginaj
+===============================================================================

@@ -1,0 +1,122 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** yaj esa sahate jammi tanha loke visattika ******
+          ****** soka tassa pavaddhanti abhivatthaj va biranaj ******
+                            ****** (DhP 335) ******
+===============================================================================
+
+
+Sentence Translation:
+Who in this world is conquered by this miserable thirst and craving,
+his sorrows grow, like grass after rains.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yaj               esa        sahate     jammi     tanha      loke     visattika
+
+|                       |              |              |            
+|            |             |
+Rel.Pron.m.  Pron.f.  V.med.in.   Adj.f.      N.f.       N.m.      N.f.
+Acc.Sg.       Nom.Sg. 3.Sg.pres. Nom.Sg. Nom.Sg. Loc.Sg. Nom.Sg.
+|                       |              |              |_______|            
+|             |
+|                       |              |                    
+|___________|_______|
+|                       |________|_________________|          |
+|                              |       |_______________________|
+|_________________|________________|
+                |________|
+                       |_______________________________________________________
+List of Abbreviations
+soka        tassa pavaddhanti abhivatthaj va   biranaj
+|                  |              |              |             |          |
+N.m.      Pron.m.  V.act.in.    Adj.n.      part.    N.n.
+Nom.Pl. Gen.Sg.  3.Pl.pres. Nom.Sg.       |    Nom.Sg.
+|__________|              |              |_______|______|
+         |_____________|                    |____|
+                     |____________________|
+______________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yaj: yat-, Rel.Pron.: that, which. Acc.Sg.m. = yaj.
+esa, Pron.: etad-, this. Nom.Sg.f = esa.
+sahate, V.: overcomes, conquers, defeats. The verb root is sah- (to conquer).
+3.Sg.med.in.pres. = sahate.
+jammi: jamma-, Adj.: miserable, wretched, contemptible. Nom.Sg.f. = jammi.
+tanha: tanha-, N.f.: thirst, craving. Nom.Sg. = tanha.
+loke: loka-, N.m.: world. Loc.Sg. = loke.
+List of Abbreviations
+visattika: visattika-, N.f.: craving, lust, desire. It is a synonym of tanha.
+Nom.Sg. = visattika.
+soka: soka-, N.m.: grief, sorrow. Nom.Pl. = soka.
+tassa: tad-, Pron.: that. Gen.Sg.m. = tassa.
+pavaddhanti, V.: grow. The verb root is vaddh-, with the strengthening prefix
+pa-.
+3.Pl.act.in.pres. = pavaddhanti.
+abhivatthaj: abhivattha-, Adj.: rained upon, watered. It is a p.p. of the verb
+root vas- (to rain) with the prefix abhi- (over). Nom.Sg.n. = abhivatthaj.
+va, part.: as, like.
+biranaj: birana-, N.n.: Birana grass, a kind of fragrant grass. Nom.Sg. =
+biranaj.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) yaj esa sahate jammi tanha loke visattika (who in this world is
+conquered by this miserable thirst). There are two subjects in this sentence,
+the nouns tanha (thirst, nominative singular) and visattika (craving,
+nominative singular). They have two attributes, the adjective jammi (miserable,
+nominative singular) and the pronoun esa (this, nominative singular). The verb
+is sahate (conquers, 3rd person, singular, medium, indicative, present tense).
+It has an attribute, the noun loke (in this world, locative singular). The
+object is the relative pronoun yaj (whom, accusative singular).
+    2) soka tassa pavaddhanti abhivatthaj va biranaj (his sorrows grow, like
+grass after rains). This can be further analysed into the main sentence a) and
+the dependent clause b):
+    a) soka tassa pavaddhanti (his sorrows grow). The subject is the noun soka
+(sorrows, nominative plural). It has an attribute, the pronoun tassa (his,
+genitive singular). The verb is pavaddhanti (grow, 3rd person, plural, active,
+indicative, present tense).
+    b) abhivatthaj va biranaj (like grass after rains). The subject is the noun
+biranaj (Birana grass, nominative singular). It has an attribute, the past
+participle abhivatthaj (rained upon, nominative singular). The particle va
+(like) connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 334) and the two following verses (DhP 336 and DhP 337).
+    Thirst and craving are one of the main roots of evil, origins of suffering.
+The more we are in power of craving, the more suffering and sorrow will befall
+us. To cut off the craving in our minds is to destroy all sorrow and suffering.
+
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yaj
+esa
+sahate
+jammi
+tanha
+loke
+visattika
+soka
+tassa
+pavaddhanti
+abhivatthaj
+va
+biranaj
+===============================================================================

@@ -1,0 +1,177 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** yesaj sannicayo n'atthi ye paribbatabhojana ******
+            ****** subbato animitto ca vimokkho yesaj gocaro ******
+            ****** akase va sakuntanaj gati tesaj durannaya ******
+                            ****** (DhP 92) ******
+===============================================================================
+
+
+Sentence Translation:
+Those, who do not accumulate and have well understood food,
+whose sphere is the void emancipation without attributes -
+their course is difficult to find out - like the course of the birds in the
+sky.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yesaj         sannicayo na   atthi             ye     paribbata+bhojana
+|                        |         |        |                 |             
+|            |
+Rel.Pron.m.    N.m.   neg. V.act.in.  Rel.Pron.m. Adj.     Adj.m.
+Gen.Pl.        Nom.Sg.  |    3.Sg.pres.   Nom.Pl.       |       Nom.Pl.
+|_____________|         |_____|                 |              |______|
+            |______________|                      |___________|
+                        |__________________________|________________________
+List of Abbreviations
+subbato  animitto   ca  vimokkho     yesaj       gocaro
+|                  |          |          |                 |               |
+Adj.m.     Adj.m.  conj.   N.m.    Rel.Pron.m.    N.m.
+Nom.Sg. Nom.Sg.   |     Nom.Sg.    Gen.Pl.     Nom.Sg.
+|__________|          |          |                 |________|
+         |___________|          |                        |
+                   |___________|                         |
+                              |___________________|
+__________________________|
+                     |____________________________________________________
+List of Abbreviations
+akase    va sakuntanaj gati       tesaj  durannaya
+|              |         |             |             |             |
+N.m.    part.   N.m.       N.f.      Pron.m.   Adj.f.
+Loc.Sg.   |    Gen.Pl.   Nom.Sg.  Gen.Pl.  Nom.Sg.
+|________|_____|             |_______|             |
+         |___|                             |___________|
+            |_______________________|
+__________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yesaj: yat-, Rel.Pron.: that, which. Gen.Pl.m. = yesaj.
+sannicayo: sannicaya-, N.m.: accumulation, hoarding. It is derived from the
+verb root ci- (to heap) with the prefixes ni- (down) and sam- (together).
+Nom.Sg. = sannicayo.
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = n'atthi.
+ye: yad-, Rel.Pron.: that which. Nom.Pl.m. = ye.
+List of Abbreviations
+paribbatabhojana: paribbatabhojana-, Adj.: having well understood food, ie.
+having understood that food is to be eaten not for pleasure, but only for
+sustaining the body in a good condition.
+It is a compound of:
+    paribbata-, Adj.: well understood. It is a p.p. of the verb root ba- (to
+know) with the
+    prefix pari-(completely, all around).
+    bhojana-, N.n.: food, meal.
+Nom.Pl.m. = paribbatabhojana.
+subbato: subbata-, Adj.: void, empty. Nom.Sg.m. = subbato.
+animitto: animitta-, Adj.: without attributes. It is the word nimitta-, N.n.:
+mark, attribute, characteristic, negated by the negative prefix a-. Nom.Sg.m. =
+animitto.
+List of Abbreviations
+ca, conj.: and.
+vimokkho: vimokkha-, N.m.: emancipation, freedom, release. It is derived from
+the verb root muc- (to release) with the prefix vi- (separation). Nom.Sg. =
+vimokkho.
+yesaj: see above.
+gocaro: gocara-, N.m.: pasture, sphere. A compound of:
+    go-, N.m.: cow
+    cara-, N.m.: going, walking. It is derived from the verb car- (to walk, to
+roam).
+Nom.Sg. = gocaro.
+akase: akasa-, N.m.: air, sky, space. Loc.Sg. = akase.
+List of Abbreviations
+va, part.: as, like.
+sakuntanaj: sakunta-, N.m.: bird. Gen.Pl. = sakuntanaj.
+gati: gati-, N.f.: direction, course. It is derived from the verb gam- (to go).
+Nom.Sg. = gati.
+tesaj: tad-, Pron.: that. Gen.Pl.m. = tesaj.
+durannaya: durannaya-, Adj.: hard to find out. It is the word annaya- (or
+anvaya-), Adj.: logical conclusion, with the prefix dur- (difficult). Nom.Sg.f.
+= durannaya.
+List of Abbreviations
+    This verse consists of two paratactic sentences. They are:
+    1) yesaj sannicayo n'atthi ye paribbatabhojana subbato animitto ca vimokkho
+yesaj gocaro (those, who do not accumulate and have well understood food, whose
+sphere is the void emancipation without attributes). This can be further
+subdivided into three parts:
+    a) yesaj sannicayo n'atthi (those, who do not accumulate). The subject is
+the word sannicayo (accumulation, nominative singular). It has an attribute,
+the relative pronoun yesaj (whose, genitive plural). The verb is atthi (is, 3rd
+person, singular, active, indicative, present tense). It is negated by the
+negative particle na(not).
+    b) ye paribbatabhojana (those, who have well understood food). The subject
+is the relative pronoun ye (who, nominative plural). It has an attribute, the
+compound paribbatabhojana (having well understood food, nominative plural). The
+verb is omitted, implying the verb "to be".
+    c) subbato animitto ca vimokkho yesaj gocaro (whose sphere is the void
+emancipation without attributes). The subject is the noun gocaro (sphere,
+nominative singular). It has an attribute, the relative pronoun yesaj (whose,
+genitive plural). The object is the noun vimokkho (emancipation, nominative
+singular). It has two attributes, adjectives subbato (empty, void; nominative
+singular) and animitto (without attributes, nominative singular). They are
+connected by the conjunction ca (and).
+    2) akase va sakuntanaj gati tesaj durannaya (their course is difficult to
+find out - like the course of the birds in the sky). The subject is the noun
+gati(course, path; nominative singular). It has an attribute, the pronoun tesaj
+(their, genitive plural). The object is the adjective durannaya (difficult to
+find, nominative singular). There is a clause, akase va sakuntanaj (like [the
+course] of the birds in the sky). The word sakuntanaj (of the birds, genitive
+plural) forms and attribute to the subject of the main sentence (gati). The
+noun akase (in the sky) is an attribute to the wordsakuntanaj. The particle va
+(as, like) connects the clause to the main sentence).
+===============================================================================
+
+
+Commentary:
+    Venerable Belatthi Sisa went on an almsround in a village. When he had
+enough food, he stopped on the way and ate. Then he continued on his almsround
+for more food. When he returned to the monastery, he dried the rice up and
+stored it. In this way he could concentrate only on his practice of meditation.
+Every day he would soak the rice in some water and eat it. The other monks saw
+this and thought that he is lazy and greedy. They reported the matter to the
+Buddha. The Buddha saw that if this practice became a habit amongst all monks,
+it could lead to laziness and greed and he discouraged the monks from hoarding
+food.
+    But because Belatthi Sisa did not store the rice out of greed for food, but
+only to save time for more meditation practice, the Buddha declared that he
+should not be blamed in any way.
+    He also added this verse, saying that the Arahants are not greedy for
+anything and they take food just to sustain the body in good condition, not for
+pleasure.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yesaj
+sannicayo
+na
+atthi
+ye
+paribbatabhojana
+paribbata
+bhojana
+subbato
+animitto
+ca
+vimokkho
+gocaro
+akase
+va
+sakuntanaj
+gati
+tesaj
+durannaya
+===============================================================================

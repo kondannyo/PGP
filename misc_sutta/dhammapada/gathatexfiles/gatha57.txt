@@ -1,0 +1,132 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+             ****** tesaṃ sampannasīlānaṃ appamādavihārinaṃ ******
+           ****** sammadaññāvimuttānaṃ māro maggaṃ na vindati ******
+                            ****** (DhP 57) ******
+===============================================================================
+
+Sentence Translation:
+Mara doesn't find the way of those endowed with virtue,
+living in conscientiousness and freed by the right knowledge.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+tesaṃ sampanna+sīlānaṃ   a+ppamāda+vihārinaṃ
+|               |               |         |        |               |
+Pron.m. Adj.         N.m.   neg.  N.m.      Adj.m.
+Gen.Pl.    |           Gen.Pl.   |____|           Gen.Pl.
+|              |_________|            |____________|
+|                      |__________________|___________________________I.
+|_______________________|
+                    |_______________________________________________II.
+List of Abbreviations
+sammad+aññā+vimuttānaṃ māro   maggaṃ   na      vindati
+|                |              |             |             |         
+|            |
+Adv.       N.f.       Adj.m.     N.m.      N.m.    neg.   V.act.in.
+|_________|         Gen.Pl.  Nom.Sg.  Acc.Sg.    |     3.Sg.pres.
+       |_____________|             |             |           |______|
+I._________|                          |_______|_________|
+II.______________________________|        |
+                          |______________________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+tesaṃ: tad-, Pron.: that. Gen.Pl.m. = tesaṃ.
+sampannasīlānaṃ: sampannasīla-, N.m.: endowed with virtue, virtuous one.
+It is a compound of:
+    sampanna-, Adj.: endowed with, possessed of. P.p. of the verb pad- (to go
+to, to fall to)
+    preceded by the prefix sam- (denoting "together" or "completely").
+    sīla-, N.n.: virtue.
+Gen.Pl. = sampannasīlānaṃ.
+List of Abbreviations
+appamādavihārinaṃ: appamādavihārin-, Adj.m.: dwelling in conscientiousness.
+It is a compound of:
+    appamāda-, N.m.: conscientiousness, non-negligence. A negated (by the
+negative
+    prefix a-) word pamāda-, N.m.: negligence. Doubled p is due to the euphonic
+
+    combination (a + pamāda = appamāda).
+    vihārin-, Adj.m.: dwelling, living. It is the word vihāra-, N.m.: abode,
+stay,
+    with the possessive suffix -in.
+Gen.Pl. = appamādavihārinaṃ.
+List of Abbreviations
+sammadaññāvimuttānaṃ: sammadaññāvimutta-, Adj.: emancipated, freed or released
+by the right knowledge. It is a compound of:
+    sammadaññā-, N.f.: right knowledge. It is a compound of:
+        sammā-, Adv.: rightly, properly, thouroughly.
+        aññā-, N.f.: knowledge.
+    Euphonic combination: sammā + aññā = sammadaññā.
+    vimutta-, Adj.: emancipated, freed, released. It is a p.p. of the verb muc-
+(to release)
+    with the prefix vi- (meaning separation).
+Gen.Pl.m. = sammadaññāvimuttānaṃ.
+List of Abbreviations
+māro: māra-, N.m.: Mara, personified death, the Evil One, devil. Nom.Sg. =
+māro.
+maggaṃ: magga-, N.m.: way, road, path. Acc.Sg. = maggaṃ.
+na, neg.: not.
+vindati, V.: finds, knows. The verb root is vid- (to know, to find).
+3.Sg.act.in.pres. = vindati.
+List of Abbreviations
+    The subject of this sentence is the noun māro (Mara, nominative singular).
+The verb is vindati (finds or knows, 3rd person, singular, active, indicative,
+present tense), negated by the negative particle na (not). The object is the
+noun maggaṃ (way, path, accusative singular). The object has four attributes,
+the main one being the pronoun tesaṃ (their, genitive plural). Three more
+attributes are all in genitive plural. They are:
+1) sampannasīlānaṃ (of virtue-endowed ones, genitive plural),
+2) appamādavihārinaṃ (of those, dwelling in conscientiousness).
+3) sammadaññāvimuttānaṃ (of those, freed by the right knowledge).
+
+===============================================================================
+
+Commentary:
+    A monk named Godhika was practicing meditation diligently. But whenever he
+made some progress in his meditation, he became seriously ill. It impaired
+effectiveness of his meditation, but he nevertheless continued to practice.
+    At the end he decided to strive for the arahantship even if he were to die.
+So he concentrated on physical pain as his meditation object and cut his throat
+(this can nor be considered a suicide, because he was very close to arahantship
+anyway and he already eradicated all cravings). Thus, concentrating on the
+pain, he attained his goal and then passed away.
+    Mara tried to find where Godhika was reborn but he could not find him
+anywhere. So he went and asked the Buddha about Godhika. The Buddha told him,
+that Godhika became an arahant and Mara could never be able to find him again.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+tesaṃ
+sampannasīlānaṃ
+sampanna
+sīlānaṃ
+appamādavihārinaṃ
+appamāda
+vihārinaṃ
+sammadaññāvimuttānaṃ
+sammadaññā
+sammā
+aññā
+vimuttānaṃ
+māro
+maggaṃ
+na
+vindati
+
+===============================================================================

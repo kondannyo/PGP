@@ -1,0 +1,134 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** akakkasaj vibbapanij giraj saccam udiraye ******
+          ****** yaya nabhisaje kabci tam ahaj brumi brahmanaj ******
+                            ****** (DhP 408) ******
+===============================================================================
+
+
+Sentence Translation:
+Who speaks smooth, informative and true words,
+by which he does not offend anyone - him do I call a Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+akakkasaj vibbapanij giraj  saccam   udiraye
+|                        |             |           |             |
+Adj.f.            Adj.f        N.f.     Adj.f.  V.act.opt.
+Acc.Sg.        Acc.Sg.   Acc.Sg. Acc.Sg. 3.Sg.caus.
+|_____________|________|______|             |
+                               |____|                         |
+                                   |________________|
+                                                  
+|_____________________________
+List of Abbreviations
+yaya           na    abhisaje    kabci     tam      ahaj        brumi 
+brahmanaj
+|                   |          |              |           |           
+|                |              |
+Rel.Pron.f. neg. V.act.opt. Pron.m. Pron.m.  Pron.      V.act.in.     N.m.
+Ins.Sg.          |      3.Sg.      Acc.Sg. Acc.Sg. Nom.Sg.  1.Sg.pres.  Acc.Sg.
+
+|                   |______|              |           |           
+|                |              |
+|                         |___________|           |            |               
+|              |
+|___________________|                      |            |               
+|              |
+__________|                                       |            |               
+|              |
+         |___________________________|           |               
+|              |
+                                   |___________________|_________|________|
+                                                                      |      
+|_____|
+                                                                      |_______|
+
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+akakkasaj: akakkasa-, Adj.: smooth, not harsh. It is the word kakkasa-, Adj.:
+harsh, rough, negated by the negative prefix a-. Acc.Sg.f. = akakkasaj.
+vibbapanij: vibbapana-, Adj.: instructive, making clear, informing. It is
+derived from the causative form vibbapeti (to make known, to teach, to
+instruct). The verb root is ba- (to know) with the prefix vi- (intensifying
+sense). Acc.Sg.f. = vibbapanij.
+giraj: gira-, N.f.: speech, words, utterance. Acc.Sg. = giraj.
+saccam: sacca-, Adj.: real, true. Acc.Sg.f. = saccam.
+udiraye, V.: should utter, pronounce, speak, say. The verb root is ir- (to
+move) with the prefix ud- (up). 3.Sg.act.caus.opt. = udiraye.
+yaya: yad-, Rel.Pron.: that which. Ins.Sg. Ins.Sg.f. = yaya.
+List of Abbreviations
+na, neg.: not.
+abhisaje, V.: should curse, make angry. The verb root is saj- (to hang) with
+the prefix abhi- (to, on to). 3.Sg.act.opt. = abhisaje.
+Euphonic combination: na + abhisaje = nabhisaje.
+kabci: kibci-, Pron.: whatever. Acc.Sg.m. = kabci.
+tam: tad-, Pron.: it. Masculine form: so-, he. Acc.Sg. = tam (him).
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+brahmanaj: brahmana-, N.m.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) akakkasaj vibbapanij giraj saccam udiraye yaya nabhisaje kabci (who
+speaks smooth, informative and true words, by which he does not offend anyone).
+This can be further analyzed into the main sentence a) and the clause b):
+    a) akakkasaj vibbapanij giraj saccam udiraye (who speaks smooth,
+informative and true words). The subject is omitted, the verb implying the
+third person singular pronoun. The verb is udiraye (should [one] utter, 3rd
+person, singular, active, optative). The object is the noun giraj (speech,
+accusative singular). It has three attributes, the adjectives akakkasaj
+(smooth, accusative singular), vibbapanij (informative, accusative singular)
+and saccam (true, accusative singular).
+    b) yaya nabhisaje kabci (by which he does not offend anyone). The subject
+is omitted, the verb implying the third person singular pronoun. The verb is
+abhisaje (would curse, 3rd person, singular, active, optative). It is negated
+by the negative particle na (not). The object is the pronoun kabci (whomever,
+accusative singular). The relative pronoun yaya (by which, instrumental
+singular) connects the clause to the main sentence.
+    2) tam ahaj brumi brahmanaj (him do I call a Brahmin). The subject is the
+pronoun ahaj (I, nominative singular). The verb is brumi ([I] say, 1st person,
+singular, active, indicative, present tense). The object is the noun brahmanaj
+(Brahmin, accusative singular). It has an attribute, the pronoun tam (him,
+accusative singular).
+===============================================================================
+
+
+Commentary:
+    There was a monk named Pilinda Vaccha, who always addressed people in a
+offensive manner, as if he was somewhat superior. Other monks complained to the
+Buddha about it and he told them that Pilinda Vaccha had been born as a Brahmin
+for many past existences. Therefore, the way he addressed others was not meant
+as an offense (for Vaccha was an Arahant), but he did it simply out of force of
+habit. The Buddha then spoke this verse, saying that Arahants have no intention
+of harming others even with their speech.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+akakkasaj
+vibbapanij
+giraj
+saccam
+udiraye
+yaya
+na
+abhisaje
+kabci
+tam
+ahaj
+brumi
+brahmanaj
+===============================================================================

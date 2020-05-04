@@ -1,0 +1,126 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+           ****** na bhaje pāpake mitte na bhaje purisādhame ******
+           ****** bhajetha mitte kalyāṇe bhajetha purisuttame ******
+                            ****** (DhP 78) ******
+===============================================================================
+
+Sentence Translation:
+One should not associate with evil friends; one should not associate with vile
+people.
+Associate with virtuous friends; associate with noble people.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+na     bhaje     pāpake  mitte    na     bhaje purisa+adhame
+|           |             |           |         |          |         |         
+|
+neg.  V.act.    Adj.m.    N.m.  neg.   V.act.  N.m.  Adj.m.
+|      3.Sg.opt. Acc.Pl.  Acc.Pl.   |    3.Sg.opt.  |      Acc.Pl.
+|______|             |______|          |_____|         |______|
+      |_____________|                      |___________|
+List of Abbreviations
+bhajetha  mitte   kalyāṇe bhajetha purisa+uttame
+|                 |           |            |           |          |
+V.act.      N.m.   Adj.m.   V.act.    N.m. Adj.m.
+2.Pl.opt. Acc.Pl. Acc.Pl. 2.Pl.opt.    |     Acc.Pl.
+|                 |______|            |           |______|
+|_____________|                 |_________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+na, neg.: not.
+bhaje, V.: one should associate with. The verb root is bhaj- (to associate
+with). 3.Sg.act.opt. =bhaje.
+pāpake: pāpaka-, Adj.: evil, bad. It is the word pāpa-, N.n.: evil, wrong doing
+with the adjective suffix -ka. Acc.Pl.m. = pāpake.
+mitte: mitta-, N.m.: friend. Acc.Pl. = mitte.
+na: see above.
+bhaje: see above.
+List of Abbreviations
+purisādhame: purisādhama-, N.m.: vile person. It is a compound of:
+    purisa-, N.m.: person.
+    adhama-, Adj.: lowest, vilest.
+Euphonic combination: purisa- + adhama- = purisādhama-.
+Acc.Pl. = purisādhame.
+bhajetha, V.: associate with. The verb root is bhaj-(to associate with).
+2.Pl.act.opt. =bhajetha.
+List of Abbreviations
+mitte: see above.
+kalyāṇe: kalyāṇa-, Adj.: good, virtuous. Ac.Pl.m. = kalyāṇe.
+bhajetha: see above.
+purisuttame: purisuttama-, N.m.: noble person. It is a compound of:
+    purisa-, N.m.: person.
+    uttama-, Adj.: highest, noble.
+Euphonic combination: purisa- + uttama- = purisuttama-.
+Acc.Pl. =purisuttame.
+List of Abbreviations
+    This verse consists of four sentences.
+    1) na bhaje pāpake mitte (one should not associate with evil friends). The
+subject is omitted, because from the verb form it is clear that a third person
+singular pronoun is implied. The verb is bhaje (one should associate, 3rd
+person, singular, active, optative), which is negated by the negative
+particlena(not). The object is the noun mitte (friends, accusative plural) with
+its attribute, the adjective pāpake(evil, accusative plural).
+    2) na bhaje purisādhame (one should not associate with vile people). As
+above, the subject is the omitted personal pronoun for the third person
+singular. The verb is againbhaje (see above) negated by the negative particlena
+(not). The object is the compound purisādhame (vile people, accusative plural).
+
+    3) bhajetha mitte kalyāṇe (associate with virtuous friends). This time, the
+omitted subject is the second person plural pronoun, as implied from the verb
+form. The verb is bhajetha (you should associate, 2nd person, plural, active,
+optative). The object is the nounmitte(friends, accusative plural) with its
+attribute, the adjective kalyāṇe(virtuous, accusative plural).
+    4) bhajetha purisuttame (associate with noble people). As in the previous
+sentence, the subject should be the second person plural pronoun. The verb is
+bhajetha(as above). The object is the compoundpurisuttame (noble people,
+accusative plural).
+
+===============================================================================
+
+Commentary:
+    Channa was Prince Siddhattha's servant before he renounced the world. When
+he left the palace and went to homelessness, Channa accompanied him part of the
+way. After he became the Buddha, Channa also left the worldly life and became a
+monk. But on account of his close connection with the Buddha, he was very proud
+and arrogant. He used to scold Sāriputta and Moggallāna, envying them their
+positions as two Buddha's chief disciples.
+    The Buddha admonished him several times, but Channa still continued to
+abuse as before. This went on for a long time. Just before the Buddha passed
+away, he told Ānanda that after his death, a special punishment should be
+imposed on Channa - nobody was to talk to him, nobody was to associate with
+him.
+    When Channa learned about this, he felt a deep remorse for his behavior. He
+admitted his mistake and apologized. After that he changed his ways, practiced
+diligently and soon he became an Arahant.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+bhaje
+pāpake
+mitte
+purisādhame
+purisa
+adhame
+bhajetha
+kalyāṇe
+purisuttame
+uttame
+
+===============================================================================

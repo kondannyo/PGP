@@ -1,0 +1,127 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+         ****** pupphāni heva pacinantaṃ byāsattamanasaṃ naraṃ ******
+             ****** atittañ eva kāmesu antako kurute vasaṃ ******
+                            ****** (DhP 48) ******
+===============================================================================
+
+Sentence Translation:
+The man who is only gathering flowers, with an attached mind,
+unsatisfied in sense pleasures, Death gets under control.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+pupphāni  hi    eva pacinantaṃ byāsatta+manasaṃ naraṃ
+|                |       |          |               |               |          
+|
+N.n.        part. part.  Adj.m.       Adj.         N.m.      N.m.
+Acc.Pl.      |____|    Acc.Sg.          |          Acc.Sg.  Acc.Sg.
+|___________|________|              |_________|          |
+                    |                                      |                 
+|_____________________II.
+                    |_____________________|________________________________I.
+List of Abbreviations
+atittañ    eva  kāmesu   antako       kurute    vasaṃ
+|              |         |             |                |             |
+Adj.m.  part.   N.m.      N.m.     V.med.in.   N.m.
+Acc.Sg.   |     Loc.Pl.  Nom.Sg.  3.Sg.pres.  Acc.Sg.
+|________|_____|             |                |_______|
+I.__________|                 |_____________|
+II.____|                                      |
+       |_______________________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+pupphāni: puppha-, N.n.: flower. By "flowers" are here meant pleasures of the
+senses. Nom.Pl. = pupphāni.
+hi, part.: indeed.
+eva, part.: just, only.
+pacinantaṃ: pacinant-, Adj.: collecting, gathering. It is an a.pr.p. of the
+verb pacinati(to gather, to collect), which has the verb root ci- (to heap, to
+collect) with the strengthening prefix pa-. Acc.Sg.m. = pacinantaṃ.
+List of Abbreviations
+byāsattamanasaṃ: byāsattamanasa-, Adj.: with attached mind. A compound of:
+    byāsatta-, Adj.: attached, clinging. It is a p.p. of the verb root sajj-
+(to be attached)
+    with the prefixes vi- (intensifying) and ā- (towards). Euphonic
+combination:
+    vi- + ā- = vyā-. The change from v- to b- is common in Pali.
+    manas-, N.m.: mind.
+Acc.Sg.m. = byāsattamanasaṃ.
+naraṃ: nara-, N.m.: man. Acc.Sg. = naraṃ.
+atittañ: atitta-, Adj.: unsatisfied. It is a negated (by the negative prefix a-
+) word titta-, Adj.: satisfied, contented. This is a p.p. of the verb root
+tapp- (to be satisfied). Acc.Sg. = atittaṃ. Euphonic combination: atittaṃ + eva
+= atittañ eva.
+List of Abbreviations
+eva: see above.
+kāmesu: kāma-, N.m.: sense-pleasure, sense desire. Loc.Pl. = kāmesu.
+antako: antaka-, N.m.: 'the ender', end maker, death. Derived from the word
+anta-, N.n.: end. Nom.Sg. = antako.
+kurute, V.: does. The verb root is kar- (to do). 3.Sg.med.in.pres. = kurute.
+vasaṃ: vasa-, N.m.: power, authority, control. Acc.Sg. = vasaṃ.
+List of Abbreviations
+    The subject of this sentence is the noun antako (Death, nominative
+singular). The verbal phrase kurute vasaṃ (makes control; 3rd person, singular,
+medium, indicative present tense; and accusative singular) fulfills the role of
+a verb in this sentence. The object is the noun naraṃ (man, accusative
+singular). It has three attributes:
+    1) pupphāni heva pacinantaṃ (only gathering flowers). The main object is
+the active present participle pacinantaṃ (gathering, accusative singular) and
+the noun pupphāni (flowers, accusative plural) is its attribute. Two particles,
+hi (indeed) and eva (just, only) are here mainly for metrical purposes.
+    2) byāsattamanasaṃ (having attached mind, accusative singular).
+    3) atittañ eva kāmesu (unsatisifed in sense pleasures). The main object is
+the past participle atittañ (unsatisfied, accusative singular) and the noun
+kāmesu (in sense pleasures, locative plural) is its attribute. The particle eva
+(just, only) serves only metrical purposes.
+
+===============================================================================
+
+Commentary:
+    In the city of Sāvatthi there lived a woman named Pati Pujikā Kumāri. She
+was very generous and virtuous. She gave alms to everyone in need and generally
+helped everybody.
+    She also remembered her one previous life. She used to be one of the wives
+of the God
+Mālabhāri in the Tāvatimsa heaven. So she would often pray that she might be
+born there again in her next life.
+    One day she fell ill and passed away. And she was really reborn in the
+Tāvatimsa heaven. The other gods did not even miss her, because one hundred
+years in the human world is just one day in Tāvatimsa. So they asked her, where
+had she been the whole morning. She then told them the whole story.
+    When the Buddha heard, that Pati Pujikā died, he explained that the life
+was very brief. Before the beings could be satisfied in the pleasures of the
+senses, they would be overpowered by death.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+pupphāni
+hi
+eva
+pacinantaṃ
+byāsattamanasaṃ
+byāsatta
+manasaṃ
+naraṃ
+atittañ
+kāmesu
+antako
+kurute
+vasaṃ
+
+===============================================================================

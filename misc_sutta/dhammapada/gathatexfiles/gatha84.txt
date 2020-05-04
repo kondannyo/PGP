@@ -1,0 +1,163 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+****** na attahetu na parassa hetu na puttam icche na dhanaj na ratthaj ******
+             ****** na iccheyya adhammena samiddhim attano ******
+                 ****** sa silavapabbava dhammiko siya ******
+                            ****** (DhP 84) ******
+===============================================================================
+
+
+Sentence Translation:
+One should not want a son, wealth or kingdom, not for one's own sake, not for
+the sake of others,
+one should not want one's own prosperity by injustice. Such a person is
+virtuous, wise and righteous.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na    atta+hetu   na   parassa   hetu   na   puttam  icche      na dhanaj na
+ratthaj
+|         |        |       |        |            |       |         |          
+|          |        |        |      |
+neg. N.m. N.m. neg. Adj.m.   N.m.  neg.  N.m.    V.act.   neg.  N.n.  neg. 
+N.n.
+|         |   Acc.Sg.  |   Gen.Sg. Acc.Sg. |    Acc.Sg. 3.Sg.opt.  |   Acc.Sg. 
+|   Acc.Sg.
+|         |____|        |        |______|        |_____|           |         
+|____|         |____|
+|_______|            |_______|                    |               
+|              |                 |
+      |______________|_______________|_________|________|_________|
+                                             
+|_________________________________________________________
+List of Abbreviations
+na iccheyya adhammena samiddhim attano    sa         silava      pabbava
+dhammiko  siya
+|          |            |                |               |          
+|               |               |             |             |
+neg. V.act.     N.m.         N.f.         N.m.   Pron.m.   Adj.m.     Adj.m.  
+Adj.m.      V.act.
+|     3.Sg.opt. Ins.Sg.     Acc.Sg.    Gen.Sg. Nom.Sg. Nom.Sg. Nom.Sg.
+Nom.Sg.   3.Sg.opt.
+|______|           |                |________|            |              
+|________|________|            |
+     |                 |_____________|                   
+|                                  |_____________|
+     |________________|                               
+|__________________________|
+__________|                                                                       
+|
+       |______________________________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+attahetu: attahetu-, N.m.: one's own sake. It is a compound of:
+    attan-, N.m.: self.
+    hetu-, N.m.: cause, reason.
+Acc.Sg. = attahetu. The more usual form is hetum, but in the case of the phrase
+"for the sake of" the form hetu for accusative is used.
+parassa: para-, Adj.: different, other. Gen.Sg.m. = parassa.
+hetu: see above.
+puttam: putta-, N.m.: son. Acc.Sg. = puttam.
+List of Abbreviations
+icche, V.: should want. The verb root is is-. 3.Sg.act.opt. = icche. Note that
+another possible form is iccheyya (see below).
+dhanaj: dhana-, N.n.: wealth. Acc.Sg. = dhanaj.
+ratthaj: rattha-, N.n.: country, kingdom. Acc.Sg. = ratthaj.
+iccheyya, V.: should want. The verb root is is-. 3.Sg.act.opt. = iccheyya. See
+also above the word icche.
+adhammena: adhamma-, N.m.: injustice. It is the word dhamma-, N.m.: here
+meaning "justice", with the negative prefix a-. Ins.Sg. = adhammena.
+samiddhim: samiddhi-, N.f.: success, prosperity. Acc.Sg. = samiddhim.
+attano:attan-, N.m.: self. Gen.Sg. = attano.
+List of Abbreviations
+sa: tad-, Pron.n.: it. Nom.Sg.m. = sa (the more usual form is so).
+silava: silavant-, Adj.: virtuous. It is the word sila-, N.n.: virtue, with the
+possessive suffix -vant. Nom.Sg.m. = silava.
+pabbava: pabbavant-, Adj.: wise, intelligent. It is the word pabba-, N.f.:
+wisdom, with the possessive suffix -vant. Nom.Sg.m. = pabbava.
+dhammiko: dhammika-, Adj.: honorable, righteous. It is the word dhamma-, N.m.:
+here meaning "law", changed into an adjective. Nom.Sg.m. = dhammiko.
+siya, V.: would be. The verb root is as-. 3.Sg.act.opt. = siya.
+List of Abbreviations
+    This sentence consists of two sentences. They are:
+    1) na attahetu na parassa hetu na puttam icche na dhanaj na ratthaj na
+iccheyya adhammena samiddhim attano (one should not want a son, wealth or
+kingdom, not for one's own sake, not for the sake of others, one should not
+want one's own prosperity by injustice). This can be further subdivided into
+two segments:
+    a) na attahetu na parassa hetu na puttam icche na dhanaj na ratthaj (one
+should not want a son, wealth or kingdom, not for one's own sake, not for the
+sake of others). Here the subject is omitted, the verb is implying the third
+person singular pronoun. The verb is icche ([one] should want, 3rd person,
+singular, active, optative). This verb is negated by several negative particles
+na (not). There are five objects: ratthaj (kingdom, accusative singular),
+dhanaj (wealth, accusative singular), puttam (a son, accusative singular),
+attahetu (one's own sake, accusative singular) and hetu (for sake of,
+accusative singular). This last object has an attribute, the adjective parassa
+(other's, genitive plural).
+    b) na iccheyya adhammena samiddhim attano (one should not want one's own
+prosperity by injustice). Again, the subject is omitted. The verb is iccheyya
+(should want, 3rd person, singular, active, optative). This verb is negated by
+the negative particle na (not). The object is samiddhim (prosperity, accusative
+singular). This word has two attributes, attano (one's own, genitive singular)
+and adhammena (by injustice, instrumental singular).
+    2) sa silava pabbava dhammiko siya (such a person is virtuous, wise and
+righteous). The subject is the personal pronoun sa (he, nominative singular).
+The verb is siya (would be, 3rd person, singular, active, optative). There are
+three objects, the adjectives silava(virtuous), pabbava (wise) and dhammiko
+(righteous). They are all in nominative singular).
+===============================================================================
+
+
+Commentary:
+    In the city of Savatthi, there lived a man with his pregnant wife. He
+wanted to become a monk so he asked his wife for permission. She told him to
+wait after the baby is born. When it happened, she again asked him to stay
+until the child could walk. When the man finally got to be a monk, he took a
+subject of meditation, practiced diligently and soon attained arahantship.
+    A few years later he visited his house in order to teach Dharma to his
+family. His son became a monk too and soon he also became an Arahant. The wife
+thought, "If both my husband and my son entered the Order, I'd better go too."
+So she left the house and became a nun. Eventually she too attained
+arahantship.
+    The Buddha was told how the whole family attained arahantship and he
+replied by this verse. He added, that a wise man works for his liberation and
+helps others towards the same goal. The awakenment can be realized only after
+much effort.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+attahetu
+atta
+parassa
+hetu
+puttam
+icche
+dhanaj
+ratthaj
+iccheyya
+adhammena
+samiddhim
+attano
+sa
+silava
+pabbava
+dhammiko
+siya
+===============================================================================

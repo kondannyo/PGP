@@ -1,0 +1,134 @@
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+     ****** idha tappati pecca tappati pāpakārī ubhayattha tappati ******
+     ****** pāpaṃ me katan ti tappati bhiyyo tappati duggatiṃ gato ******
+                            ****** (DhP 17) ******
+===============================================================================
+
+Translation:
+He is tormented here, he is tormented after death, in both states is the
+wrongdoer tormented.
+He is tormented [by the thought] "I have done evil". He is tormented even more,
+having gone to a bad birth.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+idha    tappati     pecca      tappati   pāpa+kārī ubhayattha tappati
+|             |              |              |           |        |         
+|              |
+Adv.  V.pas.in.   V.ger.   V.pas.in.  N.n.  N.m.   Adv.     V.pas.in.
+|        3.Sg.pres.     |       3.Sg.pres.    |   Nom.Sg.   |        3.Sg.pres.
+
+|_______|              |________|           |____|          |________|
+      |________________|                      |____________|
+                   |___________________________|
+List of Abbreviations
+pāpaṃ       me        katan    ti      tappati   bhiyyo  tappati    duggatiṃ   
+gato
+|                  |             |         |          |            |           
+|              |              |
+Nom.n.     Pron.    Adj.n.  Part.  V.pas.in.  Adv.  V.pas.in.     N.f.      
+Adj.m.
+Nom.Sg.  Ins.Sg.  Nom.Sg.  |     3.Sg.pres.   |      3.Sg.pres.  Acc.Sg. 
+Nom.Sg.
+|__________|_______|         |          |            |_______|             
+|________|
+         |_____|                      |          |                  
+|________________|
+              |_______________|         
+|                                         |
+                          
+|______________|                                        |
+                                                 
+|____________________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+idha, Adv.: here, in this world.
+tappati, V.: to be tormented, to be consumed by remorse. Pass. of tap- (to be
+hot, to burn). 3.Sg.pas.in.pres. = tappati.
+pecca, V.: after death. It is a ger. of the verbi-(to go) with the prefixpa-
+(directional prefix of forward motion). This verb means literally "to go over",
+it is used as an euphemism for "to die".
+pāpakārī: pāpakārin-, N.m.: wrong-doer. A compound of:
+    pāpa-, N.n.: evil, wrong doing.
+    kārin-, N.m.: doer. Derived (by adding the possessive suffix -in) from the
+word kāra-, N.m.: act, action (this derived from the verb kar-, to do).
+Nom.Sg. = pāpakārī.
+List of Abbreviations
+ubhayattha, Adv.: in both cases.
+pāpaṃ: pāpa-, N.n.: evil, wrong doing. Nom.Sg. = pāpaṃ.
+me: aham-, Pron.: I. Ins.Sg. = mayā, short form me (by me).
+katan-, kata-, Adj.: done. P.p. of the verb kar- (to do). Nom.Sg.n. = kataṃ.
+The form katan is due to the euphonic combination (kataṃ + ti = katan ti).
+ti, part.: (sometimes written asiti) usually a particle, symbolizing the end of
+direct speech (in English that is expressed by quotation marks).
+bhiyyo, Adv.: more, further, in a higher degree.
+duggatiṃ: duggati-, N.f.: a miserable existence, a realm of misery, undesirable
+rebirth. Composed of:
+    du-, pref.: bad, difficult.
+   gati-, N.f.: existence, rebirth. Derived from the verb gam- (to go).
+Acc.Sg. = duggatiṃ.
+gato: gata-, Adj.: gone. P.p. of the verb gam- (to go). Nom.Sg.m. =gato.
+List of Abbreviations
+    The first line consists of loosely connected sentences. They are:
+    1) idha tappati([the wrongdoer] is tormented here). Here the subject is
+omitted (it is the wordpāpakārī from the third sentence). The verb tappati
+(grieves) is in 3rd person singular, present tense, passive voice, indicative.
+The adverb idha(here) is an attribute to the verb.
+    2) pecca socati([the wrongdoer] is tormented after death). Again, the
+subject is the word pāpakārīfrom the following sentence. The verb is tappati
+(as above). The gerundpecca (having gone) is an attribute to the verb.
+    3) pāpakārī ubhayattha tappati(the wrongdoer is tormented in both states).
+The subject of this sentence (and of the two previous ones) is the word
+pāpakārī(wrongdoer). It is in nominative singular. The verb is tappati
+(explained above). The adverb ubhayattha (in both places) serves as an
+attribute to the verb.
+    The second line consists of two segments:
+    1) pāpaṃ me katan ti tappati (He is tormented [by the thought] "I have done
+evil"). Here the subject is omitted, it is the word pāpakārīfrom the previous
+sentence and the verb is tappati (as above). There is a direct speech clause
+inserted -- pāpaṃ me katan ti. Here the subject is pāpaṃ (evil, nominative
+singular). And as a verb serves the past participle kataṃ (done, nominative
+singular). The pronoun me (by me, instrumental singular) is an attribute to the
+verb. The particle ti marks the end of the direct speech.
+    2) bhiyyo tappati duggatiṃ gato (He is tormented even more, having gone to
+a bad birth). The sentence is introduced by the adverb bhiyyo(more). The
+subject is again the word pāpakārī from the first line. The verb is also
+tappati. The verb has an attribute -- the word gato (gone, past participle,
+nominative singular), which in turn has its own attribute duggatiṃ (to the bad
+birth, accusative singular).
+===============================================================================
+
+Commentary:
+    This pair of verses (DhP 17 and DhP 18) is closely related to the previous
+pair (DhP 15 and DhP 16).
+    Here again, the evildoer is tormented both here and in the next life. Not
+only does the very idea that he has done evil torment him, but even more grief
+awaits him in his next life, where he will go to the undesirable states of
+being -- as an animal, to the hell etc.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+idha
+tappati
+pecca
+pāpakārī
+ubhayattha
+pāpaṃ
+me
+katan
+ti
+bhiyyo
+duggatiṃ
+gato
+===============================================================================

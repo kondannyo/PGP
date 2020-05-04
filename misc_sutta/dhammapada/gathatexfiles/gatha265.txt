@@ -1,0 +1,120 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** yo ca sameti papani anuj thulani sabbaso ******
+            ****** samitatta hi papanaj samano ti pavuccati ******
+                            ****** (DhP 265) ******
+===============================================================================
+
+
+Sentence Translation:
+Who conquers evil thoroughly, be it small or big,
+one is called a monk because of having conquered all evils.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yo                 ca     sameti    papani   anuj  thulani sabbaso
+|                     |           |             |           |          
+|          |
+Rel.Pron.m. conj. V.act.in.     N.n.    Adj.n.   Adj.n.  Adv.
+Nom.Sg.         |    3.Sg.pres. Acc.Pl. Acc.Sg. Acc.Pl.     |
+|                     |           |             |           |______|          
+|
+|                     |           |             |                 |_________|
+|                     |           |             |______________|
+|                     |           |______________|
+|____________|____________|
+           |_____________________________________________________
+List of Abbreviations
+samitatta  hi  papanaj samano   ti     pavuccati
+|                |        |             |         |            |
+N.n.       part.  N.n.       N.m.   part.   V.pas.in.
+Abl.Sg.      |   Gen.Pl.  Nom.Sg.   |     3.Sg.pres.
+|_________|____|              |_____|            |
+        |____________________|_________|
+                        |___________|
+___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+ca, conj.: and.
+sameti, V.: meets, assembles, corresponds to. Here rather means "meet [and
+conquer]". The verb root is i- (to go) with the prefix sam- (together).
+3.Sg.act.in.pres. = sameti.
+papani: papa-, Adj.: evil, wrong. As an N.n.: evil, wrong doing. Acc.Pl. =
+papani.
+anuj: anu-, Adj.: small, atomic, subtle. Acc.Sg.n. = anuj.
+thulani: thula-, Adj.: massive, big, strong. Acc.Pl.n. = thulani.
+sabbaso, Adv.: altogether, thoroughly. It is derived from the word sabba-,
+Adj.: all.
+List of Abbreviations
+samitatta: samitatta-, N.n.: the state of being destroyed. It is derived from
+the verb sameti (see above). Abl.Sg. = samitatta.
+hi, part.: indeed.
+papanaj: papa-, Adj./N.n.: see above. Gen.Pl. = papanaj.
+samano: samana-, N.m.: a recluse, a wandering ascetic, a monk (not only a
+Buddhist monk).
+Nom.Sg. = samano.
+ti, part.: a particle, symbolizing the end of direct speech. In English this is
+expressed by quotation marks. Sometimes it is written as iti.
+pavuccati, V,: is called. It is a passive form of the verb root vac- (to say),
+with the strengthening prefix pa-. 3.Sg.pas.in.pres. = pavuccati.
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) yo ca sameti papani anuj thulani sabbaso (who conquers evil thoroughly,
+be it small or big). The subject is the relative pronoun yo (who, nominative
+singular). The verb is sameti (conquers, 3rd person, singular, active,
+indicative, present tense). The object is the noun papani (evils, accusative
+plural). It has two attributes, the adjectives anuj (small, accusative
+singular) and thulani (big, accusative plural). They both have an attribute,
+the adverb sabbaso (thoroughly). The conjunction ca (and) serves mainly for
+metrical purposes.
+    2) samitatta hi papanaj samano ti pavuccati (one is called a monk because
+of having conquered all evils). The subject is omitted; the verb implies the
+third person singular pronoun. The verb is pavuccati (is called, 3rd person,
+singular, passive, indicative, present tense). It has an attribute, the noun
+samitatta (because of having conquered, ablative singular). This word has an
+attribute, the noun papanaj (of evils, genitive plural). The object is the noun
+samano (monk, nominative singular). It is modified by the particle ti
+(quotation marks). The particle hi (indeed) serves mainly for metrical
+purposes.
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 264).
+    To be a monk is not easy. Just to wear the monk's robe and have one's head
+shaven is certainly not enough. If a monk lacks discipline and resolve, then he
+is not to be called a monk. Only after having met and conquered evils, greed,
+desire and others, and with firm self-discipline, is one truly a monk.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yo
+ca
+sameti
+papani
+anuj
+thuulani
+sabbaso
+samitatta
+hi
+papanaj
+samano
+ti
+pavuccati
+===============================================================================

@@ -1,0 +1,138 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** ye ca kho sammadakkhate dhamme dhammanuvattino ******
+          ****** te jana param essanti maccudheyyaj suduttaraj ******
+                            ****** (DhP 86) ******
+===============================================================================
+
+
+Sentence Translation:
+And those who in the well-taught Dharma behave according to it,
+those people will go beyond the realm of death, that is so difficult to cross.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+ye                ca    kho sammad+akkhate dhamme dhamma+anuvattino
+|                    |        |        |            |             
+|             |             |
+Rel.Pron.m. conj. part.  Adv.    Adj.m.      N.m.      N.m.     Adj.m.
+Nom.Pl.         |       |        |        Loc.Sg.    Loc.Sg.      |       
+Nom.Pl.
+|                     |____|       |_______|              |            
+|_______|
+|                         |                  |___________|                    |
+
+|                         |                            |_________________|
+|______________|________________________|
+                                
+|___________________________________________________
+List of Abbreviations
+te            jana   param essanti maccu+dheyyaj suduttaraj
+|                 |          |          |         |             |             
+|
+Pron.m.   N.m.   Adv.  V.act.   N.m.      N.m.     Adj.m.
+Nom.Pl. Nom.Pl.   |    3.Pl.fut.    |        Acc.Sg.   Acc.Sg.
+|_________|           |_____|          |_______|              |
+        |                         |                      |___________|
+        |                         |__________________|
+        |_______________________|
+_______________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+ye: yat-, Rel.Pron.: those, who. Nom.Pl.m. = ye.
+ca, conj.: and.
+kho, part.: indeed.
+sammadakkhate: sammadakkhata-, Adj.: well taught. It is a compound of:
+    samma-, Adv.: rightly, properly, thoroughly.
+    akkhata-, Adj.: taught, proclaimed. It is a p.p. of the verb root kkha- (to
+say, to tell)
+    with the prefixa- (towards).
+Euphonic combination: samma + akkhata- = sammadakkhata-.
+Loc.Sg. = sammadakkhate.
+List of Abbreviations
+dhamme: dhamma-, N.m.: Buddha's Teaching. The Law. Derived from the verb dha-,
+to hold. Thus dhamma "holds the world together". Loc.Sg. = dhamme.
+dhammanuvattino: dhammanuvattin-, N.m.: behaving according to the Dharma. It is
+a compound of:
+    dhamma-, N.m.: see above.
+    anuvattin-, Adj.: following, behaving according to. It is derived from the
+verb root
+    vat- (to turn, to act) with the prefixanu- (according to).
+Euphonic combination: dhamma- + anuvattin- = dhammanuvattin-.
+Nom.Pl.m. = dhammanuvattino.
+te: tat-, Pron.: that. Masculine form sa. Nom.Pl. = te.
+jana: jana-, N.m.: person, man. Nom.Pl. = jana.
+List of Abbreviations
+param: para-, Adv.: across, beyond, over. Originally Acc.Sg. of the wordpara-,
+N.n.: the other side, here as an adverb.
+essanti, V.: will go. The verb root isi-(to go). 3.Pl.act.fut. = essanti.
+maccudheyyaj: maccudheyya-, N.m.: the realm of death. It is a compound of:
+    maccu-, N.m.: death.
+    dheyya-, N.m.: realm, kingdom. Originally a grd. of the verb root dha- (to
+put, to place, to claim).
+Acc.Sg. = maccudheyyaj.
+suduttaraj: suduttara-, Adj.: very difficult to cross. It is the word duttara-,
+Adj. difficult to cross with the prefix su-. This prefix usually means "well",
+"good" etc., but here it further strengthens the adjective. The word duttara-
+itself is derived from the verb root tar- (to cross) with the prefix du- (bad,
+difficult).
+Acc.Sg.m. = suduttaraj.
+List of Abbreviations
+    The two lines of this verse form two related sentences.
+    In the first sentence, the subject is the relative pronoun ye (those who,
+nominative plural). It has an attribute, the compound dhammanuvattino (behaving
+according to the Dharma, nominative plural). This word has the noun dhamme(in
+the Dharma, locative singular) as an attribute. This word has in turn the
+compound sammadakkhate (in the well taught, locative singular). The particle
+kho (indeed) and the conjunction ca (and) serve only metrical purposes.
+    In the second sentence, the subject is the pronoun te (they, nominative
+plural). It has an attribute, the noun jana(people, nominative plural). The
+verb is essanti (will go, 3rd person, plural, active, future). It has an
+attribute, the adverb param(across). The object is the compound maccudheyyaj
+(realm of death, accusative singular). It has the adjective suduttaraj (very
+difficult to cross, accusative singular) as an attribute.
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical to the story for the previous one.
+    It is not easy to reach the Nirvana, even if we practice diligently for a
+long time. Most people, although they listen to the discourses, read books and
+meditate, are not able to really cut the ties to "this shore" and realize the
+arahantship. Only when one is really living the Dharma for a long time and
+fully, one is able to achieve this goal.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+ye
+ca
+kho
+sammadakkhate
+samma
+akkhate
+dhamme
+dhammanuvattino
+anuvattino
+te
+jana
+param
+essanti
+maccudheyyaj
+maccu
+dheyyaj
+suduttaraj
+===============================================================================

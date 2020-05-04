@@ -1,0 +1,131 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** pavivekarasaj pitva rasaj upasamassa ca ******
+           ****** niddaro hoti nippapo dhammapitirasaj pivaj ******
+                            ****** (DhP 205) ******
+===============================================================================
+
+
+Sentence Translation:
+Having drunk the nectar of solitude and the nectar of tranquility,
+one is free of fear and free of evil, drinking the nectar of the joy of Dharma.
+
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+paviveka+rasaj  pitva   rasaj upasamassa ca
+|                 |           |          |            |            |
+N.m.       N.m.   V.ger.   N.m.     N.m.     conj.
+|            Acc.Sg.     |     Acc.Sg.  Gen.Sg.      |
+|_________|           |           |_______|            |
+        |___________|__________|                  |
+                            |        |________________|
+                            |_____________|
+                                       
+|____________________________________________
+List of Abbreviations
+niddaro      hoti     nippapo dhamma+piti+rasaj    pivaj
+|                   |            |              |         |        |           
+|
+Adj.m.    V.act.in.  Adj.m.     N.m.  N.f.   N.m.     Adj.m.
+Nom.Sg. 3.Sg.act. Nom.Sg.       |_____|   Acc.Sg. Nom.Sg.
+|__________|_______|                    |_______|            |
+         |_____|                                        |__________|
+              |______________________________|
+_______________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+pavivekarasaj: pavivekarasa-, N.m.: the flavor of solitude. It is a compound
+of:
+    paviveka-, N.m.: solitude, seclusion.
+    rasa-, N.m.: nectar, juice, flavor, taste.
+Acc.Sg. = pavivekarasaj.
+pitva, V.ger.: having drunk. The verb root is pa- (to drink). Ger. = pitva.
+rasaj: rasa-, N.m.: nectar, juice, flavor, taste. Acc.Sg. = rasaj.
+upasamassa: upasama-, N.m.: calm, quiet, tranquility. It is derived from the
+verb root sam- (to be appeased) with the prefix upa- (towards, up). Gen.Sg. =
+upasamassa.
+ca, conj.: and.
+List of Abbreviations
+niddaro: niddara-, Adj.: free from fear, free from pain. It is the word dara-,
+N.m.: fear, pain, with the prefix nir- (without). Nom.Sg.m. = niddaro.
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+nippapo: nippapa-, Adj.: free from evil. It is the word papa-, N.n.: evil,
+wrongdoing, with the prefix nir- (without). Nom.Sg.m. = nippapo.
+dhammapitirasaj: dhammapitirasa-, N.m.: flavor of the joy of Dharma. It is a
+compound of:
+    dhammapiti-, N.f.: the joy of Dharma. This can be further analysed as:
+        dhamma-, N.m.: Buddha's Teaching. The Law. Derived from the verb dha-,
+to hold. Thus dhamma "holds the world together".
+        piti-, N.f.: joy, delight.
+    rasa-, N.m.: nectar, juice, flavor, taste.
+Acc.Sg. = dhammapitirasaj.
+pivaj: pivant-, Adj.: drinking. It is an a.pr.p. of the verb root pa- (to
+drink). Nom.Sg.m. = pivaj.
+List of Abbreviations
+    This verse consists of two connected sentences. They are:
+    1) pavivekarasaj pitva rasaj upasamassa ca (having drunk the nectar of
+solitude and the nectar of tranquility). The subject is omitted; the verb from
+the second sentence (hoti) implies the third person singular pronoun. The verb
+is in gerund, pitva (having drunk, gerund). There are two objects, the compound
+pavivekarasaj (the nectar of solitude, accusative singular) and the noun rasaj
+(nectar, accusative singular) with its attribute, the noun upasamassa (of
+tranquility, genitive singular). Both objects are connected by the conjunction
+ca (and).
+    2) niddaro hoti nippapo dhammapitirasaj pivaj(one is free of fear and free
+of evil, drinking the nectar of the joy of Dharma). The subject is the active
+present participle pivaj (drinking, nominative singular) with its attribute,
+the compound dhammapitirasaj (the nectar of the joy of Dharma, accusative
+singular). The verb is hoti (is, 3rd person, singular, active, indicative,
+present tense). There are two objects, the adjectives niddaro (free of fear,
+nominative singular) and nippapo (free of evil, nominative singular).
+===============================================================================
+
+
+Commentary:
+    The Buddha announced that in four months he would attain his final
+Parinirvana (death of a Buddha or any fully Awakened person). Many monks who
+had not yet attained the Awakenment were sad and depressed. They all came to
+the presence of the Buddha and paid him their respects.
+    But Venerable Tissa decided that he would pay the highest honor to the
+Buddha by attaining the Awakenment while he was still alive. Therefore he went
+to the secluded place in the forest and practiced meditation diligently.
+    Other monks did not understand his intentions and reported to the Buddha
+that Tissa had no respect for him and kept to himself instead of coming to pay
+his respects to the teacher.
+    The Buddha told them that Tissa was striving to attain Awakenment before
+the teacher died and then explained that this was the best way to honor the
+Buddha. The best salutation to the Buddha is practicing the Dharma diligently.
+At the end, the Buddha told the monks this verse.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+pavivekarasaj
+paviveka
+rasaj
+pitva
+upasamassa
+ca
+niddaro
+hoti
+nippapo
+dhammapitirasaj
+dhamma
+piti
+pivaj
+===============================================================================

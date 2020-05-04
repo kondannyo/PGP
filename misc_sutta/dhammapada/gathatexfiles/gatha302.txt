@@ -1,0 +1,175 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** duppabbajjaj durabhiramaj duravasa ghara dukkha ******
+           ****** dukkho 'samanasajvaso dukkhanupatitaddhagu ******
+        ****** tasma na caddhagu siya na ca dukkhanupatito siya ******
+                            ****** (DhP 302) ******
+===============================================================================
+
+
+Sentence Translation:
+It is difficult to become a monk. It is difficult to enjoy it. Unpleasant and
+difficult to endure is a life of a householder.
+Painful is association with unequal. Wanderer in the round of rebirth is always
+followed by suffering.
+Therefore, do not be a wanderer and do not be followed by suffering.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+duppabbajjaj durabhiramaj duravasa    ghara   dukkha
+|                               |                  |              |           |
+
+Adj.n.                  Adj.n.         Adj.m.      N.m.    Adj.m.
+Nom.Sg.             Nom.Sg.      Nom.Pl.  Nom.Pl. Nom.Pl.
+                                                  |________|______|
+                                                         |____|
+List of Abbreviations
+dukkho asamana+sajvaso dukkha+anupatito addhagu
+|                 |             |             |             |             |
+Adj.m.     Adj.       N.m.      N.n.     Adj.m.      N.m.
+Nom.Sg.     |       Nom.Sg.       |      Nom.Sg.  Nom.Sg.
+|                 |_______|              |_______|             |
+|_____________|                           |___________|
+List of Abbreviations
+tasma   na     ca   addhagu     siya     na    ca   dukkha+anupatito     siya
+|             |       |          |              |         |       |        
+|              |             |
+Pron.   neg. conj.   N.m.      V.act.   neg. conj.   N.n.      Adj.m.    V.act.
+
+Abl.Sg.   |       |    Nom.Sg. 3.Sg.opt.   |       |         |        Nom.Sg.
+3.Sg.opt.
+|             |____|______|_______|         |       |        
+|________|              |
+|                     |     |___|                     
+|____|_________|____________|
+|                     |____|                                  |      |_____|
+|                         |                                      |______|
+|______________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+duppabbajjaj: duppabbajja-, Adj.: difficult to renounce, difficult to go forth.
+It is derived from the verb pabbajati (to go forth) with the prefix du(p)-
+(difficult, bad). Nom.Sg.n. = duppabbajjaj.
+durabhiramaj: durabhirama-, Adj.: difficult to delight. It is derive from the
+verb root ram- (to enjoy, to delight in) = with the prefix abhi- (intensifying)
+and du(r)- (difficult, bad).
+Nom.Sg.n. = durabhiramaj.
+duravasa: duravasa-, Adj.: difficult to dwell in, difficult to stay in. It is
+derived from the verb root vas- (to dwell) with the prefixes a- (at, in) and du
+(r)- (difficult, bad). Nom.Pl.m. = duravasa.
+ghara: ghara-, N.m.: house. Nom.Pl. = ghara.
+dukkha: dukkha-, Adj.: painful, unpleasant, causing suffering. Nom.Pl.m. =
+dukkha.
+List of Abbreviations
+dukkho: dukkha-, Adj.: painful, unpleasant, causing suffering. Nom.Sg.m. =
+dukkho.
+asamanasajvaso: asamanasajvasa-, N.m.: company with unequal. It is a compound
+of:
+    asamana-, Adj.: unequal, different. It is the word samana-, Adj.: equal,
+same, even, with the negative prefix a-.
+    sajvasa-, N.m.: association, company. It is derived from the verb root vas-
+(to live) with the prefix saj- (together).
+Nom.Sg. = asamanasajvaso.
+Euphonic combination: dukkho + asamanasajvaso = dukkho 'samanasajvaso.
+dukkhanupatito: dukkhanupatita-, Adj.: befallen by suffering, affected by
+suffering. It is a compound of:
+    dukkha-, Adj.: see above. As an N.n.: suffering, pain.
+    anupatita-, Adj.: befallen, affected with. It is a p.p. of the verb root
+pat- (to fall) with the prefix anu- (along, with).
+Euphonic combination: dukkha- + anupatita- = dukkhanupatita-.
+Nom.Sg.m. = dukkhanupatito.
+List of Abbreviations
+addhagu: addhagu-, N.m.: wanderer, wayfarer, traveler. Nom.Sg. = addhagu.
+Euphonic combination: dukkhanupatito + addhagu = dukkhanupatitaddhagu.
+tasma: tad-, Pron.: that. Abl.Sg. = tasma (therefore, lit. "from that").
+na, neg.: not.
+ca, conj.: and.
+addhagu: see above.
+Euphonic combination: ca + addhagu = caddhagu.
+List of Abbreviations
+siya, V.: would be. The verb root is as-. 3.Sg.act.opt. = siya.
+na, neg.: not.
+ca, conj.: and.
+dukkhanupatito: see above.
+siya: see above.
+List of Abbreviations
+    This verse consists of seven syntactically separate sentences. They are:
+    1) duppabbajjaj (it is difficult to become a monk). The subject is the
+compound duppabbajjaj (it is difficult to go forth, nominative singular).
+    2) durabhiramaj (it is difficult to enjoy it). The subject is the compound
+durabhiramaj (it is difficult to enjoy, nominative singular).
+    3) duravasa ghara dukkha (unpleasant and difficult to endure is a life of a
+householder). The subject is the noun ghara (houses, nominative plural). The
+verb is omitted, implying the verb "to be". There are two objects, the
+adjectives duravasa (difficult to live in, nominative plural) and dukkha
+(painful, nominative plural).
+    4) dukkho asamanasajvaso (painful is association with unequal). The subject
+is the compound asamanasajvaso (association with unequal, nominative singular).
+The verb is omitted, implying the verb "to be". The object is the adjective
+dukkho (painful, nominative singular).
+    5) dukkhanupatitaddhagu (wanderer in the round of rebirth is always
+followed by suffering). The subject is the noun addhagu (wanderer, nominative
+singular). The verb is omitted, implying the verb "to be". The object is the
+compound dukkhanupatito (followed by suffering, nominative singular).
+    6) tasma na caddhagu siya (therefore, do not be a wanderer). The subject is
+omitted, the verb implying the third person singular pronoun. The verb is siya
+(should be, 3rd person, singular, active, optative). It is negated by the
+negative particle na (not). The object is the noun addhagu (wanderer,
+nominative singular). The conjunction ca (and) serves mainly metrical purposes.
+The pronoun tasma (therefore, lit. "from that", ablative singular) introduces
+the sentence.
+    7) na ca dukkhanupatito siya (do not be followed by suffering). The subject
+is omitted, the verb implying the third person singular pronoun. The verb is
+siya (should be, 3rd person, singular, active, optative). It is negated by the
+negative particle na (not). The object is the compound dukkhanupatito (followed
+by suffering, nominative singular). The conjunction ca (and) serves mainly
+metrical purposes.
+===============================================================================
+
+
+Commentary:
+    Once there was a big festival in Vesali. The city was lit up and full of
+happy people, everybody was singing and dancing. A young monk in the monastery
+saw the festival from a distance and felt dissatisfied with his life as a monk.
+He complained aloud that he has the worst lot in the whole world. At that
+instant, a guardian spirit appeared and told the monk that as those in hells
+envy those in heaven, so do people from the city envy the monks in the forest.
+The monk realized the truth.
+    In the morning he told this story to the Buddha, who admonished him with
+this verse, further adding that the monk should reflect on the impermanence and
+pain in the lives of all beings.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+duppabbajjaj
+durabhiramaj
+duravasa
+ghara
+dukkha
+dukkho
+asamanasajvaso
+asamana
+sajvaso
+dukkhanupatito
+dukkha
+anupatito
+addhagu
+tasma
+na
+ca
+siya
+===============================================================================

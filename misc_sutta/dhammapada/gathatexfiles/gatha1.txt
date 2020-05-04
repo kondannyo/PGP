@@ -1,0 +1,213 @@
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+                     ****** Manopubbaṅgammā dhammā ******
+                       ****** Manoseṭṭhā manomayā ******
+                      ****** Manasā ce paduṭṭhena ******
+                      ****** Bhāsati vā karoti vā ******
+                     ****** Tato naṃ dukkham anveti ******
+                     ****** Cakkaṃ va vahato padaṃ ******
+                             ****** (DhP 1) ******
+===============================================================================
+
+Translation:
+All mental phenomena are preceded by mind,
+Mind is their master, they are produced by mind.
+If somebody speaks or acts
+With a corrupted mind,
+Hence suffering follows him,
+Like the wheel the foot of the bearing animal.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+Mano+pubbaṅ+gammā dhammā
+|              |             |            |
+N.n.      Adv.     Adj.m.    N.m.
+|              |       Nom.Pl.  Nom.Pl.
+|              |_______|            |
+|____________|                  |
+         |_________________|
+                       |________________________
+List of Abbreviations
+Mano+seṭṭhā     mano+mayā
+|              |            |          |
+N.n.    Adj.m.    N.n.  Adj.m.
+|          Nom.Pl.    |     Nom.Pl.
+|________|           |______|
+____|______________|
+List of Abbreviations
+Manasā ce paduṭṭhena
+|             |           |
+N.n.    part.    Adj.m.
+Ins.Sg.   |       Ins.Sg.
+|_______|______|
+       |___|
+
+          |______________________________
+List of Abbreviations
+Bhāsati         vā     karoti         vā
+|                    |           |              |
+V.act.in.     conj.  V.act.in      conj.
+3.Sg.pres.      |     3.Sg.pres.       |
+|___________|           |________|
+         |_________________|
+______________|
+          |______________________________
+List of Abbreviations
+Tato     naṃ     dukkham     anveti
+|              |              |               |
+Adv.   Pron.m.     N.n.       V.act.in.
+|         Acc.Sg.   Nom.Sg.   3.Sg.pres.
+|              |              |________|
+|              |____________|
+|______________|
+          |______________________________
+____________|
+List of Abbreviations
+Cakkaṃ     va     vahato     padaṃ
+|                  |           |              |
+N.n.         enc.     N.m.        N.n.
+Nom.Sg .     |      Gen.Sg.   Acc.Sg.
+|                  |           |________|
+|__________|__________|
+           |____|
+________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+manopubbaṅgammā: manopubbaṅgamma-, Adj.: preceded by mind. Compound of
+    mano: manas-, N.n.: mind. The compound form: mano.
+    pubbaṅgamma-, Adj.: preceded. This is itself a compound of two words:
+        pubbaṃ. Adv.: before. The compound form: pubbaṅ.
+        gamma-, Adj., ger.: going. Derived from the verb gam- (to go).
+Nom.Pl. = manopubbaṅgammā.
+dhammā: dhamma-, N.m.: here does not mean Buddha's teaching, but should be
+interpreted rather as "mental phenomena". Nom.Pl. = dhammā.
+manoseṭṭhā: manoseṭṭha-, Adj.: having mind as a master. Compound of two words:
+    mano: explained above.
+    seṭṭha-, Adj.: best, excellent.
+Thus the compound literally means "having the mind as the best".
+Nom.Pl. = manoseṭṭhā.
+List of Abbreviations
+manomayā: manomaya-, Adj.: created by mind. Compound of two words:
+    mano: explained above
+   maya-, Adj.: made of, created by, consisting of, produced by.
+Nom.Pl. = manomayā.
+manasā: manas-, N.n.: mind (explained also above). Inst.Sg. = manasā.
+ce, part.: conditional particle "if".
+paduṭṭhena: paduṭṭha-, Adj.: corrupted, spoilt; p.p. of the verb dus- (to
+become bad or damaged) preceded by the strengthening prefix pa-. Ins.Sg. =
+paduṭṭhena.
+bhāsati: Verb bhās-, to speak. 3.Sg.act.in.pres. = bhāsati.
+List of Abbreviations
+vā, conj.: or.
+karoti: Verb kar-, to do, to act, to perform.3.Sg.act.in.pres. =karoti.
+tato, Adv.: originally Abl.Sg. of tat-(it), literally "from that". Because of
+that, thence, thereupon, afterwards.
+naṃ: ena-, pron. In Pali used only in Acc.Sg.m. = naṃ (him).
+dukkham: dukkha-, N.n.: suffering. Nom.Sg. = dukkhaṃ.
+List of Abbreviations
+anveti: verb i-, to go, preceded by prefixanu- (with, along,
+following).3.Sg.act.in.pres. =anveti.
+cakkaṃ: cakka-, N.n.: wheel. Nom.Sg. = cakkaṃ.
+va, enc.: as if, like.
+vahato: vahant-, Adj.: bearing, carrying. Here N.m.: bearer, carrier. Derived
+(pr.p.) from the verb vah-, to carry. Gen.Sg. = vahato.
+padaṃ: pada-, N.n.: foot. Acc.Sg. = padaṃ.
+List of Abbreviations
+    The first word of the first sentence (manopubbaṅgammā) is a compound and
+forms an attribute to the subject of the sentence (the second word, dhammā).
+Compounds are very common in Indian languages, more so in Sanskrit, but to some
+extent also in Pali. The concept, which in English needs several words
+(preceded by mind) can be conveyed by only single word ("mind-preceded") in
+Pali. The whole compound is in nominative plural to agree with the subject.
+    The subject (dhammā) is also in nominative plural. As the verb is "to be",
+it is again omitted.
+    Next are two more attributes of the subject (manoseṭṭhā and manomayā).
+Again, they are both compounds ("mind-mastered" and "mind-produced") and they
+are also in nominative plural, as they have to agree with the subject. Here
+ends the first sentence of this verse.
+    As we can see from the second sentence, the syntax is rather free. It is
+especially true in the poetry, although even the prose is syntactically much
+more free than in other languages.
+    The subject is omitted in this sentence; it is the third person singular
+pronoun (he or she or generally "one"). The main verbs are bhāsati and karoti
+("speaks" and "acts"). They are connected by two conjunctions vā (or) as is
+common in Pali -- in English we could use the pair "either-or". They are in the
+third person (denoting "one"), singular, present tense and indicative mood.
+    The attributes to the verbs (manasā paduṭṭhena) are in the Instrumental
+case. This case expresses the instrument by which the action is done. It is an
+answer to the question "[By] whom?" "[By] what?". They must agree with each
+other in case and number.
+    Note that the particle "ce" (if) occurs between two words of the attribute
+(manasā ce paduṭṭhena). Usually we would expect it at the end of the main
+sentence (manasā paduṭṭhena bhāsati vā karoti vā ce), but in the poetry this
+syntax is allowed.
+    Next sentence is subordinated to the main sentence. It begins with and
+adverb (tato; thus, therefore) linking it to the previous sentence.
+    The subject here is dukkha (suffering). It is in nominative singular. The
+main verb (anveti; follows) is in third person, singular, present tense and
+indicative mood.
+    The object is naṃ (him; meaning the one who acts or speaks with a corrupted
+mind). It is in accusative case.
+    Next is a clause cakkaṃ va vahato padaṃ (like the wheel the foot of the
+bearing animal). The verb is omitted (the verb anveti, follows, is implied from
+the previous sentence). The object padaṃ(foot) is in nominative case. Its
+attribute vahato (bearer's) is in genitive case. This case expresses a relation
+between two nouns. It can be translated by "of". It is an answer to the
+questions "Whose?".
+    Cakkaṃ (wheel) is the object in this sentence. It is in accusative case.
+    Again, we can note that the enclitic va (as, like) is placed just after the
+object. Usually we would expect this syntax: cakkaṃ vahato padaṃ va.
+===============================================================================
+
+Commentary:
+    In this verse (and the following one, DhP 2) some philosophical
+observations are made about the nature of our mind. It says that all the mental
+phenomena, happiness or suffering, joy or sorrow are made by, or are the
+outcome of, the quality of the mind. These mental phenomena are (according to
+the teachings of Abhidhamma) feelings (vedanā), perception (saññā) and
+volitional activities (saṅkhāra). And because these phenomena are created by,
+or so closely related to, the mind, they are always "colored" in the same way
+as the mind is. If the mind (as in this verse) is corrupted, full of evil
+thoughts, then only suffering and sorrow awaits us as a result of this. In
+other words, the mind, creating these mental phenomena simply creates them "to
+its own image". Therefore, negative thinking always brings with it suffering
+and sorrow, just as the wheel follows in the path of the animal carrying the
+charriot. We experience suffering only because our minds are not purified, we
+are not awakened. To purify the mind is to get rid of suffering once and for
+all.
+===============================================================================
+
+Pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+manopubbaṅgammā
+mano
+pubbaṅgammā
+dhammā
+manoseṭṭhā
+seṭṭhā
+manomayā
+mayā
+manasā
+ce
+paduṭṭhena
+bhāsati
+vā
+karoti
+tato
+naṃ
+dukkham
+anveti
+cakkaṃ
+va
+vahato
+padaṃ
+===============================================================================

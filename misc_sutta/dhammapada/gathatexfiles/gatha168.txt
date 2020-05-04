@@ -1,0 +1,137 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** uttitthe na ppamajjeyya dhammaj sucaritaj care ******
+          ****** dhammacari sukhaj seti asmij loke paramhi ca ******
+                            ****** (DhP 168) ******
+===============================================================================
+
+
+Sentence Translation:
+Arise! Don't be negligent! Practice the good teaching!
+One living in truth dwells happily, both in this world and in the next one.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+uttitthe   na ppamajjeyya dhammaj sucaritaj   care
+|              |          |                  |                |            |
+V.act.    neg.  V.act.            N.m.       Adj.m.   V.act.
+3.Sg.opt.  |   3.Sg.opt.        Acc.Sg.    Acc.Sg. 3.Sg.opt.
+               |_____|                  |_________|            |
+                                                    |___________|
+List of Abbreviations
+dhamma+cari sukhaj   seti        asmij     loke  paramhi   ca
+|                |          |          |              |            |          
+|          |
+N.m.     Adj.m. Adv.  V.act.in.   Pron.m.   N.m.   Adj.m. conj.
+|          Nom.Sg.    |    3.Sg.pres.  Loc.Sg. Loc.Sg. Loc.Sg.   |
+|_________|          |_____|               |_______|______|         |
+        |                        |                                 |    
+|________|
+        |                        |                                 |_______|
+        |                        |______________________|
+        |________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+uttitthe, V.: be active, get up, arise. The verb root tha- (to stand), with the
+prefix ud- (up).
+3.Sg.act.opt. = uttitthe.
+na, neg.: not.
+pamajjeyya, V.: to be careless, to neglect. The verb root is mad- (to be
+intoxicated) with the strengthening prefix pa-. 3.Sg.act.opt. = pamajjeyya.
+Euphonic combination: na + pamajjeyya = na ppamajjeyya.
+dhammaj: dhamma-, N.m.: Dharma, The Law, the teaching of the Buddha. Acc.Sg. =
+dhammaj.
+sucaritaj: sucarita-, Adj.: well-conducted, right, good. It is the word
+carita-, Adj.: behaving, acting (the p.p. of the verb car-, to walk, to act),
+with the prefix su- (good, well). Acc.Sg.m. = sucaritaj.
+care, V.: should practice. The verb root is car- (to walk). 3.Sg.act.opt. =
+care.
+List of Abbreviations
+dhammacari: dhammacarin-, N.m.: living in truth. It is a compound of:
+    dhamma-, N.m.: Buddha's Teaching, The Law, truth.
+    carin-, Adj.: living, acting. Derived by the suffix -in from the verb car-
+(to walk, to act).
+Nom.Sg. = dhammacari.
+sukhaj, Adv.: happily. It is the word sukha-, N.n.: happiness. Acc.Sg. =
+sukhaj. Here as an adverb.
+seti, V.: lays, dwells. The verb root is si- (to lay). 3.Sg.act.in.pres. =
+seti.
+asmij: idaj-, Pron.: this. Loc.Sg.m. = asmij.
+loke: loka-, N.m.: world. Loc.Sg. = loke.
+paramhi: para-, Adj.: different, other. Loc.Sg.m. = paramhi.
+ca, conj.: and.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) uttitthe (on should arise). The subject is omitted, implying the third
+person singular pronoun. The verb is uttitthe (one should arise, 3rd person,
+singular, active, optative).
+    2) na ppamajjeyya (one should not be negligent). The subject is omitted,
+implying the third person singular pronoun. The verb is pamajjeyya (one should
+be negligent, 3rd person, singular, active, optative). It is negated by the
+negative particle na (not).
+    3) dhammaj sucaritaj care (one should practice the good teaching). The
+subject is omitted, implying the third person singular pronoun. The verb is
+care (one should practice, 3rd person, singular, active, optative). The object
+is the noun dhammaj (teaching, accusative singular). It has an attribute, the
+adjective sucaritaj (good, well-conducted; accusative singular).
+    4) dhammacari sukhaj seti asmij loke paramhi ca (one living in truth dwells
+happily, both in this world and in the next one). The subject is the compound
+dhammacari (one living in truth, nominative singular). The verb is seti
+(dwells, 3rd person, singular, active, indicative, present tense). It has two
+attributes. One is the adverb sukhaj (happily), one is the noun loke (in the
+world, locative singular). This last word has two attributes, the pronoun asmij
+(in this, locative singular) and the adjective paramhi (in the other, locative
+singular). They are connected by the conjunction ca (and).
+===============================================================================
+
+
+Commentary:
+    When the Buddha attained Awakenment, one of his first big journeys took him
+to the city of Kapilavatthu, where most of his family lived. He stayed at the
+outskirts of the city, in the Nigrodharama monastery. His father, king
+Suddhodana, assumed, that his son would come to his palace for food and made a
+lot of almsfood prepared. However, he did not invite the Buddha, as was
+necessary.
+    So the Buddha went on almsround around the city, as was his custom. He
+asked himself, if this was the proper course of action and realized that all
+the Buddhas of the past also went on almsround around the city they were born.
+    Suddhodana heard about it and went to the Buddha, saying, "Why should my
+son ask for alms in the very city, where he used to travel in a golden
+palanquin? I am so ashamed!"
+    The Buddha explained to him that he was only following the old custom of
+all the Buddhas and did not wish to put Suddhodana to shame. He also uttered
+this verse and the following one (DhP 169). The king finally accepted it and
+was no longer offended.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+uttitthe
+na
+pamajjeyya
+dhammaj
+sucaritaj
+care
+dhammacari
+dhamma
+cari
+sukhaj
+seti
+asmij
+loke
+paramhi
+ca
+===============================================================================

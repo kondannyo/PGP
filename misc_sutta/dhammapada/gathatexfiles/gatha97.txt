@@ -1,0 +1,156 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** asaddho akatabbu ca sandhicchedo ca yo naro ******
+              ****** hatavakaso vantaso sa ve uttamaporiso ******
+                            ****** (DhP 97) ******
+===============================================================================
+
+
+Sentence Translation:
+A man who is not blindly trusting, who knows the Nirvana, who has broken the
+connections,
+who has cut off the opportunities and who has given up all wishes - he is a
+greatest person indeed.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+asaddho akata+bbu     ca    sandhi+cchedo   ca         yo            naro
+|                |       |          |        |           |         
+|            |                 |
+Adj.m.   Adj.  Adj.m. conj. N.m.   Adj.m.  conj. Rel.Pron.m.    N.m.
+Nom.Sg.    |   Nom.Sg. |        |      Nom.Sg.    |      Nom.Sg.     Nom.Sg.
+|                |____|         |        |______|            |          
+|__________|
+|                    |_______|              |__________|                    |
+|_______________|________________|_________________|________________I.
+                                                                          
+|_______|
+                                                                                 
+|___________________II.
+List of Abbreviations
+hata+avakaso  vanta+aso           sa        ve uttama+poriso
+|               |          |       |               |          |      
+|          |
+Adj.m.   N.m.   Adj. Adj.m.    Pron.m. part. Adj.    N.m.
+|          Nom.Sg.   |  Nom..Sg. Nom.Sg.   |        |    Nom.Sg.
+|________|           |____|               |         |        |_____|
+I.___|____________|                    |_____|_______|
+                                                            |__|
+II._________________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+asaddho: asaddha-, Adj.: not credulous, without blind trust. It is the word
+saddha-, Adj.: credulous, trusting, negated by the negative prefix a-.
+Nom.Sg.m.: asaddho.
+akatabbu: akatabbu-, Adj.: who knows the Nirvana. It is a compound of:
+    akata-, Adj.: uncreated, not made. It is the word kata-, Adj: done, made
+(it is a p.p. of the
+    verb root kar-, to do) with the negative prefix a-.
+    -bbu-, Adj.suf.: knowing. It is derived from the verb root ba- (to know).
+Nom.Sg.m. = akatabbu.
+ca, conj.: and.
+List of Abbreviations
+sandhicchedo: sandhiccheda-, Adj.: one, who has broken the connection, one who
+has put an end to the round of rebirths. It is a compound of:
+    sandhi-, N.m.: connection, joint, combination.
+    cheda-, N.m.: cutting, destruction, breaking. It is derived from the verb
+root chid- (to cut, to break).
+Euphonic combination: sandhi- + cheda- = sandhiccheda-.
+Nom.Sg.m. = sandhicchedo.
+ca: see above.
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+naro: nara-, N.m.: man, person. Nom.Sg. = naro.
+List of Abbreviations
+hatavakaso: hatavakasa-, Adj.: one, who has cut off every opportunity (for
+further rebirth). It is a compound of:
+    hata-, Adj.: cut off, destroyed. It is a p.p. of the verb han- (to strike).
+
+    avakasa-, N.m.: occasion, opportunity.
+Euphonic combination: hata- + avakasa- = hatavakasa-.
+Nom.Sg.m. = hatavakaso.
+vantaso: vantasa-, Adj.: one who has given up all wishes.
+     vanta-, Adj.: given up, thrown up. It is p.p. of vam- (to throw up, to
+discard).
+    asa-, N.f.: wish, expectation, desire.
+Euphonic combination: vanta- + asa- = vantasa, compound form (as an adjective):
+vantasa-.
+Nom.Sg.m. = vantaso.
+List of Abbreviations
+sa: tad-, Pron.n.: it. Nom.Sg.m. = sa.
+ve, part.: indeed, surely.
+uttamaporiso: uttamaporisa-, N.m.: noble person. It is a compound of:
+    uttama-, Adj.: highest, noble.
+    porisa-, N.m.: person, man.
+Nom.Sg. = uttamaporiso.
+List of Abbreviations
+    This verse contains two related sentences. They are:
+    1) asaddho akatabbu ca sandhicchedo ca yo naro hatavakaso vantaso (A man
+who is not blindly trusting, who knows the Nirvana, who has broken the
+connections, who has cut off the opportunities and who has given up all
+wishes). The subject is the relative pronoun yo (who, nominative singular). It
+has the noun naro (man, person, nominative singular) as an attribute. This word
+has several attributes: asaddho (not blindly trusting, nominative singular),
+akatabbu (knowing the Nirvana, nominative singular), sandhicchedo (who has
+broken the connections, nominative singular), hatavakaso (who has cut off all
+the opportunities, nominative singular) and vantaso (who has given up all
+wishes). The second and third one are connected by the conjunction ca (and).
+    2) sa ve uttamaporiso(he is a greatest person indeed). The subject is the
+pronoun sa (he, nominative singular). It has an attribute, the adjective
+compound uttamaporiso (highest person, nominative singular). The particle ve
+(indeed) serves only for the strengthening.
+===============================================================================
+
+
+Commentary:
+    A group of monks came from a village to pay their respects to the Buddha.
+The Buddha sent for Sariputta and asked him, "Sariputta, do you believe, that
+one can attain Nirvana by being mindful of the senses?" Sariputta replied, "I
+do not simply believe in this because I have faith on you and your teaching.
+Only those who have no personal experience accept the facts from others." The
+monks did not understand it and thought that Sariputta doesn't have faith in
+the Buddha, that he did not given up wrong views yet.
+    The Buddha explained that Sariputta accepts the fact that Nirvana can be
+attained by being mindful of senses by his own personal experience, because he
+already attained arahantship. He does not simply trust blindly in his teacher's
+words without testing them with his own practice. Blind faith has no place in
+Buddhism, only the trust in the method, which must be followed by one's own
+personal experience.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+asaddho
+akatabbu
+akata
+bbu
+ca
+sandhicchedo
+sandhi
+chedo
+yo
+naro
+hatavakaso
+hata
+avakaso
+vantaso
+vanta
+aso
+sa
+ve
+uttamaporiso
+uttama
+poriso
+===============================================================================

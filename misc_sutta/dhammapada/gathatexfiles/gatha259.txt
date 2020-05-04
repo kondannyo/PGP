@@ -1,0 +1,188 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** na tavata dhammadharo yavata bahu bhasati ******
+          ****** yo ca appam pi sutvana dhammaj kayena passati ******
+         ****** sa ve dhammadharo hoti yo dhammaj na ppamajjati ******
+                            ****** (DhP 259) ******
+===============================================================================
+
+
+Sentence Translation:
+One does not understand Dharma only because one speaks a lot.
+Who sees Dharma directly, after having heard even a little of it,
+and who does not neglect the Dharma, such a one does understand it.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na    tavata dhamma+dharo    yavata   bahu   bhasati
+|           |           |            |             |           |          |
+neg.  Adv.     N.m.    Adj.m.  Rel.Adv. Adv.  V.act.in.
+|           |           |       Nom.Sg.      |           |    3.Sg.pres.
+|           |           |_______|             |           |______|
+|______|__________|                   |__________|
+     |___|                                               |
+        |____________________________|
+List of Abbreviations
+yo                 ca  appam   pi  sutvana dhammaj kayena  passati
+|                     |        |         |        |             |             
+|           |
+Rel.Pron.m. conj. Adj.n. part. V.ger.     N.m.       N.m.   V.act.in.
+Nom.Sg.         |   Acc.Sg.   |        |        Acc.Sg.    Ins.Sg. 3.Sg.pres.
+|                     |        |_____|        |             |             
+|______|
+|____________|_______|            |             |___________|
+                             |__________|                        |
+                                       |__________________|
+                                                       
+|____________________________________
+List of Abbreviations
+sa           ve dhamma+dharo        hoti              yo    dhammaj na  
+ppamajjati
+|               |        |            |               |                
+|             |          |          |
+Pron.m. part.  N.m.    Adj.m.    V.act.in.  Rel.Pron.m.  N.m.    neg. 
+V.act.in.
+Nom.Sg.   |        |       Nom.Sg. 3.Sg.pres.    Nom.Sg.  Acc.Sg.    |    
+3.Sg.pres.
+|               |        |_______|               |                
+|             |         |______|
+|________|               |____________|                 |            
+|________|
+        |__________________|                             |____________|
+____________|    |______________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+tavata, Adv.: on that account, thus.
+dhammadharo: dhammadhara-, Adj.: one who holds the Dharma, who knows the Dharma
+really well. It is a compound of:
+    dhamma-, N.m.: Buddha's Teaching. The Law. Derived from the verb dha-, to
+hold. Thus dhamma "holds the world together".
+    dhara-, Adj.: keeping, holding, knowing. It is derived from the verb root
+dha- (to hold).
+Nom.Sg.m. = dhammadharo.
+yavata, Rel.Adv.: as far as, because.
+bahu, Adv.: much, a lot. It is derived from the word bahu-, Adj.: large, much,
+very.
+bhasati, V.: speaks. The verb root is bhas-. 3.Sg.act.in.pres. = bhasati.
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+ca, conj.: and.
+appam: appa-, Adj.: little, few. Acc.Sg.n. = appam.
+pi, part.: even, only.
+sutvana, V.ger.: having heard. The verb root is su- (to hear).
+dhammaj: dhamma-, N.m.: Buddha's Teaching. The Law. Derived from the verb dha-,
+to hold. Thus dhamma "holds the world together". Acc.Sg. = dhammaj.
+kayena: kaya-, N.m.: body. Here as "directly, by one's own effort". Ins.Sg. =
+kayena.
+passati: sees. The verb root is dis- (to see). 3.Sg.act.in.pres. = passati.
+List of Abbreviations
+sa: tad-, Pron.n.: it. Nom.Sg.m. = sa (the more usual form is so).
+ve, part.: indeed.
+dhammadharo: see above.
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+dhammaj: see above.
+na: see above.
+pamajjati, V.: is careless, neglects. The verb root is mad- (to be intoxicated)
+with the strengthening prefix pa-. 3.Sg.act.in.pres. = pamajjati.
+Euphonic combination: na + pamajjati = na ppamajjati.
+List of Abbreviations
+    This sentence consists of two syntactically separate sentences. They are:
+    1) na tavata dhammadharo yavata bahu bhasati (one does not understand
+Dharma only because one speaks a lot). This can be analysed into two parts:
+    a) na tavata dhammadharo (one does not understand Dharma). The subject is
+omitted. The third person singular pronoun is implied. The verb is also
+omitted, implying the verb "to be". It is negated by the negative particle na
+(not). The object is the adjective dhammadharo (one who understands the Dharma,
+nominative singular). The adverb tavata (on account of) connects this part to
+the following one.
+    b) yavata bahu bhasati(only because one speaks a lot). The subject is
+omitted. The third person singular pronoun is implied. The verb is bhasati
+(speaks, 3rd person, singular, active, indicative, present tense). It has an
+attribute, the adverb bahu (a lot). The relative adverb yavata (as far as,
+because) connects this part to the previous one.
+    2) yo ca appam pi sutvana dhammaj kayena passati sa ve dhammadharo hoti yo
+dhammaj na ppamajjati (who sees Dharma directly, after having heard even a
+little of it, and who does not neglect the Dharma, such a one does understand
+it). This can be further analysed into three related sentences:
+    a) yo ca appam pi sutvana dhammaj kayena passati (who sees Dharma directly,
+after having heard even a little of it). This sentence has two segments:
+    I)yo ca appam pi sutvana(after having heard even a little of it). The
+subject is the relative pronoun yo (who, nominative singular). The verb is in
+gerund, sutvana (having heard). It has an attribute, the adjective appam (a
+little, accusative singular). It is modified by the conjunction pi (even). The
+conjunction ca (and) serves mainly for metrical purposes.
+    II) dhammaj kayena passati(who sees Dharma directly). The subject is still
+the relative adverb yo from the previous segment. The verb is passati (sees,
+3rd person, singular, active, indicative, present tense). It has an attribute,
+the noun kayena (by the body, directly; instrumental singular). The object is
+the noun dhammaj (Dharma, accusative singular).
+    b) sa ve dhammadharo hoti (such a one does understand the Dharma). The
+subject is the pronoun sa (he, nominative singular). The verb is hoti (is, 3rd
+person, singular, active, indicative, present tense). The object is the
+adjective dhammadharo (one who understands the Dharma, nominative singular).
+The particle ve (indeed) serves mainly for metrical purposes.
+    c) yo dhammaj na ppamajjati (who does not neglect the Dharma). The subject
+is the relative pronoun yo (who, nominative singular). The verb is pamajjati
+(neglects, 3rd person, singular, active, indicative, present tense). It is
+negated by the negative particle na (not). The object is the noun dhammaj
+(Dharma, accusative singular).
+===============================================================================
+
+
+Commentary:
+    A monk named Ekudana lived alone in the forest. He knew by heart only one
+verse of the Dharma, but he fully understood its meaning. Whenever he would
+recite the verse, the guardian spirits of the forest would applaud.
+    At one occasion, two learned monks with many disciples came to that place.
+They asked Ekudana of there were many beings that wished to learn the Dharma.
+Ekudana told them about the spirits applauding every time the Dharma was
+spoken. The two monks they took turns preaching the Dharma but when they
+finished, the guardian spirits did not applaud at all. Therefore they started
+to doubt Ekudana’s words. But Ekudana simply recited the verse he knew and
+immediately the spirits started to applaud.
+    The two monks returned to Savatthi and reported the matter to Buddha. The
+Buddha replied with this verse, saying that in understanding the Dharma,
+quality is much more important than quantity. To remember only one verse, but
+understanding it fully is far better than remembering all the Buddha’s words
+but not actually grasping their meaning.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+tavata
+dhammadharo
+dhamma
+dharo
+yavata
+bahu
+bhasati
+yo
+ca
+appam
+pi
+sutvana
+dhammaj
+kayena
+passati
+sa
+ve
+hoti
+pamajjati
+===============================================================================

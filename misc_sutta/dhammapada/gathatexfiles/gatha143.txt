@@ -1,0 +1,135 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** hirinisedho puriso koci lokasmij vijjati ******
+           ****** yo nindaj apabodheti asso bhadro kasam iva ******
+                            ****** (DhP 143) ******
+===============================================================================
+
+
+Sentence Translation:
+In this world, does there exist a person restrained by conscience,
+who avoids blame, like a good horse avoids a whip?
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+hiri+nisedho   puriso      koci   lokasmij  vijjati
+|           |            |              |            |             |
+N.f. Adj.m.     N.m.    Pron.m.    N.m.   V.pas.in.
+|     Nom.Sg. Nom.Sg. Nom.Sg. Loc.Sg. 3.Sg.pres.
+|______|            |               |           |________|
+     |__________|               |                   |
+              |______________|                  |
+                           |_________________|_____________________________
+                                         |_________|
+List of Abbreviations
+yo               nindaj apabodheti     asso     bhadro   kasam   iva
+|                       |             |                |           
+|             |         |
+Rel.Pron.m.   N.f.    V.act.caus.    N.m.     Adj.m.     N.f.   part.
+Nom.Sg.     Acc.Sg.   3.Sg.pres. Nom.Sg. Nom.Sg. Acc.Sg.   |
+|                       |_______|                |_______|            
+|         |
+|________________|                              |___________|         |
+              |                                                        
+|__________|
+              |_____________________________________|
+________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+hirinisedho: hirinisedha-, Adj.: restrained by conscience. It is a compound of:
+
+    hiri-, N.f.: sense of shame, conscience.
+    nisedha-, Adj.: restraining, holding back.
+Nom.Sg.m. = hirinisedho.
+puriso: purisa-, N.m.: person. Nom.Sg. = puriso.
+koci: kibci-, Pron.: whatever. Nom.Sg.m. = koci.
+lokasmij: loka-, N.m.: world. Loc.Sg. = lokasmij.
+vijjati, V.: exists, is found. The verb root is vid- (to find).
+3.Sg.pas.in.pres. = vijjati.
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+nindaj: ninda-, N.f.: blame, reproach. Acc.Sg. = nindaj.
+apabodheti, V.: avoids. It is a causative of the verb root budh- (to
+understand) with the prefix apa- (away). 3.Sg.act.caus.pres. = apabodheti.
+asso: assa-, N.m.: horse. Nom.Sg. = asso.
+bhadro: bhadra-, Adj.: good. Nom.Sg.m. = bhadro.
+kasam: kasa-, N.f.: whip. Acc.Sg. = kasam.
+iva, part.: like, as (another, more often used form of this word is va).
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) hirinisedho puriso koci lokasmij vijjati (in this world, does there
+exist a person restrained by conscience). The subject is the noun puriso
+(person, nominative singular). It has two attributes, the adjective compound
+hirinisedho (restrained by conscience, nominative singular) and the pronoun
+koci (a, some; nominative singular). The verb is vijjati (is found, exists; 3rd
+person, singular, passive, indicative, present tense). It has an attribute, the
+noun lokasmij (in the world, locative singular).
+    2) yo nindaj apabodheti asso bhadro kasam iva (who avoids blame, like a
+good horse avoids a whip). This sentence contains two parts. The main sentence
+is yo nindaj apabodheti (who avoids blame). The subject is the relative pronoun
+yo (who, nominative singular). The verb is apabodheti (avoids, 3rd person,
+singular, active, causative, present tense). The object is the noun nindaj
+(blame, accusative singular). The second part is the clause asso bhadro kasam
+iva (like a good horse [avoids] a whip). The subject is the noun asso (horse,
+nominative singular). It has an attribute, the adjective bhadro (good,
+nominative singular). The verb is omitted, implying the verb apabodheti from
+the main sentence. The object is the noun kasam (whip, accusative singular).
+The particle iva (like) connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    Venerable Ananda once met a young beggar who was going around dressed in
+old rags and holding a begging plate. After meeting Ananda, the man decided to
+become a monk. His name was Pilotika.
+    When he became a monk, he put his old clothes and the plate under a certain
+tree. Sometimes he felt not satisfied with his life as a monk and he went back
+to the tree and contemplated going back to the layman's life. But when he
+realized how miserable were his days before he became a monk, he felt shame and
+returned to the monastery.
+    This happened many times. Other monks asked him where was he going all the
+time. He told them he went to see his teacher. Pilotika considered his old
+clothes and the plate to be his teacher, because they taught him futility of
+the lay life many times. He started to practice earnestly and took his old
+clothes as a meditation subject. Soon he was able to reach Awakenment and
+therefore he stopped going to the tree.
+    Other monks asked him again, why does not he go to see his teacher any
+more. Pilotika replied that he does not have need for a teacher any more,
+hinting that he was an Arahant. The monks went to see the Buddha and asked him
+if it was true, if Pilotika has really reached the goal. The Buddha replied in
+affirmative, saying that indeed Pilotika now has no need to see his "teacher"
+because he has nothing to learn from the old clothes anymore. He has realized
+the truth and became an Arahant. The Buddha further added this verse and the
+following one (DhP 144).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+hirinisedho
+hiri
+nisedho
+puriso
+koci
+lokasmij
+vijjati
+yo
+nindaj
+apabodheti
+asso
+bhadro
+kasam
+iva
+===============================================================================

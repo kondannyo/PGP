@@ -1,0 +1,130 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** yato yato sammasati khandhanaj udayabbayaj ******
+            ****** labhati pitipamojjaj amataj taj vijanataj ******
+                            ****** (DhP 374) ******
+===============================================================================
+
+
+Sentence Translation:
+Whenever one understands thoroughly the rise and fall of the five aggregates,
+he will obtain joy and happiness. For those, who understand, this is known as
+"the deathlessness".
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yato           yato    sammasati khandhanaj udaya+bbayaj
+|                    |             |                 |              
+|           |
+Rel.Adv. Rel.Adv.  V.act.in.        N.m.        N.m.    N.m.
+|___________|       3.Sg.pres.     Gen.Pl.         |      Acc.Sg.
+          |                        |                 |               |______|
+          |                        |                 |____________|
+          |                        |________________|
+          |_____________________|
+                            |__________________________________________
+List of Abbreviations
+labhati      piti+pamojjaj amataj     taj    vijanataj
+|                  |           |             |             |             |
+V.act.in.   N.f.      N.n.       N.n.      Pron.n.   Adj.m.
+3.Sg.pres.    |     Acc.Sg.   Nom.Sg. Nom.Sg. Gen.Pl.
+|                  |______|             |              |_______|
+|_____________|                   |____________|
+______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yato, Rel.Adv.: whence, since, from which time.
+yato: see above. The repetition yato yato: whenever.
+sammasati, V.: grasps, seizes, knows thoroughly, masters. The verb root is mas-
+(to touch) with the prefix sam- (completely, altogether). 3.Sg.act.in.pres. =
+sammasati.
+khandhanaj: khandha-, N.m.: aggregate, group. There are five aggregates that
+constitute any living being. See commentary. Gen.Pl. = khandhanaj.
+udayabbayaj: udayabbaya-, N.m.: rise and fall, increase and decrease, birth and
+death. It is a compound of:
+    udaya-, N.m.: rise, increase, birth. It is derived from the verb root i-
+(to go) aiwh the prefix ud- (up).
+    bbaya-, N.m.: usually spelled as vyaya-, N.m.: loss, decay, decrease,
+death. It is derived from the verb rooti- (to go) with the prefix vi- (out,
+off, away).
+Acc.Sg. = udayabbayaj.
+List of Abbreviations
+labhati, V.: obtains, gets. The verb root is labh-. 3.Sg.act.in.pres. =
+labhati. The form labhati is sometimes used in poetry.
+pitipamojjaj: pitipamojja-, N.n.: joy and happiness. It is a compound of:
+    piti-, N.f.: joy, delight.
+    pamojja-, N.n.: joy, delight, happiness. Often spelled as pamujja-.
+Acc.Sg. = pitipamojjaj.
+amataj: amata-, N.n.: deathlessness. A negated (by the negative prefix a-) word
+mata-, Adj.: dead, which is a p.p. of the verb root mar- (to die). Nom.Sg. =
+amataj.
+taj: tad-, Pron.: that. Nom.Sg.n.: taj.
+vijanataj: vijanant-, Adj.: knowing, understanding. It is an a.pr.p. of the
+verb ba- (to know) with the prefix vi- (intensifying sense). Gen.Pl.m. =
+vijanataj.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) yato yato sammasati khandhanaj udayabbayaj labhati pitipamojjaj
+(whenever one understands thoroughly the rise and fall of the five aggregates,
+he will obtain joy and happiness). This can be further analysed into two
+sentences:
+    a) yato yato sammasati khandhanaj udayabbayaj (whenever one understands
+thoroughly the rise and fall of the five aggregates). The subject is omitted;
+the verb implies the third person singular pronoun. The verb is sammasati
+(understands completely, 3rd person, singular, active, indicative, present
+tense). The object is the compound udayabbayaj (rise and fall, accusative
+singular). It has an attribute, the noun khandhanaj (of the [five] aggregates,
+genitive plural). The sentence is introduced by two relative adverbs yato
+(when; yato yato = whenever), which connects it to the following sentence.
+    b) labhati pitipamojjaj (he will obtain joy and happiness). The subject is
+omitted; the verb implies the third person singular pronoun. The verb is
+labhati (obtains, 3rd person, singular, active, indicative, present tense). The
+object is the compound pitipamojjaj (joy and happiness, accusative singular).
+    2) amataj taj vijanataj (for those, who understand, this is known as "the
+deathlessness"). The subject is the pronoun taj (that, nominative singular).
+The verb is omitted, implying the verb "to be". It has an attribute, the
+adjective vijanataj (for the knowing ones, genitive plural). The object is the
+noun amataj (deathlessness, nominative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the six previous
+verses (DhP 368 – DhP 373) and for the following two verses (DhP 375 and DhP
+376).
+    The five aggregates (khandha) are: rupa (form, body, matter), vedana
+(feeling), sabba (perception), savkhara (mental formations) and vibbana
+(consciousness). If we know truly and into last detail how these five
+aggregates come into being and how they disappear, we experience joy and
+happiness and know "the deathlessness" - in other words, the Nirvana.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yato
+sammasati
+khandhanaj
+udayabbayaj
+udaya
+bbayaj
+labhati
+pitipamojjaj
+piti
+pamojjaj
+amataj
+taj
+vijanataj
+===============================================================================

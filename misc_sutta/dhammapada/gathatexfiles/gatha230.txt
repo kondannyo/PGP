@@ -1,0 +1,116 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** nikkhaj jambonadasseva ko taj ninditum arahati ******
+          ****** deva pi naj pasajsanti brahmuna pi pasajsito ******
+                            ****** (DhP 230) ******
+===============================================================================
+
+
+Sentence Translation:
+[continued from DhP 229]
+Who is worthy enough to blame him, like a ring made of gold?
+Even gods praise him; he is praised also by Brahma.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+nikkhaj jambonadassa iva    ko         taj   ninditum arahati
+|                      |             |        |            |           
+|           |
+N.m.            N.m.      part. Pron.m. Pron.m. V.inf.  V.act.in.
+Acc.Sg.      Gen.Sg.       |    Nom.Sg. Acc.Sg.     |     3.Sg.pres.
+|____________|             |         |            |            |______|
+          |______________|         |            |                  |
+                       |____________|_______|                  |
+                                  |           |_________________|
+                                  |_______________|
+List of Abbreviations
+deva       pi      naj   pasajsanti brahmuna pi  pasajsito
+|               |         |             |                |         |          |
+
+N.m.     conj. Pron.m. V.act.in.      N.m.   conj.  Adj.m.
+Nom.Pl.   |     Acc.Sg. 3.Pl.pres.    Ins.Sg.    |     Nom.Sg.
+|________|          |_______|                |_____|          |
+       |______________|                           |________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+nikkhaj: nikkha-, N.m.: ornament, ring. Acc.Sg. = nikkhaj.
+jambonadassa: jambonada-, N.m.: name of a special sort of gold. Gen.Sg. =
+jambonadassa.
+iva, part.: like, as (another, more often used form of this word is va).
+Euphonic combination: jambonadassa + iva = jambonadasseva.
+ko: kij-, Inter.Pron.: who. Nom.Sg.m. = ko.
+taj: tad-, Pron.: that. Nom.Sg.m. = taj.
+ninditum, V.inf.: to blame. The verb root is nind-.
+arahati, V.: is worthy of, deserves. The verb root is arah- (to deserve).
+3.Sg.pres.act.in. = arahati.
+List of Abbreviations
+deva: deva-, N.m.: god, celestial being. Nom.Pl. = deva.
+pi, conj.: also.
+naj: ena-, pron. In Pali used only in Acc.Sg.m.: naj (him).
+pasajsanti, V.: to praise, to commend. The verb root is sajs- (to proclaim, to
+point out) with the strenghtening prefix pa-. 3.Pl.act.in.pres. = pasajsanti.
+brahmuna: brahman-, N.m.: the god Brahma. Ins.Sg. = brahmuna.
+pi: see above.
+pasajsito: pasajsita-, Adj.: praised. It is a p.p. of the verb root sajs- (to
+proclaim, to point out) with the strengthening prefix pa-. Nom.Sg.m. =
+pasajsito.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) nikkhaj jambonadasseva ko taj ninditum arahati (who is worthy enough to
+blame him, like a ring made of gold?). This can be further analysed into the
+clause a) and the main sentence b):
+    a) nikkhaj jambonadasseva (like a ring made of gold). The noun nikkhaj
+(ring, accusative singular) is the object. It has an attribute, the noun
+jambonadassa (of gold, genitive singular). The particle iva (like, as) connects
+the clause to the object of the main sentence, the pronoun taj.
+    b) ko taj ninditum arahati (who is worthy enough to blame him?). The
+subject is the interrogative pronoun ko (who, nominative singular). The verb is
+arahati (is worthy, 3rd person, singular, active, indicative, present tense).
+It has an attribute, the infinitive ninditum (to blame). The object is the
+pronoun taj (him, accusative singular).
+    2) deva pi naj pasajsanti (even gods praise him). The subject is the noun
+deva (gods, nominative plural). It is modified by the conjunction pi (also,
+even). The verb is pasajsanti (praise, 3rd person, plural, active, indicative,
+present tense). The object is the pronoun naj (him, accusative singular).
+    3) brahmuna pi pasajsito (he is praised also by Brahma). The subject is
+omitted, the pronoun "he" is implied. The verb is also omitted, implying the
+verb "to be". The object is the past participle pasajsito (praised, nominative
+singular). It has an attribute, the noun brahmuna (by Brahma, instrumental
+singular). It is modified by the conjunction pi (even, also).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verses
+(DhP 227, DhP 228 and DhP 229).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+nikkhaj
+jambonadassa
+iva
+ko
+taj
+ninditum
+arahati
+deva
+pi
+naj
+pasajsanti
+brahmuna
+pasajsito
+===============================================================================

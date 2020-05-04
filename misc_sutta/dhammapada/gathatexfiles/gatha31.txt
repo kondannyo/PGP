@@ -1,0 +1,140 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+            ****** appamādarato bhikkhu pamāde bhayadassi vā ******
+          ****** saṃyojanaṃ aṇuṃ thūlaṃ ḍahaṃ aggī va gacchati ******
+                            ****** (DhP 31) ******
+===============================================================================
+
+Sentence Translation:
+The monk, who is devoted to conscientiousness and who is fearful of negligence,
+
+advances like a fire, burning the fetters, small or big.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+a+ppamāda+rato       bhikkhu   pamāde bhaya+dassi       vā
+|          |          |               |             |           |          
+|          |
+neg.  N.m.  Adj.m.      N.m.       N.m.    N.n.    Adj.m.  conj.
+|_____|      Nom.Sg.  Nom.Sg.  Nom.Sg.   |      Nom.Sg.   |
+    |_________|               |             |           |______|          |
+            |_____________|              |_________|                |
+                        |____________________|_____________|__________________
+List of Abbreviations
+saṃyojanaṃ aṇuṃ     thūlaṃ    ḍahaṃ     aggī      va    gacchati
+|                      |             |             |             |         
+|           |
+N.n.            Adj.n.     Adj.n.    Adj.m.     N.m.    part.   V.act.in.
+Acc.Sg.      Acc.Sg.  Acc.Sg.  Nom.Sg.  Nom.Sg.   |      3.Sg.pres.
+|                      |_______|              |            |______|           |
+
+|________________|                    |                   |_________|
+               |___________________|                           |
+__________________|                                            |
+               |__________________________________|
+ 
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+appamādarato: appamādarata-, Adj.:
+    appamāda-, N.m.: conscientiousness, non-negligence. A negated (by the
+negative
+    prefix a-) word pamāda-, N.m.: negligence. Doubled p is due to the euphonic
+
+    combination (a + pamāda = appamāda).
+    rata-, Adj.: devoted. It is a p.p. of the verbram- (to delight in, to be
+devoted to).
+Nom.Sg. = appamādarato.
+bhikkhu: bhikkhu-, N.m.: a (Buddhist) monk. Nom.Sg. = bhikkhu.
+pamāde: pamāda-, N.m.: negligence. Loc.Sg. = pamāde.
+List of Abbreviations
+bhayadassi: bhayadassin-, N.m.: seeing an object of fear. A compound of:
+    bhaya-, N.n.: fear, fright.
+    dassin-, Adj.: seeing, finding, realizing. Derived from the verb dis- (to
+see).
+Nom.Sg. = bhayadassī. The form bhayadassi is due to the metrical requirements.
+vā, conj.: or.
+saṃyojanaṃ: saṃyojana-, N.n.: bond, fetter. For enumeration see the Commentary.
+
+Ac.Sg. = saṃyojanaṃ.
+aṇuṃ: aṇu-, Adj.: small, atomic, subtle. Acc.Sg.n. = aṇuṃ.
+thūlaṃ: thūla-, Adj.: massive, big, strong. Acc.Sg.n. = thūlaṃ.
+List of Abbreviations
+ḍahaṃ: ḍahant-,: Adj.: burning. Derived (a.pr.p.) from the verb root ḍah- (or
+dah-; to burn). Nom.Sg.m. = ḍahaṃ.
+aggī: aggi-, N.n.: fire. Nom.Sg. = aggi. The form aggī is here for metrical
+purposes.
+va, part.: as, like.
+gacchati, V.: goes. the verb root gam-. 3.Sg.in.act.pres. = gacchati.
+List of Abbreviations
+    The subject of this sentence is the word bhikkhu (monk, nominative
+singular) with two attributes, appamādarato(devoted to conscientiousness,
+nominative singular) and bhayadassi (fearful, nominative singular) with its own
+attribute pamāde (in negligence, locative singular). They are connected by the
+conjunction vā (or). The verb here is gacchati (goes, 3rd person, singular,
+active, indicative, present tense).
+    There is a clause, saṃyojanaṃ aṇuṃ thūlaṃ ḍahaṃ (burning the fetter, small
+and big). Here the subject is still the word bhikkhu from the main sentence,
+the verb is ḍahaṃ (active present participle) and the object is saṃyojanaṃ (the
+fetter, accusative singular) with two attributes aṇuṃ (small, accusative
+singular) and thūlaṃ (big, accusative singular).
+    The last clause is aggī va (like a fire), where the subject is aggī (fire,
+nominative singular) and the verb is the same as in the main sentence
+(gacchati). The particle va (as, like) connects this clause to the main
+sentence.
+===============================================================================
+
+Commentary:
+    Once there was a monk who received his subject of meditation from the
+Buddha. He practiced hard, but he made very little progress. So he became very
+depressed and frustrated. He went to see the Buddha about his problems. But on
+the way there he saw a big forest fire. He ran to the top of a mountain and
+observed. While there, he realized that just as the fire burnt up everything
+around, be it big or small, so the insights from the practice of meditation
+will burn up all the fetters, big and small.
+    The Buddha saw this from far away and appeared in front of the monk telling
+him that he was on the right track and to keep up the idea. The monk did
+accordingly and attained arahantship very soon.
+     According to Buddhist philosophy, there are ten fetters (saṃyojana). They
+can be divided into two kinds, five so called "lower" or "big" fetters and five
+"higher" or "small" fetters.
+The five big fetters are:
+1) personality belief (sakkāya-diṭṭhi),
+2) skeptical doubt (vicikicchā),
+3) clinging to rules and rituals (sīlabbata-paramāsa),
+4) sensuous craving (kāma-rāga),
+5) ill-will (vyāpāda).
+The five small fetters are:
+1) craving for fine-material existence (rūpa-rāga),
+2) craving for immaterial existence (arūpa-rāga),
+3) conceit (māna),
+4) restlessness (uddhacca),
+5) ignorance (avijjā).
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+appamādarato
+bhikkhu
+pamāde
+bhayadassi
+vā
+saṃyojanaṃ
+aṇuṃ
+thūlaṃ
+ḍahaṃ
+aggī
+va
+gacchati
+===============================================================================

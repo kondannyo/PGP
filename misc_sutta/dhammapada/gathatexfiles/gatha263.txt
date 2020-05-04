@@ -1,0 +1,136 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** yassa cetaj samucchinnaj mulaghaccaj samuhataj ******
+            ****** sa vantadoso medhavi sadhurupo ti vuccati ******
+                            ****** (DhP 263) ******
+===============================================================================
+
+
+Sentence Translation:
+And who has cut off, removed and destroyed by the rot such thinking,
+he, the wise one who has discarded hatred, is called "respectable".
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yassa             ca      etaj samucchinnaj mula+ghaccaj samuhataj
+|                      |          |              |                |          
+|              |
+Rel.Pron.m.  conj.  Pron.n.    Adj.n.         N.n.    Adj.n.     Adj.n.
+Gen.Sg.           |     Nom.Sg. Nom.Sg.          |     Nom.Sg. Nom.Sg.
+|____________|______|              |                |______|              |
+           |                                     |____________|___________|
+           |___________________________|
+                                 |____________________________________________
+List of Abbreviations
+sa         vanta+doso    medhavi sadhu+rupo      ti     vuccati
+|               |         |             |           |         |         
+|          |
+Pron.m. Adj. Adj.m.      N.m.    Adj.  Adj.m.  part. V.pas.in.
+Nom.Sg.   |   Nom.Sg. Nom.Sg.    |    Nom.Sg.   |    3.Sg.pres.
+|               |_____|             |           |_____|          |          |
+|                    |__________|                |________|          |
+|________________|                                 |__________|
+              |_________________________________|
+_________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yassa: yat-, Rel.Pron.: that, which. Gen.Sg.m. = yassa (whose).
+ca, conj.: and.
+etaj: etad-, Pron.: this. Neuter: etaj. Nom.Sg.n. = etaj.
+Euphonic combination: ca + etaj = cetaj.
+samucchinnaj: samucchinna-, Adj.: cut off, destroyed. It is a p.p. of the verb
+root chid- (cut off, remove), with the prefixes sam- (completely) and ud-
+(out). Nom.Sg.n. = samucchinnaj.
+List of Abbreviations
+mulaghaccaj: mulaghacca-, Adj.: having been destroyed at the root. It is a
+compound of:
+    mula-, N.n.: root, ground, foundation.
+    ghacca-, N.f.: destruction. It is derived from the verb root ghan- (to
+kill, to strike).
+Nom.Sg.n. = mulaghaccaj.
+samuhataj: samuhata-, Adj.: taken out, removed. It is a p.p. of the verb root
+han- (to strike) with the prefixes sam- (completely) and ud- (out). Nom.Sg.n. =
+samuhataj.
+sa: tad-, Pron.n.: it. Nom.Sg.m. = sa (or so).
+vantadoso: vantadosa-, Adj.: one who has discarded hatred. It is a compound of:
+
+    vanta-, Adj.: thrown up. It is p.p. of vam- (to throw up, to discard).
+    dosa-, N.m.: ill-will, hatred, anger.
+Nom.Sg.m. = vantadoso.
+List of Abbreviations
+medhavi: medhavin-, N.m.: intelligent person, wise one. Nom.Sg. = medhavi.
+sadhurupo: sadhurupa-, Adj.: good, respectable, having good appearance. It is a
+compound of:
+    sadhu-, Adj.: good, virtuous.
+    rupa-, N.n.: form, appearance, figure.
+Nom.Sg.m. = sadhurupo.
+ti, part.: a particle, symbolizing the end of direct speech. In English this is
+expressed by quotation marks. Sometimes it is written as iti.
+vuccati, V.: is called. It is a passive form of the verb root vac- (to say).
+3.Sg.pas.in.pres. = vuccati.
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) yassa cetaj samucchinnaj mulaghaccaj samuhataj (and who has cut off,
+removed and destroyed by the rot such thinking). The subject is the pronoun
+etaj (this, nominative singular). It has an attribute, the relative pronoun
+yassa (for whom, genitive singular). The verb is omitted, implying the verb "to
+be". It has three attributes, the adjectives samucchinnaj (cut off, nominative
+singular), mulaghaccaj (destroyed by the root, nominative singular) and
+samuhataj (removed, nominative singular). The conjunction ca (and) serves
+mainly for metrical purposes.
+    2) sa vantadoso medhavi sadhurupo ti vuccati (he, the wise one who has
+discarded hatred, is called "respectable"). There are two subjects in this
+sentence, the pronoun sa (he, nominative singular) and the adjective medhavi
+(wise one, nominative singular). This word has an attribute, the compound
+vantadoso (who has discarded hatred, nominative singular). The verb is vuccati
+(is called, 3rd person, singular, passive, indicative, present tense). The
+object is the adjective sadhurupo (respectable, nominative singular). It is
+modified by the particle ti (quotation marks).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 262).
+    One, who wants to be respected, should discard all the impurities and clean
+one's mind. It is not possible to be envious, hating and selfish and expect
+others to respect us. To try to hide it away under the mask of nice words and
+smiling face maybe can fool somebody, but only for a short while. Then
+everybody will see the true face and their respect for us will quickly
+evaporate.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yassa
+ca
+etaj
+samucchinnaj
+mulaghaccaj
+mula
+ghaccaj
+samuhataj
+sa
+vantadoso
+vanta
+doso
+medhavi
+sadhurupo
+sadhu
+rupo
+ti
+vuccati
+===============================================================================

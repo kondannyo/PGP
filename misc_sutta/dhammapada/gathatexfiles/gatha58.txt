@@ -1,0 +1,136 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+          ****** yathā saṅkāradhānasmiṃ ujjhitasmiṃ mahāpathe ******
+          ****** padumaṃ tattha jāyetha sucigandhaṃ manoramaṃ ******
+                            ****** (DhP 58) ******
+===============================================================================
+
+Sentence Translation:
+Just as at the rubbish heap, thrown out by the big road,
+can grow a lotus, of pure smell and delightful,
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+yathā     saṅkāra+dhānasmiṃ ujjhitasmiṃ mahā+pathe
+|                 |               |                  |             |         |
+Rel.Adv.  N.m.        N.n.            Adj.n.    Adj.    N.m.
+|                 |          Loc.Sg.        Loc.Sg.       |    Loc.Sg.
+|                 |________|                   |             |_____|
+|                         |                          |__________|
+|                         |____________________|
+|                                         
+|________________________________________
+|_________________________________________|
+List of Abbreviations
+padumaṃ tattha  jāyetha  suci+gandhaṃ mano+ramaṃ
+|                  |           |          |           |          |           |
+N.n.         Adv.   V.med.  Adj.     N.n.    N.n.     Adj.n.
+Nom.Sg.      |     3.Sg.opt.   |     Nom.Sg.    |      Nom.Sg.
+|                  |           |          |______|          |______|
+|__________|______|_________|____________|
+                   |          |___|
+                   |_______|
+______________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+yathā, Rel.Adv.: just as, just like.
+saṅkāradhānasmiṃ: saṅkāradhāna-, N.n.: rubbish heap. It is a compound of:
+    saṅkāra-, N.m.: rubbish, dust. Originally from saṃ + kar- (to mix
+together).
+    dhāna-, N.n.: heap, receptacle.
+Loc.Sg. = saṅkāradhānasmiṃ.
+ujjhitasmiṃ: ujjhita-, Adj.: thrown out, forsaken. It is a p.p. of the verb
+ujjh- (to forsake, to leave, to give up). Loc.Sg.n. = ujjhitasmiṃ.
+List of Abbreviations
+mahāpathe: mahāpatha-, N.m.: big path, big road.
+    mahā-, Adj.: big, great.
+    patha-, N.m.: road, path.
+Loc.Sg. = mahāpathe.
+padumaṃ: paduma-, N.n.: lotus. Nom.Sg. =padumaṃ.
+tattha, Adv.: there.
+jāyetha, V.: would be born, would grow. The verb root is jan- (to be born).
+3.Sg.med.opt. = jāyetha.
+List of Abbreviations
+sucigandhaṃ: sucigandha-, Adj.: of pure smell. It is a compound of:
+    suci-, Adj.: pure, clean.
+    gandha-, N.m: smell.
+Nom.Sg.n. = sucigandhaṃ.
+manoramaṃ: manorama-, Adj.: lovely, delightful, pleasing to the mind. It is a
+compound of:
+    mano-, N.n.: mind.
+    rama-, Adj.: pleasing. Derived from the verb root ram- (to enjoy, to
+delight in).
+Nom.Sg.n. = manoramaṃ.
+List of Abbreviations
+    The subject of this sentence is the noun padumaṃ (lotus, nominative
+singular). It has two attributes, adjectives sucigandhaṃ (of pure smell,
+nominative singular) and manoramaṃ (delightful, nominative singular). The verb
+is jāyetha (3rd person, singular, medium, optative). It has two attributes, the
+adverb tattha (there) and the noun saṅkāradhānasmiṃ (at the rubbish heap,
+locative singular). This last noun has its own attribute, the noun mahāpathe
+(on the big road, locative singular) with the past participle ujjhitasmiṃ (on
+the thrown out, locative singular) as an attribute. The relative adverb yathā
+(just as) introduces this sentence and connects it to the next verse (DhP 59).
+
+===============================================================================
+
+Commentary:
+    In the city of Sāvatthi, there lived two friends, Sirigutta and
+Garahadinna. Sirigutta was a student of the Buddha and Garahadinna followed
+Nigantha's teaching. Garahadinna always instigated his friend to become a
+Nigantha's follower too. He would boast that his teachers know all the past,
+present and future.
+    So Sirigutta once invited his friend's teachers to his house. He prepared a
+deep hole, filled it with dirt and put the seats on ropes on top of this
+trench. Niganthas came and when they sat down, the ropes broke and Niganthas
+fell into the pit. Sirigutta asked them how come they claim to know the future
+but they did not know what would happen to them. They did not know what to say
+and fled in terror.
+    Garahadinna wanted to take revenge on his friend's teacher too, so he
+invited the Buddha and some monks to his house for alms food. He dug a hole,
+filled it with burning coal, and covered with mats. But when the Buddha entered
+and sat down, the coal disappeared and instead of it big lotus flowers
+appeared.
+    Garahadinna was very alarmed. Then he realized that as he did not expect
+the Buddha to survive this test, he did not prepare any food. But when he
+entered the kitchen, he found out that a lot of food appeared there as if from
+nowhere. So he served the food to the Buddha and the monks.
+    After the lunch, the Buddha taught the two friends Dharma in a gradual
+manner. At the end they both attained the first stage of Awakenment.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yathā
+saṅkāradhānasmiṃ
+saṅkāra
+dhānasmiṃ
+ujjhitasmiṃ
+mahāpathe
+mahā
+pathe
+padumaṃ
+tattha
+jāyetha
+sucigandhaṃ
+suci
+gandhaṃ
+manoramaṃ
+mano
+ramaṃ
+
+===============================================================================

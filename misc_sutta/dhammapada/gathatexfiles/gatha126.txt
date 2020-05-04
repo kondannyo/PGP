@@ -1,0 +1,130 @@
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+           ****** gabbham eke uppajjanti nirayaṃ pāpakammino ******
+           ****** saggaṃ sugatino yanti parinibbanti anāsavā ******
+                            ****** (DhP 126) ******
+===============================================================================
+
+Sentence Translation:
+Some are born in the womb; evildoers arise in hell;
+righteous ones go to heaven; those without taints are completely emancipated.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+gabbham  eke    uppajjanti nirayaṃ pāpa+kammino
+|                 |             |             |          |          |
+N.m.     Num.m. V.act.in.    N.m.    N.n.  Adj.m.
+Acc.Sg. Nom.Pl. 3.Pl.pres. Acc.Sg.    |     Nom.Pl.
+|_________|________|             |         |______|
+         |____|                            |________|
+List of Abbreviations
+saggaṃ  sugatino   yanti   parinibbanti anāsavā
+|                 |             |              |              |
+N.m.      Adj.m.  V.act.in.   V.act.in.   Adj.m.
+Acc.Sg. Nom.Pl. 3.Pl.pres. 3.Pl.pres. Nom.Pl.
+|_________|________|             |________|
+       |_____|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+gabbham: gabbha-, N.m.: womb. Acc.Sg. = gabbham.
+eke: eka-, Num.: one. Nom.Pl.m. = eke.
+uppajjanti, V.: arise, are born. The verb root is pad- (to come) with the
+prefix ud- (up).
+3.Pl.act.in.pres. = uppajjanti.
+nirayaṃ: niraya-, N.m.: hell. Acc.Sg. = nirayaṃ.
+pāpakammino: pāpakammin-, Adj.: evildoer. It is a compound of:
+    pāpa-, Adj.: evil, wrong. As an N.n.: evil, wrong doing.
+    kammin-, Adj.: doer, acting. It is the word kamma-, N.n.: deed, action
+(derived from the verb
+    kar-, to do) with the possessive suffix -in.
+Nom.Pl.m. = pāpakammino.
+List of Abbreviations
+saggaṃ: sagga-, N.m.: heaven. Acc.Sg. = saggaṃ.
+sugatino: sugatin-, Adj.: righteous. It is the word sugati- with the possessive
+suffix -in.
+The word sugati-, N.f.: happiness, happy fate, is composed of:
+    su-, pref.: good, easy.
+    gati-, N.f.: existence. Derived from the verb gam- (to go).
+Nom.Pl.m. = sugatino.
+yanti, V.: go. The verb root is yā-. 3.Pl.act.in.pres. = yanti.
+parinibbanti, V.: are completely emancipated, completely free, have reached the
+Nirvana. The verb root is vā- (to blow) with the prefixes ni-(off, out) and
+pari- (completely). 3.Pl.act.in.pres. = parinibbanti.
+anāsavā: anāsava-, Adj.: without taints. It is the word āsava-, N.m.: taint,
+corruption; negated by the negative prefix an-. Nom.Pl.m. = anāsavā.
+List of Abbreviations
+    This verse consists of four separate sentences. They are:
+    1) gabbham eke uppajjanti (some are born in the womb). The subject is the
+numeral eke (ones, some; nominative plural). The verb is uppajjanti (arise, are
+born; 3rd person, plural, active, indicative, present tense). The object is the
+noun gabbham (to the womb, accusative singular).
+    2) nirayaṃ pāpakammino (evildoers arise in hell). The subject is the
+compound pāpakammino (evildoers, nominative plural). The verb is omitted;
+uppajjanti from the previous sentence is implied. The object is the noun
+nirayaṃ (to hell, accusative singular).
+    3) saggaṃ sugatino yanti (righteous ones go to heaven). The subject is the
+noun sugatino (righteous ones, nominative plural). The verb is yanti (go, 3rd
+person, plural, active, indicative, present tense). The object is the noun
+saggaṃ (to heaven, accusative singular).
+    4) parinibbanti anāsavā (those without taints are completely emancipated).
+The subject is the adjective anāsavā (those without taints, nominative plural).
+The verb is parinibbanti (are completely emancipated, 3rd person, singular,
+active, indicative, present tense).
+===============================================================================
+
+Commentary:
+    In the city of Sāvatthi once lived a gem polisher. He has been giving
+almsfood to a certain monk for the last twelve years. One day, the gem polisher
+was carrying a piece of meat when a messenger for the king arrived, giving him
+a piece of gem that the king wanted to be cut and polished. The gem polisher
+took the gem with his hands bloody from the meat, put it on the table and went
+to wash his hands.
+    The family had a pet bird. When it saw the gem covered with blood, it took
+it for a piece of meat and ate it. When the gem polisher returned, he did not
+see the gem anywhere. He asked everybody, but nobody knew anything. At the end
+he also asked the monk, who was also present. The monk replied that he did not
+take the gem.
+    The gem polisher was convinced, that the monk was lying and decided to
+inflict torture on him. Even though his wife discouraged him from this action,
+saying that this monk was an Arahant and their teacher for so many years, the
+gem polisher paid no attention. He tied the monk up and beat him with a stick.
+    The monk started to bleed all over his body and the bird came over again,
+drawn by the blood. The gem polisher was angry and kicked the bird, killing it
+instantly. Only then did the monk reveal that the bird ate the gem. The gem
+polisher cut the bird open and indeed found the gem inside.
+    Immediately he untied the monk and asked for forgiveness. The monk replied
+that he feels no hatred towards him and even agreed to continue coming to his
+house for almsfood. Only after this he would not enter the house - just stay by
+the door.
+    Soon after, the monk died from his injuries and reached the final Nirvana.
+The bird was born as the gem polisher's son. When the gem polisher died he was
+born in hell and his wife in heaven, because she spoke against beating of the
+innocent monk.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+gabbham
+eke
+uppajjanti
+nirayaṃ
+pāpakammino
+pāpa
+kammino
+saggaṃ
+sugatino
+su
+gatino
+yanti
+parinibbanti
+anāsavā
+===============================================================================

@@ -1,0 +1,148 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** panimhi ce vano nassa hareyya panina visaj ******
+          ****** nabbanaj visam anveti n'atthi papaj akubbato ******
+                            ****** (DhP 124) ******
+===============================================================================
+
+
+Sentence Translation:
+If there is no wound in the palm, one can carry poison with it.
+The poison does not affect one who is without a wound. There is no evil for
+one, who is not doing it.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+panimhi   ce    vano     na     assa     hareyya  panina   visaj
+|               |         |          |         |             |           
+|           |
+N.m.     part.   N.m.    neg.  V.act.     V.act.     N.m.     N.n.
+Loc.Sg.    |    Nom.Sg.   |    3.Sg.opt. 3.Sg.opt. Ins.Sg. Acc.Sg.
+|________|_____|          |_____|              |_______|          |
+       |       |______________|                         |_________|
+       |___________|                                               |
+                 |________________________________|
+List of Abbreviations
+na    abbanaj  visam     anveti    na       atthi       papaj  akubbato
+|            |             |             |          |           |             
+|             |
+neg.  Adj.m.     N.n.     V.act.in.  neg.  V.act.in.     N.n.      Adj.m.
+|       Acc.Sg. Nom.Sg. 3.Sg.pres.   |     3.Sg.pres. Nom.Sg. Gen.Sg.
+|______|________|_______|           |______|              |            |
+           |       |____|                              |___________|           
+|
+           |______|                                             |____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+panimhi: pani-, N.m.: palm, hand. Loc.Sg. = panimhi.
+ce, part.: if.
+vano: vana-, N.m.: wound. Nom.Sg. = vano.
+na, neg.: not.
+assa, V.: should be. The verb root is as-(to be). 3.Sg.act.opt. = assa.
+Euphonic combination: na + assa = nassa.
+hareyya, V.: can carry. The verb root is har- (to carry). 3.Sg.act.opt. =
+hareyya.
+List of Abbreviations
+panina: pani-, N.m.: hand, palm. Ins.Sg. = panina.
+visaj: visa-, N.n.: poison. Acc.Sg. = visaj.
+na, neg.: not.
+abbanaj: abbana-, Adj.: without a wound. It is the word vana- (see above) with
+the negative prefix a-. Acc.Sg.m. = abbanaj.
+Euphonic combination: na + abbanaj = nabbanaj.
+visam: visa-, N.n.: poison. Nom.Sg. = visam.
+List of Abbreviations
+anveti: follows. The verb root is i- (to go), preceded by prefix anu- (with,
+along, following). 3.Sg.act.in.pres. = anveti.
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = n'atthi.
+papaj: papa-, Adj.: evil, wrong. As an N.n.: evil, wrong doing. Nom.Sg. =
+papaj.
+akubbato: akubbant-, Adj.: not doing. It is the word kubbant-, Adj.: doing,
+which is an a.pr.p. of the verb root kar- (to do), negated by the negative
+prefix a-. Gen.Sg.m.= akubbato.
+List of Abbreviations
+    This verse contains three syntactically separate sentences. They are:
+    1) panimhi ce vano nassa hareyya panina visaj(if there is no wound in the
+palm, one can carry poison with it). This can be further subdivided into two
+segments:
+    a) panimhi ce vano nassa (if there is no wound in the palm). The subject is
+the noun vano (wound, nominative singular). It has the noun panimhi (in the
+palm, locative singular) as an attribute. The verb is assa (should be, 3rd
+person, singular, active, optative). It is negated by the negative particle na
+(not). The verb is also modified by the particle ce (if).
+    b) hareyya panina visaj (one can carry poison with the palm). The subject
+is omitted; the verb implies the third person singular pronoun. The verb is
+hareyya (one can carry, 3rd person, singular, active, optative). It has an
+attribute, the noun panina (with the hand, instrumental singular). The object
+is the noun visaj (poison, accusative singular).
+    2) nabbanaj visam anveti(the poison does not affect one who is without a
+wound). The subject is the noun visam (poison, nominative singular). The verb
+is anveti (follows, affects, 3rd person, singular, active, indicative, present
+tense). It is negated by the negative particle na (not). The object is the
+adjective abbanaj (one without a wound, accusative singular).
+    3) n'atthi papaj akubbato (there is no evil for one, who is not doing it).
+The subject is the noun papaj (evil, nominative singular). The verb is atthi
+(is, 3rd person, singular, active, indicative, present tense). It is negated by
+the negative particle na (not). The object is the noun akubbato (for the one
+who is not doing, genitive singular).
+===============================================================================
+
+
+Commentary:
+    A daughter of a rich family once lived in Rajagaha. She was very wise and
+understood the Dharma - she had attained the first stage of Awakenment. Once
+she met a hunter named Kukkuta Mitta and they fell in love. They got married
+and had seven children. After many years, all the children got themselves
+married.
+    Once the Buddha walked past one of Kukkuta Mitta's traps and he sat under a
+tree not far away and rested. Kukkuta Mitta came, saw the footsteps, but he saw
+no animal. So he thought that somebody stole his animal from the trap. Seeing
+the Buddha close, he took him to be that person. He became very angry and
+wanted to kill the Buddha. He took his bow and arrow, but as he was about to
+shoot he became immobilized just like a statue. His children came next and saw
+what happened to their father. They too took bows and arrows and tried to shoot
+the Buddha, only to become "statues" themselves. When they did not return in
+time, the hunter's wife went to the forest to look for them. When she saw what
+happened, she shouted to them, "Don't kill my father!"
+    The hunter and his children thought that the Buddha was her real father and
+they ceased hating him. Immediately they were able to move again. The woman
+told them to put down their bows and arrows and when they did so, the Buddha
+expounded the Dharma. At the end of the discourse, all of them also attained
+the first stage of Awakenment.
+    The Buddha went back to the monastery and told the monks the story. Some
+monks wondered how the woman, having already reached the first stage of
+Awakenment, could help her husband to take lives of animals. The Buddha replied
+with this verse, saying that if one has no intention to commit evil, no bad
+karma is actually created.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+panimhi
+ce
+vano
+na
+assa
+hareyya
+panina
+visaj
+abbanaj
+anveti
+atthi
+papaj
+akubbato
+===============================================================================

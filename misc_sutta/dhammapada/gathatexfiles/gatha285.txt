@@ -1,0 +1,133 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+       ****** ucchinda sineham attano kumudaj saradikaj va panina ******
+        ****** santimaggam eva bruhaya nibbanaj sugatena desitaj ******
+                            ****** (DhP 285) ******
+===============================================================================
+
+
+Sentence Translation:
+Cut off your own desires, as if picking an autumnal lotus with your hand.
+Practice the path of tranquility, Nirvana taught by the Buddha.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+ucchinda sineham attano   kumudaj saradikaj  va   panina
+|                   |           |             |                |         
+|         |
+V.act.        N.m.    Pron.      N.n.         Adj.n.   part.  N.m.
+2.Sg.imp. Acc.Sg. Gen.Sg. Acc.Sg.      Acc.Sg.    |     Ins.Sg.
+|                   |______|             |_________|          |         |
+|______________|                           |__________|_____|
+             |                                                 |_____|
+             |______________________________|
+List of Abbreviations
+santi+maggam eva    bruhaya nibbanaj sugatena desitaj
+|             |          |           |             |              |           
+|
+N.f.    N.m.    part.    V.act.      N.n.      Adj.m.    Adj.n.
+|       Acc.Sg.     |     2.Sg.imp. Acc.Sg.    Ins.Sg.  Acc.Sg.
+|_______|          |            |             |             |_______|
+       |_________|            |             |___________|
+                |___________|_____________|
+                           |_____|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+ucchinda, V.: cut off, destroy. The verb root is chid- (cut off, remove), with
+the prefix ud- (out, off). 2.Sg.act.imp. = ucchinda.
+sineham: sineha-, N.m.: affection, lust, desire. Acc.Sg. = sineham.
+attano: attan-, N.m./Pron.: self, oneself. Gen.Sg. = attano.
+kumudaj: kumuda-, N.n.: lotus. Acc.Sg. = kumudaj.
+saradikaj: saradika-, Adj.: autumnal. It is derived from the word: sarada-,
+N.m.: fall, autumn. Acc.Sg.n. = saradikaj.
+va, part.: as, like.
+panina: pani-, N.m.: hand, palm. Ins.Sg. = panina.
+List of Abbreviations
+santimaggam: santimagga-, N.m.: the path of tranquility. It is a compound of:
+    santi-, N.f.: tranquility, peace.
+    magga-, N.m.: way, road, path.
+Acc.Sg. = santimaggam.
+eva, part.: just, only.
+bruhaya, V.: develop, practice, devote oneself to. The verb root is brah-.
+2.Sg.act.imp. = bruhaya.
+nibbanaj: nibbana-, N.n.: Nirvana, the goal of Buddhism. Acc.Sg. = nibbanaj.
+sugatena: sugata-, Adj.: well-gone, an epithet of the Buddha. It is a p.p. of
+the verb root gam- (to go) preceded by the prefix su- (well). Ins.Sg.m. =
+sugatena.
+desitaj: desita-, Adj.: taught. It is a p.p. of the verb root dis-, to teach.
+Acc.Sg.n. = desitaj.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) ucchinda sineham attano kumudaj saradikaj va panina (cut off your own
+desires, as if picking an autumnal lotus with your hand). This can be further
+analyzed into the main sentence a) and the clause b):
+    a) ucchinda sineham attano (cut off your own desires). The subject is
+omitted; the verb implies the second person singular pronoun. The verb is
+ucchinda (cut off, 2nd person, singular, active, imperative). The object is the
+noun sineham (desire, accusative singular). It has an attribute, the pronoun
+attano (own, genitive singular).
+    b) kumudaj saradikaj va panina (as if picking an autumnal lotus with your
+hand). The subject and verb are omitted, implying the ones from the main
+sentence. The object is the noun kumudaj (lotus, accusative singular). It has
+two attributes, the adjective saradikaj (autumnal, accusative singular) and the
+noun panina (with the hand, instrumental singular). The particle va (as, like)
+connects the clause to the main sentence.
+    2) santimaggam eva bruhaya nibbanaj sugatena desitaj (practice the path of
+tranquility, Nirvana taught by the Buddha). The subject is omitted; the verb
+implies the second person singular pronoun. The verb is bruhaya (practice,
+develop; 2nd person, singular, active, imperative). There are two objects: a)
+the compound santimaggam (the path of tranquility, accusative singular). It is
+stressed by the particle eva (just, only); b) the noun nibbanaj (Nirvana,
+accusative singular). It has an attribute, the past participle desitaj (taught,
+accusative singular) with its attribute, the adjective sugatena (by the Buddha,
+instrumental singular).
+===============================================================================
+
+
+Commentary:
+    Venerable Sariputta had a young monk as a pupil. This monk was a son of a
+goldsmith. Sariputta gave him a subject of meditation (impurity of the body)
+and the monk went to the forest to practice meditation. But he did not make any
+progress and kept returning to Sariputta to ask for more instructions. So
+Sariputta took him to see the Buddha.
+    The Buddha changed the tactics. He gave the monk a beautiful lotus. He told
+him to put it in front of himself and meditate on its purity and beauty. The
+monk did so and was able to reach unbroken concentration and achieve the fourth
+level of mental absorption (jhana).
+    At that moment the Buddha made the lotus to wither. The monk saw this and
+realized the impermanence of all things. The Buddha then further exhorted him
+with this verse. The monk reflected on its meaning and attained the Awakenment.
+
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+ucchinda
+sineham
+attano
+kumudaj
+saradikaj
+va
+panina
+santimaggam
+santi
+maggam
+eva
+bruhaya
+nibbanaj
+sugatena
+desitaj
+===============================================================================

@@ -1,0 +1,125 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** yodha pubbaj ca papaj ca ubho savgam upaccaga ******
+         ****** asokaj virajaj suddhaj tam ahaj brumi brahmanaj ******
+                            ****** (DhP 412) ******
+===============================================================================
+
+
+Sentence Translation:
+Who has in this world gone beyond both attachments of good and evil,
+who is free from sorrow, stainless and pure - him do I call a Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yo                idha pubbaj ca   papaj   ca     ubho   savgam upaccaga
+|                      |         |        |         |         |        
+|            |            |
+Rel.Pron.m. Adv.   N.n.   conj.   N.n.   conj. Adj.m.    N.m.  V.act.aor.
+Nom.Sg.          |   Acc.Sg.   |     Acc.Sg.   |    Acc.Du. Acc.Sg.    3.Sg.
+|                      |         |____|          |_____|        
+|_______|            |
+|                      |             |___________|                   
+|                  |
+|                      |                      
+|_________________|                  |
+|                      |______________________|__________________|
+|                                          |___________|
+|_____________________________|
+|________________________________________________
+List of Abbreviations
+asokaj virajaj suddhaj tam       ahaj      brumi brahmanaj
+|                 |           |           |             |            
+|              |
+Adj.m.   Adj.m.  Adj.m. Pron.m.   Pron.    V.act.in.    N.m.
+Acc.Sg. Acc.Sg. Acc.Sg. Acc.Sg. Nom.Sg. 1.Sg.pres. Acc.Sg.
+|_________|_______|______|             |             |              |
+                        |_________________|_______|________|
+                                                       |             |____|
+                                                       |__________|
+____________________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+idha, Adv.: here, in this world.
+Euphonic combination: yo + idha = yodha.
+pubbaj: pubba-, N.n.: good deed, meritorious deed, merit. Acc.Sg. = pubbaj.
+ca, conj.: and.
+papaj: papa-, N.n.: evil, wrong doing. Acc.Sg. = papaj.
+ubho: ubha-, Adj.: both. Acc.Du.m. = ubho. This is a rare remnant of dual in
+Pali.
+List of Abbreviations
+savgam: savga-, N.m.: clinging, attachment, bond. It is derived from the verb
+root sabj- (to cling). Acc.Sg. = savgam.
+upaccaga, V.: escape, pass, go by. The verb root is gam- (to go) with the
+prefixes upa- (near) and ati- (by, beyond). 3.Sg.act.aor. = upaccaga.
+asokaj: asoka-, Adj.: free from sorrow. The word soka-, N.m.: grief, sorrow,
+negated by the negative prefix a-. Acc.Sg.m. = asokaj.
+virajaj: viraja-, Adj.: dustless, stainless, clean. It is the word rajo-, N.m.
+(dust, dirt) with the prefix vi- (away from, without). Acc.Sg.m. = virajaj.
+List of Abbreviations
+suddhaj: suddha-, Adj.: clean, pure. It is a p.p. of the verb root sudh- (to
+clean). Acc.Sg.m. = suddhaj.
+tam: tad-, Pron.: it. Masculine form: so-, he. Acc.Sg. = tam (him).
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+brahmanaj: brahmana-, N.m.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) yodha pubbaj ca papaj ca ubho savgam upaccaga (who has in this world
+gone beyond both attachments of good and evil). The subject is the relative
+pronoun yo (who, nominative singular). The verb is upaccaga (has gone beyond,
+3rd person, singular, active, aorist). It has an attribute, the adverb idha
+(here). There are three objects, the nouns pubbaj (good, accusative singular)
+and papaj (evil, accusative singular). These are connected by two conjunctions
+ca (and). The third attribute is the noun savgam (attachment, accusative
+singular) with its attribute, the adjective ubho (both, accusative dual).
+    2) asokaj virajaj suddhaj tam ahaj brumi brahmanaj (who is free from
+sorrow, stainless and pure - him do I call a Brahmin). The subject is the
+pronoun ahaj (I, nominative singular). The verb is brumi ([I] say, 1st person,
+singular, active, indicative, present tense). The object is the noun brahmanaj
+(Brahmin, accusative singular). It has four attributes, the pronoun tam (him,
+accusative singular) and the adjectives asokaj (free from sorrow, accusative
+singular), virajaj (stainless, accusative singular) and suddhaj (pure,
+accusative singular).
+===============================================================================
+
+
+Commentary:
+    One day the monks complained to the Buddha that a novice named Revata is
+getting many offerings from the people although he lives alone in the forest.
+They accused Revata of craving for material gains. The Buddha spoke this verse,
+saying that Revata has given up all cravings and is an Arahant.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yo
+idha
+pubbaj
+ca
+papaj
+ubho
+savgam
+upaccaga
+asokaj
+virajaj
+suddhaj
+tam
+ahaj
+brumi
+brahmanaj
+===============================================================================

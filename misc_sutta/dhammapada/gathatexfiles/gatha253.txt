@@ -1,0 +1,120 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** paravajjanupassissa niccaj ujjhanasabbino ******
+            ****** asava tassa vaddhanti ara so asavakkhaya ******
+                            ****** (DhP 253) ******
+===============================================================================
+
+
+Sentence Translation:
+Who finds faults with others and is always irritable,
+his taints only grow. He is far away from dissolution of taints.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+para+vajja+anupassissa niccaj ujjhana+sabbino
+|           |            |               |           |            |
+Adj.  N.n.     Adj.m.       Adv.     N.n.    Adj.m.
+|______|       Gen.Sg.         |           |      Gen.Sg.
+     |__________|               |           |_______|
+               |                        |__________|
+               |___________________|_______________________________
+List of Abbreviations
+ asava           tassa     vaddhanti  ara      so     asavakkhaya
+     |                  |               |           |         |               |
+
+  N.m.         Pron.m.   V.act.in.  Adv. Pron.m.      N.m.
+Nom.Pl.      Gen.Sg.   3.Pl.pres.    |    Nom.Sg.    Abl.Sg.
+___|__________|               |           |_____|________|
+     |_____|                        |                     |____|
+          |________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+paravajjanupassissa: paravajjanupassin-, Adj,: one who finds faults with
+others. It is a compound of:
+    para-, Adj.: different, other.
+    vajja-, N.n.: fault, what should be avoided.
+    anupassin-, N.m.: contemplating, viewing, observing. Derived from the verb
+pass-, to see with the prefix anu-, on, at, down on. The word anupassana- N.f.:
+observation, contemplation. The suffix -in is so called possessive suffix (thus
+literally "having contemplation").
+Euphonic combination: paravajja- + anupassin- = paravajjanupassin-.
+Gen.Sg.m. = paravajjanupassissa.
+niccaj, Adv.: perpetually, constantly.
+ujjhanasabbino: ujjhanasabbin-, Adj.: irritable. It is a compound of:
+    ujjhana-, N.n.: taking offence, complaining.
+    sabbin-, Adj.: conscious, aware, perceiving. It is derived from the word
+sabba-, N.f.: perception by adding the possessive suffix -in.
+Gen.Sg.m. = ujjhanasabbino.
+List of Abbreviations
+asava: asava- N.m.: taint, corruption. Nom.Pl. = asava.
+tassa: tad-, Pron.: that. Gen.Sg.m. = tassa.
+vaddhanti, V.: grow, increase. The verb root is vaddh-. 3.Pl.act.in.pres. =
+vaddhanti.
+ara, Adv.Ind.: far from, remote from.
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+asavakkhaya: asavakkhaya-, N.m.: dissolution of taints. It is a compound of:
+    asava-, N.m.: see above.
+     khaya-, N.m.: destruction, dissolution, end.
+Abl.Sg. = asavakkhaya.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) paravajjanupassissa niccaj ujjhanasabbino asava tassa vaddhanti (who
+finds faults with others and is always irritable, his taints only grow). The
+subject is the noun asava (taints, nominative plural). It has an attribute, the
+pronoun tassa (his, genitive singular). This word has two attributes, the
+compounds paravajjanupassissa (of the one who finds faults with others,
+genitive singular) and ujjhanasabbino (of the one who is irritable, genitive
+singular). The last of them has its own attribute, the adverb niccaj (always).
+The verb is vaddhanti (grow, 3rd person, plural, active, indicative, present
+tense).
+    2) ara so asavakkhaya (he is far away from dissolution of taints). The
+subject is the pronoun so (he, nominative singular). The verb is omitted,
+implying the verb "to be". The object is the compound asavakkhaya (from
+dissolution of taints, ablative singular). It has an attribute, the adverb ara
+(far away).
+===============================================================================
+
+
+Commentary:
+    There was a monk named Ujjhana Sabbi. He was always finding faults with
+others, very easy to get angry and speaking ill of people. When the Buddha
+found out, he spoke this verse. He also added that sometimes finding faults
+with others is good. When we see somebody to misbehave and we try to teach him
+good ways - that is worthy of praise. But if we do it out of spite and malice,
+then we won't be able to achieve concentration and therefore we get further and
+further away from the Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+paravajjanupassissa
+para
+vajja
+anupassissa
+niccaj
+ujjhanasabbino
+ujjhana
+sabbino
+asava
+tassa
+vaddhanti
+ara
+so
+asavakkhaya
+asava
+khaya
+===============================================================================

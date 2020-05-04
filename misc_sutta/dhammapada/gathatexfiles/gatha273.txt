@@ -1,0 +1,129 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** magganatthavgiko settho saccanaj caturo pada ******
+         ****** virago settho dhammanaj dvipadanaj ca cakkhuma ******
+                            ****** (DhP 273) ******
+===============================================================================
+
+
+Sentence Translation:
+The Eightfold Path is the best of Paths. The best of truths are the Four
+Truths.
+The best of mental states is absence of passion. The best of people are the
+ones with insight.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+magganaj attha+avgiko    settho saccanaj  caturo      pada
+|                   |         |             |            |            
+|              |
+N.m.        Num. Adj.m.    Adj.m.    N.n.     Num.m.     N.n.
+Gen.Pl.         |   Nom.Sg. Nom.Sg. Gen.Pl.  Nom.Pl.  Nom.Pl.
+|                   |_____|             |            |             |________|
+|_____________|__________|            |____________|
+           |_______|
+List of Abbreviations
+virago      settho dhammanaj dvi+padanaj ca  cakkhuma
+|                  |              |             |          |        |          
+|
+N.m.       Adj.m.      N.m.     Num.   N.m.  conj.  Adj.m.
+Nom.Sg. Nom.Sg.  Gen.Pl.       |     Gen.Pl.   |     Nom.Sg.
+|                  |________|            |______|        |           |
+|______________|                         |________|______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+magganaj: magga-, N.m.: road, path. Gen.Pl. = magganaj.
+atthavgiko: atthavgika-, Adj.: eight-fold, having eight parts. It is a compound
+of:
+    attha-, Num. eight.
+    avgika-, Adj.: having a part, having a constituent. It is derived from the
+word avga-, N.n.: limb, part, constituent.
+Euphonic combination: attha- + avgika- = atthavgika-.
+Nom.Sg.m. = atthavgiko.
+Euphonic combination: magganaj + atthavgiko = magganatthavgiko.
+settho: settha-, Adj.: best. Nom.Sg.m. = settho.
+saccanaj: sacca-, N.n.: truth. Gen.Pl. = saccanaj.
+caturo: catur-, Num.: four. Nom.Pl.m. = caturo.
+pada: pada-, N.n.: saying, word, verse. Nom.Pl. = pada (instead of the correct
+form padani).
+List of Abbreviations
+virago: viraga-, N.m.: absence of desire, absence of passion. It is the word
+raga-, N.m.: desire, passion, with the prefix vi- (away from, without). Nom.Sg.
+= virago.
+settho: see above.
+dhammanaj: dhamma-, N.m.: here does not mean Buddha's teaching, but should be
+interpreted rather as "state of mind", "mental phenomena". Gen.Pl. = dhammanaj.
+dvipadanaj: dvipada-, N.m.: human being, biped. It is a compound of:
+    dvi-, Num.: two.
+    pada-, N.m.: foot, leg.
+Gen.Pl. = dvipadanaj.
+ca, conj.: and.
+cakkhuma: cakkhumant-, Adj.: seeing, having insight, having knowledge. It is
+the word cakkhu-, N.n.: eye, with the possessive suffix -mant. Nom.Sg.m. =
+cakkhuma.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) magganatthavgiko settho (the Eightfold [Path] is the best of Path). The
+subject is the adjective atthavgiko (eightfold, nominative singular). The verb
+is omitted, implying the verb "to be". It has an attribute, the noun magganaj
+(of paths, genitive plural). The object is the adjective settho (best,
+nominative singular).
+    2) saccanaj caturo pada (the best of truths are the Four Sentences). The
+subject is the noun pada (clauses, sentences; nominative plural). It has an
+attribute, the numeral caturo (four, nominative plural). The verb is omitted,
+implying the verb "to be". It has an attribute, the noun saccanaj (of truths,
+genitive plural).
+    3) virago settho dhammanaj (the best of mental states is absence of
+passion). The subject is the noun virago (absence of passion, nominative
+singular). The verb is omitted, implying the verb "to be". It has an attribute,
+the noun dhammanaj (of mental states, genitive plural). The object is the
+adjective settho (best, nominative singular).
+    4) dvipadanaj ca cakkhuma (the best of people are the ones with insight).
+The subject is the adjective cakkhuma (seeing, nominative singular). The verb
+is omitted, implying the verb "to be". It has an attribute, the noun dvipadanaj
+(of bipeds, genitive plural). The conjunction ca (and) serves mainly for
+metrical purposes, but it also connects this sentence to the previous ones.
+===============================================================================
+
+
+Commentary:
+    Once the Buddha with a group of monks returned to the Jetavana monastery
+after a teaching trip. In the evening, some monks talked about the trip, about
+the condition of the path, about the nature of the land, whether it was hilly
+or flat etc.
+    The Buddha entered the hall where they were talking and told them this
+verse (and the following ones, DhP 274, DhP 275 and DhP 276), saying that such
+talks were ultimately meaningless.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+magganaj
+atthavgiko
+attha
+avgiko
+settho
+saccanaj
+caturo
+pada
+virago
+dhammanaj
+dvipadanaj
+dvi
+padanaj
+ca
+cakkhuma
+===============================================================================

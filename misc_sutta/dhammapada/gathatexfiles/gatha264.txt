@@ -1,0 +1,115 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** na mundakena samano abbato alikaj bhanaj ******
+            ****** icchalobhasamapanno samano kij bhavissati ******
+                            ****** (DhP 264) ******
+===============================================================================
+
+
+Sentence Translation:
+One is not to be called a monk just because of his bald head, if one is immoral
+and speaking lies.
+How can someone who has desire and greed be called a monk?
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na mundakena samano  abbato    alikaj  bhanaj
+|           |              |             |             |           |
+neg.   Adj.        N.m.     Adj.m.     N.n.    Adj.m.
+|       Ins.Sg.   Nom.Sg. Nom.Sg. Acc.Sg. Nom.Sg.
+|______|              |             |             |______|
+      |                   |             |__________|
+      |___________|____________|
+               |______|
+List of Abbreviations
+iccha+lobha+samapanno samano kij bhavissati
+|             |            |               |         |          |
+N.f.    N.m.    Adj.m.       N.m.  Adv.   V.act.
+|_______|      Nom.Sg.   Nom.Sg.   |   3.Sg.pres.
+      |___________|               |         |______|
+                |______________|________|
+                            |_______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+mundakena: mundaka-, Adj.: bald, shaven (head). Ins.Sg. = mundakena.
+samano: samana-, N.m.: a recluse, a wandering ascetic, a monk (not only a
+Buddhist monk).
+Nom.Sg. = samano.
+abbato: abbata-, Adj.: immoral, breaking ethic precepts. It is derived from the
+word vata-, N.m.: religious duty, with the negative prefix a-. Nom.Sg.m. =
+abbato.
+alikaj: alika-, N.n.: falsehood, lie. Acc.Sg. = alikaj.
+bhanaj: bhanant-, Adj.: speaking. It is an a.pr.p. of the verb root bhan-.
+Nom.Sg.m. = bhanaj.
+List of Abbreviations
+icchalobhasamapanno: icchalobhasamapanna-, Adj.: having desire and greed. It is
+a compound of:
+    iccha-, N.f.: desire, longing.
+    lobha-, N.m.: greed.
+    samapanna-, Adj.: endowed with, possessed of. It is a p.p. of the verb pad-
+(to go to, to fall to) preceded by the prefixes sam- (denoting "together" or
+"completely") and a- (towards).
+Nom.Sg.m. = icchalobhasamapanno.
+samano: see above.
+kij: kij-, Inter.Pron.: who. Nom.Sg.n. = kij. Here rather means "how" and
+should be taken as an adverb.
+bhavissati, V.: will be. The verb root is bhu-. 3.Sg.act.fut. = bhavissati.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) na mundakena samano abbato alikaj bhanaj (one is not to be called a monk
+just because of his bald head, if one is immoral and speaking lies). The
+subject is the adjective abbato (immoral, nominative singular). It has an
+attribute, the active present participle bhanaj (speaking, nominative singular)
+with its attribute, the noun alikaj (lie, accusative singular). The verb is
+omitted, implying the verb "to be". It is negated by the negative particle na
+(not). The verb has an attribute, the adjective mundakena (by bald [head],
+instrumental singular). The object is the noun samano (monk, nominative
+singular).
+    2) icchalobhasamapanno samano kij bhavissati (how can someone who has
+desire and greed be called a monk). The subject is the compound
+icchalobhasamapanno (having desire and greed, nominative singular). The verb is
+bhavissati (will be, 3rd person, singular, active, future). It is modified by
+the interrogative pronoun kij (how). The object is the noun samano (monk,
+nominative singular).
+===============================================================================
+
+
+Commentary:
+    There was a monk named Hatthaka. He liked to argue with others. If he was
+defeated in an argument, he challenged his opponent to meet again at a
+specified place and time. Hatthaka would get to the place before the appointed
+time and would declare that the absence of his opponent means he acknowledges
+his defeat. Therefore he would boast he won the argument.
+    When the Buddha heard about this, he admonished Hatthaka by this verse (and
+the following one, DhP 265).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+mundakena
+samano
+abbato
+alikaj
+bhanaj
+icchalobhasamapanno
+iccha
+lobha
+samapanno
+kij
+bhavissati 
+===============================================================================

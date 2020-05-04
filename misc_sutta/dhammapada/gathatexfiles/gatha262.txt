@@ -1,0 +1,121 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** na vakkaranamattena vannapokkharataya va ******
+            ****** sadhurupo naro hoti issuki macchari satho ******
+                            ****** (DhP 262) ******
+===============================================================================
+
+
+Sentence Translation:
+Not only by the act of speech or by beauty of complexion
+is a man respectable, if he is envious, selfish and deceitful.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na    vak+karana+mattena vanna+pokkharataya va
+|         |         |            |           |                |           |
+neg. N.f.   N.n.     Adj.n.    N.m.         N.f.      conj.
+|         |_____|       Ins.Sg.       |          Ins.Sg.        |
+|              |_________|            |_________|           |
+|                      |_________________|                  |
+|                                     |___________________|
+|                                                       
+|_________________________I.
+|_________________________________________________________II.
+List of Abbreviations
+sadhu+rupo      naro         hoti         issuki  macchari  satho
+|             |            |               |              |            
+|            |
+Adj.  Adj.m.     N.m.     V.act.in.    Adj.m.    Adj.m.   Adj.m.
+|      Nom.Sg. Nom.Sg.  3.Sg.pres. Nom.Sg. Nom.Sg. Nom.Sg.
+|_______|            |                |              |_______|_______|
+II.__|__________|_________|                     |
+I.___|____|          |_____________________|
+        |__|                                |
+          |___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+vakkaranamattena: vakkaranamatta-, Adj.: just only act of speech. It is a
+compound of:
+    vak-, N.f.: speech.
+    karana-, N.n.: doing, acting. It is derived from the verb kar- (to do).
+    matta-, Adj.: measure, just only, mere.
+Ins.Sg. = vakkaranamattena.
+vannapokkharataya: vannapokkharata-, N.f.: beauty of complexion. Lit. beauty
+and splendidness. It is a compound of:
+    vanna-, N.m.: color, beauty.
+    pokkharata-, N.f.: splendidness, lotus-likeness. It is derived from the
+word pokkhara-, N.n.: lotus.
+Ins.Sg. = vannapokkharataya.
+va, conj.: or.
+List of Abbreviations
+sadhurupo: sadhurupa-, Adj.: good, respectable, having good appearance. It is a
+compound of:
+    sadhu-, Adj.: good, virtuous.
+    rupa-, N.n.: form, appearance, figure.
+Nom.Sg.m. = sadhurupo.
+naro: nara-, N.m.: man, person. Nom.Sg. = naro.
+hoti, V.: is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+issuki: issukin-, Adj.: envious, jealous. It is derived from the word issa-,
+N.f.: envy, jealousy. Nom.Sg.m. = issuki.
+macchari: maccharin-, Adj.: stingy, selfish, greedy. It is derived from the
+word macchera-, N.n.: avarice, stinginess, envy. Nom.Sg.m. = macchari.
+satho: satha-, Adj.: deceitful, treacherous, fraudulent. Nom.Sg.m. = satho.
+List of Abbreviations
+    The subject of this sentence is the noun naro (man, nominative singular).
+It has three attributes, the adjectives issuki (envious, nominative singular),
+macchari (selfish, nominative singular) and satho (deceitful, nominative
+singular). The verb is hoti (is, 3rd person, singular, active, indicative,
+present tense). It is negated by the negative particle na (not). The verb has
+two attributes, the compounds vakkaranamattena (only by the act of speech,
+instrumental singular) and vannapokkharataya (by beauty of complexion,
+instrumental singular). They are connected by the conjunction va (or). The
+object is the adjective sadhurupo (respectable, nominative singular).
+===============================================================================
+
+
+Commentary:
+The elder monks usually had some young novices as their students. It was custom
+that these novices would attend on their teachers, wash their robes, get water
+for them to drink and other small services. Some monks who had no students
+started to envy these elders. So they suggested to the Buddha that the novices
+should have more teachers to receive more guidance. Of course, the Buddha knew
+their real motive (to get some work done by the novices) so he refused this. He
+further admonished the monks by this verse (and the following one, DhP 263).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+vakkaranamattena
+vak
+karana
+mattena
+vannapokkharataya
+vanna
+pokkharataya
+va
+sadhurupo
+sadhu
+rupo
+naro
+hoti
+issuki
+macchari
+satho
+===============================================================================

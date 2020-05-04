@@ -1,0 +1,111 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** sukha matteyyata loke atho petteyyata sukha ******
+           ****** sukha samabbata loke atho brahmabbata sukha ******
+                            ****** (DhP 332) ******
+===============================================================================
+
+
+Sentence Translation:
+Being filial towards one's mother and father is good in this world.
+Good is to be a monk in this world. It is also good to be a true Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sukha    matteyyata loke    atho petteyyata  sukha
+|                   |            |          |           |             |
+Adj.f.        N.f.       N.m.   part.     N.f.       Adj.f.
+Nom.Sg. Nom.Sg. Loc.Sg.    |    Nom.Sg.   Nom.Sg.
+|___________|______|          |            |_______|
+           |_____|                     |___________|
+List of Abbreviations
+sukha    samabbata loke    atho brahmabbata   sukha
+|                   |            |          |            |                |
+Adj.f.        N.f.       N.m.   part.      N.f.          Adj.f.
+Nom.Sg. Nom.Sg. Loc.Sg.    |      Nom.Sg.    Nom.Sg.
+|___________|______|          |             |_________|
+         |______|                      |____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sukha: sukha-, Adj.: pleasant, agreeable, good. Nom.Sg.f. = sukha.
+matteyyata: matteyyata-, N.f.: filial love towards one's mother. It is an
+abstract from the word matteyya-, Adj.: reverential towards one's mother. This
+word is derived from the word matar-, N.f.: mother. Nom.Sg. = matteyyata.
+loke: loka-, N.m.: world. Loc.Sg. = loke.
+atho, part.: and, also, further.
+petteyyata: petteyyata-, N.f.: filial love towards one's father. It is an
+abstract from the word petteyya-, Adj.: reverential towards one's father. This
+word is derived from the word pitar-, N.m.: father.
+Nom.Sg. = petteyyata.
+List of Abbreviations
+sukha: see above.
+samabbata: samabbata-, N.f.: monkshood. It is an abstract from the word
+samana-, N.m.: monk, recluse. Nom.Sg. = samabbata.
+loke: see above.
+atho: see above.
+brahmabbata: brahmabbata-, N.f.: Brahminship, the state of a Brahmin. The
+meaning of this word is not "a member of the Brahmin caste", but rather "a true
+Brahmin", a spiritual person. It is an abstract from the word brahmana-, N.m.:
+Brahmin. Nom.Sg. = brahmabbata.
+sukha: see above.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) sukha matteyyata loke (being filial towards one's mother is good in this
+world). The subject is the noun matteyyata (filial love towards one's mother,
+nominative singular). The verb is omitted, implying the verb "to be". It has an
+attribute, the noun loke (in [this] world, locative singular). The object is
+the adjective sukha (good, nominative singular).
+    2) atho petteyyata sukha (being filial towards one's father is good in this
+world). The subject is the noun petteyyata (filial love towards one's father,
+nominative singular). The verb is omitted, implying the verb "to be". The
+object is the adjective sukha (good, nominative singular). Sentence is
+introduced by the particle atho (then, also).
+    3) sukha samabbata loke (good is to be a monk in this world). The subject
+is the noun samabbata (monkshood, nominative singular). The verb is omitted,
+implying the verb "to be". It has an attribute, the noun loke (in [this] world,
+locative singular). The object is the adjective sukha (good, nominative
+singular).
+    4) atho brahmabbata sukha (it is also good to be a true Brahmin). The
+subject is the noun brahmabbata (Brahminship, nominative singular). The verb is
+omitted, implying the verb "to be". The object is the adjective sukha (good,
+nominative singular). Sentence is introduced by the particle atho (then, also).
+
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 331) and the following one (DhP 333).
+    Filial love towards one's parents is (or should be) one of the basic
+foundations of our society even now, not to speak of the Buddha's times, when
+it was actually a crime not to look after one's parents (see the story for the
+verse in DhP 324). In this verse, the Buddha says that being a monk and
+reaching the state of a true Brahmin (which equals attaining the Awakenment) is
+as important as to love one’s parents. Maybe even more important - if we are
+able to reach Awakenment while our parents are still alive, we can teach them
+and help them on their own way towards this goal.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sukha
+matteyyata
+loke
+atho
+petteyyata
+samabbata
+brahmabbata
+===============================================================================

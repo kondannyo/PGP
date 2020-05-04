@@ -1,0 +1,118 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** sukhaj yava jara silaj sukha saddha patitthita ******
+         ****** sukho pabbaya patilabho papanaj akaranaj sukhaj ******
+                            ****** (DhP 333) ******
+===============================================================================
+
+
+Sentence Translation:
+It is good to be virtuous until you are old. Good is a firmly established
+trust.
+Good is to attain wisdom. To abstain from doing evil is good.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sukhaj     yava         jara      silaj      sukha    saddha  patitthita
+|                   |               |            |             |            
+|             |
+Adj.n.     Rel.Adv.     N.f.       N.n.       Adj.f.      N.f.       Adj.f.
+Nom.Sg.       |        Nom.Sg. Nom.Sg. Nom.Sg. Nom.Sg. Nom.Sg.
+|                   |_________|           |             |             |_______|
+
+|                           |___________|             |___________|
+|____________________|
+List of Abbreviations
+sukho     pabbaya  patilabho papanaj akaranaj  sukhaj
+|                  |               |              |              |             
+|
+Adj.m.      N.f.         N.m.       N.n.         N.n.       Adj.n.
+Nom.Sg. Gen.Sg.   Nom.Sg.  Gen.Pl.    Nom.Sg.  Nom.Sg.
+|                  |________|               |________|             |
+|______________|                               |___________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sukhaj: sukha-, Adj.: pleasant, agreeable, good. Nom.Sg.n. = sukhaj.
+yava, Rel.Adv.: as long as, as far as.
+jara: jara-, N.f.: old age. Nom.Sg. = jara.
+silaj: sila-, N.n.: virtue. Nom.Sg. = silaj.
+sukha: sukha-, Adj.: pleasant, agreeable, good. Nom.Sg.f. = sukha.
+saddha: saddha-, N.f.: trust, confidence, faith. Nom.Sg. = saddha.
+patitthita: patitthita-, Adj.: established, fixed, firm. It is a p.p. of the
+verb root tha- (to stand) with the prefix pati- (against). Nom.Sg.f. =
+patitthita.
+List of Abbreviations
+sukho: sukha-, Adj.: pleasant, agreeable, good. Nom.Sg.m. = sukho.
+pabbaya: pabba-, N.f.: wisdom. Gen.Sg. = pabbaya.
+patilabho: patilabha-, N.m.: obtaining, attainment. It is derived from the verb
+root labh- (to get) with the prefix pati- (on to, at). Nom.Sg. = patilabho.
+papanaj: papa-, Adj.: evil, wrong. As an N.n.: evil, wrong doing. Gen.Pl. =
+papanaj.
+akaranaj: akarana-, N.n.: non-doing, absence of action. The word karana-
+(doing, acting) is derived from the verb kar-, to do. The word is negated by
+the negative prefix a- (not). Nom.Sg.: akaranaj.
+sukhaj: see above.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) sukhaj yava jara silaj (it is good to be virtuous until you are old).
+The subject is the noun silaj (virtue, nominative singular). It has an
+attribute, the noun jara (old age, nominative singular) with its attribute, the
+relative adverb yava (until, up to). The verb is omitted, implying the verb "to
+be". The object is the adjective sukhaj (good, nominative singular).
+    2) sukha saddha patitthita (good is a firmly established trust). The
+subject is the noun saddha (trust, nominative singular). It has an attribute,
+the adjective patitthita (established, nominative singular). The verb is
+omitted, implying the verb "to be". The object is the adjective sukha (good,
+nominative singular).
+    3) sukho pabbaya patilabho (good is to attain wisdom). The subject is the
+noun patilabho (attainment, nominative singular). It has an attribute, the noun
+pabbaya (of wisdom, genitive singular). The verb is omitted, implying the verb
+"to be". The object is the adjective sukho (good, nominative singular).
+    4) papanaj akaranaj sukhaj (to abstain from doing evil is good). The
+subject is the noun akaranaj (non-doing, nominative singular). It has an
+attribute, the noun papanaj (of evil deeds, genitive plural). The verb is
+omitted, implying the verb "to be". The object is the adjective sukhaj (good,
+nominative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the two previous
+verses (DhP 331 and DhP 332).
+    Virtue is the first and the most important factor that we must firmly
+establish before we start on the way towards the Awakenment. Abstaining from
+evil can of course be seen as a part of a moral life, but special emphasis is
+being put on this, because it is the first basic part of morality. Then there
+is trust, confidence that the way is truly leading towards the goal, that the
+methods described by the Buddha really work. And then can we start cultivating
+our minds in meditation in order to attain wisdom and achieve the Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sukhaj
+yava
+jara
+silaj
+sukha
+saddha
+patitthita
+sukho
+pabbaya
+patilabho
+papanaj
+akaranaj
+===============================================================================

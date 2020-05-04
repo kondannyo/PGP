@@ -1,0 +1,135 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** vanijo va bhayaj maggaj appasattho mahaddhano ******
+             ****** visaj jivitukamo va papani parivajjaye ******
+                            ****** (DhP 123) ******
+===============================================================================
+
+
+Sentence Translation:
+Like a merchant with a small caravan and a lot of money would avoid a dreadful
+path,
+like someone who wants to live would avoid a poison, so should one avoid evil.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+vanijo    va   bhayaj maggaj appa+sattho  maha+ddhano
+|              |          |           |           |        |          
+|         |
+N.m.     part.  Adj.m.   N.m.    Adj.   N.m.    Adj.   N.m.
+Nom.Sg.  |     Acc.Sg. Acc.Sg.     |   Nom.Sg.    |   Nom.Sg.
+|              |          |______|            |____|            |_____|
+|________|________|_____________|___________|
+               |               |______|
+               |___________|
+                         |____________________________________________________
+List of Abbreviations
+visaj   jivitu+kamo     va   papani parivajjaye
+|               |        |           |         |            |
+N.n.     V.inf.  N.m.    part.   N.n.     V.act.
+Acc.Sg.    |    Nom.Sg.   |    Acc.Sg. 3.Sg.opt.
+|               |____|            |         |            |
+|___________|               |         |            |
+          |______________|         |            |
+____________|_____________|_______|
+                                |_______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+vanijo: vanija-, N.m.: merchant, trader. Nom.Sg. = vanijo.
+va, part.: as, like.
+bhayaj: bhaya-, N.n.: fear, dread. As an Adj.: dreadful, frightful. Acc.Sg.m. =
+bhayaj.
+maggaj: magga-, N.m.: road, path. Acc.Sg. = maggaj.
+appasattho: appasattha-, Adj.: having a small caravan. It is a compound of:
+    appa-, Adj.: few, little.
+    sattha-, N.m.: caravan.
+Nom.Sg.m. = appasattho.
+mahaddhano: mahaddhana-, Adj.: having much money. It is a compound of:
+    mahant-, Adj.: big, great, much. The compound form used here: maha-.
+    dhana-, N.n.: wealth, money.
+    Euphonic combination: maha- + dhana- = mahaddhana-.
+Nom.Sg.m. = mahaddhano.
+List of Abbreviations
+visaj: visa-, N.n.: poison. Acc.Sg. = visaj.
+jivitukamo: jivitukama-, Adj.: one who wishes to live. It is a compound of:
+    jivituj, V.inf.: to live. It is an infinitive of the verb root jiv- (to
+live). The compound form: jivitu-.
+    kama-, N.m.: wish, desire.
+Nom.Sg.m. = jivitukamo.
+va, part.: as, like.
+papani: papa-, Adj.: evil, wrong. As an N.n.: evil, wrong doing. Nom.Pl. =
+papani.
+parivajjaye, V.: should avoid, should keep away from. The verb root is vajj-
+(to avoid) with the prefix pari- (all around). 3.Sg.act.opt. = parivajjaye.
+List of Abbreviations
+    The main sentence in this verse is papani parivajjaye (one should avoid
+evil). The subject is omitted; the verb implies the third person singular
+pronoun. The verb is parivajjaye (one should avoid, 3rd person, singular,
+active, optative). The object is papani (evils, accusative plural). There are
+two clauses to this sentence:
+    1) vanijo va bhayaj maggaj appasattho mahaddhano (like a merchant with a
+small caravan and a lot of money would avoid a dreadful path). The subject of
+this sentence is the noun vanijo (merchant, nominative singular). It has two
+attributes, the compounds appasattho (with a small caravan, nominative
+singular) and mahaddhano (with a lot of money, nominative singular). The verb
+is omitted; parivajjaye from the main sentence is implied. The object is the
+noun maggaj (path, accusative singular) with its attribute, the noun/adjective
+bhayaj (dreadful, accusative singular). The particle va (like) connects the
+clause to the main sentence.
+    2) visaj jivitukamo va (like someone who wants to live would avoid a
+poison). The subject is the compound jivitukamo (one who wishes to live,
+nominative singular). The verb is again omitted; as before, the verb
+parivajjaye from the main sentence is implied. The object is the noun visaj
+(poison, accusative singular). The particle va (like) connects the clause to
+the main sentence.
+===============================================================================
+
+
+Commentary:
+    In Savatthi there lived a rich merchant named Maha Dhana. A group of
+robbers wanted to rob him. Maha Dhana decided to make a journey with a lot of
+valuable merchandise. He invited some monks who wanted to go on the same
+journey to go with him. The robbers hid themselves in a forest and waited for
+Maha Dhana's caravan. But Maha Dhana found out about their plan and decided to
+stop just in front of the forest and wait for the robbers to leave. When they
+did not do so, Maha Dhana decided to go back home. The robbers found out and
+planned to attack him on the return journey. Some people told Maha Dhana about
+this and so he stopped in the village and stayed there for some time.
+    The monks returned back to Savatthi and told the Buddha what happened.
+Buddha told them this verse, saying, that a merchant is wise to keep away from
+the journey full of robbers. Also one who wants to live better keep away from
+poison. And those, who want to attain Awakenment, should avoid evil.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+vanijo
+va
+bhayaj
+maggaj
+appasattho
+appa
+sattho
+mahaddhano
+maha
+dhano
+visaj
+jivitukamo
+jivitu
+kamo
+papani
+parivajjaye
+===============================================================================

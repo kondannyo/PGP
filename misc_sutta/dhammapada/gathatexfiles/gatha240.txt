@@ -1,0 +1,149 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+      ****** ayasa va malaj samutthitaj tatutthaya tam eva khadati ******
+       ****** evaj atidhonacarinaj sani kammani nayanti duggatij ******
+                            ****** (DhP 240) ******
+===============================================================================
+
+
+Sentence Translation:
+Just like rust eats the very iron from which it has arisen,
+so the one who is indulging too much in the use of four requisites of a monk is
+led to a miserable existence by his own deeds.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+ayasa    va   malaj samutthitaj tat+utthaya   tam    eva   khadati
+|             |         |             |            |         |         
+|         |          |
+N.n.    part.   N.n.      Adj.n.    Pron. V.ger. Pron.n. part.  V.act.in.
+Abl.Sg.   |   Nom.Sg. Nom.Sg.      |_____|    Acc.Sg.    |    3.Sg.pres.
+|_______|_____|________|                 |              |_____|          |
+             |     |__|                               
+|__________|                |
+             |       |                                           
+|______________|
+             |       |_______________________________|
+             |___________________|
+                            
+|____________________________________________________
+List of Abbreviations
+evaj atidhonacarinaj sani  kammani    nayanti  duggatij
+|                   |                |           |               |            
+|
+Adv.       Adj.m.       Adj.n.     N.n.      V.act.in.     N.f.
+|             Acc.Sg.     Nom.Pl. Nom.Pl.  3.Pl.pres. Acc.Sg.
+|                   |                |______|               |________|
+|                   |____________|________________|
+|                              |______|
+|____________________|
+__________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+ayasa: ayo-, N.n.: iron. Abl.Sg. = ayasa.
+va, part.: as, like.
+malaj: mala-, N.n.: impurity, stain, dirt. Nom.Sg. = malaj.
+samutthitaj: samutthita-, Adj.: arisen, originated. It is a p.p. of the verb
+root tha- (to stand) with the prefixes sam- (together) and ut- (up). Nom.Sg.n.
+= samutthitaj.
+tatutthaya, V.ger.: having arisen from it. It is a compound of:
+    tat-, Pron.: it, that.
+    utthaya, V.ger.: having arisen. The verb root is tha- (to stand) with the
+prefix ut- (up).
+tam: tad-, Pron.: that. Nom.Sg.n. = tam.
+List of Abbreviations
+eva, part.: just, only.
+khadati, V.: eats. The verb root is khad-. 3.Sg.act.in.pres. = khadati.
+evaj, Adv.: thus, in this way.
+atidhonacarinaj: atidhonacarin-, Adj.: indulging too much in the use of four
+requisites of a monk. It is the word dhonacarin-, Adj.: using the four
+requisites of a monk, with the prefix ati- (overly, too much). This word is a
+compound of:
+    dhona-, N.n.: one of four requisites of a monk. Meant are: 1) robes, 2)
+almsfood, 3) shelter and 4) medicine.
+    carin-, Adj.: living, acting. Derived by the suffix -in from the verb car-
+(to walk, to act).
+Acc.Sg.m. = atidhonacarinaj.
+List of Abbreviations
+sani: sa-, Adj.: one's own. Nom.Pl.n. = sani.
+kammani: kamma-, N.n.: deed, action. Derived from the verb kar- (to do).
+Nom.Pl. = kammani.
+nayanti, V.: lead. The verb root is ni-. 3.Pl.act.in.pres. = nayanti.
+duggatij: duggati-, N.f.: a miserable existence, a realm of misery, undesirable
+rebirth. Composed of:
+    du-, pref.: bad, difficult.
+    gati-, N.f.: existence, rebirth. Derived from the verb gam- (to go).
+Acc.Sg. = duggatij.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) ayasa va malaj samutthitaj tatutthaya tam eva khadati (just like rust
+eats the very iron from which it has arisen). The subject is the noun malaj
+(rust, nominative singular). It has an attribute, the past participle
+samutthitaj (arisen) with its own attribute, the noun ayasa (from iron,
+ablative singular). The verb is khadati (eats, 3rd person, singular, active,
+indicative, present tense). The object is the pronoun tam (that, accusative
+singular). It has an attribute, the compound tatutthaya (having arisen from
+that). It is further stressed by the particle eva (just). The particle va (as,
+like) introduces the sentence and connects it to the following one.
+    2) evaj atidhonacarinaj sani kammani nayanti duggatij (so the one who is
+indulging too much in the use of four requisites of a monk is led to a
+miserable existence by his own deeds). The subject is the noun kammani (deeds,
+nominative plural) with its attribute, the adjective sani (one's own,
+nominative plural). The verb is nayanti (lead, 3rd person, plural, active,
+indicative, present tense). It has an attribute, the noun duggatij (miserable
+existence, accusative singular). The object is the adjective atidhonacarinaj
+(one who is indulging too much in the use of four requisites of a monk,
+accusative singular). The sentence is introduced by the adverb evaj (thus),
+which connects it to the previous sentence.
+===============================================================================
+
+
+Commentary:
+    A certain monk named Tissa received a beautiful robe and was very happy. He
+prepared to wear them the next day, but that very night he died. Because he was
+too attached to the robe, he was born as an insect in it.
+    The monks decided to share his former robe amongst themselves. The insect
+was very angry and shouted, "They are destroying my robe!" The Buddha heard
+this and told the monks to leave the robe untouched for seven days.
+    Later the insect died and was reborn in a happy state because of his former
+good deeds. The Buddha explained to the monks that if they were to use the robe
+while the insect was stile alive, he would feel hate and anger and would have
+to be born in miserable existence. The Buddha then told this verse, saying that
+the monks should not be attached to anything, especially not to their four
+requisites.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+ayasa
+va
+malaj
+samutthitaj
+tatutthaya
+tat
+utthaya
+tam
+eva
+khadati
+evaj
+atidhonacarinaj
+dhona
+carinaj
+sani
+kammani
+nayanti
+duggatij
+===============================================================================

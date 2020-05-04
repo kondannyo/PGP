@@ -1,0 +1,119 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+            ****** aciraṃ vatayaṃ kāyo pathaviṃ adhisessati ******
+          ****** chuddho apetaviññāṇo niratthaṃ va kaliṅgaraṃ ******
+                            ****** (DhP 41) ******
+===============================================================================
+
+Sentence Translation:
+Alas! Before long will this body lay upon the ground,
+rejected, devoid of consciousness, like a worthless log.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+aciraṃ vata    ayaṃ         kāyo     pathaviṃ adhisessati
+|            |            |               |               |               |
+Adv.    Int.    Pron.m.      N.m.         N.f.        V.act.
+|            |       Nom.Sg.   Nom.Sg.   Acc.Sg.   3.Sg.fut.
+|            |            |________|                |________|
+|_______|__________|__________________|
+       |___|                  |___________________________________________I.
+                                                      
+|______________________________II.
+List of Abbreviations
+chuddho apeta+viññāṇo niratthaṃ    va kaliṅgaraṃ
+|                |          |               |           |          |
+Adj.m.    Adj.    N.m.       Adj.n.    part.    N.n.
+Nom.Sg.    |     Nom.Sg.  Nom.Sg.    |     Nom.Sg.
+|                |_____|                |______|______|
+|____________|                         |___|
+I._____|                                       |
+II.__________________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+aciraṃ, Adv.: before long, shortly. Derived from the word acira-, Adj.: short
+(time), which is a negated (by the negative prefix a-) word cira-, Adj.: long
+(time).
+vata, Int.: alas! Euphonic combination: vata + ayaṃ = vatayaṃ.
+ayaṃ: idaṃ, Pron.: this. Nom.Sg.m. = ayaṃ.
+kāyo: kāya-, N.m.: body. Nom.Sg. = kāyo.
+List of Abbreviations
+pathaviṃ: pathavī-, N.f.: earth, ground. Acc.Sg. = pathaviṃ.
+adhisessati, V.: will lay on. The verb si- (to lay) with the prefix adhi- (on,
+upon).
+3.Sg.act.fut. = adhisesssati.
+chuddho: chuddha-, Adj.: rejected, thrown away, discarded. Nom.Sg.m. = chuddho.
+List of Abbreviations
+apetaviññāṇo: apetaviññāṇa-, Adj.: without consciousness. A compound of:
+    apeta-, Adj.: gone away, freed of, deprived of. It is p.p. of the verb i-
+(to go) with
+    the verb apa- (away).
+    viññāṇa-, N.n.: consciousness.
+Nom.Sg.m. = apetaviññāṇo.
+List of Abbreviations
+niratthaṃ: nirattha-, Adj.: worthless. The word attha-, N.n.: meaning, worth,
+goal with the prefix nir- (without, -less). Nom.Sg.n. = niratthaṃ.
+va, part.: as, like.
+kaliṅgaraṃ: kaliṅgara-, N.n.: log, a piece of wood. Nom.Sg. =kaliṅgaraṃ.
+List of Abbreviations
+    The subject of the main sentence is the word kāyo (body, nominative
+singular). It has three attributes: the pronoun ayaṃ(this, nominative
+singular), the adjective chuddho (discarded, nominative singular) and the
+compound apetaviññāṇo (devoid of consciousness, nominative singular). The verb
+is adhisessati (will lay upon, 3rd person, singular, active, future tense). It
+has one attribute, the adverb aciraṃ (shortly, before long). The object is the
+noun pathaviṃ (on the ground, accusative singular). The interjection vata
+(alas) is syntactically independent.
+    The sentence has a clause, niratthaṃ va kaliṅgaraṃ (like a worthless log).
+The noun kaliṅgaraṃ (log, nominative singular) is the subject of this clause.
+It has an attribute, the adjective niratthaṃ (worthless, nominative singular).
+The verb and object are omitted, both of them are to be taken from the main
+sentence (i.e. pathaviṃ adhissesati). The particle va (as, like) connects the
+clause to the main sentence.
+===============================================================================
+
+Commentary:
+    There was a monk called Thera Tissa. He diligently meditated and had many
+students, but then he was afflicted with a disease. Small boils appeared all
+over his body, and then big sores developed from them. Later sores burst,
+emitting pus and blood; his robes became dirty and stinky. The monks called him
+Pūtigatatissa, Tissa with stinking body. They kept away from him, even his
+pupils abandoned him, and nobody would go near him.
+    The Buddha saw his sorrowful state, saw that he would soon die, but that he
+could also attain arahantship very quickly. So the Buddha went to the fire-shed
+close to the place, where the Thera was living. He boiled some water, went to
+the monk's room and started to carry him out. Other monks also gathered and
+helped him to carry the sick Thera out. They brought him to the fire-shed,
+bathed him and washed his robes.
+    After taking the bath, the monk became fresh in body and mind, he developed
+one-pointedness and concentration. The Buddha then related this verse (DhP 41)
+and Thera Tissa became an arahant immediately. Soon after that he passed away.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+aciraṃ
+vata
+ayaṃ
+kāyo
+pathaviṃ
+adhisessati
+chuddho
+apetaviññāṇo
+apeta
+viññāṇo
+niratthaṃ
+va
+kaliṅgaraṃ
+===============================================================================

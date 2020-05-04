@@ -1,0 +1,144 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** yo ca vassasataj jive kusito hinaviriyo ******
+          ****** ekahaj jivitaj seyyo viriyam arabhato dalhaj ******
+                            ****** (DhP 112) ******
+===============================================================================
+
+
+Sentence Translation:
+Who would live for hundred years, indolent and of poor effort,
+better is the life for one day of somebody who has undertaken a firm effort.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yo             ca vassa+sataj       jive      kusito  hina+viriyo
+|                  |       |         |             |            |         
+|         |
+Rel.Pron.  conj. N.n. Num.n.   V.act.    Adj.m.  Adj.   N.m.
+Nom.Sg.      |       |    Acc.Sg. 3.Sg.opt. Nom.Sg.   |   Nom.Sg.
+|                  |       |         |             |            |         
+|_____|
+|__________|       |_____|             |            |________|
+         |____________|__________|___________|
+                    |           |__________|
+                    |___________|
+                              |_______________________________________________
+List of Abbreviations
+eka+ahaj      jivitaj    seyyo   viriyam arabhato dalhaj
+|           |             |             |            |            |           
+|
+Num. N.n.       N.n.      Adj.n.     N.n      Adj.m.  Adj.n.
+|     Nom.Sg. Nom.Sg. Nom.Sg. Acc.Sg. Gen.Sg. Acc.Sg.
+|______|              |             |            |_______|_______|
+     |                    |             |                    |___|
+     |___________|             |                       |
+               |_____________|_____________|
+                            |______|
+___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+ca, conj.: and.
+vassasataj: vassasata-, N.n.: hundred years, century. It is a compound of:
+    vassa-, N.n.: year.
+    sata-, Num.n.: hundred.
+Acc.Sg. = vassasataj.
+jive, V.: should live. The verb root is jiv-. 3.Sg.act.opt. = jive.
+kusito: kusita-, Adj.: indolent, inactive. Nom.Sg.m.: kusito.
+hinaviriyo: hinaviriya-, Adj.: having poor strength. A compound of
+    hina-, Adj.: poor, inferior. It is p.p. of the verb ha- (to reject).
+    viriya-, N.n.: energy, vigor, effort. The form viriya- is used because of
+metrical requirements.
+Nom.Sg.m. = hinaviriyo.
+List of Abbreviations
+ekahaj: ekaha-, N.n.: one day. It is a compound of:
+    eka-, Num.: one.
+    aha-, N.n.: day.
+Euphonic combination: eka- + aha- = ekaha-.
+Nom.Sg. = ekahaj.
+jivitaj: jivita-, N.n.: life. Originally it is a p.p. of the verb jiv- (to
+live). Nom.Sg. = jivitaj.
+seyyo: seyya-, Adj.: better. Nom.Sg.n. = seyyo.
+viriyam: viriya-, N.n.: energy, vigor, effort. Acc.Sg. = viriyam.
+arabhato: arabhant-, Adj.: undertaking, beginning with. It is an a.pr.p. of the
+verb rabh- (to begin with, to undertake) with the prefix a- (here as an
+intensifying prefix). Gen.Sg.m. = arabhato.
+dalhaj: dalha-, Adj.: strong, resolute, firm. Acc.Sg.n. = dalhaj.
+List of Abbreviations
+    This verse consists of two related sentences. They both form the first and
+the second lines of this verse respectively.
+    In the first sentence, the subject is the relative pronoun yo (who,
+nominative singular). It has two attributes, the adjectives kusito (indolent,
+nominative singular) and hinaviriyo (having a poor effort, nominative
+singular). The verb is jive (should live, 3rd person, singular, active,
+optative). It has an attribute, the compound vassasataj (hundred years,
+accusative singular). The conjunction ca (and) serves only for metrical
+purposes.
+    In the second line, the subject is the adjective/noun jivitaj (life,
+nominative singular). It has two attributes. First of them is the compound
+ekahaj (one day, nominative singular). Second is the adjective arabhato (of
+somebody who is undertaking, genitive singular). This word has an attribute,
+the noun viriyam (effort, accusative singular) and it in turn has the adjective
+dalhaj (firm, accusative singular) as an attribute. The object is the adjective
+seyyo (nominative singular). The verb is omitted, implying the verb "to be".
+===============================================================================
+
+
+Commentary:
+    There was a certain monk named Sappadasa, who was not happy with his life
+in the monastery. Although he tried his best, he could not attain Awakenment
+therefore he felt he was unable to do it and wanted to return to the worldly
+life. But he thought that would be very humiliating for him to do so. He
+contemplated his options and at the end he decided to commit suicide. He tried
+to put his hand into a pot with snakes but the snakes would not bite him. So he
+took a razor and wanted to cut his throat. He put the razor on his throat, but
+as he was about to cut himself, he reflected on his life as a monk. He realized
+that he had led a pure life, full of morality and spirituality. He became full
+of satisfaction and happiness. Then he detached himself from these feelings and
+reached Awakenment instantly.
+    The other monks asked him what happened to him and he told them his story.
+They went to ask the Buddha if it was possible for someone to attain
+Arahantship while attempting suicide. The Buddha replied with this verse,
+saying that indeed it was possible. He added that in reaching the Awakenment,
+time and space is not really relevant. It is possible to reach it while
+walking, before one's foot touches the ground.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yo
+ca
+vassasataj
+vassa
+sataj
+jive
+kusito
+hinaviriyo
+hina
+viriyo
+ekahaj
+eka
+ahaj
+jivitaj
+seyyo
+viriyam
+arabhato
+dalhaj
+===============================================================================
+
+ 
+ 

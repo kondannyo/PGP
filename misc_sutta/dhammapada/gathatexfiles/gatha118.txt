@@ -1,0 +1,125 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** pubbaj ce puriso kayira kayira naj punappunaj ******
+          ****** tamhi chandaj kayiratha sukho pubbassa uccayo ******
+                            ****** (DhP 118) ******
+===============================================================================
+
+
+Sentence Translation:
+Should a person do good, let him do it again and again.
+One should wish for it. Accumulation of good is pleasant.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+pubbaj ce    puriso      kayira    kayira       naj punappunaj
+|              |         |              |             |            
+|            |
+N.n.     part.   N.m.      V.act.     V.act.     Pron.n.   Adv.
+Acc.Sg.   |    Nom.Sg. 3.Sg.opt. 3.Sg.opt.  Acc.Sg.      |
+|              |_____|_______|              |_______|_______|
+|                 |___|                                   |___|
+|___________|                                         |
+         |_____________________________|
+List of Abbreviations
+tamhi  chandaj kayiratha sukho  pubbassa  uccayo
+|                |             |            |             |            |
+Pron.n.   N.m.    V.med.   Adj.m.     N.n.      N.m.
+Loc.Sg. Acc.Sg. 3.Sg.opt. Nom.Sg. Gen.Sg. Nom.Sg.
+|_________|             |            |             |_______|
+        |____________|            |___________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+pubbaj: pubba-, N.n.: good deed, meritorious deed, merit. Acc.Sg. = pubbaj.
+ce, part.: if.
+puriso: purisa-, N.m.: person. Nom.Sg. = puriso.
+kayira, V.: would do. The verb root is kar- (to do). 3.Sg.act.opt. = kayira.
+naj: ena-, Pron.: it. In Pali used only in Acc.Sg.m.: naj (him).
+punappunaj, Adv.: again and again. It is the word puna, Ind.: again, doubled in
+intensifying sense. The double -p- is a result of the euphonic combination.
+List of Abbreviations
+tamhi: tad-, Pron.: that. Loc.Sg.n. = tamhi.
+chandaj: chanda-, N.m.: wish, desire, intention. Acc.Sg. = chandaj.
+kayiratha, V.: should do. The verb root is kar- (to do). 3.Sg.med.opt. =
+kayiratha.
+sukho: sukha-, Adj.: pleasant, agreeable, good. Nom.Sg.m. = sukho.
+pubbassa: pubba-, N.n.: see above. Gen.Sg. = pubbassa.
+uccayo: uccaya-, N.m.: heaping up, accumulation. It is derived from the verb
+root ci- (to collect) with the prefixud-(up). Nom.Sg. = uccayo.
+List of Abbreviations
+    This verse contains three syntactically separate sentences. They are:
+    1) pubbaj ce puriso kayira kayira naj punappunaj (should a person do good,
+let him do it again and again). This can be further subdivided into two parts:
+    a) pubbaj ce puriso kayira (should a person do good). The subject is the
+noun puriso (person, nominative singular). The verb is kayira (should do, 3rd
+person, singular, active, optative). It is modified by the particle ce (if).
+The object is the noun pubbaj (evil, accusative singular).
+    b) kayira naj punappunaj (let him do it again and again). The subject is
+omitted; the word puriso from the first sentence is implied. The verb is kayira
+(should do, 3rd person, singular, active, optative). The adverb punappunaj
+(again and again) forms an attribute to the verb. The object is the pronoun naj
+(it, accusative singular).
+    2) tamhi chandaj kayiratha (one should wish for it, lit.: one should make a
+wish in it). As above, the subject is omitted, implying the noun puriso from
+the first sentence. The verb is kayiratha (should do, 3rd person, singular,
+medium, optative). The object is the noun chandaj (wish, accusative singular)
+with its attribute, the pronoun tamhi (in it, locative singular).
+    3) sukho pubbassa uccayo (accumulation of good is pleasant). The subject is
+the noun uccayo (accumulation, nominative singular). It has an attribute, the
+noun pubbassa (of good, genitive singular). The object is the adjective sukho
+(pleasant, nominative singular). The verb is omitted, implying the verb "to
+be".
+===============================================================================
+
+
+Commentary:
+    Venerable Mahakassapa once stayed in a cave, practicing meditation for
+seven days. When he arose from his meditation he wanted to give somebody a
+chance to gain merit by offering him food. He saw a young girl cooking meal. So
+he stood by her door looking for almsfood. She saw him and happily offered him
+some food, wishing that the merit gained offering might help her to realize the
+truth.
+    After some time she was bitten by a snake and died. She was reborn as a
+goddess in Tavatimsa heaven.
+    She understood that she was reborn there only because of the merit gained
+by offering almsfood to Kassapa. She wished to continue doing good deeds. So
+every morning she would come to the monastery, sweep the floor and fill the
+water-pots. At first Kassapa thought that some diligent young novice was doing
+this service, but later he found out that a goddess performed them all. He
+advised her not to come to the monastery too often, because people might start
+talking, if they saw her often there. She was quite upset and begged him not to
+destroy her chances for gaining more merit.
+    The Buddha heard her and supported Kassapa's opinion. He told her that
+although performing good deeds was very pleasant, she should not continue
+coming to the monastery every day.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+pubbaj
+ce
+puriso
+kayira
+naj
+punappunaj
+puna
+tamhi
+chandaj
+kayiratha
+sukho
+pubbassa
+uccayo
+===============================================================================

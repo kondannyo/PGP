@@ -1,0 +1,111 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** tatrabhiratij iccheyya hitva kame akibcano ******
+           ****** pariyodapeyya attanaj cittaklesehi pandito ******
+                            ****** (DhP 88) ******
+===============================================================================
+
+
+Sentence Translation:
+A wise one should want delight there, having renounced the sense-pleasures,
+without anything and having cleansed himself from the impurities of mind.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+tatra abhiratij iccheyya hitva  kame  akibcano
+|             |             |           |         |            |
+Adv.    N.f.      V.act.   V.ger.   N.m.    Adj.m.
+|       Acc.Sg.  3.Sg.opt.     |     Acc.Pl.  Nom.Sg.
+|             |_______|           |_____|             |
+|___________|                      |                  |
+        |___________________|__________|_______________________________
+List of Abbreviations
+pariyodapeyya attanaj citta+klesehi  pandito
+|                          |          |         |            |
+V.ger.               N.m.   N.n.   N.m.     N.m.
+|                     Acc.Sg.    |     Abl.Pl.  Nom.Sg.
+|______________|           |_____|            |
+             |________________|                 |
+_______________|                                |
+            |__________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+tatra, Adv.: there.
+abhiratij: abhirati-, N.f.: delight, content. Acc.Sg. = abhiratij.
+Euphonic combination: tatra + abhiratij = tatrabhiratij.
+iccheyya, V.: should want. The verb root is is-. 3.Sg.act.opt. = iccheyya.
+hitva, V.ger.: having abandoned. It is a ger. of the verb ha- (to leave, to
+give up).
+kame: kama-, N.m.: sense-pleasure, sense desire. Acc.Pl. = kame.
+akibcano: akibcana-, Adj.: having nothing. It is the word kibcana-, N.n.:
+something, anything with the negative prefix a-. Nom.Sg.m. = akibcano.
+List of Abbreviations
+pariyodapeyya, V.ger.: having cleansed, purified. It is a ger. of the verb
+pariyodapeti. This is a causative form (odapeti) of the verb da- (to clean)
+preceded by the prefix pari- (all around).
+attanaj: attan-, N.m.: self, oneself. Acc.Sg. = attanaj.
+cittaklesehi: cittaklesa-, N.m.: impurity of the mind. It is a compound of:
+    citta-, N.n.: mind.
+    klesa-, N.m.: impurity, stain.
+Abl.Pl. = cittaklesehi.
+pandito: pandita-, N.m.: wise man, learned man. Nom.Sg. = pandito.
+List of Abbreviations
+    The subject of this sentence is the nounpandito (wise one, nominative
+singular). It has an attribute, the noun akibcano (without anything, nominative
+singular). There are three clauses that form loosely connected sentences with
+this word as a subject. They are:
+    1) tatrabhiratij iccheyya (he should want delight there). Here the verb is
+iccheyya (should want, 3rd person, singular, active, optative). The object is
+the noun abhiratij (delight). It has the adverb tatra (there) as an attribute.
+    2) hitva kame (having renounced the sense-pleasures). The verb is in
+gerundive, hitva (having renounced). The object is the noun kame (sense-
+pleasures, accusative plural).
+    3) pariyodapeyya attanaj cittaklesehi (having cleansed himself from the
+impurities of mind). The verb is again in gerundive, pariyodapeyya (having
+cleansed). The object is the noun attanaj (oneself, accusative singular) with
+its attribute, the compound cittaklesehi (from the mind-impurities, ablative
+plural).
+===============================================================================
+
+
+Commentary:
+    A group of monks came to see the Buddha and asked him for advice on
+meditation. The Buddha advised them with this verse and with the preceding and
+the following one (DhP 87, DhP 89).
+    In order to reach the awakenment, one must abandon all cravings and "have
+nothing", or in other words, not cling to anything. One must also purify the
+mind from the "impurities", or greed, hate, delusion, conceit, speculative
+views, skeptical doubt, mental torpor, restlessness, shamelessness and lack of
+moral dread.
+    This way, one will reach the state of arahantship and then one can truly
+find delight in solitude.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+tatra
+abhiratij
+iccheyya
+hitva
+kame
+akibcano
+pariyodapeyya
+attanaj
+cittaklesehi
+citta
+klesehi
+pandito
+===============================================================================

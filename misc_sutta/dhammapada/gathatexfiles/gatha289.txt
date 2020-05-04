@@ -1,0 +1,118 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** etam atthavasaj batva pandito silasajvuto ******
+           ****** nibbanagamanaj maggaj khippam eva visodhaye ******
+                            ****** (DhP 289) ******
+===============================================================================
+
+
+Sentence Translation:
+The wise man restrained by virtue, knowing this reasoning,
+should quickly purify the path leading to Nirvana.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+etam     attha+vasaj  batva  pandito  sila+sajvuto
+|               |         |          |          |          |           |
+Pron.m. N.n.   N.m.   V.ger.  N.m.    N.n.   Adj.m.
+Acc.Sg.     |    Acc.Sg.    |     Nom.Sg.   |     Nom.Sg.
+|                |_____|         |           |          |______|
+|____________|             |           |_________|
+            |_____________|                   |
+                         |_________________|
+                                        
+|_________________________________________
+List of Abbreviations
+nibbana+gamanaj maggaj khippam  eva   visodhaye
+|                   |              |            |           |           |
+N.n.         Adj.m.     N.m.     Adv.      part.   V.act.
+|              Acc.Sg.   Acc.Sg.       |______|     3.Sg.opt.
+|___________|             |                   |_________|
+          |_____________|                            |
+                       |______________________|
+________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+etam: etad-, Pron.: this. Neuter: etam-. Acc.Sg.m. = etam.
+atthavasaj: atthavasa-, N.m.: cause, reason. Lit. "control over the sense". It
+is a compound of:
+    attha-, N.n.: meaning, worth, sense.
+    vasa-, N.m.: power, will, authority, control.
+Acc.Sg. = atthavasaj.
+batva, V.ger.: having known. It is a ger. of the verb ba- (to know).
+pandito: pandita-, N.m.: wise man, learned man. Nom.Sg. = pandito.
+silasajvuto: silasajvuta-, Adj.: restrained by virtue. It is a compound of:
+    sila-, N.n.: virtue.
+    sajvuta-, Adj.: restrained, governed, guarded. It is a p.p. of the verb
+var- (to obstruct) with the prefix saj- (together, completely).
+Nom.Sg.m. = silasajvuto.
+List of Abbreviations
+nibbanagamanaj: nibbanagamana-, Adj.: leading to Nirvana. It is a compound of:
+    nibbana-, N.n.: Nirvana, the goal of Buddhism.
+    gamana-, N.n.: going. It is derived from the verb root gam- (to go).
+Acc.Sg.m. = nibbanagamanaj.
+maggaj: magga-, N.m.: road, path. Acc.Sg. = maggaj.
+khippam, Adv.: quickly. It is derived from the word khippa-, Adj.: quick, fast.
+eva, part.: just.
+visodhaye, V.: should clean, can purify. The verb root is sudh- (to be clean)
+with the prefix vi- (intensifying sense). 3.Sg.act.caus.opt. = visodhaye.
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) etam atthavasaj batva pandito silasajvuto (the wise man restrained by
+virtue, knowing this reasoning). The subject is the noun pandito (wise man,
+nominative singular). It has an attribute, the compound silasajvuto (restrained
+by virtue, nominative singular). The verb is in gerund, batva (having known).
+The object is the compound atthavasaj (reasoning, accusative singular) with its
+attribute, the pronoun etam (this, accusative singular).
+    2) nibbanagamanaj maggaj khippam eva visodhaye (should quickly purify the
+path leading to Nirvana). The subject is omitted; the noun pandito from the
+first sentence is implied. The noun is visodhaye (should purify, 3rd person,
+singular, active, optative). It has an attribute, the adverb khippam (quickly).
+It is stressed by the particle eva (just). The object is the noun maggaj (path,
+accusative singular). It has an attribute, the compound nibbanagamanaj (leading
+to Nirvana, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 288).
+    The only help and protection against the death is constant and intensive
+practice of the Buddha’s teaching. No external help from relatives, friends or
+gods of any kind is possible when we have to face the death. Only by following
+the path of meditation and awareness, can we overcome death and face it without
+any fear.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+etaj
+atthavasaj
+attha
+vasaj
+batva
+pandito
+silasajvuto
+sila
+sajvuto
+nibbanagamanaj
+nibbana
+gamanaj
+maggaj
+khippam
+eva
+visodhaye
+===============================================================================

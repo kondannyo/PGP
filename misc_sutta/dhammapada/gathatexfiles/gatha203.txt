@@ -1,0 +1,124 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** jighaccha parama roga savkhara parama dukha ******
+         ****** etaj batva yathabhutaj nibbanaj paramaj sukhaj ******
+                            ****** (DhP 203) ******
+===============================================================================
+
+
+Sentence Translation:
+Hunger is the highest illness. Conditioned things are the highest suffering.
+Having known this as it is, Nirvana is the highest happiness.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+jighaccha parama     roga   savkhara  parama  dukha
+|                   |             |            |              |           |
+N.f.         Adj.m.     N.m.     N.m.      Adj.m.    N.m.
+Nom.Pl.  Nom.Pl. Nom.Pl. Nom.Pl.  Nom.Pl. Nom.Pl.
+|                   |_______|             |             |_______|
+|______________|                    |___________|
+List of Abbreviations
+etaj     batva   yatha+bhutaj nibbanaj paramaj sukhaj
+|                |          |           |             |            
+|             |
+Pron.n. V.ger. Rel.Adv. Adv.       N.n.      Adj.n.      N.n.
+Acc.Sg.     |          |______|        Nom.Sg. Nom.Sg. Nom.Sg.
+|                |_________|                   |            |________|
+|_____________|                             |__________|
+          |_____________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+jighaccha: jighaccha-, N.f.: appetite, hunger. Nom.Pl. = jighaccha.
+parama: parama-, Adj.: most, highest, absolute. Nom.Pl.m. = parama.
+roga: roga-, N.m.: disease, illness. Nom.Pl. = roga.
+savkhara: savkhara-, N.m.: conditioned thing, world of phenomena. The meaning
+of this word is very wide, here we will use "conditioned thing". It comprises
+all of the world around us, including ourselves. Nom.Pl. = savkhara.
+parama: parama-, Adj.: see above. Nom.Pl.m. = parama.
+dukha: dukha-, Adj.: unpleasant, painful, difficult. Spelled dukha- here
+instead of the more usual (and proper) dukkha-. As an N.m.: suffering. Nom.Pl.
+= dukha.
+List of Abbreviations
+etaj: etad-, Pron.: this. Acc.Sg.n. = etaj.
+batva, V.ger.: having known. It is a ger. of the verb ba- (to know).
+yathabhutaj, Adv.: as it is, according to reality. It is a compound of:
+    yatha, Rel.Adv.: as, just like.
+    bhuta-, Adj.: being, having become. It is a p.p. of the verb bhu- (to be).
+Acc.Sg. = yathabhutaj, here used as an Adv.
+nibbanaj: nibbana-, N.n.: Nirvana, the goal of Buddhism. Nom.Sg. = nibbanaj.
+paramaj: parama-, Adj.: most, highest, absolute. Nom.Sg.n. = paramaj.
+sukhaj: sukha-, N.n.: happiness. Nom.Sg. = sukhaj.
+List of Abbreviations
+    This verse consists of three syntactically independent sentences. They are:
+
+    1) jighaccha parama roga (hunger is the highest illness). The subject is
+the noun jighaccha (hungers, nominative plural). The verb is omitted, implying
+the verb "to be". The object is the noun roga (illnesses, nominative plural)
+with its attribute, the adjective parama (highest, nominative plural).
+    2) savkhara parama dukha (conditioned things are the highest suffering).
+The subject is the noun savkhara (conditioned things, nominative plural). The
+verb is omitted, implying the verb "to be". The object is the noun dukha
+(sufferings, nominative plural) with its attribute, the adjective parama
+(highest, nominative plural).
+    3) etaj batva yathabhutaj nibbanaj paramaj sukhaj (having known this as it
+is, Nirvana is the highest happiness). This can be further analyzed into two
+sentences:
+    a) etaj batva yathabhutaj (having known this as it is). The subject is
+omitted. The verb is batva (having known, gerund). It has an attribute, the
+adverb yathabhutaj (as it is, according to reality). The object is the pronoun
+etaj (this, accusative singular).
+    b) nibbanaj paramaj sukhaj (Nirvana is the highest happiness). The subject
+is the noun nibbanaj (Nirvana, nominative singular). The verb is omitted,
+implying the verb "to be". The object is the noun sukhaj (happiness, nominative
+singular) with its attribute, the adjective paramaj (highest, nominative
+singular).
+===============================================================================
+
+
+Commentary:
+    Once the Buddha came to the village of Alavi. On that day, one poor man had
+lost his ox and he spent the whole morning looking for it everywhere.
+    The villagers offered almsfood to the Buddha and monks. After the meal,
+everybody got ready to listen to the Dharma, but the Buddha waited for the poor
+man, because he knew the man was very close to attaining the first stage of
+Awakenment.
+    When the man found his ox, he came back to the village. He was very tired
+and hungry. So the Buddha directed the villagers to let him eat first and only
+then he expounded the Dharma. At the end of the discourse, the poor man
+attained the first stage of Awakenment.
+    Later the monks asked the Buddha why he waited for the man before he
+delivered the discourse. The Buddha told them that the man was very hungry and
+very tired and if he had not eaten, he might not be able to comprehend the
+Dharma fully and reach the first stage of Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+jighaccha
+parama
+roga
+savkhara
+dukha
+etaj
+batva
+yathabhutaj
+yatha
+bhutaj
+nibbanaj
+paramaj
+sukhaj
+===============================================================================

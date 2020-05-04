@@ -1,0 +1,151 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                  ****** atthamhi jatamhi sukha sahaya ******
+                   ****** tutthi sukha ya itaritarena ******
+                 ****** pubbaj sukhaj jivitasavkhayamhi ******
+                ****** sabbaso dukkhassa sukhaj pahanaj ******
+                            ****** (DhP 331) ******
+===============================================================================
+
+
+Sentence Translation:
+Good are friends when need arises.
+Good is satisfaction with whatever one has.
+Good is merit when the life comes an end.
+Good is to abandon all suffering completely.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+atthamhi jatamhi  sukha    sahaya
+|                  |            |            |
+N.n.        Adj.n.   Adj.m.    N.m.
+Loc.Sg.  Loc.Sg. Nom.Pl. Nom.Pl.
+|__________|            |            |
+         |____________|_______|
+                      |_____|
+List of Abbreviations
+tutthi         sukha        ya          itara+itarena
+|                    |              |              |         |
+N.f.           Adj.f.   Rel.Pron.f.  Adj.   Adv.
+Nom.Sg.  Nom.Sg.   Nom.Sg.      |_____|
+|                    |              |__________|
+|___________|_____________|
+         |______|
+List of Abbreviations
+pubbaj    sukhaj  jivita+savkhayamhi
+|                    |           |               |
+N.n.          Adj.n.    N.n.        N.m.
+Nom.Sg.  Nom.Sg.     |         Loc.Sg.
+|                    |           |_________|
+|___________|___________|
+           |_____|
+List of Abbreviations
+sabbaso dukkhassa  sukhaj pahanaj
+|                   |              |              |
+Adv.         N.m.       Adj.n.      N.n.
+|              Gen.Sg.   Nom.Sg. Nom.Sg.
+|___________|             |              |
+          |_____________|________|
+                     |_______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+atthamhi: attha-, N.n.: meaning, sense. Here in the sense of "need". Loc.Sg. =
+atthamhi.
+jatamhi: jata-, Adj.: born, arisen. It is a p.p. of the verb root jan- (to be
+born). Loc.Sg. = jatamhi.
+sukha: sukha-, Adj.: pleasant, agreeable, good. Nom.Sg.f. = sukha.
+sahaya: sahaya-, N.m.: companion, friend. Nom.Pl. = sahaya.
+tutthi: tutthi-, N.f.: joy, contentment, satisfaction. Nom.Sg. = tutthi. The
+form tutthi is sometimes used in poetry.
+sukha: see above.
+ya: yad-, Rel.Pron.: that which. Nom.Sg.f. = ya.
+itaritarena: itaritara-, Adj.: one or the other, whatsoever. It is the compound
+of two words itara-, Adj.: other, different. Euphonic combination: itara- +
+itara- = itaritara-. Ins.Sg. = itaritarena. Here as an Adv. (in every way,
+always, whatsoever).
+List of Abbreviations
+pubbaj: pubba-, N.n.: good deed, meritorious deed, merit. Nom.Sg. = pubbaj.
+sukhaj: sukha-, Adj.: pleasant, agreeable, good. Nom.Sg.n. = sukhaj.
+jivitasavkhayamhi: jivitasavkhaya-, N.m.: end of life, death. It is a compound
+of:
+    jivita-, N.n.: life. Originally it is a p.p. of the verb jiv- (to live).
+    savkhaya-, N.m.: destruction, loss. It is derived from the word khaya-,
+N.m. (destruction) with the prefix sam- (completely).
+Loc.Sg. = jivitasavkhayamhi.
+sabbaso, Adv.: altogether, thoroughly. It is derived from the word sabba-,
+Adj.: all.
+dukkhassa: dukkha-, N.m.: suffering. Gen.Sg. = dukkhassa.
+sukhaj: see above.
+pahanaj: pahana-, N.n.: giving up, abandoning, rejection. It is derived from
+the verb root ha- (to leave, to abandon) with the strengthening prefix pa-.
+Nom.Sg. = pahanaj.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) atthamhi jatamhi sukha sahaya (good are friends when need arises). The
+subject is the noun sahaya (friends, nominative plural). It has an attribute,
+the noun atthamhi (in need, locative singular) with its attribute, the past
+participle jatamhi (in arisen, locative singular). The verb is omitted,
+implying the verb "to be". The object is the adjective sukha (good, nominative
+plural).
+    2) tutthi sukha ya itaritarena (good is satisfaction with whatever one
+has). The subject is the noun tutthi (satisfaction, nominative singular). It
+has an attribute, the adverb itaritarena (in every way). It is connected to the
+subject by the relative pronoun ya (which, nominative singular). The verb is
+omitted, implying the verb "to be". The object is the adjective sukha (good,
+nominative singular).
+    3) pubbaj sukhaj jivitasavkhayamhi (good is merit when the life comes an
+end). The subject is the noun pubbaj (merit, nominative singular). It has an
+attribute, the compound jivitasavkhayamhi (at the end of life, locative
+singular). The verb is omitted, implying the verb "to be". The object is the
+adjective sukhaj (good, nominative singular).
+    4) sabbaso dukkhassa sukhaj pahanaj (good is to abandon all suffering
+completely). The subject is the noun pahanaj (abandoning, nominative singular).
+It has an attribute, the noun dukkhassa (of suffering, genitive singular) with
+its attribute, the adverb sabbaso (completely). The verb is omitted, implying
+the verb "to be". The object is the adjective sukhaj (good, nominative
+singular).
+===============================================================================
+
+
+Commentary:
+    The Buddha was once thinking about how so many people were ill-treated by
+evil rulers. He tried to think up some way to convince the kings to rule
+wisely. Mara then tried to entice the Buddha to become a king himself. But the
+Buddha replied him with this verse (and the two following ones, DhP 332 and DhP
+333), saying that their teachings were quite different and it was impossible
+for Mara to influence him to become a king.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+atthamhi
+jatamhi
+sukha
+sahaya
+tutthi
+ya
+itaritarena
+itara
+itarena
+pubbaj
+sukhaj
+jivitasavkhayamhi
+jivita
+savkhayamhi
+sabbaso
+dukkhassa
+pahanaj
+===============================================================================

@@ -1,0 +1,138 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+             ****** caranti bālā dummedhā amitteneva attanā ******
+          ****** karontā pāpakaṃ kammaṃ yaṃ hoti kaṭukapphalaṃ ******
+                            ****** (DhP 66) ******
+===============================================================================
+
+Sentence Translation:
+The stupid fools behave as if they themselves were their enemies,
+doing bad deeds, which have bitter fruit.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+caranti       bālā  dummedhā amittena eva  attanā
+|                   |             |             |          |        |
+V.act.in.     N.m.    Adj.m.    Adj.m.  part.   N.m.
+3.Pl.pres. Nom.Pl. Nom.Pl.   Ins.Sg.    |     Ins.Sg.
+|                   |_______|             |______|        |
+|                          |                        |________|
+|                          |__________________|________________________
+|____________________|                       |
+                |________________________|
+List of Abbreviations
+karontā pāpakaṃ kammaṃ yaṃ           hoti     kaṭuka+pphalaṃ
+|                  |            |            |                |           
+|           |
+Adj.m.    Adj.n.     N.n.   Rel.Pron.n.  V.act.in.  Adj.     N.n.
+Nom.Pl. Acc.Sg. Acc.Sg.   Nom.Sg.   3.Sg.pres.   |      Nom.Sg.
+|                  |_______|           |                |            |______|
+|                         |                 |                |__________|
+|                         |                 |______________|
+|                         |________________|
+|______________________|
+___________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+caranti, V.: behave, act. The verb root is car- (to behave, to act; the primary
+meaning is "to walk"). 3.Sg.act.in.pres. = caranti.
+bālā: bāla-, Adj.: childish, young. As an N.m.: "like a child", fool, ignorant
+person. Nom.Pl. = bālā.
+dummedhā: dummedha-, Adj.: stupid. Derived from the word medhā-, N.f.: wisdom,
+intelligence, by adding the prefix du- (lacking something, away from). The
+double m is due to the euphonic combination (du+ medha = dummedha). Nom.Pl.m. =
+dummedhā.
+amittena: amitta-, N.m.: enemy. It is the word mitta-, N.m.: friend, negated by
+the negative prefix a-. Ins.Sg. = amittena.
+Euphonic combination: amittena + eva = amitteneva.
+eva, part.: just, only.
+List of Abbreviations
+attanā: attan-, N.m.: self. Ins.Sg. = attanā.
+karontā: karont-, Adj.: doing. It is an a.pr.p. of the verb root kar- (to do).
+Nom.Pl.m. = karontā.
+pāpakaṃ: pāpaka-, Adj.: evil, bad. It is the word pāpa-, N.n.: evil, wrong
+doing with the adjective suffix -ka. Acc.Sg.n. = pāpakaṃ.
+kammaṃ: kamma-, N.n.: deed, action. Derived from the verb kar- (to do).
+Acc.Sg. = kammaṃ.
+List of Abbreviations
+yaṃ:yat-, Rel.Pron.: that, which. Nom.Sg.n.: yaṃ.
+hoti, V.: is. The verb bhū- (to be). 3.Sg.act.in.pres. =hoti.
+kaṭukapphalaṃ: kaṭukapphala-, Adj.: having bitter fruit. It is a compound of:
+    kaṭuka-, Adj.: bitter, acid.
+    phala-, N.n.: fruit.
+Euphonic combination: kaṭuka- + phala- = kaṭukapphala-.
+Nom.Sg.n. = kaṭukapphalaṃ.
+List of Abbreviations
+    The subject of this sentence is the noun bālā (fools, nominative plural).
+It has two attributes, the adjective dummedhā (stupid, nominative plural) and
+the active present participle karontā (doing, nominative plural). This last
+word has itself an attribute, the noun kammaṃ (deed, accusative singular) and
+that in turn has the adjective pāpakaṃ (bad, accusative singular) as an
+attribute. To this noun kammaṃ there is a dependent clause, yaṃ hoti
+kaṭukapphalaṃ (which has bitter fruit). Here, the subject is the relative
+pronoun yaṃ (that which, nominative singular). The object is the compound
+kaṭukapphalaṃ (having bitter fruit, nominative singular) and the verb is hoti
+(is, 3rd person, singular, active, indicative, present tense).
+    In the main sentence, the verb is caranti (behave, 3rd person, plural,
+active, indicative, present tense). This verb has an attribute, the noun attanā
+(with oneself, instrumental singular). This noun has the noun amittena (with
+enemy, instrumental singular), strengthened by the particle eva (just), as an
+attribute.
+
+===============================================================================
+
+Commentary:
+    There was a man named Suppabuddha. In one of his previous existences he
+killed a courtesan and she vowed a revenge on him. In yet another existence he
+spat on a holy man.
+    As a result of these actions he was born as a leper. Once he listened to
+the Buddha's discourse. He very quickly realized the Dharma and followed the
+Buddha to the monastery.
+    Sakka, the king of gods, wanted to test him and so he appeared in front of
+him and told him: "You are only a poor man. If you renounce the Buddha, I will
+give you all the wealth of the world." But Suppabuddha replied, that he was
+actually an extremely rich man - having the faith in the Buddha and his
+teaching.
+    Then Sakka related the story to the Buddha, who said that a hundred Sakkas
+could not turn Suppabuddha of the right path. Suppabuddha then went to see the
+Buddha and on the way back from the monastery an evil spirit - the woman whom
+he killed in a previous existence - killed him.
+    The monks asked the Buddha where was Suppabuddha reborn and the Buddha told
+them, that he had been reborn in Tāvatimsa heaven. By doing bad deeds over the
+period of several lives he accumulated a lot of defilements. These caused him
+so much pain and suffering, but his realizing the Dharma has cleared them away.
+
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+caranti
+bālā
+dummedhā
+amittena
+eva
+attanā
+karontā
+pāpakaṃ
+kammaṃ
+yaṃ
+hoti
+kaṭukapphalaṃ
+kaṭuka
+phalaṃ
+
+===============================================================================

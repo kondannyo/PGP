@@ -1,0 +1,155 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** pubbenivasaj yo vedi saggapayaj ca passati ******
+            ****** atho jatikkhayaj patto abhibbavosito muni ******
+           ****** sabbavositavosanaj tam ahaj brumi brahmanaj ******
+                            ****** (DhP 423) ******
+===============================================================================
+
+
+Sentence Translation:
+Who knows his former births and sees both heaven and hell,
+who has reached the end of rebirths, the sage who has attained higher wisdom,
+one who has attained all accomplishments - him do I call a Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+pubbe+nivasaj      yo           vedi   sagga+apayaj ca     passati
+|                |             |                |         |          |        
+|           |
+Adj.       N.m. Rel.Pron.m.   V.act.   N.m.  N.m.   conj.  V.act.in.
+|           Acc.Sg. Nom.Sg.    3.Sg.aor.   |     Acc.Sg.   |     3.Sg.pres.
+|_________|             |                |         |______|        |          
+|
+        |____________|_________|                |_______|______|
+                              |         |                             |____|
+                              |        
+|__________________|____________________I.
+                              |_______________|
+                                           
+|____________________________________II.
+List of Abbreviations
+atho  jati+kkhayaj  patto abhibba+vosito    muni
+|         |           |           |          |           |            |
+part. N.f.    N.m.    Adj.m.  N.f.   Adj.m.     N.m.
+|         |     Acc.Sg. Nom.Sg.   |     Nom.Sg. Nom.Sg.
+|         |______|           |          |______|             |
+|               |_________|                |                   |
+|______________|                       |                   |
+I.______|____________________|__________|
+II.________________|
+List of Abbreviations
+sabba+vosita+vosanaj   tam     ahaj      brumi   brahmanaj
+|             |             |           |            |             
+|             |
+Adj.    Adj.      Adj.m. Pron.m.   Pron.    V.act.in.    N.m.
+|_______|        Acc.Sg. Acc.Sg. Nom.Sg. 1.Sg.pres. Acc.Sg.
+       |___________|           |            |              |             |
+                 |____________|            |              |             |
+                             |____________|________|_______|
+                                                   |       |____|
+                                                   |______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+pubbenivasaj: pubbenivasa-, N.m.: previous lives. It is a compound of:
+    pubba-, Adj.: previous, former. The compound form: pubbe (actually a
+locative singular form of pubba-).
+    nivasa-, N.m.: abode, living. It is derived from thbe verb root vas- (to
+dwell) with the prefix ni- (down).
+Acc.Sg. = pubbenivasaj.
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+vedi, V.: understood, knows. The verb root is vid- (to know). 3.Sg.act.aor. =
+vedi.
+List of Abbreviations
+saggapayaj: saggapaya-, N.m.: heaven and hell. It is a compound of:
+    sagga-, N.m.: heaven.
+    apaya-, N.m.: a bad birth, hell. Lit. separation, loss. It is derived from
+the verb i-, to go, preceded by the prefix apa- (away from).
+Euphonic combination: sagga- + apaya- = saggapaya-.
+Acc.Sg. = saggapayaj.
+ca, conj.: and.
+passati: sees. The verb root is dis- (to see). 3.Sg.act.in.pres. = passati.
+atho, part.: and, also, further.
+jatikkhayaj: jatikkhaya-, N.m.: end of rebirths. It is a compound of:
+    jati-, N.f.: birth, rebirth.
+    khaya-, N.m.: destruction, dissolution, end.
+Acc.Sg. = jatikkhayaj.
+List of Abbreviations
+patto: patta-, Adj.: reached, attained. It is a p.p. of the verb root ap- (to
+get, to obtain) with the intensifying prefix pa-. Nom.Sg.m. = patto.
+abhibbavosito: abhibbavosita-, Adj.: who has attained higher wisdom. It is a
+compound of:
+    abhibba-, N.f.: higher wisdom. It is derived from the verb root ba- (to
+know) with the prefix abhi- (over).
+    vosita-, Adj.: attained, accomplished. It is the p.p. of the verb root sa-
+(to bind) with the prexix ava-/o- (down).
+Nom.Sg. = abhibbavosito.
+muni: muni-, N.m.: sage, a wise man (originally one who keeps the vow of
+silence). Nom.Sg. = muni. The form muni is sometimes used in poetry.
+List of Abbreviations
+sabbavositavosanaj: sabbavositavosana-, Adj.: who has attained all
+accomplishments. It is a compound of:
+    sabba-, Adj.: all.
+    vosita-, Adj.: attained, accomplished. It is the p.p. of the verb root sa-
+(to bind) with the prexix ava-/o- (down).
+    vosana-, N.n.: achievement, accomplishment. It is derived the same way as
+the word vosita- just above.
+Acc.Sg.m. = sabbavositavosanaj.
+tam: tad-, Pron.: it. Masculine form: so-, he. Acc.Sg. = tam (him).
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+brahmanaj: brahmana-, N.m.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+List of Abbreviations
+    This sentence consists of two syntactically separate sentences. They are:
+    1) pubbenivasaj yo vedi saggapayaj ca passati atho jatikkhayaj patto
+abhibbavosito muni (who knows his former births and sees both heaven and hell,
+who has reached the end of rebirths, the sage who has attained higher wisdom).
+The subject is the relative pronoun yo (who, nominative singular). There are
+actually five segments in this sentence which all share this pronoun as the
+subject:
+    a) pubbenivasaj vedi(who knows his former births). The verb is vedi (knows,
+3rd person, singular, active, aorist). The object is the compound pubbenivasaj
+(former births, accusative singular).
+    b) saggapayaj ca passati (and sees both heaven and hell). The verb is
+passati (sees, 3rd person, singular, active, indicative, present tense). The
+object is the compound saggapayaj (heaven and hell, accusative singular). The
+segment is connected to the previous one by the conjunction ca (and).
+    c)atho jatikkhayaj patto(who has reached the end of rebirths). The verb is
+omitted, implying the verb "to be." The object is the past participle patto
+(has reached, nominative singular). It has an attribute, the compound
+jatikkhayaj (end of rebirths, accusative singular). The segment is introduced
+by the particle atho (further).
+    d) abhibbavosito (who has attained higher wisdom). The verb is omitted,
+implying the verb "to be." The object is the compound abhibbavosito (who has
+attained higher wisdom, nominative singular).
+    e) muni (sage). The verb is omitted, implying the verb "to be." The object
+is the noun muni (sage, nominative singular).
+    2) sabbavositavosanaj tam ahaj brumi brahmanaj (one who has attained all
+accomplishments - him do I call a Brahmin). The subject of this sentence is the
+pronoun ahaj (I, nominative singular). The verb is brumi ([I] say, 1st person,
+singular, active, indicative, present tense). The object is the noun brahmanaj
+(Brahmin, accusative singular). It has two attributes, the pronoun tam (him,
+accusative singular) and the compound sabbavositavosanaj (one who has attained
+all accomplishments, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The Buddha once suffered from some illness and asked a layman named
+Devahita for some water. Devahita was pleased and also sent some molasses. The
+Buddha had taken a bath and ate he molasses and felt better.
+    Devahita then came to visit the Buddha to ask an offering made to whom
+gives more benefit. The Buddha replied with this verse, saying that the
+offering made to one who has given up all evil gives the most benefit.
+===============================================================================

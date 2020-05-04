@@ -1,0 +1,140 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** atta have jitaj seyyo ya cayaj itara paja ******
+            ****** attadantassa posassa niccaj sabbatacarino ******
+                            ****** (DhP 104) ******
+===============================================================================
+
+
+Sentence Translation:
+It is better to conquer oneself than to conquer other people.
+Of a person, who tamed himself, who is always acting with self-control,
+[Continued in DhP 105]
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+atta      have    jitaj     seyyo         ya          ca     ayaj      
+itara        paja
+|              |          |             |              |             |         
+|             |              |
+N.m.     part.  Adj.n.     Adj.n.   Rel.Pron.f. conj.  Pron.f.    Adj.f.      
+N.f.
+Nom.Sg.  |    Nom.Sg. Nom.Sg.   Nom.Sg.     |     Nom.Sg. Nom.Sg. Nom.Sg.
+|________|_____|             |               |_______|_____|             
+|________|
+         |________________|                                |_______________|
+                     |___________________________________|
+List of Abbreviations
+atta+dantassa posassa niccaj sabbata+carino
+|            |            |           |           |           |
+N.m. Adj.m.    N.m.   Adv.     Adj.     Adj.m.
+|       Gen.Sg. Gen.Sg.     |           |      Gen.Sg.
+|_______|           |           |           |______|
+      |__________|           |_________|
+              |_________________|
+                            |_______________________________[continued in DhP
+105]
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+atta: attan-, N.m.: self. Nom.Sg. = atta.
+have, part.: indeed, truly.
+jitaj: jita-, Adj.: conquered. It is a p.p. of the verb root ji- (to conquer,
+to win). Nom.Sg.n. = jitaj. Note that the masculine form should be used here
+(atta jito), but neuter form is found here instead.
+seyyo: seyya-, Adj.: better. Nom.Sg.n. = seyyo.
+ya: yad-, Rel.Pron.: that which. Nom.Sg.f. = ya.
+ca, conj.: and.
+ayaj: idaj, Pron.: this. Nom.Sg.f. = ayaj.
+Euphonic combination: ca + ayaj = cayaj.
+itara: itara-, Adj.: other, different. Nom.Sg.f. = itara.
+List of Abbreviations
+paja: paja-, N.f.: beings, people, mankind. Nom.Sg. = paja.
+attadantassa: attadanta-, Adj.: who tamed himself. It is a compound of:
+    atta-, N.m.: it is the compound form of the word attan-, N.m.: see above.
+    danta-, Adj.: restrained, tamed, controlled. It is a p.p. of the verb dam-
+    (to restrain, to control, to tame).
+Gen.Sg.m. = attadantassa.
+posassa: posa-, N.m.: person. It is a contraction of the word purisa-, N.m.:
+person. Gen.Sg. = posassa.
+niccaj, Adv.: perpetually, constantly.
+sabbatacarino: sabbatacarin-, Adj.: acting with self-control. It is a compound
+of:
+    sabbata-, Adj.: restrained, self-controlled. It is a p.p. of the verb yam-
+(to restrain,
+    to become tranquil) with the prefix sam- (together).
+    carin-, N.m.: living, acting. Derived by the suffix -in from the verb car-
+(to walk, to act).
+Gen.Sg.m. = sabbatacarino.
+List of Abbreviations
+    This verse contains one sentence in the first line. The second line
+consists of attributes to the subject of the following sentence (see DhP 105).
+    In the first line, there are two sentences:
+    1) atta have jitaj seyyo (it is better to conquer oneself). The subject is
+atta (oneself, nominative singular). The past participle jitaj (conquered,
+nominative singular) acts as the verb of this sentence. It has an attribute,
+the adjective seyyo (better, nominative singular). The particle have (indeed)
+serves only metrical purposes.
+    2) ya cayaj itara paja (than [to conquer] other people). The phrase ya ayaj
+(which-this, both in nominative singular) connects this sentence to the
+previous one and has the meaning of "than". The conjunction ca (and) serves
+only metrical purposes. The subject is the noun paja (people, nominative
+singular) with its attribute, the adjective itara (other, nominative singular).
+
+    In the second line, there are two attributes: posassa (of a person,
+genitive singular) with its own attribute attadantassa (who tamed himself,
+genitive singular) and sabbatacarino (of the one, who is acting with self-
+control, genitive singular) with its attribute, the adverb niccaj (always).
+They form attributes to the object of the following sentence (see DhP 105).
+===============================================================================
+
+
+Commentary:
+    A certain Brahmin once approached the Buddha and told him, "Venerable Sir,
+although you know all the beneficial practices, still I think you do not know
+the unbeneficial practices." The Buddha told him that he knew both beneficial
+and unbeneficial practices. He then proceeded to enumerate six unbeneficial
+practices that will cause loss of wealth. They are: sleeping until sunrise,
+idleness and laziness, cruelty, indulgence in intoxicating drinks that cause
+negligence and unclear mind, wandering alone in the city during night hours and
+sexual misconduct.
+    Then the Buddha asked the Brahmin how he made his living. The Brahmin told
+him that he earned his living by gambling, by playing dice. The Buddha further
+asked if he won or lost. The Brahmin replied that sometimes he won and
+sometimes he lost. The Buddha told him that to win in a game of dice couldn't
+be compared with winning over one's own mind, over one's ignorance and mental
+defilements.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+atta
+have
+jitaj
+seyyo
+ya
+ca
+ayaj
+itara
+paja
+attadantassa
+atta
+dantassa
+posassa
+niccaj
+sabbatacarino
+sabbata
+carino
+===============================================================================

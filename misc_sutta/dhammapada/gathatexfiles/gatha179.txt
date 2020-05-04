@@ -1,0 +1,174 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+       ****** yassa jitaj navajiyati jitam assa no yati koci loke ******
+      ****** taj buddham anantagocaraj apadaj kena padena nessatha ******
+                            ****** (DhP 179) ******
+===============================================================================
+
+
+Sentence Translation:
+Whose victory cannot be turned into defeat, nobody in the world can pursue his
+victory.
+By what way will you destroy such an Awakened one, trackless and of endless
+sphere?
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yassa            jitaj    na    avajiyati    jitam     assa       no     
+yati        koci         loke
+|                       |         |           |             |          
+|           |          |             |              |
+Rel.Pron.m.   N.n.    neg.  V.pas.in.    N.n.   Pron.m.  neg.  V.act.in. 
+Pron.m.    N.m.
+Gen.Pl.       Nom.Sg.  |     3.Sg.pres. Acc.Sg. Gen.Sg.    |    3.Sg.pres.
+Nom.Sg. Loc.Sg.
+|_____________|        |_______|            |           |          
+|______|             |________|
+            |_______________|                  |______|                 
+|                          |
+                          |                                     
+|_____________|                          |
+                          |                                                 
+|_____________________|
+                          |______________________________________|
+List of Abbreviations
+taj     buddham ananta+gocaraj  apadaj   kena   padena    nessatha
+|                |            |            |             |          
+|           |             |
+Pron.m.  N.m.     Adj.     Adj.m.    Adj.m.  Pron.n.   N.n.   V.act.caus.
+Acc.Sg. Acc.Sg.      |       Acc.Sg.   Acc.Sg. Ins.Sg.  Ins.Sg.   2.Pl.fut.
+|                |            |______|               |          
+|______|              |
+|_________|__________|___________|                 |___________|
+                          |________________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yassa: yat-, Rel.Pron.: that, which. Gen.Sg.m. = yassa (whose).
+jitaj: jita-, N.n.: victory, conquered thing. As an Adj.: conquered, mastered.
+It is a p.p. of the verb ji- (to win, to conquer). Nom.Sg. = jitaj.
+na, neg.: not.
+avajiyati, V.: is lost, is undone. It is a passive of the verb root jar- (to
+decay, to get old), with the prefix ava- (off, away). 3.Sg.pas.in.pres. =
+avajiyati.
+(Euphonic combination: na + avajiyati = navajiyati.
+jitaj: see above.
+assa: idam- Pron.: it. Gen.Sg.m. = assa (his).
+List of Abbreviations
+no, neg.: not. It is the particle na (not), strengthened by adding the particle
+u; na + u = no.
+yati, V.: goes, pursues. The verb root is ya- (to go). 3.Sg.in.act.pres. =
+yati.
+koci: kibci-, Pron.: whatever. Nom.Sg.m. = koci.
+The tradition explains this word "whoever" as greed, hatred and delusion, the
+three roots of evil.
+loke: loka-, N.m.: world. Loc.Sg. = loke.
+taj: tad-, Pron.: that. Acc.Sg.m. = taj.
+buddham: buddha-, Adj.: awakened. It is a p.p. of the verb root budh- (to
+awaken). As a N.m.: Awakened One, Enlightened One, a being who has attained the
+Nirvana. The historical Buddha Shakyamuni. Acc.Sg. = buddham.
+List of Abbreviations
+anantagocaraj: anantagocara-, Adj.: having an endless sphere. It is a compound
+of:
+    ananta-, Adj.: endless, infinite. It is the word anta-, N.n.: end, with the
+negative prefix an-.
+    gocara-, N.m.: pasture, sphere. This can be further analyzed as:
+        go-, N.m.: cow
+        cara-, N.m.: going, walking. Derived from the verb car- (to walk, to
+roam).
+Acc.Sg.m. = anantagocaraj.
+apadaj: apada-, Adj.: trackless. It is the word pada-, N.n.: track, with the
+negative prefix a-.
+Acc.Sg.m. = apadaj.
+kena: kij-, Inter.Pron.: who, what. Ins.Sg.n. = kena.
+padena: pada-, N.n.: track, path. Ins.Sg. = padena.
+nessatha, V.: [you] will destroy, will ruin. It is a future tense of the caus.
+of the verb root nas- (to perish, to be destroyed). 2.Pl.act.caus.fut. =
+nessatha.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) yassa jitaj navajiyati jitam assa no yati koci loke (whose victory
+cannot be turned into defeat, nobody in the world can pursue his victory). This
+can be further analyzed into two sentences:
+    a) yassa jitaj navajiyati (whose victory cannot be turned into defeat). The
+subject is the noun jitaj (victory, nominative singular). It has an attribute,
+the relative pronoun yassa (whose, genitive singular). The verb is avajiyati
+(is undone, 3rd person, singular, passive, indicative, present tense). It is
+negated by the negative particle na (not).
+    b) jitam assa no yati koci loke (nobody in the world can pursue his
+victory). The subject is the interrogative pronoun koci (whosoever, nominative
+singular). It has an attribute, the noun loke (in the world, locative
+singular). The verb is yati (goes, pursues; 3rd person, singular, active,
+indicative, present tense). It is negated by the negative particle no (not).
+The object is the noun jitaj (victory, accusative singular) with its attribute,
+the pronoun assa (his, genitive singular).
+    2) taj buddham anantagocaraj apadaj kena padena nessatha(by what way will
+you destroy such an Awakened one, trackless and of endless sphere?). The
+subject is omitted; the verb implies the second person plural pronoun. The verb
+is nessatha ([you] will destroy, 2nd person, plural, active, causative,
+future). It has an attribute, the noun padena (by way, instrumental singular).
+This in turn has the interrogative pronoun kena (by what, instrumental
+singular) as an attribute. The object is the noun buddham (Awakened One,
+accusative singular). It has three attributes, the pronoun taj (that,
+accusative singular), the compound anantagocaraj (of endless sphere, accusative
+singular) and the adjective apadaj (trackless, accusative singular).
+===============================================================================
+
+
+Commentary:
+    In the Kuru country there lived a Brahmin named Magandiya. He had a very
+beautiful daughter. Many young men desired to marry her, but her father turned
+all of them down, thinking they were not good enough for her.
+    One morning, Magandiya went to perform his daily fire worship. On the way
+he met the Buddha. Immediately he decided, that the Buddha would be an ideal
+husband for his daughter. Quickly he returned home and took his wife and
+daughter with him back to the place he met the Buddha.
+    In the meantime, the Buddha left his footprints at that place and went to
+another spot nearby. When Magandiya's wife saw the footprints, she remarked,
+that these footprints belong to somebody, who has given up all cravings. But
+her husband did not pay any attention to that and proceeded to find the Buddha
+and offer his daughter to him.
+    The Buddha said he was not interested. He told them how the beautiful
+daughters of Mara tried to seduce him. He gave up all passions, all cravings,
+and all attachments. Even when he saw the most beautiful women - the daughters
+of Mara, he felt no desire. Compared with them, Magandiya's daughter was
+nothing - why should he want even to touch her?
+    Both the Brahmin and his wife attained the third stage of Awakenment on
+hearing these words. Later they became a monk and a nun and soon attained
+Arahantship. But their daughter, Magandiya, felt insulted and promised to take
+revenge on the Buddha.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yassa
+jitaj
+na
+avajiyati
+assa
+no
+yati
+koci
+loke
+taj
+buddham
+anantagocaraj
+ananta
+gocaraj
+apadaj
+kena
+padena
+nessatha
+===============================================================================

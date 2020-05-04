@@ -1,0 +1,14 @@
+\input{..\PM_Preamble.tex}
+\title{MūlapariyāyaSuttaṃ}
+\input{..\PM_Cover.tex}
+
+\begin{document}
+\begin{paracol}{2}
+\begin{rightcolumn}
+\PMTitlePage
+\end{rightcolumn}
+
+\input{mulapariyayaParacol.tex}
+\end{paracol}
+
+\end{document}

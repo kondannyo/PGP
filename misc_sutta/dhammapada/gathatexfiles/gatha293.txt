@@ -1,0 +1,178 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** yesaj ca susamaraddha niccaj kayagata sati ******
+            ****** akiccaj te na sevanti kicce sataccakarino ******
+           ****** satanaj sampajananaj atthaj gacchanti asava ******
+                            ****** (DhP 293) ******
+===============================================================================
+
+
+Sentence Translation:
+Those who have very firm and constant mindfulness as to the body,
+those do not practice what should not be done, they are persevering in what
+should be done.
+The taints of those, who are mindful and thoughtful, become extinct.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yesaj           ca susamaraddha niccaj kaya+gata         sati
+|                     |             |               |         |       
+|              |
+Rel.Pron.m. conj.     Adj.f.        Adv.   N.m. Adj.f.       N.f.
+Gen.Pl.           |      Nom.Sg.         |         |    Nom.Sg. Nom.Sg.
+|                     |             |               |        
+|_____|             |
+|                     |             |               |________|                
+|
+|                     |             |_____________|                        |
+|                     |                         |____________________|
+|____________|_______________________|
+                                          
+|______________________________________________
+List of Abbreviations
+akiccaj    te       na     sevanti   kicce satacca+karino
+|                |          |           |           |          |          |
+Adj.m.  Pron.m. neg.  V.act.in.  Adj.m. N.n.   Adj.m.
+Acc.Sg. Nom.Pl.   |    3.Pl.pres. Acc.Pl.    |     Nom.Pl.
+|                |          |______|            |          |_____|
+|_________|________|                   |________|
+         |____|                                          |
+            |__________________________|
+___________________|
+List of Abbreviations
+satanaj sampajananaj atthaj gacchanti asava
+|                       |                |            |            |
+Adj.m.        Adj.m.         N.n.    V.act.in.   N.m.
+Gen.Pl.      Gen.Pl.      Acc.Sg. 3.Pl.pres. Nom.Pl.
+|_____________|               |_______|             |
+           |___________________|___________|
+                           |__________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yesaj: yad-, Rel.Pron.: that, which. Gen.Pl.m. = yesaj.
+ca, conj.: and.
+susamaraddha: susamaraddha-, Adj.: very firm, well resolved, thoroughly
+undertaken . It is a p.p. of the verb rabh- (to take hold of, to grasp) with
+the prefixes su- (well, good), sam- (altogether, thoroughly) and a- (here as an
+intensifying prefix). Nom.Sg.f. = susamaraddha.
+niccaj, Adv.: perpetually, constantly.
+kayagata: kayagata-, Adj.: bodily, as to the body. Lit. "gone to the body". It
+is a compound of:
+    kaya-, N.m.: body.
+    gata-, Adj.: gone. It is a p.p. of the verb root gam- (to go).
+Nom.Sg.f. = kayagata.
+sati: sati-, N.f.: mindfulness, wakefulness, alertness. Nom.Sg. = sati.
+List of Abbreviations
+akiccaj: akicca-, Adj.: what should not be done. It is the word kicca-, N.n.
+(duty, what ought to be done; it is a grd. of the verb kar-, to do), negated by
+the negative prefix a-. Acc.Sg.m. = akiccaj.
+te: tad-, Pron.: that. Masculine form sa. Nom.Pl. = te.
+na, neg.: not.
+sevanti, V.: associate with, practice, embrace. The verb root is sev-.
+3.Pl.act.in.pres. = sevanti.
+kicce: kicca-, Adj.: must be done, ought to be done. It is a grd. of the verb
+kar- (to do).
+Acc.Pl.m. = kicce.
+sataccakarino: sataccakarin-, Adj.: persevering. Lit. doing perseverance. It is
+a compound of:
+    satacca-, N.n.: perseverance.
+    karin-, Adj.m.: acting, doing. Derived from the verb kar- (to do).
+Nom.Pl.m. = sataccakarino.
+List of Abbreviations
+satanaj: sata-, Adj.: mindful, wakeful, alert. It is a p.p. of the verb root
+sar- (to remember). The word sati- (see above) is also derived from this verb
+root. Gen.Pl.m. = satanaj.
+sampajananaj: sampajana-, Adj.: thoughtful, knowing, understanding. It is
+derived from the verb ba- (to know) with the prefixes sam- (altogether) and pa-
+(strengthening). Gen.Pl.m. = sampajananaj.
+atthaj: attha-, N.n.: home, place of rest. Acc.Sg. = atthaj.
+gacchanti, V.: goes. The verb root is gam-. 3.Pl.in.act.pres. = gacchanti. With
+the noun atthaj ("home"; as here): disappear, vanish, become extinct.
+asava: asava- N.m.: taint, corruption. Nom.Pl. = asava. Traditionally, these
+four taints (asava) are mentioned in the texts: sense desire (kama), desiring
+eternal existence (bhava), wrong views (ditthi) and ignorance (avijja).
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) yesaj ca susamaraddha niccaj kayagata sati akiccaj te na sevanti kicce
+sataccakarino (those who have very firm mindfulness as to the body, those do
+not practice what should not be done, they are persevering in what should be
+done). This can be further analysed into two dependent sentences:
+    a) yesaj ca susamaraddha niccaj kayagata sati (those who have very firm and
+constant mindfulness as to the body). The subject is the noun sati
+(mindfulness, nominative singular). The verb is omitted, implying the verb "to
+be". There are two objects, the adjectives susamaraddha (very firm, nominative
+singular) and kayagata (bodily, nominative singular). The last of them has its
+own attribute, the adverb niccaj (constantly). The conjunction ca (and) serves
+mainly for metrical purposes. The relative pronoun yesaj (whose, genitive
+plural) introduces the sentence and connects it to the following one.
+    b) akiccaj te na sevanti kicce sataccakarino (those do not practice what
+should not be done, they are persevering in what should be done). This can be
+analysed into two segments:
+    I) akiccaj te na sevanti (those do not practice what should not be done).
+The subject is the pronoun te (they, nominative plural). The verb is sevanti
+(practice, 3rd person, plural, active, indicative, present tense). It is
+negated by the negative particle na (not). The object is the adjective akiccaj
+(what should not be done, accusative singular).
+    II) kicce sataccakarino (they are persevering in what should be done). The
+subject is omitted, implying the pronoun te from the previous segment. It has
+an attribute, the adjective compound sataccakarino (persevering, nominative
+plural). The verb is omitted, implying the verb "to be". The object is the
+adjective kicce (what should be done, accusative plural).
+    2) satanaj sampajananaj atthaj gacchanti asava (the taints of those, who
+are mindful and thoughtful, become extinct). The subject is the noun asava
+(taints, nominative plural). It has two attributes, the adjectives satanaj (of
+the mindful ones, genitive plural) and sampajananaj (of the thoughtful ones,
+genitive plural). The verb is gacchanti (go, 3rd person, plural, active,
+indicative, present tense). The object is the noun atthaj (to rest, accusative
+plural).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 292).
+    These two verses are reminding us that we should not loose the vision of
+the final goal. If we spend most of our time trying to make "more and more
+beautiful slippers", then we have no time to practice in order to reach the
+goal. Only by diligently putting all of our effort into the practice, by
+staying mindful all of the time, can we hope to erase our taints and reach the
+Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yesaj
+ca
+susamaraddha
+niccaj
+kayagata
+kaya
+gata
+sati
+akiccaj
+te
+na
+sevanti
+kicce
+sataccakarino
+satacca
+karino
+satanaj
+sampajananaj
+atthaj
+gacchanti
+asava
+===============================================================================

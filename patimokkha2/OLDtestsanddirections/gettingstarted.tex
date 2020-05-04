@@ -1,0 +1,25 @@
+\documentclass{article}
+
+\usepackage{fontspec}
+\setmainfont{Palatino Linotype}
+\setsansfont{Arial}
+\newfontfamily\versefont{Tahoma}
+
+\usepackage{expex}
+\lingset{everygla=\footnotesize\sffamily, % formatting the numbers in the gla line
+    glwordalign=center, % center alignment within glwords
+    aboveglbskip=-0.4ex, % narrows the vertical gap between the gla and glb lines
+    glhangstyle=none, % no hanging indent
+    glspace=!0pt plus .2em, % widens the allowable space between glwords to avoid overfull lines
+    glrightskip=0pt plus .5\hsize} % widens the allowable space between the right margin and the end of the last glword on a line to avoid overfull lines
+
+\newcommand{\vs}[1]{{\bfseries\versefont #1}}
+
+\begin{document}
+\exdisplay
+\begingl
+\gla 976 {} 1078 2424 5547 5207 1138 5207 11 {} 11 1080 o2464 1161 2464 1080 o2384 1161 2384 1080 o2455 2532 o80 846 {} 1161 2455 1080 o5329 2532 o2196 1537 o2283 1161 5329 1080 o2074 1161 2074 1080 o689 {} 1161//
+\glb \underline{Zwój księgi} (o) narodzinach Jezusa Chrystusa, syna Dawida, syna Abrahama. \vs{2} Abraham zrodził Izaaka, a Izaak zrodził Jakuba, a Jakub zrodził Judę, i braci jego, \vs{3} a Juda zrodził Faresa i Zarę z Tamary, a Fares zrodził Esroma, a Esrom zrodził Arama, \vs{4} a//
+\endgl
+\xe
+\end{document}

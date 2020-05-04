@@ -1,0 +1,149 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** yamha dhammaj vijaneyya sammasambuddhadesitaj ******
+         ****** sakkaccaj taj namasseyya aggihutaj va brahmano ******
+                            ****** (DhP 392) ******
+===============================================================================
+
+
+Sentence Translation:
+From whom you learned the Dharma, that is taught by the truly and completely
+Awakened One,
+you should duly pay your respects to him, like a Brahmin at the fire sacrifice.
+
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yamha       dhammaj  vijaneyya samma+sambuddha+desitaj
+|                       |                  |           |             
+|                 |
+Rel.Pron.m.   N.m.          V.act.    Adv.        N.m.        Adj.m.
+Abl.Sg.        Acc.Sg.      3.Sg.opt.     |________|           Acc.Sg.
+|                       |                  |                   |_____________|
+|                       |__________|_________________|
+|                                          |________|
+|____________________________|
+                       |______________________________________________
+List of Abbreviations
+sakkaccaj taj  namasseyya aggi+hutaj   va  brahmano
+|                   |             |            |        |         |          |
+Adv.       Pron.m.   V.act.     N.m.  N.n.   part.    N.m.
+|              Acc.Sg. 3.Sg.opt.      |   Acc.Sg.    |    Nom.Sg.
+|___________|_______|            |____|          |          |
+           |_____|                             |________|_____|
+                |                                         |____|
+                |_________________________|
+____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yamha: yat-, Rel.Pron.: that, which. Abl.Sg.m. = yamha.
+dhammaj: dhamma-, N.m.: Dharma, The Law, the teaching of the Buddha. Acc.Sg. =
+dhammaj.
+vijaneyya, V.: [one would] learn, know, become aware of. The verb root is ba-
+or ja- (to know) with the prefix vi- (intensifying prefix). 3.Sg.act.opt. =
+vijaneyya.
+sammasambuddhadesitaj: sammadambuddhadesita-, Adj.: taught by the truly and
+completely Awakened One. It is a compound of:
+    sammasambuddha-, N.m.: truly and completely Awakened One. This denotes the
+Buddha Shakyamuni. It can be further analyzed as:
+        samma, Adv.: properly, rightly, as it should be, truly.
+        sambuddha-, Adj.: completely awakened. It is a p.p. of the verb root
+budh-, to wake up with the prefix sam- (completely).
+   desita-, Adj.: taught. It is a p.p. of the verb root dis-, to teach.
+Acc.Sg.m. = sammasambuddhadesitaj.
+List of Abbreviations
+sakkaccaj, Adv.: respectfully, duly, thoroughly.
+taj: tad-, Pron.: that. Acc.Sg.m.: taj.
+namasseyya, V.: [one should] honor, pay homage to. This verb is a denominative
+of the noun namo-, N.n.: prayer, honor, homage. 3.Sg.act.opt. = namasseyya.
+aggihutaj: aggihuta-, N.n.: fire-sacrifice. It is a compound of:
+    aggi-, N.m.: fire.
+    huta-, Adj.: sacrificed. It is a p.p. of the verb root hu- (to sacrifice).
+As an N.n.: oblation, sacrifice.
+Acc.Sg. = aggihutaj.
+va, part.: as, like.
+brahmano: brahmana-, N.m.: Brahmin, a holy man. Nom.Sg. = brahmano.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) yamha dhammaj vijaneyya sammasambuddhadesitaj (from whom one learned the
+Dharma, that is taught by the truly and completely Awakened One). The subject
+is omitted; the verb implies the third person singular pronoun. The verb is
+vijaneyya (one would learn, 3rd person, singular, active, optative). The object
+is the noun dhammaj (the Dharma, accusative singular). It has an attribute, the
+compound sammasambuddhadesitaj (taught by the truly and completely Awakened
+One, accusative singular). The relative pronoun yamha (from whom, ablative
+singular) connects this sentence to the following one.
+    2) sakkaccaj taj namasseyya aggihutaj va brahmano (one should duly pay
+respects to him, like a Brahmin at the fire sacrifice). This can be further
+analyzes into the main sentence a) and the dependent clause b):
+    a) sakkaccaj taj namasseyya (one should duly pay respects to him). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is namasseya (one should pay respects, 3rd person, singular, active,
+optative). It has an attribute, the adverb sakkaccaj (duly). The object is the
+pronoun taj (him, accusative singular).
+    b) aggihutaj va brahmano (like a Brahmin at the fire sacrifice). The
+subject is the noun brahmano (Brahmin, nominative singular). The object is the
+noun aggihutaj (fire sacrifice, accusative singular). The particle va (as,
+like) connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    Sariputta and Moggallana were friends ever since they were born. They grew
+up in one village, where their parents were Brahmins. Both youths searched for
+the teaching of Awakenment. They went to various teachers and performed various
+religious practices, but they were not satisfied.
+    When they were at Rajagaha, the Buddha also came there together with his
+monks. One of them was Venerable Assaji, one of the first five disciples of the
+Buddha. Sariputta met Assaji while the later was on his almsround. Sariputta
+was impressed with Assaji's calmness and serenity and asked him who was his
+teacher and what was his teaching. Assaji spoke a short verse:
+    "The Tathagata (the Buddha) declared the cause and the cessation of all
+things that arise from a cause. This is what the Great Ascetic (The Buddha)
+says."
+    Sariputta immediately attained the first level of Awakenment. He then went
+to inform Moggallana about this and told him the verse. Moggallana also
+attained the first stage of Awakenment. Together they went to see the Buddha
+and became monks. Soon they attained the Arahantship. Later they became the
+Buddha's chief disciples.
+    Venerable Sariputta always remembered that it was Assaji who taught him the
+Dharma and used to pay his respect in the direction, where his teacher was. The
+other monks misunderstood this and reported to the Buddha that Sariputta was
+still worshipping the directions as he had done before as a Brahmin. Sariputta
+then explained that he only honored his teacher. The Buddha then spoke this
+verse, saying that we should always honor the person, who taught us the Dharma
+in the first place.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yamha
+dhammaj
+vijaneyya
+sammasambuddhadesitaj
+sammasambuddha
+samma
+sambuddha
+desitaj
+sakkaccaj
+taj
+namasseyya
+aggihutaj
+aggi
+hutaj
+va
+brahmano
+===============================================================================

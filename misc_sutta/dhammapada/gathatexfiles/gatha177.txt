@@ -1,0 +1,172 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+ ****** na ve kadariya devalokaj vajanti bala have na ppasajsanti danaj ******
+    ****** dhiro ca danaj anumodamano ten'eva so hoti sukhi parattha ******
+                            ****** (DhP 177) ******
+===============================================================================
+
+
+Sentence Translation:
+Selfish ones do not get to the world of the gods. Fools do not praise giving.
+And the wise one enjoys giving. Just because of that he is happy hereafter.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na     ve  kadariya deva+lokaj  vajanti      bala   have   na ppasajsanti danaj
+
+|         |          |          |        |            |             |        
+|       |          |                |
+neg. part.  Adj.m.  N.m. N.m.   V.act.in.    N.m.   part. neg. V.act.in.      
+N.n.
+|         |     Nom.Pl.   |   Acc.Sg. 3.Pl.pres. Nom.Pl.  |       |   
+3.Pl.pres.    Acc.Sg.
+|_____|          |          |_____|           |             |         |      
+|______|                |
+     |________|________|_________|             |        
+|_______|                      |
+                    |        |___|                             
+|                |________________|
+                    |______|                                
+|__________________|
+List of Abbreviations
+dhiro      ca    danaj anumodamano tena   eva       so          hoti       
+sukhi  parattha
+|               |          |              |                |        |         
+|              |              |           |
+Adj.m.   conj.   N.n.     Adj.m.       Pron.n. part. Pron.m.  V.act.in.   
+Adj.m.  Adv.
+Nom.Sg.   |    Acc.Sg.  Nom.Sg.      Ins.Sg.    |    Nom.Sg. 3.Sg.pres.
+Nom.Sg.   |
+|               |          |________|               |_____|         
+|              |              |_____|
+|________|__________|                            |              |             
+|___________|
+       |____|                                               |             
+|_____________|
+                                                               |______________|
+
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+ve, part.: indeed.
+kadariya: kadariya-, Adj.: selfish, miserly, stingy. Nom.Pl.m. = kadariya.
+devalokaj: devaloka-, N.m.: the world of the gods. It is a compound of:
+    deva-, N.m.: god, celestial being.
+    loka-, N.m.: world.
+Acc.Sg. = devalokaj.
+vajanti, V.: go. The verb root is vaj- (to go, to wander). 3.Pl.act.in.pres. =
+vajanti.
+bala: bala-, Adj.: childish, young. As an N.m.: "like a child", fool, ignorant
+person. Nom.Pl. = bala.
+List of Abbreviations
+have, part.: indeed, truly.
+na: see above.
+pasajsanti, V.: to praise, to commend. The verb root is sajs- (to proclaim, to
+point out) with the strenghtening prefix pa-. 3.Pl.act.in.pres. = pasajsanti.
+Euphonic combination: na + pasajsanti = na ppasajsanti.
+danaj: dana-, N.n.: giving [in charity], distribution [of gifts]. Acc.Sg. =
+danaj.
+dhiro: dhira-, Adj.: wise, clever. Nom.Sg.m. = dhiro.
+ca, conj.: and.
+danaj: see above.
+List of Abbreviations
+anumodamano: anumodamana-, Adj.: enjoying, appreciating. It is an. med.pr.p. of
+the verb root mud- (to be happy) with the prefix anu- (following, after).
+Nom.Sg.m. = anumodamano.
+tena: tad-, Pron.: it. Ins.Sg.n. = tena.
+eva, part.: just, only.
+Euphonic combination: tena + eva = ten'eva.
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+sukhi: sukhin-, Adj.: happy. It is the word sukha-, N.n.: happiness, with the
+possessive suffix -in. Nom.Sg.m. = sukhi.
+parattha, Adv.: lit. elsewhere; hereafter, in the other world.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) na ve kadariya devalokaj vajanti (selfish ones do not get to the world
+of the gods). The subject is the adjective kadariya (selfish ones, nominative
+plural). The verb is vajanti (go, 3rd person, plural, active, indicative,
+present tense). It is negated by the negative particle na (not). The object is
+the compound devalokaj (to the world of the gods, accusative singular). The
+particle ve (indeed) serves mainly for metrical purposes.
+    2) bala have na ppasajsanti danaj (fools do not praise giving). The subject
+is the noun bala (fools, nominative plural). The verb is pasajsanti (praise,
+3rd person, plural, active, indicative, present tense). It is negated by the
+negative particle na (not). The object is the noun danaj (giving, accusative
+singular). The particle have (indeed) serves mainly for metrical purposes.
+    3) dhiro ca danaj anumodamano (and the wise one enjoys giving). The subject
+is the adjective dhiro (wise one, nominative singular). The verb is in the
+medium present participle, anumodamano ([is] enjoying, nominative singular).
+The object is the noun danaj (giving, accusative singular). The conjunction ca
+(and) serves mainly for metrical purposes.
+    4) ten'eva so hoti sukhi parattha(just because of that he is happy
+hereafter). The subject is the pronoun so (he, nominative singular). The verb
+is hoti (is, 3rd person, singular, active, indicative, present tense). It has
+two attributes, the adjective sukhi (happy, nominative singular) and the adverb
+parattha (hereafter). The sentence is introduced by the pronoun tena (by that,
+instrumental singular), which is further stressed by the particle eva (just).
+This phrase points to the word danaj from the previous sentence.
+===============================================================================
+
+
+Commentary:
+    King Pasenadi of Kosala was once competing with his subjects in almsgiving.
+However big offering the king made, his subjects always found a way to give
+more alms. Queen Mallika then devised a plan. She had a great pavilion built,
+brought many white umbrellas and tame elephants. The elephants held the
+umbrellas over the monks. In the middle of the pavilion there was a lake with
+ten boats filled with incense and perfume. Finally, princesses served the food.
+Because the subjects had no elephants or umbrellas (white umbrellas could be
+owned only by kings) and of course had no princesses, they could not compete
+any more.
+    Two ministers of the king were present. One of them praised the king for
+offering so much. He realized that the merit would be shared by all the living
+beings in the kingdom. The other minister however thought that the king was
+giving away the national wealth for the sake of some lazy monks.
+    After the meal, the Buddha prepared to make a speech. He understood what
+the second minister was feeling and so he decided to give only a short speech
+instead of a long one he was originally planning. The king was disappointed by
+such a brief sermon and he reflected what he had done wrong. Therefore he went
+to the monastery and asked the Buddha.
+    The Buddha told him about one of his ministers and explained that had he
+delivered a long speech, the minister would be disappointed even more. The
+Buddha further added this verse for the benefit of the king.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+ve
+kadariya
+devalokaj
+deva
+lokaj
+vajanti
+bala
+have
+pasajsanti
+danaj
+dhiro
+ca
+anumodamano
+tena
+eva
+so
+hoti
+sukhi
+parattha
+===============================================================================

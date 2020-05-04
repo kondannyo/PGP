@@ -1,0 +1,127 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** na tena bhikkhu hoti yavata bhikkhate pare ******
+         ****** vissaj dhammaj samadaya bhikkhu hoti na tavata ******
+                            ****** (DhP 266) ******
+===============================================================================
+
+
+Sentence Translation:
+One is not a monk because one begs almsfood from others.
+If one follows the life of a householder, one is not a monk because of that.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na    tena    bhikkhu     hoti      yavata   bhikkhate   pare
+|          |            |             |             |             
+|             |
+neg. Pron.     N.m.    V.act.in.  Rel.Adv. V.act.in.   Adj.m.
+|      Ins.Sg. Nom.Sg. 3.Sg.pres.     |        3.Sg.pres. Acc.Pl.
+|______|______|_______|              |              |_______|
+           |       |__|                           |___________|
+           |_____|                                       |
+                |________________________|
+List of Abbreviations
+vissaj dhammaj samadaya bhikkhu    hoti       na  tavata
+|                 |               |              |             |         
+|        |
+Adj.m.     N.m.      V.ger.       N.m.     V.act.in. neg.  Adv.
+Acc.Sg.  Acc.Sg.         |        Nom.Sg. 3.Sg.pres.  |        |
+|_________|                |              |            |______|        |
+        |______________|             |                  |________|
+                      |                         |______________|
+                      |_____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+tena: tad-, Pron.: it. Ins.Sg.n. = tena (by it, because of it).
+bhikkhu: bhikkhu-, N.m.: a (Buddhist) monk. Nom.Sg. = bhikkhu.
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+yavata, Rel.Adv.: as far as, because.
+List of Abbreviations
+bhikkhate, V.: begs (for almsfood). The verb root is bhikkh-. 3.Sg.act.in.pres.
+= bhikkhate.
+pare: para-, Adj.: other. Acc.Pl.m. = pare.
+vissaj: vissa-, Adj.: all, every, entire. Acc.Sg.m. = vissaj. This word in this
+context is very strange. The meaning would be "one is not a monk if one is
+observing the Dharma completely", which is just the opposite of what we would
+expect. The commentary explains this word by visama-, Adj. (disharmonious,
+contrary, wrong). But other versions of the Dhammapada (Gandhari and Sanskrit)
+use the word vewma-, N.n. (house). The meaning therefore would be "teaching of
+the houses", "life of a householder".
+dhammaj: dhamma-, N.m.: here not as the Dharma (Buddha's Teaching), but rather
+in a more general meaning: teaching, way. Acc.Sg. = dhammaj.
+List of Abbreviations
+samadaya, V.ger.: having undertaken, observing. The verb root is da- (to give)
+with the prefixes sam- (completely) and a- (towards).
+bhikkhu: see above.
+hoti: see above.
+na: see above.
+tavata, Adv.: on that account, thus.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) na tena bhikkhu hoti yavata bhikkhate pare (one is not a monk because
+one begs almsfood from others). This can be analysed into two parts:
+    a) na tena bhikkhu hoti (one is not a monk). The subject is omitted; the
+verb implies the third person singular pronoun. The verb is hoti (is, 3rd
+person, singular, active, indicative, present tense). It is negated by the
+negative particle na (not). The object is the noun bhikkhu (monk, nominative
+singular). The pronoun tena (by that, instrumental singular) connects this part
+to the following one.
+    b) yavata bhikkhate pare (because one begs almsfood from others). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is bhikkhate (begs, 3rd person, singular, active, indicative, present
+tense). The object is the adjective pare (others, accusative plural). The
+relative adverb yavata (because) connects this part to the previous one.
+    2) vissaj dhammaj samadaya bhikkhu hoti na tavata (if one follows the life
+of a householder, one is not a monk because of that). This can be further
+analysed into two segments:
+    a) vissaj dhammaj samadaya (if one follows the life of a householder). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is in gerund (samadaya, having undertaken). The object is the noun dhammaj
+(teaching, accusative singular). It has an attribute, the adjective vissaj (for
+meaning see the Vocabulary, accusative singular).
+    b) bhikkhu hoti na tavata (one is not a monk because of that). The subject
+is omitted; the verb implies the third person singular pronoun. The verb is
+hoti (is, 3rd person, singular, active, indicative, present tense). It is
+negated by the negative particle na (not). The object is the noun bhikkhu
+(monk, nominative singular). The adverb tavata (by that) connects this segment
+to the previous one.
+===============================================================================
+
+
+Commentary:
+    There was a brahmin, who had the habit of going on almsround begging for
+almsfood, just as the Buddha's monks did. Therefore, he thought he was also to
+be called a monk. He went to see the Buddha and told him this idea. The Buddha
+reprimanded him with this verse (and the following one, DhP 267).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+tena
+bhikkhu
+hoti
+yavata
+bhikkhate
+pare
+vissaj
+dhammaj
+samadaya
+tavata
+===============================================================================

@@ -1,0 +1,118 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** nitthavgato asantasi vitatanho anavgano ******
+            ****** acchindi bhavasallani antimoyaj samussayo ******
+                            ****** (DhP 351) ******
+===============================================================================
+
+
+Sentence Translation:
+One who has attained perfection, is without fear, free of thirst and pure,
+cut off the arrows of existence. For such a one, this is the very last life.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+nitthav+gato        asantasi  vita+tanho   anavgano
+|              |                |           |        |             |
+N.f.       Adj.m.    Adj.m.   Adj. Adj.m.    Adj.m.
+Acc.Sg. Nom.Sg. Nom.Sg.    |   Nom.Sg. Nom.Sg.
+|________|               |           |_____|             |
+       |_____________|_________|_________|
+                                       |_____________________________________
+List of Abbreviations
+acchindi bhava+sallani  antimo     ayaj   samussayo
+|                |           |           |             |             |
+V.act.     N.m.    N.n.    Adj.m.   Pron.m.    N.m.
+3.Sg.aor.    |     Acc.Pl. Nom.Sg. Nom.Sg. Nom.Sg.
+|                |______|           |________|_______|
+|____________|                        |____|
+_______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+nitthavgato: nitthavgata-, Adj.: has attained perfection. It is a compound of:
+    nittha, N.f.: conclusion, perfection, summit, aim. The compound form (also
+the Acc.Sg.): nitthav.
+    gata-, Adj.: gone. It is a p.p. of the verb gam- (to go).
+Nom.Sg.m. = nitthavgato.
+asantasi: asantasin-, Adj.: fearless, not afraid. It is the word santasin-,
+Adj.: frightened, trembling (it is derived from the word santasa-, N.m.: fear,
+shock and the possessive suffix -in), negated by the negative prefix a-.
+Nom.Sg.m. = asantasi.
+vitatanho: vitatanha-, Adj.: without thirst. Lit. "with the thirst gone". It is
+a compound of:
+    vita-, Adj.: gone. It is a p.p. of the verb i- (to go) with the prefix vi-
+(away).
+    tanha-, N.f.: thirst, craving.
+Nom.Sg.m. = vitatanho.
+anavgano: anavgana-, Adj.: pure, clear, without specks. It is the word avgana-,
+N.m.: speck, freckle, with the negative prefix an-. Nom.Sg.m. = anavgano.
+List of Abbreviations
+acchindi, V.: has cut off, has destroyed. The verb root is chid-. 3.Sg.act.aor.
+= acchindi.
+bhavasallani: bhavasalla-, N.n.: the arrows of existence. It is a compound of:
+    bhava-, N.m.: becoming, existence. It is derived from the verb root bhu-
+(to be).
+    salla-, N.n.: arrow, dart.
+Acc.Pl. = bhavasallani.
+antimo: antima-, Adj.: last, final. Nom.Sg.m. = antimo.
+ayaj: idaj, Pron.: this. Nom.Sg.m. = ayaj.
+Euphonic combination: antimo + ayaj = antimoyaj.
+samussayo: samussaya-, N.m.: life, body, accumulation, complex. Nom.Sg. =
+samussayo.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) nitthavgato asantasi vitatanho anavgano acchindi bhavasallani (one who
+has attained perfection, is without fear, free of thirst and pure, cut off the
+arrows of existence). There are four subjects, the adjectives nitthavgato (has
+attained perfection, nominative singular), asantasi (without fear, nominative
+singular), vitatanho (free of thirst, nominative singular) and anavgano (pure,
+nominative singular). The verb is acchindi (cut off, 3rd person, singular,
+active, aorist). The object is the compound bhavasallani (arrows of existence,
+accusative plural).
+    2) antimoyaj samussayo (this is the very last life). The subject is the
+pronoun ayaj (this, nominative singular). The verb is omitted, implying the
+verb "to be". The object is the noun samussayo (body, nominative singular). It
+has an attribute, the adjective antimo (last, nominative singular).
+===============================================================================
+
+
+Commentary:
+    A large group of monks came to visit the Jetavana monastery. The Buddha's
+son, novice Rahula had to sleep outside. Mara then took the form of an elephant
+and tried to scare Rahula. But Rahula did not show any trace of fear. The
+Buddha then came out and told Mara this verse (and the following one, DhP 352)
+telling him that Rahula was an Arahant and could not be scared by anything in
+the world. Mara realized he lost and disappeared.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+nitthavgato
+nitthav
+gato
+asantasi
+vitatanho
+vita
+tanho
+anavgano
+acchindi
+bhavasallani
+bhava
+sallani
+antimo
+ayaj
+samussayo
+===============================================================================

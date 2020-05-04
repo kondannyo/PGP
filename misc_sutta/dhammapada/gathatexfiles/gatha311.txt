@@ -1,0 +1,119 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** kuso yatha duggahito hattham evanukantati ******
+           ****** samabbaj dupparamatthaj nirayayupakaddhati ******
+                            ****** (DhP 311) ******
+===============================================================================
+
+
+Sentence Translation:
+Just like a wrongly taken kusa grass cuts the hand,
+wrongly grasped monkshood drags one towards the hell.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+kuso         yatha   duggahito hattham eva anukantati
+|                   |            |              |         |           |
+N.m.      Rel.Adv.  Adj.m.     N.m.   part.  V.act.in.
+Nom.Sg.       |       Nom.Sg. Acc.Sg.    |    3.Sg.pres.
+|___________|______|               |_____|______|
+                    |      |                          |__|
+                    |      |________________|
+                    |____________|
+                              |________________________________________________
+List of Abbreviations
+samabbaj dupparamatthaj nirayaya upakaddhati
+|                            |                   |               |
+N.n.                  Adj.n.           N.m.      V.act.in.
+Nom.Sg.          Nom.Sg.       Dat.Sg.    3.Sg.pres.
+|________________|                  |_________|
+              |_______________________|
+___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+kuso: kusa-, N.m.: a kind of sacred grass. Nom.Sg. = kuso.
+yatha, Rel.Adv.: as, just like.
+duggahito: duggahita-, Adj.: wrongly taken. It is a compound of:
+    du-, Pref.: bad, wrong.
+    gahita-, Adj.: taken, seized, held. It is a p.p. of the verb root gah- (to
+hold, to take).
+Euphonic combination: du- + gahita- = duggahita-.
+Nom.Sg.m. = duggahito.
+hattham: hattha-, N.m.: hand. Acc.Sg. = hattham.
+eva, part.: just, only.
+anukantati, V.: cuts. The verb root is kat- (to cut) with the prefix anu-
+(along, at).
+3.Sg.act.in.pres. = anukantati.
+Euphonic combination: eva + anukantati = evanukantati.
+List of Abbreviations
+samabbaj: samabba-, N.n.: monkshood. An abstract from samana-, N.m.: monk,
+recluse.
+Nom.Sg. = samabbaj.
+dupparamatthaj: dupparamattha-, Adj.: wrongly touched, wrongly grasped. It is a
+compound of:
+    du-, Pref.: bad, wrong.
+    paramattha-, Adj.: grasped, held. It is a p.p. of the verb root mas- (to
+touch) with the prefix para- (on to, over).
+Euphonic combination: du- + paramattha- = dupparamattha-.
+Nom.Sg.n. = dupparamatthaj.
+nirayaya: niraya-, N.m.: hell. Dat.Sg. = nirayaya.
+upakaddhati, V.: drags to, pulls towards. The verb root is kaddh- (to drag)
+with the prefix upa- (towards, to). 3.Sg.act.in.pres. = upakaddhati.
+Euphonic combination: nirayaya + upakaddhati = nirayayupakaddhati.
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) kuso yatha duggahito hattham evanukantati (just like a wrongly taken
+kusa grass cuts the hand). The subject is the noun kuso (kusa grass, nominative
+singular). It has an attribute, the adjective duggahito (wrongly taken,
+nominative singular). The verb is anukantati (cuts, 3rd person, singular,
+active, indicative, present tense). The object is the noun hattham (hand,
+accusative singular). It is stressed by the particle eva (just). The relative
+adverb yatha (just as, like) connects the sentence to the following one.
+    2) samabbaj dupparamatthaj nirayayupakaddhati (wrongly grasped monkshood
+drags one towards the hell). The subject is the noun samabbaj (monkshood,
+nominative singular). It has an attribute, the adjective dupparamatthaj
+(wrongly grasped, nominative singular). The verb is upakaddhati (drags to, 3rd
+person, singular, active, indicative, present tense). The object is the noun
+nirayaya (towards hell, dative singular).
+===============================================================================
+
+
+Commentary:
+    There was a monk who once unintentionally cut of some plants. He felt very
+remorseful and confessed to another monk his offence. This second monk just
+laughed at him, saying that cutting of plants is only a very minor offence. To
+show, what he felt about it, this monk started to uproot plants around him.
+    When the Buddha heard about this, he advised this monk by this verse (and
+two following one, DhP 312 and DhP 313) not to think little of minor rules.
+Plants are also living beings and should not be destroyed without reason. At
+first, the monk was obstinate, but later he realized the importance of the
+monk's precepts. Thereafter he followed the moral code strictly and practiced
+the meditation diligently. Later he attained the Arahantship.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+kuso
+yatha
+duggahito
+hattham
+eva
+anukantati
+samabbaj
+dupparamatthaj
+nirayaya
+upakaddhati
+===============================================================================

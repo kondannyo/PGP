@@ -1,0 +1,118 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** na tena pandito hoti yavata bahu bhasati ******
+             ****** khemi averi abhayo pandito ti pavuccati ******
+                            ****** (DhP 258) ******
+===============================================================================
+
+
+Sentence Translation:
+One is not called wise because one speaks a lot.
+One, who is peaceful, without hatred and fearless, is called "wise".
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na     tena     pandito      hoti       yavata   bahu   bhasati
+|           |            |              |             |           |           |
+
+neg. Pron.n.   N.m.     V.act.in.  Rel.Adv. Adv.  V.act.in.
+|       Ins.Sg. Nom.Sg. 3.Sg.pres.      |           |     3.Sg.pres.
+|______|_______|________|             |           |______|
+           |       |___|                            |_________|
+           |______|                                       |
+                |_________________________|
+List of Abbreviations
+khemi      averi     abhayo   pandito     ti   pavuccati
+|                  |             |             |           |          |
+Adj.m.     Adj.m.   Adj.m.     N.m.    part. V.pas.in.
+Nom.Sg. Nom.Sg. Nom.Sg. Nom.Sg.   |    3.Sg.pres.
+|__________|_______|             |______|           |
+                         |                          |_________|
+                         |___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+tena: tad-, Pron.: it. Ins.Sg.n. = tena (by it, because of it).
+pandito: pandita-, N.m.: wise man, learned man. Nom.Sg. = pandito.
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+yavata, Rel.Adv.: as far as, because.
+bahu, Adv.: much, a lot. It is derived from the word bahu-, Adj.: large, much,
+very.
+bhasati, V.: speaks. The verb root is bhas-. 3.Sg.act.in.pres. = bhasati.
+khemi: khemin-, Adj.: peaceful, tranquil, calm. It is the word khema-, N.n.:
+peace, calmness, with the possessive suffix -in. Nom.Sg.m. = khemi.
+List of Abbreviations
+averi: averin-, Adj.: not hating, without hatred. It is the word verin-, Adj.
+(hating, bearing hostility. It is derived from the word vera-, N.n.: hatred,
+enmity; with the possessive suffix -in) negated by the negative prefix a-.
+Nom.Sg.m. = averi.
+abhayo: abhaya-, Adj.: having no fear, fearless. It is the word bhaya-, N.n.:
+fear, with the negative prefix a-. Nom.Sg.m. = abhayo.
+pandito: see above.
+ti, part.: a particle, symbolizing the end of direct speech. In English this is
+expressed by quotation marks. Sometimes it is written as iti.
+pavuccati, V,: is called. It is a passive form of the verb root vac- (to say),
+with the strengthening prefix pa-. 3.Sg.pas.in.pres. = pavuccati.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) na tena pandito hoti yavata bahu bhasati (one is not called wise because
+one speaks a lot). This can be further analysed into two parts:
+    a) na tena pandito hoti (one is not called wise). The subject is omitted;
+the verb implies the third person singular. The verb is hoti (is, 3rd person,
+singular, active, indicative, present tense). It is negated by the negative
+particle na (not). The object is the noun pandito (wise one, nominative
+singular). The pronoun tena (by that, because of; instrumental singular)
+connects this segment to the following one.
+    b) yavata bahu bhasati (because one speaks a lot). The subject is omitted;
+the verb implies the third person singular. The verb is bhasati (speaks, 3rd
+person, singular, active, indicative, present tense). It has an attribute, the
+adverb bahu (a lot). The relative adverb yavata (as far as) connects this
+segment to the previous one.
+    2) khemi averi abhayo pandito ti pavuccati (one who is peaceful, without
+hatred and fearless, is called "wise"). There are three subjects, the
+adjectives khemi (peaceful, nominative singular), averi (without hatred,
+nominative singular) and abhayo (fearless, nominative singular). The verb is
+pavuccati (is called, 3rd person, singular, passive, indicative, present
+tense). The object is the noun pandito (wise one, nominative singular). It is
+modified by the particle ti (in place of quotation mark).
+===============================================================================
+
+
+Commentary:
+    A group of monks always caused troubles in the monastery. Wherever they
+went, some problems occurred. Once they boasted in front of some novices,
+saying only they were wise and intelligent.
+    When the Buddha heard about this, he replied with this verse, saying that
+one should not be called wise only because one talks a lot. Only one who is
+peaceful and free from hate can be called wise.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+tena
+pandito
+hoti
+yavata
+bahu
+bhasati
+khemi
+averi
+abhayo
+ti
+pavuccati
+===============================================================================

@@ -1,0 +1,113 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+           ****** candanaṃ tagaraṃ vā pi uppalaṃ atha vassikī ******
+            ****** etesaṃ gandhajātānaṃ sīlagandho anuttaro ******
+                            ****** (DhP 55) ******
+===============================================================================
+
+Sentence Translation:
+Sandal or tagara, lotus and jasmine,
+of these kinds of scent, the scent of the virtue is highest.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+candanaṃ tagaraṃ  vā     pi       uppalaṃ atha vassikī
+|                    |         |        |            |           |         |
+N.n.           N.n.    conj. conj.     N.n.      Adv.   N.f.
+Nom.Sg.  Nom.Sg.   |____|       Nom.Sg.    |     Nom.Sg.
+|___________|________|________|_______|_____|
+                           |___________________________________________________
+List of Abbreviations
+etesaṃ gandha+jātānaṃ sīla+gandho   anuttaro
+|               |            |         |         |              |
+Pron.n.  N.m.    Adj.n.  N.n.   N.m.      Adj.m.
+Gen.Pl.    |       Gen.Pl.    |    Nom.Sg.  Nom.Sg.
+|              |_______|         |_____|               |
+|___________|                     |___________|
+______|                                       |
+     |_________________________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+candanaṃ: candana-, N.n.: sandal. Nom.Sg. = candanaṃ.
+tagaraṃ: tagara-, N.n: the incense obtained from a kind of shrub (in Latin:
+Tabernaemontana coronaria). Nom.Sg. = tagaraṃ.
+vā, conj.: or.
+pi, conj.: also, too.
+uppalaṃ: uppala-, N.n.: lotus. Nom.Sg. = uppalaṃ.
+List of Abbreviations
+atha, Adv.: and also, and then.
+vassikī: vassikī-, N.f.: jasmine. Nom.Sg. = vassikī.
+etesaṃ: etad-, Pron.: this. Gen.Pl.n. = etesaṃ.
+gandhajātānaṃ: gandhajāta-, N.n.: odor, kind of perfume, "consisting of smell".
+
+It is a compound of:
+    gandha-, N.m.: scent, smell.
+    jāta-, Adj.: characteristic, consisting of. Originally it is a p.p. of the
+verb jan- (to be born).
+Gen.Pl. = gandhajātānaṃ.
+List of Abbreviations
+sīlagandho: sīlagandha-, N.m.: the scent of virtue. It is a compound of:
+    sīla-, N.n.: virtue.
+    gandha-, N.m.: scent.
+Nom.Sg. = sīlagandho.
+anuttaro: anuttara-, Adj.: highest. Literally: "to which there is no higher".
+It is composed of the word uttara- (uttara-, Adj.: higher), which is preceded
+by the negative prefix an-.
+Nom.Sg.m. = anuttaro.
+List of Abbreviations
+    The subject of this sentence is the word sīlagandho (the scent of virtue,
+nominative singular). It has an attribute, the adjective anuttaro (highest,
+nominative singular). There is no verb in this sentence, implying the verb "to
+be".
+    The object is the word gandhajātānaṃ (of the kinds of smell, genitive
+plural). It has an attribute, the pronoun etesaṃ (of these, genitive plural).
+    The first line of this verse is formed by a list of four nouns. They are
+all in nominative singular and are connected by the conjunctions vā pi (or
+also) and atha (and also, and then). They are candanaṃ (sandal), tagaraṃ
+(tagara), uppalaṃ (lotus) and vassikī (jasmine). This list forms an attribute
+to the object etesaṃ gandhajātānaṃ.
+
+===============================================================================
+
+Commentary:
+    The story for this verse is identical with that for the previous verse (DhP
+54).
+    The "scent" or reputation of virtue is the highest. All the other natural
+scents cannot compete with it, because they can be smelt only for a short time
+and only in a short distance. But the smell of virtue can be felt for a long
+period of time and in all directions.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+candanaṃ
+tagaraṃ
+vā
+pi
+uppalaṃ
+atha
+vassikī
+etesaṃ
+gandhajātānaṃ
+gandha
+jātānaṃ
+sīlagandho
+sīla
+gandho
+anuttaro
+
+===============================================================================

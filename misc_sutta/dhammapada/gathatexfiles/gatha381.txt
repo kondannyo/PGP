@@ -1,0 +1,124 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** pamojjabahulo bhikkhu pasanno buddhasasane ******
+         ****** adhigacche padaj santaj savkharupasamaj sukhaj ******
+                            ****** (DhP 381) ******
+===============================================================================
+
+
+Sentence Translation:
+The monk who is full of joy and trusting in the Buddha's teaching,
+will acquire the peaceful state of Nirvana, quieting of all conditioned things
+and happiness.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+pamojja+bahulo   bhikkhu   pasanno buddha+sasane
+|                 |              |              |           |            |
+N.n.       Adj.m.     N.m.      Adj.m.   N.m.      N.n.
+|            Nom.Sg. Nom.Sg. Nom.Sg.     |        Loc.Sg.
+|__________|             |              |           |_______|
+          |                      |              |__________|
+          |____________|_____________|
+                   |_______|
+                          |____________________________________________
+List of Abbreviations
+adhigacche padaj  santaj savkhara+upasamaj sukhaj
+|                     |           |            |               |              |
+
+V.act.          N.n.    Adj.n.    N.m.         N.m.       N.n.
+3.Sg.opt.   Acc.Sg. Acc.Sg.      |           Acc.Sg.   Acc.Sg.
+|                     |______|            |_________|             |
+|                           |_______________|___________|
+|_______________________|
+____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+pamojjabahulo: pamojjabahula-, Adj.: full of joy. It is a compound of:
+    pamojja-, N.n.: joy, delight, happiness. Often spelled as pamujja-.
+    bahula-, Adj.: full of, much, abundant.
+Nom.Sg.m. = pamojjabahulo.
+bhikkhu: bhikkhu-, N.m.: a (Buddhist) monk. Nom.Sg. = bhikkhu.
+pasanno: pasanna-, Adj.: trusting, virtuous, happy, bright. It is a p.p. of the
+verb root sad- (to sit) with the strengthening prefix pa-. Nom.Sg.m. = pasanno.
+buddhasasane: buddhasasana-, N.n.: the teaching of the Buddha. It is a compound
+of:
+    buddha-, Adj.: awakened. It is a p.p. of the verb root budh- (to awaken).
+As a N.m.: Awakened One, Enlightened One, a being who has attained the Nirvana.
+
+    sasana-, N.n.: teaching, message, the teaching of the Buddha. It is derived
+from the verb root sas- (to teach).
+Loc.Sg. = buddhasasane.
+List of Abbreviations
+adhigacche, V.: would find, acquire. The verb root is gam- (to go) with the
+prefix adhi- (towards). 3.Sg.act.opt. = adhigacche.
+padaj: pada-, N.n.: state, place. Acc.Sg. = padaj.
+santaj: santa-, Adj.: peaceful, tranquil. It is a p.p. of the verb sam- (to be
+appeased).
+Acc.Sg.n. = santaj.
+savkharupasamaj: savkharupasama-, N.m.: quieting of all the conditioned things,
+the Nirvana. It is a compound of:
+    savkhara-, N.m.: conditioned thing, world of phenomena. The meaning of this
+word is very wide, here we will use "conditioned thing". It comprises the
+entire world around us, including ourselves.
+    upasama-, N.m.: calm, quiet, tranquility. It is derived from the verb root
+sam- (to be appeased) with the prefix upa- (towards, up).
+Euphonic combination: savkhara- + upasama- = savkharupasama-.
+Acc.Sg. = savkharupasamaj.
+sukhaj: sukha-, N.n.: happiness, well-being. Acc.Sg.m. = sukhaj.
+List of Abbreviations
+    The subject is the noun bhikkhu (monk, nominative singular). It has two
+attributes, the compound pamojjabahulo (full of joy, nominative singular) and
+the past participle pasanno (trusting, nominative singular). This word has its
+own attribute, the compound buddhasasane (in the Buddha's teaching, locative
+singular). The verb is adhigacche (would acquire, 3rd person, singular, active,
+optative). It has three attributes, the noun sukhaj (happiness, accusative
+singular), the compound savkharupasamaj (quieting of all conditioned things,
+accusative singular) and the noun padaj (state, accusative singular). This last
+word has an attribute, the adjective santaj (peaceful, accusative singular).
+===============================================================================
+
+
+Commentary:
+    In Savatthi there lived a young man named Vakkali. When he saw the Buddha
+for the first time he was very impressed with his calm and radiant appearance.
+He became a monk just to be close to the Buddha. As a result, he neglected his
+own spiritual development. The Buddha exhorted him that in order to see the
+Buddha, one must see the Dharma, his teaching. And he sent Vakkali away.
+Vakkali was very depressed and contemplated suicide. The Buddha understood his
+mind and sent forth his radiance to Vakkali’s presence. Vakkali felt as if the
+Buddha was really there, his mind calmed and he started to practice diligently.
+Soon he reached the Arahantship.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+pamojjabahulo
+pamojja
+bahulo
+bhikkhu
+pasanno
+buddhasasane
+buddha
+sasane
+adhigacche
+padaj
+santaj
+savkharupasamaj
+savkhara
+upasamaj
+sukhaj
+===============================================================================

@@ -1,0 +1,208 @@
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+   ****** appam pi ce saṃhitaṃ bhāsamāno dhammassa hoti anudhammacārī ******
+   ****** rāgañ ca dosañ ca pahāya mohaṃ sammāppajāno suvimuttacitto ******
+     ****** anupādiyāno idha vā huraṃ vā sa bhāgavā sāmaññassa hoti ******
+                            ****** (DhP 20) ******
+===============================================================================
+
+Translation:
+Even if he recites a little of scriptures, but lives in truth according to the
+Dharma,
+having abandoned lust, hatred and delusion, has the right knowledge, with a
+well emancipated mind,
+is not attached to anything, either in this world, nor in the other one, he
+shares the [blessings of] monkshood.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+appam   pi      ce   saṃhitaṃ bhāsamāno dhammassa  hoti        anu+dhamma+cārī
+|             |        |         |                |                 
+|             |             |          |           |
+Adj.m.  part. part.  N.m.        Adj.m.          N.m.     V.act.in.    Pref.  
+N.m.    N.m.
+Acc.Sg.  |        |    Acc.Sg.    Nom.Sg.       Gen.Sg.   3.Sg.pres.   
+|_____|      Nom.Sg.
+|             |       |          |_________|                  |            
+|                  |_________|
+|_______|____|__________|                           |            
+|_______________|
+     |____|       |                                             
+|_______________|
+         |______|                                                           |
+             
+|____________________________________|____________________________
+List of Abbreviations
+rāgañ  ca     dosañ   ca    pahāya mohaṃ sammā+ppajāno su+vimutta+citto
+|           |          |        |          |           |           |           
+|         |        |          |
+N.m.  conj.  N.m.  conj.  V.ger.   N.m.     Adv.      N.m.  pref.  Adj.    N.m.
+
+Acc.Sg. |    Acc.Sg.   |         |      Acc.Sg.      |       Nom.Sg. 
+|_____|    Nom.Sg.
+|______|          |_____|        |            |          
+|_______|              |_______|
+      |___________|_______|_______|                 
+|                           |
+__________________|_____________________|_______________|__________________
+List of Abbreviations
+an+upādiyāno idha   vā  huraṃ  vā      sa       bhāgavā  sāmaññassa    hoti
+|            |           |       |        |        |          |             
+|              |                 |
+neg.  Adj.m.   Adv. conj. Adv.  conj.  Pron.m.   Adj.m.      N.n.       
+V.act.in.
+|      Nom.Sg.     |____|        |____|     Nom.Sg.  Nom.Sg.  Gen.Sg.    
+3.Sg.pres.
+|______|                |                |               |            
+|________|                 |
+      |____________|_________|               |                   
+|______________|
+                     |                                      
+|__________________|
+____________|______________________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+appam: appa-, Adj.: little, few. Acc.Sg.m. = appam.
+pi, part.: also, as well, even (often spelled api).
+ce, part.: if.
+saṃhitaṃ: saṃhita-, Adj.: connected, joined, settled. A p.p. of the verb dhā-
+(put) with the prefix saṃ- (together). As a N.m. = the Buddhist texts. Acc.Sg.
+= saṃhitaṃ.
+bhāsamāno: bhāsamāna-, Adj.: speaking. It is a med.pr.p. of the verb bhās- (to
+speak). Nom.Sg.m. = bhāsamāno.
+List of Abbreviations
+dhammassa: dhamma-, N.m.: Buddha's Teaching. The Law. Derived from the verb
+dha-, to hold. Thus dhamma "holds the world together". Gen.Sg.: dhammassa.
+hoti, V.: is. The verb bhū-(to be). 3.Sg.act.in.pres. = hoti.
+anudhammacārī: anudhammacārin-, N.m.: living in truth. A compound of:
+    anudhamma-, Adj.: according to the Law, in truth. Can be further analyzed
+as:
+        anu-, Prep.: according to, following.
+        dhamma-, N.m.: Buddha's Teaching, The Law, truth.
+    cārin-, N.m.: living, acting. Derived by the suffix -infrom the verb car-
+(to walk, to act).
+Nom.Sg. = anudhammacārī.
+rāgañ:rāga-, N.m.: passion, lust. Derived from the verb raj-(to color). Acc.Sg.
+= rāgaṃ. The form rāgañis due to the euphonic combination (rāgaṃ + ca = rāgañ
+ca).
+List of Abbreviations
+ca, conj.: and.
+dosañ: dosa-, N.m.: ill-will, hatred, anger. Acc.Sg. = dosaṃ. The form dosañ is
+due to the euphonic combination (dosaṃ + ca = dosañ ca).
+pahāya, V.: Having abandoned or eliminated. A ger. of the verb hā- (to leave,
+to give up) with the strengthening prefix pa-.
+mohaṃ: moha-, N.m.: delusion, bewilderment. Derived from the verb muh- (to get
+bevildered). Acc.Sg. = mohaṃ.
+List of Abbreviations
+sammāppajāno: sammāppajāna-, N.m.: having right knowledge. A compound of:
+    sammā-, Adv.: properly, rightly, as it should be, truly.
+    pajāna-, N.m.: knowledge, understanding. Derived from the verb ñā-
+    (to know) with the strengthening prefix pa-. More often seen as pajānanā-,
+N.f.
+The duplication of the letterp is due to the euphonic combination (sammā +
+pajāna = sammāppajāna).
+Nom.Sg. = sammāppajāno.
+suvimuttacitto: suvimuttacitta-, N.m.: with a well emancipated mind. A compound
+of:
+    su-, pref.: well.
+    vimutta-, Adj.: emancipated, freed, released. A p.p. of the verb muc- (to
+release)
+    with the prefix vi- (meaning separation).
+    citta-, N.n.: mind.
+Nom.Sg. = suvimuttacitto.
+List of Abbreviations
+anupādiyāno: anupādiyāna-, Adj.: not clinging, not attached. A negated (by the
+negative prefix an-) med.pr.p. of the verbupādiyati(to cling, to be attached).
+This verb can be analyzed as the rootdā-(to give) with the prefixā- (towards).
+Thus ādiyatimeans take up, seize, grasp. Further, the prefix upa-(nearness,
+close touch) is also added.
+Nom.Sg.m. = anupādiyāno.
+idha, Adv.: here, in this world.
+vā, conj.: or.
+huraṃ, Adv.: there, in the other world.
+List of Abbreviations
+sa: tad-, Pron.n.: it. Nom.Sg.m. = sa (the more usual form is so).
+bhāgavā: bhāgavant-, Adj.m.: partaking of, having a share. The word bhāga-,
+N.m.: share, with a possessive suffix vant-. Nom.Sg. = bhāgavā.
+sāmaññassa: sāmañña-, N.n.: monkshood. An abstract from samaṇa-, N.m.: monk,
+recluse. Gen.Sg. = sāmaññassa.
+List of Abbreviations  
+    The first segment of this sentence is appam pi ce saṃhitaṃ bhāsamāno (even
+if [he] recites a little of scriptures). The subject of this sentence is
+omitted, implying a personal pronoun (which comes in the last clause). The verb
+is bhāsamāno (which is the medium present participle in nominative singular).
+The object is the word saṃhitaṃ(scripture, accusative singular) with its
+attribute appam (a little, accusative singular). There are two particles pi
+(even) and ce (if).
+    The next segment is dhammassa hoti anudhammacārī ([he] lives in truth
+according to the Dharma). The subject here is again an omitted personal
+pronoun. The verb is hoti (is, 3rd person, singular, active, indicative,
+present tense). The object anudhammacārī(living in truth, nominative singular)
+has an attribute dhammassa(of the Dharma, according to the Dharma, genitive
+singular).
+    Third segment is rāgañ ca dosañ ca pahāya mohaṃ. Again, the subject
+(personal pronoun) is omitted. As the verb serves the gerund pahāya. There is a
+triple object rāgañ, dosañ, mohaṃ (lust, hatred, delusion, respectively, all
+accusative singular). They are connected by two conjunctionsca (and) in the
+common way of Pali texts.
+    Next two segments are just attributes to the main subject of the sentence,
+the personal pronoun sa (he) in the last clause. They are sammāppajāno (having
+the right knowledge, nominative singular) and suvimuttacitto (with a well
+emancipated mind, nominative singular).
+    Next is the segment anupādiyāno idha vā huraṃ vā (not attached to anything,
+either in this world, nor in the other one). The subject is, as above the
+personal pronoun coming in the final clause. The verb is anupādiyāno (not
+attached, active present participle, in nominative singular). The object is
+double -- idha (here) and huraṃ (there), connected by two conjunctions vā (or)
+in the common way of Pali texts.
+    Last part is the sentence sa bhāgavā sāmaññassa hoti (he is a sharer of the
+monkshood). The subject is the pronoun sa (he, nominative singular). The verb
+is hoti(is, 3rd person, singular, active, indicative, present tense). The
+object is the word bhāgavā (sharer, "shareholder", nominative singular) with
+its attribute sāmaññassa (of monkshood, genitive singular).
+===============================================================================
+
+Commentary:
+So, who can be truly called a monk, who shares the blessings of monkshood? It
+must be a person, who is living in accordance with the Dharma, as proclaimed by
+the Buddha. He must abandon all three roots of evil (lust, hatred and
+delusion), must have the right knowledge of the Dharma and his mind must be
+liberated. He must not of course be attached to anything in this world, but
+neither to anything in his possible future rebirths. Such a person is sharing
+all the blessings of monkshood, even if he does not preach the Dharma a lot.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+appam
+pi
+ce
+saṃhitaṃ
+bhāsamāno
+dhammassa
+hoti
+anudhammacārī
+rāgañ
+dosañ
+pahāya
+mohaṃ
+sammāppajāno
+suvimuttacitto
+anupādiyāno
+idha
+vā
+huraṃ
+sa
+bhāgavā
+sāmaññassa
+===============================================================================

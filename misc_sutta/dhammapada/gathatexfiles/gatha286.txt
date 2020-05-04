@@ -1,0 +1,126 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** idha vassaj vasissami idha hemantagimhisu ******
+            ****** iti balo vicinteti antarayaj na bujjhati ******
+                            ****** (DhP 286) ******
+===============================================================================
+
+
+Sentence Translation:
+"Here shall I spend the rains, here winter and summer",
+thinks the fool. He does not understand the dangers.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+idha  vassaj vasissami idha hemanta+gimhisu
+|            |             |          |          |             |
+Adv.  N.m.     V.act.   Adv.    N.m.      N.m.
+|       Acc.Sg. 1.Sg.fut.    |           |        Loc.Pl.
+|_______|_______|         |           |_______|
+       |___|                      |__________|
+          |___________________|______________________________
+List of Abbreviations
+  iti       balo      vicinteti  antarayaj na   bujjhati
+    |          |              |              |          |          |
+part.     N.m.     V.act.in.    N.m.    neg.  V.act.in.
+    |     Nom.Sg. 3.Sg.pres. Acc.Sg.    |    3.Sg.pres.
+__|           |              |              |          |______|
+  |_______|________|              |________|
+           |__|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+idha, Adv.: here.
+vassaj: vassa-, N.m.: rain, the rainy season. Acc.Sg. = vassaj.
+vasissami, V.: [I] will live, will stay. The verb root is vas-. 1.Sg.act.fut. =
+vasissami.
+idha: see above.
+hemantagimhisu: hemantagimha-, N.m.: winter and summer. It is a compound of:
+    hemanta-, N.m.: winter.
+    gimha-, N.m.: heat, summer.
+Loc.Pl. = hemantagimhisu (the word gimha- is changed to the -i stem in this
+case).
+iti, part.: a particle, symbolizing the end of direct speech. In English this
+is expressed by quotation marks. Sometimes it is written as ti.
+List of Abbreviations
+balo: bala-, Adj.: childish, young. As an N.m.: "like a child", fool, ignorant
+person. Nom.Sg. = balo.
+vicinteti, V.: thinks. The verb root is cint- (to think) with the prefix vi-
+(intensifying sense). 3.Sg.act.in.pres. = vicinteti.
+antarayaj: antaraya-, N.m.: obstacle, danger, hindrance. It is derived from the
+word antara-, Adj. (between) and the verb root i- (to go). Acc.Sg. = antarayaj.
+na, neg.: not. 136
+bujjhati, V.: realizes, understands. The verb root is budh- (tu understand).
+3.Sg.act.in.pres. = bujjhati.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) idha vassaj vasissami idha hemantagimhisu iti balo vicinteti ("Here
+shall I spend the rains, here winter and summer", thinks the fool). This can be
+further analysed into the direct speech a) and the main sentence b):
+    a) idha vassaj vasissami idha hemantagimhisu iti ("here shall I spend the
+rains, here winter and summer"). This consists of two segments:
+    I) idha vassaj vasissami (here shall I spend the rains). The subject is
+omitted, the verb implying the first person singular pronoun. The verb is
+vasissami (I shall live, 1st person, singular, active, future). It has two
+attributes, the adverb idha (here) and the noun vassaj (rains, accusative
+singular).
+    II) idha hemantagimhisu iti ("here winter and summer"). Both the subject
+and the verb are omitted, implying the ones from the previous segment. The verb
+has two attributes, the adverb idha (here) and the compound hemantagimhisu (in
+winter and summer, locative plural). The particle iti (end of the direct
+speech) connects this part to the main sentence.
+    b) balo vicinteti (thinks the fool). The subject is the noun balo (fool,
+nominative singular) and the verb vicinteti (thinks, 3rd person, singular,
+active, indicative, present tense).
+    2) antarayaj na bujjhati (he does not understand the dangers). The subject
+is omitted; the noun balo from the previous sentence is implied. The verb is
+bujjhati (understands, 3rd person, singular, active, indicative, present
+tense). It is negated by the negative particle na (not). The object is the noun
+antarayaj (danger, accusative singular).
+===============================================================================
+
+
+Commentary:
+    Mahadhana was a merchant from Benares. Once he came to Savatthi during a
+festival, hoping to sell his goods. But on the way he was stopped by a flood
+and could not cross the river for seven days. Thus the festival ended before he
+even got there.
+    Mahadhana decided to stay in Savatthi for some time and sell his goods
+slowly. Once the Buddha saw him and smiled. Ananda asked him about the reason
+for his smile. The Buddha replied that Mahadhana is not aware of his impeding
+death and thinks he can stay in Savatthi comfortably, sell his goods and then
+return home.
+    Ananda then advised Mahadhana to listen to the Buddha's sermons and to
+practice mindfulness. Mahadhana was alarmed when he heard that he was about to
+die. For seven days he gave alms to the Buddha and monks and listened to the
+Dharma. After hearing this verse from the Buddha, he attained the first stage
+of Awakenment. After he died he was reborn in the Tusita heaven.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+idha
+vassaj
+vasissami
+hemantagimhisu
+hemanta
+gimhisu
+iti
+balo
+vicinteti
+antarayaj
+na
+bujjhati
+===============================================================================

@@ -1,0 +1,163 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                  ****** apubbalabho ca gati ca papika ******
+                ****** bhitassa bhitaya rati ca thokika ******
+                  ****** raja ca dandaj garukaj paneti ******
+                  ****** tasma naro paradaraj na seve ******
+                            ****** (DhP 310) ******
+===============================================================================
+
+
+Sentence Translation:
+Accumulation of demerit; and a bad rebirth.
+The pleasure of the frightened couple is very small.
+And the king inflicts a serious punishment.
+Therefore a man should not chase after others' wives.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+apubba+labho     ca       gati       ca     papika
+|               |           |          |           |           |
+N.n.      N.m.    conj.    N.f.      conj.   Adj.f.
+|          Nom.Sg.    |    Nom.Sg.     |     Nom.Sg.
+|________|            |          |______|______|
+       |___________|                |___|
+List of Abbreviations
+bhitassa bhitaya     rati      ca     thokika
+|                  |            |          |           |
+Adj.m.    Adj.f.      N.f.    conj.    Adj.f.
+Gen.Sg. Gen.Sg. Nom.Sg.    |     Nom.Sg.
+|__________|            |          |           |
+         |____________|          |           |
+                     |___________|______|
+                              |______|
+List of Abbreviations
+raja         ca     dandaj garukaj   paneti
+|                |           |             |            |
+N.m.      conj.    N.m.     Adj.m.  V.act.in.
+Nom.Sg.    |     Acc.Sg.   Acc.Sg. 3.Sg.pres.
+|                |           |_______|             |
+|                |                 |___________|
+|_________|_______________|
+         |____|
+List of Abbreviations
+tasma      naro    para+daraj   na      seve
+|                 |          |         |         |          |
+Pron.      N.m.    Adj.   N.f.    neg.   V.act.
+Abl.Sg. Nom.Sg.    |   Acc.Sg.    |    3.Sg.opt.
+|                 |          |_____|         |______|
+|                 |               |___________|
+|                 |______________|
+|________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+apubbalabho: apubbalabha-, N.m.: accumulation of demerit. It is a compound of:
+    apubba-, N.n.: demerit, evil. It is the word pubba-, N.n.: merit, goodness,
+virtue, meritorious action, negated by the negative prefix a-.
+    labha-, N.m.: gain, obtaining, accumulating. It is derived from the verb
+root labh- (to obtain).
+Nom.Sg. = apubbalabho.
+ca, conj.: and.
+gati: gati-, N.f.: direction, course. It is derived from the verb gam- (to go).
+Nom.Sg. = gati.
+The form gati is sometimes used in poetry.
+ca, conj.: and.
+papika: papika-, Adj.: wrong, bad. It is the word papa-, N.n.: evil, wrong
+doing with the adjective suffix -ka. Nom.Sg.f. = papika.
+List of Abbreviations
+bhitassa: bhita-, Adj.: afraid. It is a p.p. of the verb root bhi- (to be
+afraid). Gen.Sg.m. = bhitassa.
+bhitaya: bhita-, Adj.: see above. Gen.Sg.f. = bhitaya.
+rati: rati-, N.f.: love, attachment, liking for. Nom.Sg. = rati. The form rati
+is sometimes used in poetry.
+ca, conj.: and.
+thokika: thokika-, Adj.: little, small, insignificant. Nom.Sg.f. = thokika.
+raja: rajan-, N.m.: king. Nom.Sg. = raja.
+ca, conj.: and.
+dandaj: danda-, N.m.: stick, club, punishment. Acc.Sg. = dandaj.
+List of Abbreviations
+garukaj: garuka-, Adj.: heavy, serious. Acc.Sg.m. = garukaj.
+paneti, V.: applies, brings on, inflicts. The verb root is ni- (to lead) with
+the prefix pa- (strengthening). 3.Sg.act.in.pres. = paneti.
+tasma: tad-, Pron.: that. Abl.Sg. = tasma (therefore, lit. "from that").
+naro: nara-, N.m.: man, person. Nom.Sg. = naro.
+paradaraj: paradara-, N.f.: other's wife. It is a compound of:
+    para-, Adj.: different, other.
+    dara-, N.f.: wife.
+Acc.Sg. = paradaraj.
+na, neg.: not.
+seve, V.: associate with, practice, embrace. The verb root is sev-.
+3.Sg.act.opt. = seve.
+List of Abbreviations
+    This verse consists of five syntactically separate sentences. They are:
+    1) apubbalabho ca (accumulation of demerit). The subject is the compound
+apubbalabho (accumulation of demerit, nominative singular). The conjunction ca
+(and) connects the sentence to the following one.
+    2) gati ca papika (and a bad rebirth). The subject is the noun gati
+(rebirth, nominative singular). It has an attribute, the adjective papika (bad,
+nominative singular). The conjunction ca (and) connects the sentence to the
+following one.
+    3) bhitassa bhitaya rati ca thokika (the pleasure of the frightened couple
+is very small). The subject is the noun rati (pleasure, nominative singular).
+It has two attributes, the past participles bhitassa (of the frightened [man],
+genitive singular) and bhitaya (of the frightened [woman], genitive singular).
+The verb is omitted, implying the verb "to be". The object is the adjective
+thokika (very small, nominative singular). The conjunction ca (and) connects
+the sentence to the following one.
+    4) raja ca dandaj garukaj paneti (and the king inflicts a serious
+punishment). The subject is the noun raja (king, nominative singular). The verb
+is paneti (applies, 3rd person, singular, active, indicative, present tense).
+The object is the noun dandaj (punishment, accusative singular) with its
+attribute, the adjective garukaj (heavy, accusative singular). The conjunction
+ca (and) connects the sentence to the following one.
+    5) tasma naro paradaraj na seve (therefore a man should not chase after
+others' wives). The sentence is introduced by the pronoun tasma (therefore,
+lit. "from that", ablative singular). The subject is the noun naro (man,
+nominative singular). The verb is seve (should associate with, 3rd person,
+singular, active, optative). It is negated by the negative particle na (not).
+The object is the compound paradaraj (other's wife, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 309).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+apubbalabho
+apubba
+labho
+ca
+gati
+papika
+bhitassa
+bhitaya
+rati
+thokika
+raja
+dandaj
+garukaj
+paneti
+tasma
+naro
+paradaraj
+para
+daraj
+na
+seve
+===============================================================================

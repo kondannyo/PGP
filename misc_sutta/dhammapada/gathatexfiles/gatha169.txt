@@ -1,0 +1,123 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** dhammaj care sucaritaj na taj duccaritaj care ******
+          ****** dhammacari sukhaj seti asmij loke paramhi ca ******
+                            ****** (DhP 169) ******
+===============================================================================
+
+
+Sentence Translation:
+Practice the good teaching; don't practice the bad one!
+One living in truth dwells happily, both in this world and in the next one.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+dhammaj care    sucaritaj na    taj   duccaritaj care
+|                  |             |          |        |            |           
+|
+N.m.       V.act.     Adj.m.  neg. Pron.m. Adj.m.   V.act.
+Acc.Sg.  3.Sg.opt. Acc.Sg.    |    Acc.Sg. Acc.Sg. 3.Sg.opt.
+|__________|_______|          |_____|______|_______|
+           |____|                                 |______|      |
+                                                           |______|
+List of Abbreviations
+dhamma+cari sukhaj   seti        asmij     loke  paramhi   ca
+|                |          |          |              |            |          
+|          |
+N.m.     Adj.m. Adv.  V.act.in.   Pron.m.   N.m.   Adj.m. conj.
+|          Nom.Sg.    |    3.Sg.pres.  Loc.Sg. Loc.Sg. Loc.Sg.   |
+|_________|          |_____|               |_______|______|         |
+        |                        |                                 |    
+|________|
+        |                        |                                 |_______|
+        |                        |______________________|
+        |________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+dhammaj: dhamma-, N.m.: Dharma, The Law, the teaching of the Buddha. Acc.Sg. =
+dhammaj.
+care, V.: should practice. The verb root is car- (to walk). 3.Sg.act.opt. =
+care.
+sucaritaj: sucarita-, Adj.: well-conducted, right, good. It is the word
+carita-, Adj.: behaving, acting (the p.p. of the verb car-, to walk, to act),
+with the prefix su- (good, well). Acc.Sg.m. = sucaritaj.
+na, neg.: not.
+taj: tad-, Pron.: that. Acc.Sg.m. = taj.
+duccaritaj: duccarita-, Adj.: wrongly-conducted, wrong, bad. It is the word
+carita-, Adj.: behaving, acting (the p.p. of the verb car-, to walk, to act),
+with the prefix du- (wrong, bad).
+Acc.Sg.m. = duccaritaj.
+care: see above.
+List of Abbreviations
+dhammacari: dhammacarin-, N.m.: living in truth. It is a compound of:
+    dhamma-, N.m.: Buddha's Teaching, The Law, truth.
+    carin-, Adj.: living, acting. Derived by the suffix -in from the verb car-
+(to walk, to act).
+Nom.Sg. = dhammacari.
+sukhaj, Adv.: happily. It is the word sukha-, N.n.: happiness. Acc.Sg. =
+sukhaj. Here as an adverb.
+seti, V.: lays, dwells. The verb root is si- (to lay). 3.Sg.act.in.pres. =
+seti.
+asmij: idaj-, Pron.: this. Loc.Sg.m. = asmij.
+loke: loka-, N.m.: world. Loc.Sg. = loke.
+paramhi: para-, Adj.: different, other. Loc.Sg.m. = paramhi.
+ca, conj.: and.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) dhammaj care sucaritaj (one should practice the good teaching). The
+subject is omitted, implying the third person singular pronoun. The verb is
+care (one should practice, 3rd person, singular, active, optative). The object
+is the noun dhammaj (teaching, accusative singular). It has an attribute, the
+adjective sucaritaj (good, well-conducted; accusative singular).
+    2) na taj duccaritaj care (one should not practice that bad one). The
+subject is omitted, implying the third person singular pronoun. The verb is
+care (one should practice, 3rd person, singular, active, optative). It is
+negated by the negative particle na (not). The object is the pronoun taj (that,
+accusative singular) with its attribute, the adjective duccaritaj (bad,
+accusative singular).
+    3) dhammacari sukhaj seti asmij loke paramhi ca (one living in truth dwells
+happily, both in this world and in the next one). The subject is the compound
+dhammacari (one living in truth, nominative singular). The verb is seti
+(dwells, 3rd person, singular, active, indicative, present tense). It has two
+attributes. One is the adverb sukhaj (happily), one is the noun loke (in the
+world, locative singular). This last word has two attributes, the pronoun asmij
+(in this, locative singular) and the adjective paramhi (in the other, locative
+singular). They are connected by the conjunction ca (and).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the story for the preceding one
+(DhP 168).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+dhammaj
+care
+sucaritaj
+na
+taj
+duccaritaj
+dhammacari
+dhamma
+cari
+sukhaj
+seti
+asmij
+loke
+paramhi
+ca

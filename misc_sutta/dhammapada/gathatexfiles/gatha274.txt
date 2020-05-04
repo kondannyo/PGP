@@ -1,0 +1,124 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** eso va maggo natthabbo dassanassa visuddhiya ******
+         ****** etaj ca tumhe patipajjatha marassetaj pamohanaj ******
+                            ****** (DhP 274) ******
+===============================================================================
+
+
+Sentence Translation:
+This is the path. There is no other for the purification of insight.
+Enter upon this path. This is the deception of Mara.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+eso          va    maggo  na      atthi        abbo dassanassa visuddhiya
+|                |         |        |           |             |            
+|               |
+Pron.m.  part.  N.m.   neg.  V.act.in.   Adj.m.     N.n.         N.f.
+Nom.Sg.    |   Nom.Sg.  |    3.Sg.pres. Nom.Sg. Gen.Sg.    Dat.Sg.
+|_________|         |        |______|             |             |________|
+        |__________|              |__________|___________|
+                                                  |_____|
+List of Abbreviations
+etaj         ca    tumhe patipajjatha marassa   etaj  pamohanaj
+|                 |         |             |               |           
+|             |
+Pron.m.  conj.  Pron.     V.act.        N.m.    Pron.n      N.n.
+Acc.Sg.      |    Voc.Pl. 2.Pl.imp.    Gen.Sg. Nom.Sg. Nom.Sg.
+|_________|          |             |               |_______|_______|
+         |__________|_______|                      |___|
+                  |_____|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+eso: Pron. etad-, this. Nom.Sg.m: eso.
+va: a contracted form of eva, part.: just, only.
+maggo: magga-, N.m.: road, path. Nom.Sg. = maggo.
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = natthi.
+abbo: abba-, Adj.: other, different. Nom.Sg.m. = abbo.
+Euphonic combination: natthi + abbo = natthabbo.
+dassanassa: dassana-, N.n.: seeing, insight. It is derived from the verb root
+das- (to see).
+Gen.Sg. = dassanassa.
+visuddhiya: visuddhi-, N.f.: brightness, purity, virtue. Dat.Sg. = visuddhiya.
+List of Abbreviations
+etaj: etad-, Pron.: this. Acc.Sg.m. = etaj.
+ca, conj.: and.
+tumhe: tvam-, Pron.: you. Voc.Pl. = tumhe.
+patipajjatha, V.: enter upon, follow, go along. The verb root is pad- (to go)
+with the prefix pati- (along, on). 2.Pl.act.imp. = patipajjatha.
+marassa: mara-, N.m.: Mara, personified death, the Evil One, devil. Gen.Sg. =
+marassa.
+etaj: etad-, Pron.: this. Nom.Sg.n. = etaj.
+Euphonic combination: marassa + etaj = marassetaj.
+pamohanaj: pamohana-, N.n.: delusion, deception. It is derived from the verb
+root muh- (to be deluded) with the strengthening prefix pa-. Nom.Sg. =
+pamohanaj.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) eso va maggo (this is the path). The subject is the pronoun eso (this,
+nominative singular). It is stressed by the particle eva (just). The verb is
+omitted, implying the verb "to be". The object is the noun maggo (path,
+nominative singular).
+    2) natthabbo dassanassa visuddhiya (there is no other for the purification
+of insight). The subject is the adjective abbo (other, nominative singular).
+The verb is atthi (is, 3rd person, singular, active, indicative, present
+tense). It is negated by the negative particle na (not). The verb has an
+attribute, the noun visuddhiya (for purification, dative singular). This word
+has also an attribute, the noun dassanassa (of insight, genitive singular).
+    3) etaj ca tumhe patipajjatha (enter upon this path). The subject is the
+pronoun tumhe (you, vocative plural). The verb is patipajjatha (enter upon, 2nd
+person, plural, active, imperative). The object is the pronoun etaj (this,
+accusative singular). The conjunction ca (and) serves mainly for metrical
+purposes.
+    4) marassetaj pamohanaj (this is the deception of Mara). The subject is the
+pronoun etaj (this, nominative singular). The verb is omitted, implying the
+verb "to be". The object is the noun pamohanaj (deception, nominative
+singular). It has an attribute, the noun marassa (of Mara, genitive singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 273) and the following ones (DhP 275 and DhP 276).
+    The Eightfold path is said to be the only way to reach the Awakenment. It
+means, we have to follow all the eight constituents of the Path in order to be
+able to purify the mind and attain the Nirvana. What are the eight constituents
+of the Eightfold path? They are Right View, Right Thought, Right Speech, Right
+Action, Right Livelihood, Right Effort, Right Mindfulness and Right
+Concentration.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+eso
+va
+maggo
+na
+atthi
+abbo
+dassanassa
+visuddhiya
+etaj
+ca
+tumhe
+patipajjatha
+marassa
+etaj
+pamohanaj
+===============================================================================

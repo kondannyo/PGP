@@ -1,0 +1,147 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** santaj tassa manaj hoti santa vaca ca kamma ca ******
+             ****** sammadabbavimuttassa upasantassa tadino ******
+                            ****** (DhP 96) ******
+===============================================================================
+
+
+Sentence Translation:
+Peaceful is his mind; peaceful are his speech and deeds –
+of such a one, who is freed by the right knowledge and tranquil.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+santaj     tassa     manaj     hoti        santa      vaca       ca    kamma   
+ca
+|                  |             |             |              |            
+|           |          |          |
+Adj.n.     Pron.m.    N.n.    V.act.in.    Adj.m.     N.f.     conj.    N.n.   
+conj.
+Nom.Sg. Gen.Sg. Nom.Sg. 3.Sg.pres. Nom.Pl. Nom.Sg.    |    Nom.Sg.    |
+|                  |             |             |              |            
+|______|          |______|
+|                  |             |             |             
+|                   |____________|
+|                  |             |             |             
+|_________________|
+|                 
+|_______|_______|________________|___________________________
+|                         |___|             |                             |
+|________________|________|                              |
+                  |______|                                             |
+                        |____________________________|
+List of Abbreviations
+sammad+abba+vimuttassa upasantassa tadino
+|                |            |                 |             |
+Adv.       N.f.     Adj.m.       Adj.m.  Pron.m.
+|_________|       Gen.Sg.     Gen.Sg.  Gen.Sg.
+|________________|                 |             |
+              |__________________|_______|
+___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+santaj: santa-, Adj.: peaceful, tranquil. It is a p.p. of the verb sam- (to be
+appeased).
+Nom.Sg.n. = santaj.
+tassa: tad-, Pron.: that. Gen.Sg.m. = tassa.
+manaj: mano-, N.n.: mind. Nom.Sg. = manaj (although mano is the more usual
+form).
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+santa: santa-, Adj.: see above. Nom.Pl.m. = santa.
+vaca: vaca-, N.f.: speech (derived from the verb root vac-, to speak). Nom.Sg.
+= vaca.
+ca, conj.: and.
+List of Abbreviations
+kamma: kamma-, N.n.: deed, action. Derived from the verb kar- (to do). Nom.Sg.
+= kamma.
+ca: see above.
+sammadabbavimuttassa: sammadabbavimutta-, Adj.: emancipated, freed or released
+by the right knowledge. It is a compound of:
+    sammadabba-, N.f.: right knowledge. It is a compound of:
+        samma-, Adv.: rightly, properly, thoroughly.
+        abba-, N.f.: knowledge.
+    Euphonic combination: samma + abba = sammadabba.
+    vimutta-, Adj.: emancipated, freed, released. It is a p.p. of the verb muc-
+(to release)
+    with the prefix vi- (meaning separation).
+Gen.Sg.m. = samadabbavimuttassa.
+upasantassa: upasanta-, Adj.: calmed, tranquil. It is a p.p. of the verb sam-
+(to be appeased) with the prefix upa- (towards, up). See also the words santaj
+and santa above. Gen.Sg.m. = upasantassa.
+tadino: tadin-, Adj.: see above. Gen.Sg.m. = tadino.
+List of Abbreviations
+    This verse consists of two sentences. They are:
+    1) santaj tassa manaj hoti sammadabbavimuttassa upasantassa tadino
+(peaceful is his mind - of such a one, who is freed by the right knowledge and
+tranquil). The subject of this sentence is the noun manaj (mind, nominative
+singular). It has the pronoun tassa (his, genitive singular) for an attribute.
+This word has three attributes: the compound sammadabbavimuttassa (of the one,
+who is freed by the right knowledge, genitive singular), upasantassa (of the
+one, who is tranquil, genitive singular) and tadino (of such one, genitive
+singular). The verb is hoti (is, 3rd person, singular, active, indicative,
+present tense). It has an attribute, the past participle santaj (peaceful,
+nominative singular).
+    2) santa vaca ca kamma ca (peaceful are his speech and deeds). The subject
+consists of two nouns vaca (speech, nominative singular) and kamma (deed,
+nominative singular). They are connected by two conjunctions ca (and), forming
+an usual pattern found in Pali texts (A and B = A ca B ca). The verb is
+omitted, implying the verb "to be". This verb has an attribute, the past
+participle santa (peaceful, nominative plural).
+===============================================================================
+
+
+Commentary:
+    Once a young seven years old boy became a novice under Venerable Tissa.
+While his head was being shaved, he kept his mind fixed on the object of
+meditation and attained arahantship immediately.
+    After a time, Venerable Tissa and the young novice set out on a journey to
+Savatthi to see the Buddha. On the way they stayed in a village monastery.
+Tissa went to sleep, but the young novice fell asleep only before the dawn.
+When Tissa woke up, he wanted to wake up also the novice. So he roused him with
+a palm-leaf fan. Accidentally he hit his eye with the handle and damaged his
+eye. The novice did not say anything, covered his eye with one hand and
+performed his duties - swept the floor and brought water to Tissa. When Tissa
+saw the novice offering him water with just one hand, he remarked that he
+should do it with both hands. The novice uncovered his eye and only then Tissa
+found out that the novice lost an eye. He also realized that he must be an
+Arahant! He felt very sorry and immediately started to apologize to the boy.
+But the novice said it was not Tissa's fault, it was only ripening of his old
+karma. Tissa just could not forget the whole story and he felt very depressed.
+    When they arrived in Savatthi, Tissa related the story to the Buddha. He
+replied with this verse, saying that an Arahant does not get angry with anyone,
+he is perfectly calm and peaceful.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+santaj
+tassa
+manaj
+hoti
+santa
+vaca
+ca
+kamma
+sammadabbavimuttassa
+sammadabba
+samma
+abba
+vimuttassa
+upasantassa
+tadino
+===============================================================================

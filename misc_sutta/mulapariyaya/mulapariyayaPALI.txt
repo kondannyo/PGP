@@ -1,0 +1,993 @@
+Majjhima Nikāya, mūlapaṇṇāsapāḷi, 1. mūlapariyāyavaggo, 1. mūlapariyāyasuttaṃ (MN 1) 
+
+evaṁ me sutaṁ.
+ekaṁ samayaṁ bhagavā ukkaṭṭhāyaṁ viharati subhagavane sālarājamūle.
+
+tatra kho bhagavā bhikkhū āmantesi,
+“bhikkhavo”ti.
+“bhadante”ti te bhikkhū bhagavato paccassosuṁ.
+
+bhagavā etadavoca,
+“sabbadhammamūlapariyāyaṁ vo, bhikkhave, desessāmi.
+taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti.
+
+“evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ.
+
+bhagavā etadavoca —
+“idha, bhikkhave, assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto,
+sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto
+
+pathaviṁ pathavito sañjānāti;\\
+pathaviṁ pathavito saññatvā pathaviṁ maññati,\\
+pathaviyā maññati,
+pathavito maññati,\\
+pathaviṁ meti maññati,
+pathaviṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“āpaṁ āpato sañjānāti;\\
+āpaṁ āpato saññatvā āpaṁ maññati,\\
+āpasmiṁ maññati,
+āpato maññati,\\
+āpaṁ meti maññati,
+āpaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“tejaṁ tejato sañjānāti;\\
+tejaṁ tejato saññatvā tejaṁ maññati,\\
+tejasmiṁ maññati,
+tejato maññati,\\
+tejaṁ meti maññati,
+tejaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“vāyaṁ vāyato sañjānāti;\\
+vāyaṁ vāyato saññatvā vāyaṁ maññati,\\
+vāyasmiṁ maññati,
+vāyato maññati,\\
+vāyaṁ meti maññati,
+vāyaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“bhūte bhūtato sañjānāti;\\
+bhūte bhūtato saññatvā bhūte maññati,\\
+bhūtesu maññati,
+bhūtato maññati,\\
+bhūte meti maññati,
+bhūte abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“deve devato sañjānāti;\\
+deve devato saññatvā deve maññati,\\
+devesu maññati,
+devato maññati,\\
+deve meti maññati,
+deve abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“pajāpatiṁ pajāpatito sañjānāti;\\
+pajāpatiṁ pajāpatito saññatvā pajāpatiṁ maññati,\\
+pajāpatismiṁ maññati,
+pajāpatito maññati,\\
+pajāpatiṁ meti maññati,
+pajāpatiṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“brahmaṁ brahmato sañjānāti;\\
+brahmaṁ brahmato saññatvā brahmaṁ maññati,\\
+brahmasmiṁ maññati,
+brahmato maññati,\\
+brahmaṁ meti maññati,
+brahmaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“ābhassare ābhassarato sañjānāti;\\
+ābhassare ābhassarato saññatvā ābhassare maññati,\\
+ābhassaresu maññati,
+ābhassarato maññati,\\
+ābhassare meti maññati,
+ābhassare abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“subhakiṇhe subhakiṇhato sañjānāti;\\
+subhakiṇhe subhakiṇhato saññatvā subhakiṇhe maññati,\\
+subhakiṇhesu maññati,
+subhakiṇhato maññati,\\
+subhakiṇhe meti maññati,
+subhakiṇhe abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“vehapphale vehapphalato sañjānāti;\\
+vehapphale vehapphalato saññatvā vehapphale maññati,\\
+vehapphalesu maññati,
+vehapphalato maññati,\\
+vehapphale meti maññati,
+vehapphale abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“abhibhuṁ abhibhūto sañjānāti;\\
+abhibhuṁ abhibhūto saññatvā abhibhuṁ maññati,\\
+abhibhusmiṁ maññati,
+abhibhūto maññati,\\
+abhibhuṁ meti maññati,
+abhibhuṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“ākāsānañcāyatanaṁ ākāsānañcāyatanato sañjānāti;\\
+ākāsānañcāyatanaṁ ākāsānañcāyatanato saññatvā ākāsānañcāyatanaṁ maññati,\\
+ākāsānañcāyatanasmiṁ maññati,
+ākāsānañcāyatanato maññati,\\
+ākāsānañcāyatanaṁ meti maññati,
+ākāsānañcāyatanaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“viññāṇañcāyatanaṁ viññāṇañcāyatanato sañjānāti;\\
+viññāṇañcāyatanaṁ viññāṇañcāyatanato saññatvā viññāṇañcāyatanaṁ maññati,\\
+viññāṇañcāyatanasmiṁ maññati,
+viññāṇañcāyatanato maññati,\\
+viññāṇañcāyatanaṁ meti maññati,
+viññāṇañcāyatanaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“ākiñcaññāyatanaṁ ākiñcaññāyatanato sañjānāti;\\
+ākiñcaññāyatanaṁ ākiñcaññāyatanato saññatvā ākiñcaññāyatanaṁ maññati,\\
+ākiñcaññāyatanasmiṁ maññati,
+ākiñcaññāyatanato maññati,\\
+ākiñcaññāyatanaṁ meti maññati,
+ākiñcaññāyatanaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato sañjānāti;\\
+nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato saññatvā nevasaññānāsaññāyatanaṁ maññati,\\
+nevasaññānāsaññāyatanasmiṁ maññati,
+nevasaññānāsaññāyatanato maññati,\\
+nevasaññānāsaññāyatanaṁ meti maññati,
+nevasaññānāsaññāyatanaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“diṭṭhaṁ diṭṭhato sañjānāti;\\
+diṭṭhaṁ diṭṭhato saññatvā diṭṭhaṁ maññati,\\
+diṭṭhasmiṁ maññati,
+diṭṭhato maññati,\\
+diṭṭhaṁ meti maññati,
+diṭṭhaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“sutaṁ sutato sañjānāti;\\
+sutaṁ sutato saññatvā sutaṁ maññati,\\
+sutasmiṁ maññati,
+sutato maññati,\\
+sutaṁ meti maññati,
+sutaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“mutaṁ mutato sañjānāti;\\
+mutaṁ mutato saññatvā mutaṁ maññati,\\
+mutasmiṁ maññati,
+mutato maññati,\\
+mutaṁ meti maññati,
+mutaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“viññātaṁ viññātato sañjānāti;\\
+viññātaṁ viññātato saññatvā viññātaṁ maññati,\\
+viññātasmiṁ maññati,
+viññātato maññati,\\
+viññātaṁ meti maññati,
+viññātaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“ekattaṁ ekattato sañjānāti;\\
+ekattaṁ ekattato saññatvā ekattaṁ maññati,\\
+ekattasmiṁ maññati,
+ekattato maññati,\\
+ekattaṁ meti maññati,
+ekattaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“nānattaṁ nānattato sañjānāti;\\
+nānattaṁ nānattato saññatvā nānattaṁ maññati,\\
+nānattasmiṁ maññati,
+nānattato maññati,\\
+nānattaṁ meti maññati,
+nānattaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“sabbaṁ sabbato sañjānāti;\\
+sabbaṁ sabbato saññatvā sabbaṁ maññati,\\
+sabbasmiṁ maññati,
+sabbato maññati,\\
+sabbaṁ meti maññati,
+sabbaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“nibbānaṁ nibbānato sañjānāti;\\
+nibbānaṁ nibbānato saññatvā nibbānaṁ maññati,\\
+nibbānasmiṁ maññati,
+nibbānato maññati,\\
+nibbānaṁ meti maññati,
+nibbānaṁ abhinandati.\\
+taṁ kissa hetu?
+‘apariññātaṁ tassā’ti vadāmi.\\
+
+“yopi so, bhikkhave, bhikkhu sekkho appattamānaso anuttaraṁ yogakkhemaṁ patthayamāno viharati,
+
+sopi pathaviṁ pathavito abhijānāti;\\
+pathaviṁ pathavito abhiññāya pathaviṁ mā maññi,\\
+pathaviyā mā maññi,
+pathavito mā maññi,\\
+pathaviṁ meti mā maññi,
+pathaviṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"āpaṁ āpato abhijānāti;\\
+āpaṁ āpato abhiññāya āpaṁ mā maññi,\\
+āpasmiṁ mā maññi,
+āpato mā maññi,\\
+āpaṁ meti mā maññi,
+āpaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"tejaṁ tejato abhijānāti;\\
+tejaṁ tejato abhiññāya tejaṁ mā maññi,\\
+tejasmiṁ mā maññi,
+tejato mā maññi,\\
+tejaṁ meti mā maññi,
+tejaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"vāyaṁ vāyato abhijānāti;\\
+vāyaṁ vāyato abhiññāya vāyaṁ mā maññi,\\
+vāyasmiṁ mā maññi,
+vāyato mā maññi,\\
+vāyaṁ meti mā maññi,
+vāyaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"bhūte bhūtato abhijānāti;\\
+bhūte bhūtato abhiññāya bhūte mā maññi,\\
+bhūtesu mā maññi,
+bhūtato mā maññi,\\
+bhūte meti mā maññi,
+bhūte mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"deve devato abhijānāti;\\
+deve devato abhiññāya deve mā maññi,\\
+devesu mā maññi,
+devato mā maññi,\\
+deve meti mā maññi,
+deve mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"pajāpatiṁ pajāpatito abhijānāti;\\
+pajāpatiṁ pajāpatito abhiññāya pajāpatiṁ mā maññi,\\
+pajāpatismiṁ mā maññi,
+pajāpatito mā maññi,\\
+pajāpatiṁ meti mā maññi,
+pajāpatiṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"brahmaṁ brahmato abhijānāti;\\
+brahmaṁ brahmato abhiññāya brahmaṁ mā maññi,\\
+brahmasmiṁ mā maññi,
+brahmato mā maññi,\\
+brahmaṁ meti mā maññi,
+brahmaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"ābhassare ābhassarato abhijānāti;\\
+ābhassare ābhassarato abhiññāya ābhassare mā maññi,\\
+ābhassaresu mā maññi,
+ābhassarato mā maññi,\\
+ābhassare meti mā maññi,
+ābhassare mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"subhakiṇhe subhakiṇhato abhijānāti;\\
+subhakiṇhe subhakiṇhato abhiññāya subhakiṇhe mā maññi,\\
+subhakiṇhesu mā maññi,
+subhakiṇhato mā maññi,\\
+subhakiṇhe meti mā maññi,
+subhakiṇhe mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"vehapphale vehapphalato abhijānāti;\\
+vehapphale vehapphalato abhiññāya vehapphale mā maññi,\\
+vehapphalesu mā maññi,
+vehapphalato mā maññi,\\
+vehapphale meti mā maññi,
+vehapphale mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"abhibhuṁ abhibhūto abhijānāti;\\
+abhibhuṁ abhibhūto abhiññāya abhibhuṁ mā maññi,\\
+abhibhusmiṁ mā maññi,
+abhibhūto mā maññi,\\
+abhibhuṁ meti mā maññi,
+abhibhuṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"ākāsānañcāyatanaṁ ākāsānañcāyatanato abhijānāti;\\
+ākāsānañcāyatanaṁ ākāsānañcāyatanato abhiññāya ākāsānañcāyatanaṁ mā maññi,\\
+ākāsānañcāyatanasmiṁ mā maññi,
+ākāsānañcāyatanato mā maññi,\\
+ākāsānañcāyatanaṁ meti mā maññi,
+ākāsānañcāyatanaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"viññāṇañcāyatanaṁ viññāṇañcāyatanato abhijānāti;\\
+viññāṇañcāyatanaṁ viññāṇañcāyatanato abhiññāya viññāṇañcāyatanaṁ mā maññi,\\
+viññāṇañcāyatanasmiṁ mā maññi,
+viññāṇañcāyatanato mā maññi,\\
+viññāṇañcāyatanaṁ meti mā maññi,
+viññāṇañcāyatanaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"ākiñcaññāyatanaṁ ākiñcaññāyatanato abhijānāti;\\
+ākiñcaññāyatanaṁ ākiñcaññāyatanato abhiññāya ākiñcaññāyatanaṁ mā maññi,\\
+ākiñcaññāyatanasmiṁ mā maññi,
+ākiñcaññāyatanato mā maññi,\\
+ākiñcaññāyatanaṁ meti mā maññi,
+ākiñcaññāyatanaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato abhijānāti;\\
+nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato abhiññāya nevasaññānāsaññāyatanaṁ mā maññi,\\
+nevasaññānāsaññāyatanasmiṁ mā maññi,
+nevasaññānāsaññāyatanato mā maññi,\\
+nevasaññānāsaññāyatanaṁ meti mā maññi,
+nevasaññānāsaññāyatanaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"diṭṭhaṁ diṭṭhato abhijānāti;\\
+diṭṭhaṁ diṭṭhato abhiññāya diṭṭhaṁ mā maññi,\\
+diṭṭhasmiṁ mā maññi,
+diṭṭhato mā maññi,\\
+diṭṭhaṁ meti mā maññi,
+diṭṭhaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"sutaṁ sutato abhijānāti;\\
+sutaṁ sutato abhiññāya sutaṁ mā maññi,\\
+sutasmiṁ mā maññi,
+sutato mā maññi,\\
+sutaṁ meti mā maññi,
+sutaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"mutaṁ mutato abhijānāti;\\
+mutaṁ mutato abhiññāya mutaṁ mā maññi,\\
+mutasmiṁ mā maññi,
+mutato mā maññi,\\
+mutaṁ meti mā maññi,
+mutaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"viññātaṁ viññātato abhijānāti;\\
+viññātaṁ viññātato abhiññāya viññātaṁ mā maññi,\\
+viññātasmiṁ mā maññi,
+viññātato mā maññi,\\
+viññātaṁ meti mā maññi,
+viññātaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"ekattaṁ ekattato abhijānāti;\\
+ekattaṁ ekattato abhiññāya ekattaṁ mā maññi,\\
+ekattasmiṁ mā maññi,
+ekattato mā maññi,\\
+ekattaṁ meti mā maññi,
+ekattaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"nānattaṁ nānattato abhijānāti;\\
+nānattaṁ nānattato abhiññāya nānattaṁ mā maññi,\\
+nānattasmiṁ mā maññi,
+nānattato mā maññi,\\
+nānattaṁ meti mā maññi,
+nānattaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"sabbaṁ sabbato abhijānāti;\\
+sabbaṁ sabbato abhiññāya sabbaṁ mā maññi,\\
+sabbasmiṁ mā maññi,
+sabbato mā maññi,\\
+sabbaṁ meti mā maññi,
+sabbaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+"nibbānaṁ nibbānato abhijānāti;\\
+nibbānaṁ nibbānato abhiññāya nibbānaṁ mā maññi,\\
+nibbānasmiṁ mā maññi,
+nibbānato mā maññi,\\
+nibbānaṁ meti mā maññi,
+nibbānaṁ mābhinandi.\\
+taṁ kissa hetu?
+‘pariññeyyaṁ tassā’ti vadāmi.\\
+
+(ARAHAṀ - 1 to 4)
+
+“yopi so, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññā vimutto,
+
+sopi pathaviṁ pathavito abhijānāti;\\
+pathaviṁ pathavito abhiññāya pathaviṁ na maññati,\\
+pathaviyā na maññati,
+pathavito na maññati,\\
+pathaviṁ meti na maññati,
+pathaviṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"āpaṁ āpato abhijānāti;\\
+āpaṁ āpato abhiññāya āpaṁ na maññati,\\
+āpasmiṁ na maññati,
+āpato na maññati,\\
+āpaṁ meti na maññati,
+āpaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"tejaṁ tejato abhijānāti;\\
+tejaṁ tejato abhiññāya tejaṁ na maññati,\\
+tejasmiṁ na maññati,
+tejato na maññati,\\
+tejaṁ meti na maññati,
+tejaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"vāyaṁ vāyato abhijānāti;\\
+vāyaṁ vāyato abhiññāya vāyaṁ na maññati,\\
+vāyasmiṁ na maññati,
+vāyato na maññati,\\
+vāyaṁ meti na maññati,
+vāyaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"bhūte bhūtato abhijānāti;\\
+bhūte bhūtato abhiññāya bhūte na maññati,\\
+bhūtesu na maññati,
+bhūtato na maññati,\\
+bhūte meti na maññati,
+bhūte nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"deve devato abhijānāti;\\
+deve devato abhiññāya deve na maññati,\\
+devesu na maññati,
+devato na maññati,\\
+deve meti na maññati,
+deve nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"pajāpatiṁ pajāpatito abhijānāti;\\
+pajāpatiṁ pajāpatito abhiññāya pajāpatiṁ na maññati,\\
+pajāpatismiṁ na maññati,
+pajāpatito na maññati,\\
+pajāpatiṁ meti na maññati,
+pajāpatiṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"brahmaṁ brahmato abhijānāti;\\
+brahmaṁ brahmato abhiññāya brahmaṁ na maññati,\\
+brahmasmiṁ na maññati,
+brahmato na maññati,\\
+brahmaṁ meti na maññati,
+brahmaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"ābhassare ābhassarato abhijānāti;\\
+ābhassare ābhassarato abhiññāya ābhassare na maññati,\\
+ābhassaresu na maññati,
+ābhassarato na maññati,\\
+ābhassare meti na maññati,
+ābhassare nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"subhakiṇhe subhakiṇhato abhijānāti;\\
+subhakiṇhe subhakiṇhato abhiññāya subhakiṇhe na maññati,\\
+subhakiṇhesu na maññati,
+subhakiṇhato na maññati,\\
+subhakiṇhe meti na maññati,
+subhakiṇhe nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"vehapphale vehapphalato abhijānāti;\\
+vehapphale vehapphalato abhiññāya vehapphale na maññati,\\
+vehapphalesu na maññati,
+vehapphalato na maññati,\\
+vehapphale meti na maññati,
+vehapphale nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"abhibhuṁ abhibhūto abhijānāti;\\
+abhibhuṁ abhibhūto abhiññāya abhibhuṁ na maññati,\\
+abhibhusmiṁ na maññati,
+abhibhūto na maññati,\\
+abhibhuṁ meti na maññati,
+abhibhuṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"ākāsānañcāyatanaṁ ākāsānañcāyatanato abhijānāti;\\
+ākāsānañcāyatanaṁ ākāsānañcāyatanato abhiññāya ākāsānañcāyatanaṁ na maññati,\\
+ākāsānañcāyatanasmiṁ na maññati,
+ākāsānañcāyatanato na maññati,\\
+ākāsānañcāyatanaṁ meti na maññati,
+ākāsānañcāyatanaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"viññāṇañcāyatanaṁ viññāṇañcāyatanato abhijānāti;\\
+viññāṇañcāyatanaṁ viññāṇañcāyatanato abhiññāya viññāṇañcāyatanaṁ na maññati,\\
+viññāṇañcāyatanasmiṁ na maññati,
+viññāṇañcāyatanato na maññati,\\
+viññāṇañcāyatanaṁ meti na maññati,
+viññāṇañcāyatanaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"ākiñcaññāyatanaṁ ākiñcaññāyatanato abhijānāti;\\
+ākiñcaññāyatanaṁ ākiñcaññāyatanato abhiññāya ākiñcaññāyatanaṁ na maññati,\\
+ākiñcaññāyatanasmiṁ na maññati,
+ākiñcaññāyatanato na maññati,\\
+ākiñcaññāyatanaṁ meti na maññati,
+ākiñcaññāyatanaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato abhijānāti;\\
+nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato abhiññāya nevasaññānāsaññāyatanaṁ na maññati,\\
+nevasaññānāsaññāyatanasmiṁ na maññati,
+nevasaññānāsaññāyatanato na maññati,\\
+nevasaññānāsaññāyatanaṁ meti na maññati,
+nevasaññānāsaññāyatanaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"diṭṭhaṁ diṭṭhato abhijānāti;\\
+diṭṭhaṁ diṭṭhato abhiññāya diṭṭhaṁ na maññati,\\
+diṭṭhasmiṁ na maññati,
+diṭṭhato na maññati,\\
+diṭṭhaṁ meti na maññati,
+diṭṭhaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"sutaṁ sutato abhijānāti;\\
+sutaṁ sutato abhiññāya sutaṁ na maññati,\\
+sutasmiṁ na maññati,
+sutato na maññati,\\
+sutaṁ meti na maññati,
+sutaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"mutaṁ mutato abhijānāti;\\
+mutaṁ mutato abhiññāya mutaṁ na maññati,\\
+mutasmiṁ na maññati,
+mutato na maññati,\\
+mutaṁ meti na maññati,
+mutaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"viññātaṁ viññātato abhijānāti;\\
+viññātaṁ viññātato abhiññāya viññātaṁ na maññati,\\
+viññātasmiṁ na maññati,
+viññātato na maññati,\\
+viññātaṁ meti na maññati,
+viññātaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"ekattaṁ ekattato abhijānāti;\\
+ekattaṁ ekattato abhiññāya ekattaṁ na maññati,\\
+ekattasmiṁ na maññati,
+ekattato na maññati,\\
+ekattaṁ meti na maññati,
+ekattaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"nānattaṁ nānattato abhijānāti;\\
+nānattaṁ nānattato abhiññāya nānattaṁ na maññati,\\
+nānattasmiṁ na maññati,
+nānattato na maññati,\\
+nānattaṁ meti na maññati,
+nānattaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"sabbaṁ sabbato abhijānāti;\\
+sabbaṁ sabbato abhiññāya sabbaṁ na maññati,\\
+sabbasmiṁ na maññati,
+sabbato na maññati,\\
+sabbaṁ meti na maññati,
+sabbaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+"nibbānaṁ nibbānato abhijānāti\\
+nibbānaṁ nibbānato abhiññāya nibbānaṁ na maññati,\\
+nibbānasmiṁ na maññati,
+nibbānato na maññati,\\
+nibbānaṁ meti na maññati,
+nibbānaṁ nābhinandati.\\
+taṁ kissa hetu?\\
+(1) ‘pariññātaṁ tassā’ti vadāmi.\\
+(2) khayā rāgassa, vītarāgattā.\\
+(3) khayā dosassa, vītadosattā.\\
+(4) khayā mohassa, vītamohattā.\\
+
+(TATHĀGATO- 1 \& 2)
+
+12. “tathāgatopi, bhikkhave, arahaṁ sammāsambuddho
+
+pathaviṁ pathavito abhijānāti;\\
+pathaviṁ pathavito abhiññāya pathaviṁ na maññati,\\
+pathaviyā na maññati,
+pathavito na maññati,\\
+pathaviṁ meti na maññati,
+pathaviṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+āpaṁ āpato abhijānāti;\\
+āpaṁ āpato abhiññāya āpaṁ na maññati,\\
+āpasmiṁ na maññati,
+āpato na maññati,\\
+āpaṁ meti na maññati,
+āpaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+tejaṁ tejato abhijānāti;\\
+tejaṁ tejato abhiññāya tejaṁ na maññati,\\
+tejasmiṁ na maññati,
+tejato na maññati,\\
+tejaṁ meti na maññati,
+tejaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+vāyaṁ vāyato abhijānāti;\\
+vāyaṁ vāyato abhiññāya vāyaṁ na maññati,\\
+vāyasmiṁ na maññati,
+vāyato na maññati,\\
+vāyaṁ meti na maññati,
+vāyaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+bhūte bhūtato abhijānāti;\\
+bhūte bhūtato abhiññāya bhūte na maññati,\\
+bhūtesu na maññati,
+bhūtato na maññati,\\
+bhūte meti na maññati,
+bhūte nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+deve devato abhijānāti;\\
+deve devato abhiññāya deve na maññati,\\
+devesu na maññati,
+devato na maññati,\\
+deve meti na maññati,
+deve nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+pajāpatiṁ pajāpatito abhijānāti;\\
+pajāpatiṁ pajāpatito abhiññāya pajāpatiṁ na maññati,\\
+pajāpatismiṁ na maññati,
+pajāpatito na maññati,\\
+pajāpatiṁ meti na maññati,
+pajāpatiṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+brahmaṁ brahmato abhijānāti;\\
+brahmaṁ brahmato abhiññāya brahmaṁ na maññati,\\
+brahmasmiṁ na maññati,
+brahmato na maññati,\\
+brahmaṁ meti na maññati,
+brahmaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+ābhassare ābhassarato abhijānāti;\\
+ābhassare ābhassarato abhiññāya ābhassare na maññati,\\
+ābhassaresu na maññati,
+ābhassarato na maññati,\\
+ābhassare meti na maññati,
+ābhassare nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+subhakiṇhe subhakiṇhato abhijānāti;\\
+subhakiṇhe subhakiṇhato abhiññāya subhakiṇhe na maññati,\\
+subhakiṇhesu na maññati,
+subhakiṇhato na maññati,\\
+subhakiṇhe meti na maññati,
+subhakiṇhe nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+vehapphale vehapphalato abhijānāti;\\
+vehapphale vehapphalato abhiññāya vehapphale na maññati,\\
+vehapphalesu na maññati,
+vehapphalato na maññati,\\
+vehapphale meti na maññati,
+vehapphale nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+abhibhuṁ abhibhūto abhijānāti;\\
+abhibhuṁ abhibhūto abhiññāya abhibhuṁ na maññati,\\
+abhibhusmiṁ na maññati,
+abhibhūto na maññati,\\
+abhibhuṁ meti na maññati,
+abhibhuṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+ākāsānañcāyatanaṁ ākāsānañcāyatanato abhijānāti;\\
+ākāsānañcāyatanaṁ ākāsānañcāyatanato abhiññāya ākāsānañcāyatanaṁ na maññati,\\
+ākāsānañcāyatanasmiṁ na maññati,
+ākāsānañcāyatanato na maññati,\\
+ākāsānañcāyatanaṁ meti na maññati,
+ākāsānañcāyatanaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+viññāṇañcāyatanaṁ viññāṇañcāyatanato abhijānāti;\\
+viññāṇañcāyatanaṁ viññāṇañcāyatanato abhiññāya viññāṇañcāyatanaṁ na maññati,\\
+viññāṇañcāyatanasmiṁ na maññati,
+viññāṇañcāyatanato na maññati,\\
+viññāṇañcāyatanaṁ meti na maññati,
+viññāṇañcāyatanaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+ākiñcaññāyatanaṁ ākiñcaññāyatanato abhijānāti;\\
+ākiñcaññāyatanaṁ ākiñcaññāyatanato abhiññāya ākiñcaññāyatanaṁ na maññati,\\
+ākiñcaññāyatanasmiṁ na maññati,
+ākiñcaññāyatanato na maññati,\\
+ākiñcaññāyatanaṁ meti na maññati,
+ākiñcaññāyatanaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato abhijānāti;\\
+nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato abhiññāya nevasaññānāsaññāyatanaṁ na maññati,\\
+nevasaññānāsaññāyatanasmiṁ na maññati,
+nevasaññānāsaññāyatanato na maññati,\\
+nevasaññānāsaññāyatanaṁ meti na maññati,
+nevasaññānāsaññāyatanaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+diṭṭhaṁ diṭṭhato abhijānāti;\\
+diṭṭhaṁ diṭṭhato abhiññāya diṭṭhaṁ na maññati,\\
+diṭṭhasmiṁ na maññati,
+diṭṭhato na maññati,\\
+diṭṭhaṁ meti na maññati,
+diṭṭhaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+sutaṁ sutato abhijānāti;\\
+sutaṁ sutato abhiññāya sutaṁ na maññati,\\
+sutasmiṁ na maññati,
+sutato na maññati,\\
+sutaṁ meti na maññati,
+sutaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+mutaṁ mutato abhijānāti;\\
+mutaṁ mutato abhiññāya mutaṁ na maññati,\\
+mutasmiṁ na maññati,
+mutato na maññati,\\
+mutaṁ meti na maññati,
+mutaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+viññātaṁ viññātato abhijānāti;\\
+viññātaṁ viññātato abhiññāya viññātaṁ na maññati,\\
+viññātasmiṁ na maññati,
+viññātato na maññati,\\
+viññātaṁ meti na maññati,
+viññātaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+ekattaṁ ekattato abhijānāti;\\
+ekattaṁ ekattato abhiññāya ekattaṁ na maññati,\\
+ekattasmiṁ na maññati,
+ekattato na maññati,\\
+ekattaṁ meti na maññati,
+ekattaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+nānattaṁ nānattato abhijānāti;\\
+nānattaṁ nānattato abhiññāya nānattaṁ na maññati,\\
+nānattasmiṁ na maññati,
+nānattato na maññati,\\
+nānattaṁ meti na maññati,
+vānattaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+sabbaṁ sabbato abhijānāti;\\
+sabbaṁ sabbato abhiññāya sabbaṁ na maññati,\\
+sabbasmiṁ na maññati,
+sabbato na maññati,\\
+sabbaṁ meti na maññati,
+sabbaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+nibbānaṁ nibbānato abhijānāti;\\
+nibbānaṁ nibbānato abhiññāya nibbānaṁ na maññati,\\
+nibbānasmiṁ na maññati,
+nibbānato na maññati,\\
+nibbānaṁ meti na maññati,
+nibbānaṁ nābhinandati.\\
+taṁ kissa hetu?
+(1) ‘pariññātantaṁ tathāgatassā’ti vadāmi.\\
+(2) ‘nandī dukkhassa mūlan’ti — iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.\\
+
+idamavoca bhagavā. na te bhikkhū bhagavato bhāsitaṁ abhinandunti.\\
+
+mūlapariyāyasuttaṁ niṭṭhitaṁ paṭhamaṁ. 
+

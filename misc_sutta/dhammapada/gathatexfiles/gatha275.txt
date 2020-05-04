@@ -1,0 +1,126 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+        ****** etaj hi tumhe patipanna dukkhassantaj karissatha ******
+           ****** akkhato vo maya maggo abbaya sallasanthanaj ******
+                            ****** (DhP 275) ******
+===============================================================================
+
+
+Sentence Translation:
+Having entered upon this path, you will make an end of suffering.
+Having realized how to remove the arrow, I taught this path to you.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+etaj       hi    tumhe patipanna dukkhassa antaj karissatha
+|               |         |            |               |           
+|            |
+Pron.n.  part.  Pron.   Adj.m.       N.m.      N.n.     V.act.
+Acc.Sg.    |    Voc.Pl. Nom.Pl.    Gen.Sg. Acc.Sg. 2.Pl.fut.
+|________|          |            |               |_______|           |
+       |__________|_______|                     |__________|
+                |_____|                                            |
+                     |___________________________|
+List of Abbreviations
+akkhato     vo     maya   maggo   abbaya salla+santhanaj
+|                  |          |           |            |         |            |
+
+Adj.m.     Pron.   Pron.    N.m.    V.ger.  N.n.      N.n.
+Nom.Sg. Acc.Pl. Ins.Sg. Nom.Sg.    |         |       Acc.Sg.
+|                  |          |           |            |         |_______|
+|                  |          |           |            |_________|
+|                  |          |______|___________|
+|                  |_________|     |
+|                           |_______|
+|___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+etaj: etad-, Pron.: this. Acc.Sg.n. = etaj.
+hi, part.: indeed.
+tumhe: tvam-, Pron.: you. Voc.Pl. = tumhe.
+patipanna: patipanna-, Adj.: entered upon, following, gone along. It is a p.p.
+of the verb root pad- (to go) with the prefix pati- (along, on). Nom.Pl.m. =
+patipanna.
+dukkhassa: dukkha-, N.m.: suffering. Gen.Sg. = dukkhassa.
+antaj: anta-, N.n.: end. Acc.Sg. = antaj.
+Euphonic combination: dukkhassa+ antaj = dukkhassantaj.
+karissatha, V.: you will do. The verb root is kar- (to do). 2.Pl.act.fut. =
+karissatha.
+List of Abbreviations
+akkhato: akkhata-, Adj.: taught, proclaimed. It is a p.p. of the verb root
+kkha- (to say, to tell) with the prefix a- (towards). Nom.Sg.m. = akkhato.
+vo: vayam-, Pron.: you. Acc.Pl. = vo (to you).
+maya: aham-, Pron.: I. Ins.Sg. = maya (by me).
+maggo: magga-, N.m.: road, path. Nom.Sg. = maggo.
+abbaya, V.ger: having found, having realized, having known. The verb root is
+ba- (to know) with the prefix a- (towards).
+sallasanthanaj: sallasanthana-, N.n.: removal of the arrow (suffering). It is a
+compound of:
+    salla-, N.n.: arrow, dart.
+    santhana-, N.n.: appeasing. It is derived from the verb root sam- (to
+appease, to calm).
+Acc.Sg. = sallasanthanaj.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) etaj hi tumhe patipanna dukkhassantaj karissatha (having entered upon
+this path, you will make an end of suffering). The subject is the pronoun tumhe
+(you, vocative plural). It has an attribute, the past participle patipanna
+(having entered upon, nominative plural). This word has the pronoun etaj (this,
+accusative singular) as its attribute. It is stressed by the particle hi
+(indeed, just). The verb is karissatha (you will do, 2nd person, singular,
+active, future). The object is the noun antaj (end, accusative singular). It
+has an attribute, the noun dukkhassa (of suffering, genitive singular).
+    2) akkhato vo maya maggo abbaya sallasanthanaj (having realized how to
+remove the arrow, I taught this path to you). The subject is the noun maggo
+(path, nominative singular). It has an attribute, the pronoun maya (by me,
+instrumental singular). There is a clause dependent on this word: abbaya
+sallasanthanaj (having realized how to remove the arrow). Here the verb is in
+gerund, abbaya (having realized). The object is the compound sallasanthanaj
+(removal of arrow, accusative singular). The subject of the sentence has
+another attribute, the pronoun vo (to you, accusative plural). The verb is
+omitted, implying the verb "to be". The object is the past participle akkhato
+(taught, nominative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verses
+(DhP 273, DhP 274) and the following one (DhP 276).
+    The Buddha taught the teaching that he personally discovered. He taught
+from his own experience. He found out how to "remove the arrow", or how to end
+the suffering. He then proclaimed this path for everyone to follow. By doing
+so, we are able to do what the Buddha did - to put an end to suffering forever.
+
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+etaj
+hi
+tumhe
+patipanna
+dukkhassa
+antaj
+karissatha
+akkhato
+vo
+maya
+maggo
+abbaya
+sallasanthanaj
+salla
+santhanaj
+===============================================================================

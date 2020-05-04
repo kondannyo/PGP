@@ -1,0 +1,180 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+                 ****** kumbhūpamaṃ kāyam imaṃ viditvā ******
+                ****** nagarūpamaṃ cittaṃ idaṃ ṭhapetvā ******
+                   ****** yodhetha māraṃ paññāyudhena ******
+                 ****** jitaṃ ca rakkhe anivesano siyā ******
+                            ****** (DhP 40) ******
+===============================================================================
+
+Sentence Translation:
+Having understood this body to be like a jar,
+having established this mind like a city,
+attack Mara with the weapon of wisdom,
+you should protect the conquered territory and be without attachments.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+kumbha+ūpamaṃ kāyam    imaṃ    viditvā
+|                  |            |             |            |
+N.m.       Adj.m.    N.m.    Pron.m.  V.ger.
+|             Acc.Sg.  Acc.Sg.  Acc.Sg.      |
+|__________|            |_______|            |
+         |________________|                  |
+                      |___________________|
+                                        
+|__________________________________________
+List of Abbreviations
+nagara+ūpamaṃ  cittaṃ     idaṃ    ṭhapetvā
+|                |             |            |            |
+N.n.       Adj.n.     N.n.     Pron.n.  V.ger.
+|           Acc.Sg.  Acc.Sg.  Acc.Sg.      |
+|_________|             |______|             |
+        |_______________|                   |
+                     |___________________|
+______________________|___________________________________________
+List of Abbreviations
+yodhetha   māraṃ paññā+āyudhena
+|                    |          |             |
+V.act.         N.m.    N.f.       N.n.
+2.Pl.imp.  Acc.Sg.     |        Ins.Sg.
+|___________|          |_______|
+         |________________|
+_____________|____________________________________________________
+List of Abbreviations
+jitaṃ     ca     rakkhe anivesano      siyā
+|             |           |             |               |
+N.n.    conj.   V.act.       N.m.       V.act.
+Acc.Sg.  |     3.Sg.opt.  Nom.Sg.  3.Sg.opt.
+|_______|______|              |________|
+____|______________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+kumbhūpamaṃ: kumbhūpama-, Adj.: similar to a jar. A compound of:
+    kumbha-, N.m.: jar, pitcher.
+    upama-, Adj.: similar. -like.
+Euphonic combination: kumbha- + upama- = kumbhūpama-.
+Acc.Sg.m. = kumbhūpamaṃ.
+kāyam: kāya-, N.m.: body. Acc.Sg. = kāyaṃ.
+imaṃ: idaṃ, Pron.: this. Acc.Sg.m. = imaṃ.
+viditvā, V.ger.: having known, having understood. The verb root vid- (to know).
+List of Abbreviations
+nagarūpamaṃ: nagarūpama-, Adj.: similar to a city, like a city. A compound of:
+    nagara-, N.n.: city.
+    upama-, Adj.: similar. -like.
+Euphonic combination: nagara- + upama- = nagarūpama-.
+Acc.Sg.n. = nagarūpamaṃ.
+cittaṃ: citta-, N.n.: mind. Acc.Sg. = cittaṃ.
+idaṃ: idaṃ, Pron.: this. Acc.Sg.n. = idaṃ.
+ṭhapetvā, V.ger.: having established, having made firm. It is a ger. of the
+verb ṭhapeti (to make firm, to establish), which is a caus. of the verb ṭhā-
+(to stand, to be standing).
+List of Abbreviations
+yodhetha, V.: attack. A caus. of the verb yudh- (to fight). Thus yodheti: to
+attack, to fight against. 2.Pl.act.imp. = yodhetha.
+māraṃ: māra-, N.m.: Mara, personified death, the Evil One, devil. Nom.Sg. =
+māraṃ.
+paññāyudhena: paññāyudha-, N.n.: weapon of wisdom. A compound of:
+    paññā-, N.f.: wisdom.
+   āyudha-, N.n.: weapon.
+Euphonic combination: paññā- + āyudha- = paññāyudha.
+Ins.Sg. = paññāyudhena.
+List of Abbreviations
+jitaṃ: jita-, N.n.: victory, conquered thing. As an Adj.: conquered, mastered.
+It is a p.p. of the verb ji- (to win, to conquer). Acc.Sg. = jitaṃ.
+ca, conj.: and.
+rakkhe, V.: should protect. The verb root rakh- (to protect). 3.Sg.act.opt. =
+rakkhe.
+anivesano: anivesana-, N.m.: without an attachment. It is a negated (by the
+negative prefix a-) word nivesana-, N.n.: attachment, clinging (the primary
+meaning of this word is house, settlement). Nom.Sg. = anivesano.
+siyā, V.: should be. The verb root as- (to be). 3.Sg.act.opt. = siyā.
+List of Abbreviations
+    This verse consists of five grammatically separated sentences. They are:
+1) kumbhūpamaṃ kāyam imaṃ viditvā (having understood this body to be like a
+jar). Here the subject is omitted. The verb is in the gerundive, viditvā
+(having understood). The object is formed of the words kāyaṃ (body, accusative
+singular) and imaṃ (this, accusative singular). It has an attribute, the
+compound kumbhūpamaṃ (similar to a jar, accusative singular).
+2) nagarūpamaṃ cittaṃ idaṃ ṭhapetvā (having established this mind like a city).
+Again, the object is missing here. The verb is again a gerundive, ṭhapetvā
+(having established). The object is formed of the words cittaṃ (mind,
+accusative singular) and idaṃ (this, accusative singular). It has an attribute,
+nagarūpamaṃ (similar to a city, accusative singular).
+3) yodhetha māraṃ paññāyudhena (attack Mara with the weapon of wisdom). The
+object is the pronoun you, but it is omitted ,since in the Pali sentence it is
+not necessary. The verb is yodhetha (you should attack, 2nd person, plural,
+active, imperative). The verb has an attribute, the word paññāyudhena (by the
+weapon of wisdom, instrumental singular). The object of the sentence is the
+word māraṃ (Mara, accusative singular).
+4) jitaṃ ca rakkhe (one should protect the conquered [territory]). Again, as
+the subject is clear from the verb, the actual pronoun (in this case he/she) is
+not needed. The verb is rakkhe (he should protect, 3rd person, singular,
+active, optative). Note the change of the subject - from the second person
+plural in the previous sentence to the third person singular in this one. The
+object is jitaṃ (the conquered [territory], accusative singular). The
+conjunction ca (and) connects this sentence to the previous one.
+5) anivesano siyā (one should be without attachments). As before, the subject
+(he/she) is omitted. The verb is siyā (one should be, 3rd person, singular,
+active, optative). It has an attachment, the word anivesano (without
+attachments, nominative singular).
+===============================================================================
+
+Commentary:
+    Our body is like a jar, very fragile. And our mind should be like a
+fortified city, guarded everywhere. The story for this verse says:
+    Five hundred monks from Sāvatthi received the meditation subjects and went
+far away to a large grove. The guardian spirits of the trees there saw that the
+monks came and decided that it would be impolite to stay in the trees. So they
+descended, thinking the monks will only stay one night. But they decided to
+spend the Rain retreat there. The spirits did not want to live on the ground so
+long, so they scared the monks by terrible sounds and ghostly images.
+    The monks ran away and told the Buddha what happened. He told them that
+they did not have any weapon, so they must be armed with loving kindness
+(Mettā). He then taught them the Mettā sutta. He further instructed them to
+recite the poem from the outskirts of the forest and enter the monastery still
+reciting. The monks did accordingly.
+    The spirits received their loving kindness, welcomed them and did them no
+harm. The monks meditated on the 32 parts of the body and realized its
+impermanence. The Buddha saw it from away, appeared in front of them, saying,
+yes, the body is like a jar. He also told them this verse (DhP 40). All five
+hundred monks became arahants.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+kumbhūpamaṃ
+kumbha
+upamaṃ
+kāyam
+imaṃ
+viditvā
+nagarūpamaṃ
+nagara
+upamaṃ
+cittaṃ
+idaṃ
+ṭhapetvā
+yodhetha
+māraṃ
+paññāyudhena
+paññā
+āyudhena
+jitaṃ
+ca
+rakkhe
+anivesano
+siyā
+===============================================================================

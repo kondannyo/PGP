@@ -1,0 +1,43 @@
+\documentclass[11pt]{article}
+\usepackage[margin=45pt,ansibpaper, landscape]{geometry}
+\usepackage{titlesec}
+\usepackage{paracol}
+\usepackage{datatool}
+\usepackage{fontspec}
+\setromanfont[BoldFont={Gentium Basic Bold},ItalicFont={Gentium Italic}]{Gentium}
+\setcolumnwidth{310pt/60pt,310pt}
+
+\sloppy
+\raggedright
+\pagenumbering{gobble}
+
+\def\englishrule{}
+\def\palirule{}
+
+
+
+%APPARENTLY THIS WILL UNLIKELY WORK DO TO A ININITE LOOP CREATED UNLESS THE FILENAMES ARE ALL SENT INTO COMPILER (XELATEX COMMAND LINE FROM MACRO) ACCORDING TO ONLINE HELP MESSAGE
+
+
+
+
+
+
+
+\begin{document}
+\begin{paracol}{2}
+\begin{column}
+%FileLoop
+\DTLloaddb{rulename}{patimokkharulelist.csv}
+	\DTLforeach{rulename}{\rootrulefile=rulename}{
+	\englishrule{\rootrulefile{}engl}
+	\englishrule
+	\switchcolumn
+	\palirule{\rootrulefile{}pali}
+	\input{\palirule}
+	\switchcolumn*
+	}%end db loop
+\end{column}
+\end{paracol}
+
+\end{document}

@@ -1,0 +1,144 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** passa cittakataj bimbaj arukayaj samussitaj ******
+         ****** aturaj bahusavkappaj yassa n'atthi dhuvaj thiti ******
+                            ****** (DhP 147) ******
+===============================================================================
+
+
+Sentence Translation:
+Look at this mind-created image, a compounded heap of sores,
+diseased, with many plans, which does not have any permanence or stability.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+passa     citta+kataj  bimbaj aru+kayaj samussitaj
+|               |         |           |         |        |              |
+V.act.     N.n. Adj.n.    N.n.   N.n.  N.m.      Adj.m.
+2.Sg.imp.  |   Acc.Sg. Acc.Sg.    |  Acc.Sg.    Acc.Sg.
+|               |_____|           |         |_____|             |
+|                   |_________|              |__________|
+|                          
+|__________________|__________________________________
+|_______________________|
+List of Abbreviations
+aturaj bahu+savkappaj yassa        na      atthi     dhuvaj     thiti
+  |            |            |              |            |          
+|             |             |
+Adj.n.  Adj.       N.n.    Rel.Pron.n. neg.  V.act.in.     N.n.       N.f.
+Acc.Sg.   |       Acc.Sg.    Gen.Sg.      |    3.Sg.pres. Nom.Sg. Nom.Sg.
+  |            |_______|             |             |______|           
+|________|
+_|__________|                    |                    |______________|
+  |                                       |_________________|
+  |______________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+passa, V.: see, look at. The verb root is dis- (to see). 2.Sg.act.imp. = passa.
+cittakataj: cittakata-, Adj.: mind-created. It is a compound of:
+    citta-, N.n.: mind.
+    kata-, Adj.: done, made, created. It is a p.p. of the verb root kar- (to
+do).
+Acc.Sg.n. = cittakataj.
+bimbaj: bimba-, N.n.: shape, image. Here it refers to the human body. Acc.Sg. =
+bimbaj.
+arukayaj: arukaya-, N.m.: a heap of sores. It is a compound of:
+    aru-, N.n.: sore, wound.
+    kaya-, N.m.: body, collection, heap.
+Acc.Sg. = arukayaj.
+samussitaj: samussita-, Adj.: elevated, proud. Here means "compounded", "put
+together".
+Acc.Sg.m. = samussitaj.
+List of Abbreviations
+aturaj: atura-, Adj.: sick, diseased, miserable. Acc.Sg.m. = aturaj.
+bahusavkappaj: bahusavkappa-, Adj.: with many plans. It is a compound of:
+    bahu-, Adj.: large, much, very.
+    savkappa-, N.m.: thought, plan, hope.
+Acc.Sg.m. = bahusavkappaj.
+yassa: yat-, Rel.Pron.: that, which. Gen.Sg.m. = yassa (whose).
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = n'atthi.
+dhuvaj: dhuva-, Adj.: firm, permanent, stable. As an N.n.: permanence,
+stability. Nom.Sg. = dhuvaj.
+thiti: thiti-, N.f.: stability, continuance, duration. Nom.Sg. = thiti.
+List of Abbreviations
+    In this sentence, the subject is omitted. The verb implies the second
+person singular pronoun. The verb is in imperative, passa (look at, 2nd person,
+singular, active, imperative). There are two objects: bimbaj (image, accusative
+singular) with its attribute, the compound cittakataj (mind-created, accusative
+singular) and the compound arukayaj (heap of sores, accusative singular) with
+the adjective samussitaj (compounded, accusative singular). This last object
+has two more attributes, the adjective aturaj (diseased, accusative singular)
+and the compound bahusavkappaj (with many plans, accusative singular). It also
+has a dependent clause, yassa n'atthi dhuvaj thiti (which does not have any
+permanence or stability). Here there are two subjects, the nouns dhuvaj
+(permanence, nominative singular) and thiti (stability, nominative singular).
+The verb is atthi (is, 3rd person, singular, active, indicative, present
+tense). It is negated by the negative particle na (not). The relative pronoun
+yassa (whose, genitive singular) connects the clause to the object of the main
+sentence.
+===============================================================================
+
+
+Commentary:
+    In Rajagaha there lived a beautiful courtesan named Sirima. She was a
+devoted disciple of the Buddha and used to offer almsfood to the monks every
+day. One monk mentioned to his friends how generous and beautiful she was, how
+delicious the food offered by her was. One young monk heard this and fell in
+love with Sirima without even seeing her.
+    The next day he joined the monks who went to her house. Although Sirima was
+sick, she still paid her respects to the monks and gave them almsfood. After
+seeing her, the young monk desired her even more.
+    But that night Sirima died. The Buddha wanted to teach the young monk a
+lesson, so asked the king to keep the corpse for few days without burying it.
+On the fourth day the dead body was put to the cemetery ground. It was no
+longer beautiful, it was bloated, stinky and full of worms. The Buddha told the
+young monk if he wanted to go to see Sirima. The monk has not heard about her
+death so he was very happy to agree. How terrible his shock was when they got
+to the cemetery and he saw Sirima’s corpse!
+    The Buddha then asked the king to announce, that anybody who paid one
+thousand coins, could spend the night with Sirima. But nobody wanted to do so.
+The price went gradually down, until she was available for free. But even then
+there was nobody willing to spend the night with the corpse.
+    The Buddha then told the monks to realize, that few days ago many men would
+willing to pay even more than one thousand for a night with the courtesan, but
+now nobody wants her even for free. He further spoke on the subject of non-
+attachment to the body. The young monk gained insight into the true nature of
+the body and his love for Sirima disappeared.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+passa
+cittakataj
+citta
+kataj
+bimbaj
+arukayaj
+aru
+kayaj
+samussitaj
+aturaj
+bahusavkappaj
+bahu
+savkappaj
+yassa
+na
+atthi
+dhuvaj
+thiti
+===============================================================================

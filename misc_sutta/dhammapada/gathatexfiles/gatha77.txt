@@ -1,0 +1,122 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+              ****** ovadeyyānusāseyya asabbhā ca nivāraye ******
+            ****** sataṃ hi so piyo hoti asataṃ hoti appiyo ******
+                            ****** (DhP 77) ******
+===============================================================================
+
+Sentence Translation:
+He should admonish, he should advice, and he should restrain one from evil.
+He is indeed dear to the good ones and he is not agreeable to the bad ones.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+ovadeyya anusāseyya asabbhā   ca     nivāraye
+|                      |              |           |            |
+V.act.          V.act.      Adj.m.  conj. V.act.caus.
+3.Sg.opt.    3.Sg.opt.   Abl.Sg.     |       3.Sg.opt.
+|                      |              |______|_______|
+|                      |                         |___|
+|____________|________________|
+List of Abbreviations
+sataṃ    hi       so         piyo        hoti       asataṃ     hoti        
+appiyo
+|             |         |              |             |             
+|            |               |
+Adj.m. part. Pron.m.   Adj.m.   V.act.in.   Adj.m.   V.act.in.   Adj.m.
+Gen.Pl.   |    Nom.Sg. Nom.Sg. 3.Sg.pres. Gen.Pl. 3.Sg.pres. Nom.Sg.
+|_______|         |________|_______|               |_______|________|
+      |_________________|      |                             |___|
+                      |____________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+ovadeyya, V.: to instruct, exhort, admonish. The verb root is vad- (to speak)
+with the prefix o- (shortened for ava-, down). 3.Sg.act.opt. = ovadeyya.
+anusāseyya, V.: to teach, to advice, to instruct. The verb root is sās- (to
+teach) with the prefix anu- (according to). 3.Sg.act.opt. = anusāseyya.
+Euphonic combination: ovadeyya + anusāseyya = ovadyānusāseyya.
+asabbhā: asabbha-, Adj.: bad, low, impolite. Abl.Sg.m.n. = asabbhā.
+ca, conj.: and.
+nivāraye, V.: to keep back, to restrain. The verb root is var- (to obstruct)
+with the prefix ni- (out, from). 3.Sg.act.caus.opt. =nivāraye.
+List of Abbreviations
+sataṃ: sant-, Adj.: real, good, true. It is an a.pr.p. of the verb root as- (to
+be). Thus sant- means literally means "existing", "being". Gen.Pl.m. = sataṃ.
+hi, part.: indeed.
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+piyo: piya-, Adj.: dear, agreeable. Nom.Sg.m. = piyo.
+hoti, V.: is. The verb bhū- (to be). 3.Sg.act.in.pres. = hoti.
+List of Abbreviations
+asataṃ: asant-, Adj.: untrue, bad. It is the word sant- (see above under
+sataṃ), negated by the negative prefix a-. Gen.Pl.m. = asataṃ.
+hoti: see above.
+appiyo: appiya-, Adj.: unpleasant, not agreeable. It is the word piya- (see
+above under piyo) negated by the negative prefixa-. Euphonic combination: a- +
+piya- = appiya-. Nom.Sg.m. = appiyo.
+List of Abbreviations
+    The first line of this verse is composed of three parts. In all of them,
+the subject is omitted, because the verb form indicates the third person
+singular personal pronoun. 1) ovadeyya (he should admonish, 3rd person,
+singular, active, optative). 2) anusāseyya (he should give advice, 3rd person,
+singular, active, optative). 3) asabbhā ca nivāraye (and he should restrain one
+from evil). Here the noun asabbhā(from evil, ablative singular) is the object
+and the conjunctionca(and) connects this sentence to the previous two.
+    In the second line there are two sentences. 1)sataṃ hi so piyo hoti (he is
+indeed dear to the good ones). The subject is the pronounso(he, nominative
+singular). The verb is hoti (is, 3rd person, singular, active, indicative,
+present tense). The object is the adjectivepiyo (dear, nominative singular)
+with its attribute, the active present participle sataṃ (for the good ones,
+genitive plural). This word is stressed by the particlehi(indeed). The second
+sentence is asataṃ hoti appiyo ([he] is not agreeable to the bad ones). The
+subject is omitted; the pronoun so from the previous sentence is implied. The
+verb is again hoti(as above). The object is the adjective appiyo (not
+agreeable, nominative singular) with its attribute, the active present
+participleasataṃ (for the bad ones, genitive plural).
+
+===============================================================================
+
+Commentary:
+    There were two monks, Assaji and Punabhasuka, staying in the village of
+Kitāgiri together with their disciples. They planted trees for personal gain
+and violated some other minor monks' precepts. Thus, the monastery became noisy
+and not suitable for spiritual development.
+    When the Buddha heard about it, he sent Sāriputta and Moggallāna to advise
+these monks. After the admonition from the two Buddha's chief disciples, most
+of the monks changed their way of life. But some of them were not happy and
+returned to the household life.
+    The Buddha reacted with this verse, saying that admonishing and instructing
+is always fine with the good ones, whereas the bad ones never agree to being
+advised.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+ovadeyyānusāseyya
+ovadeyya
+anusāseyya
+asabbhā
+ca
+nivāraye
+sataṃ
+hi
+so
+piyo
+hoti
+asataṃ
+appiyo
+
+===============================================================================

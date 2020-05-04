@@ -1,0 +1,151 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** attana hi kataj papaj attana savkilissati ******
+            ****** attana akataj papaj attana va visujjhati ******
+         ****** suddhi asuddhi paccattaj n'abbo abbaj visodhaye ******
+                            ****** (DhP 165) ******
+===============================================================================
+
+
+Sentence Translation:
+The evil is done by oneself; by oneself one becomes impure.
+The evil is undone by oneself; by oneself one becomes pure.
+Purity and impurity depend on oneself. No one can purify another.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+attana  hi     kataj    papaj   attana  savkilissati
+|           |           |            |            |             |
+N.m.  part.   Adj.n.     N.n.      N.m.   V.act.in.
+Ins.Sg.  |    Nom.Sg. Nom.Sg. Ins.Sg. 3.Sg.pres.
+|______|______|            |            |________|
+     |___|                        |
+        |_______________|
+List of Abbreviations
+attana   akataj    papaj   attana  va    visujjhati
+|                |             |            |        |           |
+N.m.     Adj.n.      N.n.      N.m.  part.  V.act.in.
+Ins.Sg. Nom.Sg. Nom.Sg. Ins.Sg.   |     3.Sg.pres.
+|_________|             |           |_____|           |
+        |____________|                |_________|
+List of Abbreviations
+suddhi    asuddhi paccattaj na     abbo      abbaj  visodhaye
+|                   |           |           |         |             
+|             |
+N.f.           N.f.     Adv.      neg.  Adj.m.    Adj.m.  V.act.caus.
+Nom.Sg. Nom.Sg.    |            |    Nom.Sg. Nom.Sg.  3.Sg.opt.
+|___________|          |            |_____|________|_______|
+          |___________|                      |       |____|
+                                                     |______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+attana: attan-, N.m.: self. Ins.Sg. = attana.
+hi, part.: indeed.
+kataj: kata-, Adj.: done. It is a p.p. of the verb kar- (to do). Nom.Sg.n. =
+kataj.
+papaj: papa-, Adj.: evil, wrong. As an N.n.: evil, wrong doing. Nom.Sg. =
+papaj.
+attana: see above.
+savkilissati, V.: gets impure, becomes soiled. The verb root is kilis- (to go
+bad, to get stained, to be impure) with the prefix sav- (completely).
+3.Sg.act.in.pres. = savkilissati.
+attana: see above.
+List of Abbreviations
+akataj: akata-, Adj.: not done, undone. It is a negated (by the negative prefix
+a-) word kata- (see above). Nom.Sg.n. = akataj.
+papaj: see above.
+attana: see above.
+va: a contracted form of eva, part.: just, only.
+visujjhati, V.: becomes cleansed, is purified. The verb root is sudh- (to be
+clean) with the prefix vi- (intensifying sense). 3.Sg.act.in.pres. =
+visujjhati.
+suddhi: suddhi-, N.f.: purity, purification. Nom.Sg. = suddhi.
+List of Abbreviations
+asuddhi: asuddhi-, N.f.: impurity, defilement. It is the word suddhi- (see
+above) with the negative prefix a-. Nom.Sg. = asuddhi.
+paccattaj, Adv.: separately, by oneself, individually.
+na, neg.: not.
+abbo: abba-, Adj.: other, different. Nom.Sg.m. = abbo.
+Euphonic combination: na + abbo = n'abbo.
+abbaj: abba-, Adj.: other, different. Acc.Sg.m. = abbaj.
+visodhaye, V.: can clean, can purify. The verb root is sudh- (to be clean) with
+the prefix vi- (intensifying sense). 3.Sg.act.caus.opt. = visodhaye.
+List of Abbreviations
+    This verse consists of six syntactically separate sentences. They are:
+    1) attana hi kataj papaj (the evil is done by oneself). The subject is the
+noun papaj (evil, nominative singular). The past participle kataj (done,
+nominative singular) serves as a verb in this sentence. It has an attribute,
+the noun attana (by oneself, instrumental singular). The particle hi (indeed)
+serves mainly for metrical purposes.
+    2) attana savkilissati (by oneself one becomes impure). The subject is
+omitted; the verb implies the third person singular pronoun. The verb is
+savkilissati (becomes impure, 3rd person, singular, active, indicative, present
+tense). It has an attribute, the noun attana (by oneself, instrumental
+singular).
+    3) attana akataj papaj (the evil is undone by oneself). The subject is the
+noun papaj (evil, nominative singular). The past participle akataj (un-done,
+nominative singular) serves as a verb in this sentence. It has an attribute,
+the noun attana (by oneself, instrumental singular).
+    4) attana va visujjhati (by oneself one becomes pure). The subject is
+omitted; the verb implies the third person singular pronoun. The verb is
+visujjhati (becomes pure, 3rd person, singular, active, indicative, present
+tense). It has an attribute, the noun attana (by oneself, instrumental
+singular). The particle va (just, only) serves mainly for metrical purposes.
+    5) suddhi asuddhi paccattaj (purity and impurity depend on oneself). There
+is a double subject in this sentence, the nouns suddhi (purity, nominative
+singular) and assudhi (impurity, nominative singular). The verb is omitted,
+implying the verb "to be". It has an attribute, the adverb paccattaj
+(individually).
+    6) n'abbo abbaj visodhaye (no one can purify another). The subject is the
+adjective abbo (other, nominative singular). The verb is visodhaye (can purify,
+3rd person, singular, active, causative, optative). It is negated by the
+negative particle na (not). The object is the adjective abbaj (other,
+accusative singular).
+===============================================================================
+
+
+Commentary:
+    There was a lay disciple named Culakala. Once he spent the night in the
+monastery, observing the eight precepts and practicing meditation. In the
+morning he was returning home and met a group of thieves who were being chased
+by the owners of the stolen goods. The thieves put their loot in front of
+Culakala and ran away. The owners mistook Culakala for a thief and started to
+beat him. Some prostitutes, who were on the way to the river, saw the whole
+incident and told the people Culakala was innocent. The owners let him go.
+    When the Buddha was told about this, he replied with this verse and added
+that Culakala was truly innocent and therefore had nothing to fear.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+attana
+hi
+kataj
+papaj
+savkilissati
+akataj
+va
+visujjhati
+suddhi
+asuddhi
+paccattaj
+na
+abbo
+abbam
+visodhaye
+===============================================================================
+
+ 

@@ -1,0 +1,172 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                 ****** middhi yada hoti mahagghaso ca ******
+                   ****** niddayita samparivattasayi ******
+                   ****** mahavaraho va nivapaputtho ******
+                 ****** punappunaj gabbham upeti mando ******
+                            ****** (DhP 325) ******
+===============================================================================
+
+
+Sentence Translation:
+If one is sluggish and eats too much,
+is sleepy and rolls about in his sleep,
+such a lazy one is like a fat well fed hog -
+will be born again and again.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+middhi       yada        hoti     maha+gghaso    ca
+|                    |              |           |          |          |
+Adj.m.     Rel.Adv. V.act.in.   Adj.  Adj.m.   conj.
+Nom.Sg.        |       3.Sg.pres.    |    Nom.Sg.    |
+|                    |              |           |______|         |
+|                    |              |                 |________|
+|___________|________|______________|_____________________
+                    |               |______|
+                    |____________|
+List of Abbreviations
+niddayita samparivatta+sayi
+     |                  |             |
+  N.m.            Adj.      Adj.m.
+Nom.Sg.           |       Nom.Sg.
+     |                  |_______|
+___|_____________|
+                |_____________________________________________
+List of Abbreviations
+maha+varaho    va nivapa+puttho
+|              |          |       |           |
+Adj.     N.m.    part. N.m.  Adj.m.
+|         Nom.Sg.   |       |     Nom.Sg.
+|________|          |       |______|
+       |__________|_______|
+                |_____|
+                     |___________________________________________I.
+II._____________________________________________________II.
+List of Abbreviations
+puna+ppunaj gabbham  upeti        mando
+|             |              |            |               |
+Adv.   Adv.        N.m.   V.act.in.    Adj.m.
+|_______|         Acc.Sg. 3.Sg.pres. Nom.Sg.
+      |____________|_______|               |
+                    |____|                             |
+I.____________|__________________|
+                        |________|
+II.________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+middhi: middhin-, Adj.: sluggish, drowsy. It is the word middha-, N.n. (torpor,
+sluggishness) with the possessive suffix -in. Nom.Sg.m. = middhi.
+yada, Rel.Adv.: when.
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+mahagghaso: mahagghasa-, Adj.: overeating, greedy. It is a compound of:
+    mahant-, Adj.: big, great, much. The compound form used here: maha-.
+    ghasa-, Adj.: eating, eater.
+Euphonic combination: maha- + ghasa- = mahagghasa-.
+Nom.Sg. = mahagghaso.
+ca, conj.: and.
+List of Abbreviations
+niddayita: niddayitar-, N.m.: a sleepy person. It is derived from the word
+nidda-, N.f.: sleep. Nom.Sg.m. = niddayita.
+samparivattasayi: samparivattasayin-, Adj.: rolling about while sleeping. It is
+a compound of
+    samparivatta-, Adj.: rolling about, turning. It is derived from the verb
+root vat- (to turn) with the prefixes sam- (altogether) and pari- (around).
+    sayin-, Adj.: lying, sleeping. It is derived from the verb root si- (to
+lie).
+Nom.Sg.m. = samparivattasayi.
+mahavaraho: mahavaraha-, Adj.: big boar. It is a compound of:
+    mahant-, Adj.: big, great. The compound form is maha-.
+    varaha-, N.m.: boar, wild pig.
+Nom.Sg. = mahavaraho.
+va, part.: as, like.
+List of Abbreviations
+nivapaputtho: nivapaputtha-, Adj.: nourished by a lot of fodder. It is a
+compound of:
+    nivapa-, N.m.: fodder, food thrown to animals. It is derived from the verb
+root vap- (to throw) with the prefix ni- (down).
+    puttha-, Adj.: nourished, fed. It is a p.p. of the verb root pus- (to
+nourish).
+Nom.Sg.m. = nivapaputtho.
+punappunaj, Adv.: again and again. It is the word puna, Ind.: again, doubled in
+intensifying sense. The double -p- is a result of the euphonic combination.
+gabbham: gabbha-, N.m.: womb. Acc.Sg. = gabbham.
+upeti, V.: undergo, come to, approach. The verb root is i- (to go) with the
+prefix upa- (near). 3.Sg.act.in.pres. = upeti.
+mando: manda-, Adj.: slow, lazy, indolent. Nom.Sg.m. = mando.
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) middhi yada hoti mahagghaso ca niddayita samparivattasayi (if one is
+sluggish and eats too much, is sleepy and rolls about in his sleep). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is hoti (is, 3rd person, singular, active, indicative, present tense).
+There are four objects, the noun niddayita (sleepy person, nominative singular)
+and the adjectives middhi (sluggish, nominative singular), mahagghaso
+(overeating, nominative singular) and samparivattasayi (rolling about in sleep,
+nominative singular). The conjunction ca (and) connects two of these objects.
+The relative adverb yada (when) connects the sentence to the following one.
+    2) mahavaraho va nivapaputtho punappunaj gabbham upeti mando (such a lazy
+one is like a fat well fed hog - will be born again and again). This can be
+further analysed into the main sentence b) and the clause a):
+    a) mahavaraho va nivapaputtho (like a fat well fed hog). The subject is the
+compound mahavaraho (big hog, nominative singular). It has an attribute, the
+compound nivapaputtho (fed on fodder, nominative singular). The particle va
+(as, like) connects the clause to the subject of the main sentence.
+    b) punappunaj gabbham upeti mando (such a lazy one will be born again and
+again). The subject is the adjective mando (lazy, nominative singular). The
+verb is upeti (goes, approaches, 3rd person, singular, active, indicative,
+present tense). It has an attribute, the adverb punappunaj (again and again).
+The object is the noun gabbham (to womb, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The king Pasenadi of Kosala once went to see the Buddha just after
+finishing an opulent meal. As a result, he was feeling drowsy and sleepy, could
+not concentrate on the Buddha's words and almost fell asleep. He apologized to
+the Buddha and told him about his heavy meal.
+    The Buddha replied with this verse, saying that overeating creates
+discomfort. The king acted accordingly, ate less and became much healthier and
+more active.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+middhi
+yada
+hoti
+mahagghaso
+maha
+ghaso
+ca
+niddayita
+samparivattasayi
+samparivatta
+sayi
+mahavaraho
+maha
+varaho
+va
+nivapaputtho
+nivapa
+puttho
+punappunaj
+puna
+gabbham
+upeti
+mando
+===============================================================================

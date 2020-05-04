@@ -1,0 +1,140 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+     ****** tasinaya purakkhata paja parisappanti saso va bandhito ******
+     ****** sajyojanasavgasattaka dukkham upenti punappunaj ciraya ******
+                            ****** (DhP 342) ******
+===============================================================================
+
+
+Sentence Translation:
+People followed by thirst crawl around like a captured hare.
+Bound by the bonds of the Ten Fetters, they will undergo suffering again and
+again, for a long time.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+tasinaya purakkhata  paja parisappanti  saso       va  bandhito
+|                    |            |             |             |          
+|         |
+N.f.          Adj.f.      N.f.     V.act.in.    N.m.    part.  Adj.m.
+Ins.Sg.    Nom.Pl. Nom.Pl. 3.Pl.pres. Nom.Sg.    |    Nom.Sg.
+|___________|            |             |             |______|_____|
+         |_____________|             |                    |__|
+                     |______________|                      |
+                                   |___________________|
+List of Abbreviations
+sajyojana+savga+sattaka dukkham upenti punappunaj ciraya
+|                    |           |            |            |             
+|              |
+N.n.           N.m.  Adj.m.     N.n.    V.act.in.    Adv.         Adj.
+|___________|     Nom.Pl. Acc.Sg. 3.Pl.pres.       |________|
+          |____________|            |            |____________|
+                     |                       |_____________|
+                     |____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+tasinaya: tasina-, N.f.: thirst, craving. It is a different form of the word
+tanha-, N.f. Ins.Sg. = tasinaya.
+purakkhata: purakkhata-, Adj.: honored, preferred. Here in the meaning of
+followed, encircled. Nom.Pl.f. = purakkhata.
+paja: paja-, N.f.: beings, people, mankind. Nom.Pl. = paja.
+parisappanti, V.: crawl, run about. The verb root is sap- (to crawl) with the
+prefix pari- (around). 3.Pl.act.in.pres. = parisappanti.
+saso: sasa-, N.m.: hare, rabbit. Nom.Sg. = saso.
+va, part.: as, like.
+bandhito: bandhita-, Adj.: bound, caught. It is a p.p. of the verb root bandh-
+(to bind).
+Nom.Sg.m. = bandhito.
+List of Abbreviations
+sajyojanasavgasattaka: sajyojanasavgasattaka-, Adj.: bound by the bonds of the
+Ten Fetters. It is a compound of:
+    sajyojana-, N.n.: bond, fetter. For enumeration see the Commentary.
+    savga-, N.m.: clinging, attachment, bond.
+    sattaka-, N.m.: attachment, bond. It is the word satta-, Adj.: clinging,
+attached (it is a p.p. of the verb root sabj-) with the diminutive suffix -ka.
+Nom.Pl.m. = sajyojanasavgasattaka.
+dukkham: dukkha-, N.n.: suffering. Acc.Sg. = dukkham.
+upenti, V.: undergo, come to, approach. The verb root is i- (to go) with the
+prefix upa- (near). 3.Pl.act.in.pres. = upenti.
+punappunaj, Adv.: again and again. It is the word puna, Ind.: again, doubled in
+intensifying sense. The double -p- is a result of the euphonic combination.
+ciraya: cira-, Adj.: long (of time). Dat.Sg. = ciraya (for a long time).
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) tasinaya purakkhata paja parisappanti saso va bandhito (people followed
+by thirst crawl around like a captured hare). This can be further analysed into
+the main sentence a) and the dependent clause b):
+    a) tasinaya purakkhata paja parisappanti (people followed by thirst crawl
+around). The subject is the noun paja (people, nominative plural). It has an
+attribute, the adjective purakkhata (followed, nominative plural) with its own
+attribute, the noun tasinaya (by thirst, instrumental singular). The verb is
+parisappanti (crawl around, 3rd person, plural, active, indicative, present
+tense).
+    b) saso va bandhito (like a captured hare). The subject is the noun saso
+(hare, nominative singular). It has an attribute, the past participle bandhito
+(captured, nominative singular). The particle va (as, like) connects the clause
+to the main sentence.
+    2) sajyojanasavgasattaka dukkham upenti punappunaj ciraya (bound by the
+bonds of the Ten Fetters, they will undergo suffering again and again, for a
+long time). The subject is the compound sajyojanasavgasattaka (bound by the
+bonds of the Ten Fetters, nominative plural). The verb is upenti (undergo, 3rd
+person, plural, active, indicative, present tense). It has two attributes, the
+adverb punappunaj (again and again) and the adjective ciraya (for a long time,
+dative singular). The object is the noun dukkham (suffering, accusative
+singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the four previous
+verses (DhP 338, DhP 339, DhP 340 and DhP 341) and for the following verse (DhP
+343).
+    There are ten fetters (sajyojana). They can be divided into two kinds, five
+so called "lower" or "big" fetters and five "higher" or "small" fetters.
+ 
+    The five big fetters are:
+1) personality belief (sakkaya-ditthi),
+2) skeptical doubt (vicikiccha),
+3) clinging to rules and rituals (silabbata-paramasa),
+4) sensuous craving (kama-raga),
+5) ill-will (vyapada).
+    The five small fetters are:
+1) craving for fine-material existence (rupa-raga),
+2) craving for immaterial existence (arupa-raga),
+3) conceit (mana),
+4) restlessness (uddhacca),
+5) ignorance (avijja).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+tasinaya
+purakkhata
+paja
+parisappanti
+saso
+va
+bandhito
+sajyojanasavgasattaka
+sajyojana
+savga
+sattaka
+dukkham
+upenti
+punappunaj
+puna
+ciraya
+===============================================================================

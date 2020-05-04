@@ -1,0 +1,1627 @@
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.3.16)  16 MAR 2017 17:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Patimokkha2Draft0.4.tex
+(./Patimokkha2Draft0.4.tex
+LaTeX2e <2017/01/01> patch level 3
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./PM_AnsiADefinition.tex
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/paracol/paracol.sty
+Package: paracol 2015/10/10 v1.32 
+\pcol@currcol=\count90
+\pcol@nextcol=\count91
+\pcol@ncol=\count92
+\pcol@ncolleft=\count93
+\pcol@page=\count94
+\pcol@basepage=\count95
+\pcol@toppage=\count96
+\pcol@footnotebase=\count97
+\pcol@nfootnotes=\count98
+\pcol@mcid=\count99
+\pcol@prevdepth=\dimen111
+\pcol@colht=\dimen112
+\pcol@textfloatsep=\dimen113
+\pcol@lrmargin=\dimen114
+\pagerim=\dimen115
+\pcol@topskip=\skip43
+\pcol@topfnotes=\box26
+\pcol@prespan=\box27
+\pcol@rightpage=\box28
+\pcol@tempbox=\box29
+\pcol@everyvbox=\toks16
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box30
+\beforetitleunit=\skip44
+\aftertitleunit=\skip45
+\ttl@plus=\dimen116
+\ttl@minus=\dimen117
+\ttl@toksa=\toks17
+\titlewidth=\dimen118
+\titlewidthlast=\dimen119
+\titlewidthfirst=\dimen120
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/expex/expex.sty
+Package: expex 2014/03/10 v5.0b LaTex wrapper for expex.tex (JF)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count100
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/expex/expex.tex
+File: expex.tex 2014/03/10 v5.0b ExPex linguistics example formatter (JF)
+\ep@dima=\dimen121
+\ep@dimb=\dimen122
+\ep@dimc=\dimen123
+\ep@cnta=\count101
+\epc@b=\count102
+\excnt=\count103
+\numbox=\box31
+\epd@numright=\dimen124
+\pexcnt=\count104
+\epd@labelleft=\dimen125
+\epd@labelright=\dimen126
+\epd@textleft=\dimen127
+\epd@preambleleft=\dimen128
+\epd@sampleexnowidth=\dimen129
+\ep@everylabel=\toks20
+\exnobox=\box32
+\ling@tagsfile=\write3
+\ling@tagsin=\read1
+\glstrutbox=\box33
+\ep@cascadeindent=\dimen130
+\ep@hangindentamount=\dimen131
+\ep@cascadecount=\count105
+\gltoks@a=\toks21
+\gltoks@b=\toks22
+\glw@maxht=\dimen132
+\glw@maxdp=\dimen133
+\@itemtype=\count106
+\gl@maxdplast=\dimen134
+\gltoks@sofar=\toks23
+\gltoks@every=\toks24
+\gltoks@next=\toks25
+\debug@glword=\box34
+\@glaparsestate=\count107
+\glwcascade@pshapeindent=\dimen135
+\glwcascade@pshapelinewd=\dimen136
+\ssleftwd=\dimen137
+\ssrightwd=\dimen138
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip46
+\enit@outerparindent=\dimen139
+\enit@toks=\toks26
+\enit@inbox=\box35
+\enitdp@description=\count108
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
+JK)
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2017/03/11 v6988 L3 programming layer (loader) 
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2017/03/11 v6988 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/12/28 v6805 L3 Bootstrap code
+L3 Module: l3names 2017/02/19 v6962 L3 Namespace for primitives
+L3 Module: l3basics 2017/02/14 v6929 L3 Basic definitions
+L3 Module: l3expan 2017/02/20 v6967 L3 Argument expansion
+L3 Module: l3tl 2017/02/20 v6967 L3 Token lists
+L3 Module: l3str 2017/02/20 v6967 L3 Strings
+L3 Module: l3seq 2017/02/20 v6967 L3 Sequences and stacks
+L3 Module: l3int 2017/02/18 v6949 L3 Integers
+\c_max_int=\count109
+\l_tmpa_int=\count110
+\l_tmpb_int=\count111
+\g_tmpa_int=\count112
+\g_tmpb_int=\count113
+L3 Module: l3flag 2017/02/20 v6969 L3 Flags
+L3 Module: l3quark 2017/02/17 v6947 L3 Quarks
+L3 Module: l3prg 2017/02/12 v6906 L3 Control structures
+\g__prg_map_int=\count114
+L3 Module: l3clist 2017/02/20 v6967 L3 Comma separated lists
+L3 Module: l3token 2017/02/20 v6967 L3 Experimental token manipulation
+L3 Module: l3prop 2017/02/12 v6906 L3 Property lists
+L3 Module: l3msg 2017/02/20 v6966 L3 Messages
+L3 Module: l3file 2017/02/20 v6964 L3 File and I/O operations
+\c_log_iow=\count115
+\l_iow_line_count_int=\count116
+\l__iow_line_target_int=\count117
+\l__iow_one_indent_int=\count118
+\l__iow_indent_int=\count119
+L3 Module: l3skip 2017/02/20 v6968 L3 Dimensions and skips
+\c_zero_dim=\dimen140
+\c_max_dim=\dimen141
+\l_tmpa_dim=\dimen142
+\l_tmpb_dim=\dimen143
+\g_tmpa_dim=\dimen144
+\g_tmpb_dim=\dimen145
+\c_zero_skip=\skip47
+\c_max_skip=\skip48
+\l_tmpa_skip=\skip49
+\l_tmpb_skip=\skip50
+\g_tmpa_skip=\skip51
+\g_tmpb_skip=\skip52
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+L3 Module: l3keys 2017/02/12 v6906 L3 Key-value interfaces
+\l_keys_choice_int=\count120
+L3 Module: l3fp 2017/03/11 v6987 L3 Floating points
+\c__fp_leading_shift_int=\count121
+\c__fp_middle_shift_int=\count122
+\c__fp_trailing_shift_int=\count123
+\c__fp_big_leading_shift_int=\count124
+\c__fp_big_middle_shift_int=\count125
+\c__fp_big_trailing_shift_int=\count126
+\c__fp_Bigg_leading_shift_int=\count127
+\c__fp_Bigg_middle_shift_int=\count128
+\c__fp_Bigg_trailing_shift_int=\count129
+L3 Module: l3sort 2017/02/20 v6967 L3 Sorting functions
+\l__sort_length_int=\count130
+\l__sort_min_int=\count131
+\l__sort_top_int=\count132
+\l__sort_max_int=\count133
+\l__sort_true_max_int=\count134
+\l__sort_block_int=\count135
+\l__sort_begin_int=\count136
+\l__sort_end_int=\count137
+\l__sort_A_int=\count138
+\l__sort_B_int=\count139
+\l__sort_C_int=\count140
+L3 Module: l3box 2017/02/17 v6943 L3 Experimental boxes
+\c_empty_box=\box36
+\l_tmpa_box=\box37
+\l_tmpb_box=\box38
+\g_tmpa_box=\box39
+\g_tmpb_box=\box40
+L3 Module: l3coffins 2017/02/12 v6906 L3 Coffin code layer
+\l__coffin_internal_box=\box41
+\l__coffin_internal_dim=\dimen146
+\l__coffin_offset_x_dim=\dimen147
+\l__coffin_offset_y_dim=\dimen148
+\l__coffin_x_dim=\dimen149
+\l__coffin_y_dim=\dimen150
+\l__coffin_x_prime_dim=\dimen151
+\l__coffin_y_prime_dim=\dimen152
+\c_empty_coffin=\box42
+\l__coffin_aligned_coffin=\box43
+\l__coffin_aligned_internal_coffin=\box44
+\l_tmpa_coffin=\box45
+\l_tmpb_coffin=\box46
+\l__coffin_display_coffin=\box47
+\l__coffin_display_coord_coffin=\box48
+\l__coffin_display_pole_coffin=\box49
+\l__coffin_display_offset_dim=\dimen153
+\l__coffin_display_x_dim=\dimen154
+\l__coffin_display_y_dim=\dimen155
+L3 Module: l3color 2016/12/28 v6805 L3 Experimental color support
+L3 Module: l3sys 2017/02/22 v6976 L3 Experimental system/runtime functions
+L3 Module: l3deprecation 2017/02/20 v6966 L3 Deprecation errors
+L3 Module: l3candidates 2017/02/20 v6967 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen156
+\l__box_bottom_dim=\dimen157
+\l__box_left_dim=\dimen158
+\l__box_right_dim=\dimen159
+\l__box_top_new_dim=\dimen160
+\l__box_bottom_new_dim=\dimen161
+\l__box_left_new_dim=\dimen162
+\l__box_right_new_dim=\dimen163
+\l__box_internal_box=\box50
+\l__coffin_bounding_shift_dim=\dimen164
+\l__coffin_left_corner_dim=\dimen165
+\l__coffin_right_corner_dim=\dimen166
+\l__coffin_bottom_corner_dim=\dimen167
+\l__coffin_top_corner_dim=\dimen168
+\l__coffin_scaled_total_height_dim=\dimen169
+\l__coffin_scaled_width_dim=\dimen170
+L3 Module: l3luatex 2017/02/18 v6953 L3 Experimental LuaTeX-specific functions
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2017/02/18 v6953 L3 Experimental driver: xdvipdfmx
+\l__driver_tmp_box=\box51
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2017/03/11 v6988 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count141
+\g__xparse_grabber_int=\count142
+\l__xparse_m_args_int=\count143
+\l__xparse_mandatory_args_int=\count144
+\l__xparse_v_nesting_int=\count145
+)
+Package: fontspec 2017/02/12 v2.6 Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2017/02/12 v2.6 Font selection for XeLaTeX and LuaLaTeX
+
+\l__fontspec_script_int=\count146
+\l__fontspec_language_int=\count147
+\l__fontspec_strnum_int=\count148
+\l__fontspec_tmp_int=\count149
+\l__fontspec_em_int=\count150
+\l__fontspec_emdef_int=\count151
+\l__fontspec_strong_int=\count152
+\l__fontspec_strongdef_int=\count153
+\l__fontspec_tmpa_dim=\dimen171
+\l__fontspec_tmpb_dim=\dimen172
+\l__fontspec_tmpc_dim=\dimen173
+\g__file_internal_ior=\read2
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/02/22 v2.0g Standard LaTeX package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2017/02/22 v2.0g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 475.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 491.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 507.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 523.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 528.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 533.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 538.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 543.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 563.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 567.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 574.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 623.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 634.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 642.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 652.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 675.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 692.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 696.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 700.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 705.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 711.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3338.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3344.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3350.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3356.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3362.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3387.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3393.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3401.
+.................................................
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3586.
+LaTeX Info: Redefining \slshape on input line 3591.
+LaTeX Info: Redefining \scshape on input line 3596.
+LaTeX Info: Redefining \upshape on input line 3601.
+LaTeX Info: Redefining \em on input line 3631.
+LaTeX Info: Redefining \emph on input line 3656.
+LaTeX Info: Redefining \- on input line 3707.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 3802.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 3806.
+.................................................
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count154
+\calc@Bcount=\count155
+\calc@Adimen=\dimen174
+\calc@Bdimen=\dimen175
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count156
+\calc@Cskip=\skip55
+)
+(/usr/local/texlive/2016/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+)
+\tipaTiiicode=\count157
+\tipasavetokens=\toks27
+\tipachecktokens=\toks28
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+)
+\Gin@req@height=\dimen176
+\Gin@req@width=\dimen177
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box52
+\UL@hyphenbox=\box53
+\UL@skip=\skip56
+\UL@hook=\toks29
+\UL@height=\dimen178
+\UL@pe=\count158
+\UL@pixel=\dimen179
+\ULC@box=\box54
+Package: ulem 2012/05/18
+\ULdepth=\dimen180
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cinzel/cinzel.sty
+Package: cinzel 2014/05/24 (Bob Tennent) Supports Cinzel and CinzelDecorative f
+or all LaTeX engines.
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/02/22 v2.0g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+Requested font "[Cinzel-Regular.ttf]/OT" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Regular.ttf
+\g__fontspec_family_Cinzel_int=\count159
+Requested font "[Cinzel-Bold.ttf]/OT" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Bold.ttf
+Requested font "[CinzelDecorative-Regular.ttf]/OT" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+Decorative-Regular.ttf
+Requested font "[CinzelDecorative-Bold.ttf]/OT" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+Decorative-Bold.ttf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Cinzel(0)' created for font 'Cinzel' with options [Ligatures =
+. TeX,Extension = .ttf,Ligatures=TeX,UprightFont = *-Regular,ItalicFont =
+. *Decorative-Regular,BoldFont = *-Bold,BoldItalicFont = *Decorative-Bold].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[Cinzel-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"[Cinzel-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.:
+. <->"[CinzelDecorative-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"[CinzelDecorative-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text
+;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+LaTeX Info: Redefining \rmfamily on input line 49.
+Requested font "[Cinzel-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Regular.ttf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Cinzel(1)' created for font 'Cinzel' with options [Ligatures =
+. TeX,Extension = .ttf,UprightFont = *-Regular,ItalicFont =
+. *Decorative-Regular,BoldFont = *-Bold,BoldItalicFont = *Decorative-Bold].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[Cinzel-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"[Cinzel-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.:
+. <->"[CinzelDecorative-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"[CinzelDecorative-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text
+;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+Requested font "[Cinzel-Black.ttf]/OT" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Black.ttf
+Requested font "[CinzelDecorative-Black.ttf]/OT" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+Decorative-Black.ttf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Cinzel(2)' created for font 'Cinzel' with options [Ligatures =
+. TeX,Extension = .ttf,UprightFont = *-Black,ItalicFont = *Decorative-Black].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[Cinzel-Black.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.:
+. <->"[CinzelDecorative-Black.ttf]/OT:script=latn;language=DFLT;mapping=tex-tex
+t;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+.................................................
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks30
+\ex@=\dimen181
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2017/03/11 v6988 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
+Package: xtemplate 2017/03/11 v6988 L3 Experimental prototype document function
+s
+\l__xtemplate_tmp_dim=\dimen182
+\l__xtemplate_tmp_int=\count160
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip57
+)
+Package: xfrac 2017/03/11 v6988 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box55
+\l__xfrac_tmp_box=\box56
+\l__xfrac_denominator_bot_sep_dim=\dimen183
+\l__xfrac_numerator_bot_sep_dim=\dimen184
+\l__xfrac_numerator_top_sep_dim=\dimen185
+\l__xfrac_slash_left_sep_dim=\dimen186
+\l__xfrac_slash_right_sep_dim=\dimen187
+\l__xfrac_slash_left_muskip=\muskip17
+\l__xfrac_slash_right_muskip=\muskip18
+.................................................
+. xtemplate info: "declare-object-type"
+. 
+. Declaring object type 'xfrac' taking 3 argument(s) on line 84.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sfrac with sig. 'omom' on line 423.
+.................................................
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip58
+\f@ncyO@elh=\skip59
+\f@ncyO@erh=\skip60
+\f@ncyO@olh=\skip61
+\f@ncyO@orh=\skip62
+\f@ncyO@elf=\skip63
+\f@ncyO@erf=\skip64
+\f@ncyO@olf=\skip65
+\f@ncyO@orf=\skip66
+)
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 33.
+
+(./PM_Font_TGT.tex
+Requested font "[texgyretermes-regular.otf]/OT" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+\g__fontspec_family_texgyretermes_int=\count161
+Requested font "[texgyretermes-bold.otf]/OT" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-bold.otf
+Requested font "[texgyretermes-italic.otf]/OT" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+Requested font "[texgyretermes-bolditalic.otf]/OT" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-bolditalic.otf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'texgyretermes(0)' created for font 'texgyretermes' with options
+. [Ligatures=TeX,Extension=.otf,UprightFont=
+. *-regular,BoldFont=*-bold,ItalicFont=*-italic,BoldItalicFont=*-bolditalic].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mapping=tex-text
+;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;+smcp;mapping=te
+x-text;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"[texgyretermes-bold.otf]/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"[texgyretermes-bold.otf]/OT:script=latn;language=DFLT;+smcp;mapping=tex-t
+ext;"
+. - 'italic' (m/it) with NFSS spec.:
+. <->"[texgyretermes-italic.otf]/OT:script=latn;language=DFLT;mapping=tex-text;
+"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"[texgyretermes-italic.otf]/OT:script=latn;language=DFLT;+smcp;mapping=tex
+-text;"
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"[texgyretermes-bolditalic.otf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->"[texgyretermes-bolditalic.otf]/OT:script=latn;language=DFLT;+smcp;mapping
+=tex-text;"
+.................................................
+LaTeX Info: Redefining \rmfamily on input line 7.
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+) (./PM_ColorDefintions.tex) (./PM_GlossingDefintions.tex)
+(./PM_UnicodeCharacterFix.tex
+(/usr/local/texlive/2016/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+Package: newunicodechar 2012/11/12 v1.1 Defining Unicode characters
+)) (./PM_Cover.tex)
+No file Patimokkha2Draft0.4.aux.
+\openout1 = `Patimokkha2Draft0.4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 77.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 77.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 77.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 77.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: ansiapaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(45.0pt, 704.96999pt, 45.0pt)
+* v-part:(T,H,B)=(40.0pt, 524.295pt, 50.0pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=704.96999pt
+* \textheight=524.295pt
+* \oddsidemargin=-27.26999pt
+* \evensidemargin=-27.26999pt
+* \topmargin=-69.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 77.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 77.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 77.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 77.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 77.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 77.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 77.
+LaTeX Font Info:    Redeclaring math accent \check on input line 77.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 77.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 77.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 77.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 77.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/texgyretermes(0)/m/n on input line 7
+7.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/texgyretermes(0)/m/n on input line 
+77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/texgyretermes(0)/m/n --> TU/texgyretermes(0)/m/n on 
+input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/texgyretermes(0)/m/it on input line
+ 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/texgyretermes(0)/bx/n on input line
+ 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/texgyretermes(0)/m/n --> TU/texgyretermes(0)/bx/n on
+ input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/texgyretermes(0)/bx/it on input li
+ne 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 77.
+\excnt=1
+\drop=\skip67
+Requested font "[CinzelDecorative-Regular.ttf]/OT:script=latn;language=DFLT;map
+ping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+Decorative-Regular.ttf
+Requested font "[CinzelDecorative-Regular.ttf]/OT:script=latn;language=DFLT;map
+ping=tex-text;" at 24.88pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+Decorative-Regular.ttf
+(./PM_DocumentNotes.tex [1
+
+]
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 8.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 7.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-bold.otf]/OT:script=latn;language=DFLT;mapping=t
+ex-text;" at 8.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-bold.otf
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 5.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 42.
+
+Overfull \hbox (10.03609pt too wide) in paragraph at lines 55--55
+[]\TU/texgyretermes(0)/m/n/7 PRESIND| 
+ []
+
+[2]) (./Prep/eng-center-pk-0.tex) (./Prep/pali-center-pk-0.tex)
+(./Prep/eng-pk-nava.tex
+Requested font "[texgyretermes-italic.otf]/OT:script=latn;language=DFLT;mapping
+=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+Requested font "[texgyretermes-italic.otf]/OT:script=latn;language=DFLT;mapping
+=tex-text;" at 7.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+) (./Prep/pali-pk-nava.tex
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 9.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;+smcp;
+mapping=tex-text;" at 7.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+) (./Prep/eng-pk-01.tex)
+(./Prep/pali-pk-01.tex) (./Prep/eng-pk-02.tex) (./Prep/pali-pk-02.tex)
+(./Prep/eng-pk-03.tex) (./Prep/pali-pk-03.tex) (./Prep/eng-pk-04.tex)
+(./Prep/pali-pk-04.tex) (./Prep/eng-pk-05.tex)
+(./Prep_Modified/pali-pk-05MAN.tex) (./Prep/eng-pk-06.tex)
+(./Prep/pali-pk-06.tex) (./Prep/eng-pk-07.tex) (./Prep/pali-pk-07.tex)
+(./Prep/eng-pk-08.tex) (./Prep/pali-pk-08.tex) (./Prep/eng-pk-09.tex)
+(./Prep/pali-pk-09.tex) (./Prep/eng-pk-tattha.tex)
+(./Prep_Modified/pali-pk-tatthaMAN.tex
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 6.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "cmmi9" at 9.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+Requested font "cmmi6" at 6.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+Requested font "cmsy9" at 9.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+Requested font "cmsy6" at 6.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+Requested font "cmr9" at 9.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+Requested font "cmr6" at 6.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+) (./Prep/eng-pk-aharana.tex)
+(./Prep_Modified/pali-pk-aharanaMAN.tex) (./Prep/eng-pk-utukkhanam.tex)
+(./Prep_Modified/pali-pk-utukkhanamMAN.tex) (./Prep/eng-pk-utunidha.tex)
+(./Prep_Modified/pali-pk-utunidhaMAN.tex)
+(./Prep_Modified/eng-pk-evambhanteMAN.tex)
+(./Prep_Modified/pali-pk-evambhanteMAN.tex) (./Prep/eng-pk-ganana.tex)
+(./Prep_Modified/pali-pk-gananaMAN.tex
+Overfull \hbox (1.77354pt too wide) in paragraph at lines 5--29
+[] [] [] [] [] [] [] 
+ []
+
+) (./Prep_Modified/eng-pk-evambhanteMAN.tex [3])
+(./Prep_Modified/pali-pk-evambhanteMAN.tex) (./Prep/eng-pk-ovado.tex)
+(./Prep/pali-pk-ovado.tex) (./Prep/eng-pk-iti.tex) (./Prep/pali-pk-iti.tex
+Overfull \hbox (7.3286pt too wide) in paragraph at lines 5--7
+[][] [] [] [] [] 
+ []
+
+) (./Prep/eng-pk-nitthite.tex) (./Prep/pali-pk-nitthite.tex)
+(./Prep/eng-pk-nitthite0.tex) (./Prep_Modified/pali-pk-nitthite0MAN.tex)
+(./Prep/eng-pk-11.tex) (./Prep_Modified/pali-pk-11MAN.tex)
+(./Prep/eng-pk-12.tex) (./Prep_Modified/pali-pk-12MAN.tex)
+(./Prep/eng-pk-13.tex) (./Prep/pali-pk-13.tex) (./Prep/eng-pk-14.tex)
+(./Prep/pali-pk-14.tex) (./Prep/eng-pk-evantam.tex)
+(./Prep_Modified/pali-pk-evantamMAN.tex) (./Prep/eng-pk-uposathakammassa.tex)
+(./Prep/pali-pk-uposathakammassa.tex) (./Prep_Modified/eng-pk-evambhanteMAN.tex
+) (./Prep_Modified/pali-pk-evambhanteMAN.tex) (./Prep/eng-pk-senior.tex)
+(./Prep/pali-pk-senior.tex) [4] (./Prep_Modified/pali-pk-notesMAN.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+Requested font "[texgyretermes-italic.otf]/OT:script=latn;language=DFLT;mapping
+=tex-text;" at 8.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+Requested font "cmmi8" at 8.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+Requested font "cmsy8" at 8.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+Requested font "cmr8" at 8.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Overfull \hbox (0.4703pt too wide) in paragraph at lines 11--12
+\TU/texgyretermes(0)/m/it/8 and bhikkhus….” If laypeople living in the monaster
+y help with the tasks, change this to \TU/texgyretermes(0)/m/n/8 “ārāmikehi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+) (./Prep_Modified/pali-SeasonsAllFourMAN.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 46--160
+
+ []
+
+[5] (./PM_PaliNumberQT.tex)
+\excnt=1
+[6] (./Prep/eng-center-nid-a.tex) (./Prep/pali-center-nid-a.tex
+Missing character: There is no ﻿ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+)
+(./Prep/eng-nid-b.tex
+Requested font "[texgyretermes-italic.otf]/OT:script=latn;language=DFLT;mapping
+=tex-text;" at 9.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+) (./Prep/pali-nid-b.tex) (./Prep/eng-nid-c.tex)
+(./Prep/pali-nid-c.tex) (./Prep/eng-nid-d.tex) (./Prep/pali-nid-d.tex)
+(./Prep/eng-nid-e.tex) (./Prep/pali-nid-e.tex) (./Prep/eng-nid-f.tex)
+(./Prep/pali-nid-f.tex) (./Prep/eng-nid-g.tex) (./Prep/pali-nid-g.tex)
+(./Prep/eng-nid-h.tex) (./Prep/pali-nid-h.tex) (./Prep/eng-center-nid-b.tex)
+(./Prep/pali-center-nid-b.tex) [7]
+\excnt=1
+(./Prep/eng-par-intro.tex) (./Prep/pali-par-intro.tex
+Missing character: There is no ﻿ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+) (./Prep/eng-par-01.tex)
+(./Prep/pali-par-01.tex) (./Prep/eng-par-02.tex) (./Prep/pali-par-02.tex)
+(./Prep/eng-par-02a.tex) (./Prep/pali-par-02a.tex) (./Prep/eng-par-03.tex)
+(./Prep/pali-par-03.tex) (./Prep/eng-par-03a.tex) (./Prep/pali-par-03a.tex)
+(./Prep/eng-par-04.tex) (./Prep/pali-par-04.tex
+Overfull \hbox (2.59058pt too wide) in paragraph at lines 6--8
+[][] [] [] [] [] [] 
+ []
+
+) (./Prep/eng-par-04a.tex) (./Prep/pali-par-04a.tex) (./Prep/eng-par-04b.tex)
+(./Prep/pali-par-04b.tex) (./Prep/eng-par-uddittha.tex)
+(./Prep/pali-par-uddittha.tex) (./Prep/eng-par-parisuddha.tex [8])
+(./Prep/pali-par-parisuddha.tex) (./Prep/eng-center-par-nitthito.tex)
+(./Prep/pali-center-par-nitthito.tex) (./Prep/eng-sd-intro.tex)
+(./Prep/pali-sd-intro.tex) (./Prep/eng-sd-01.tex) (./Prep/pali-sd-01.tex)
+(./Prep/eng-sd-02.tex) (./Prep/pali-sd-02.tex) (./Prep/eng-sd-03.tex)
+(./Prep/pali-sd-03.tex) (./Prep/eng-sd-04.tex) (./Prep/pali-sd-04.tex)
+(./Prep/eng-sd-04a.tex) (./Prep/pali-sd-04a.tex
+Overfull \hbox (18.23253pt too wide) in paragraph at lines 5--7
+[] [] [] [] [] [] [] 
+ []
+
+) (./Prep/eng-sd-05.tex) (./Prep/pali-sd-05.tex) (./Prep/eng-sd-06.tex)
+(./Prep/pali-sd-06.tex) (./Prep/eng-sd-06a.tex [9]) (./Prep/pali-sd-06a.tex)
+(./Prep/eng-sd-06b.tex) (./Prep/pali-sd-06b.tex) (./Prep/eng-sd-07.tex)
+(./Prep/pali-sd-07.tex) (./Prep/eng-sd-07a.tex) (./Prep/pali-sd-07a.tex)
+(./Prep/eng-sd-08.tex) (./Prep/pali-sd-08.tex) (./Prep/eng-sd-08a.tex)
+(./Prep/pali-sd-08a.tex) (./Prep/eng-sd-09.tex) (./Prep/pali-sd-09.tex)
+(./Prep/eng-sd-09a.tex) (./Prep/pali-sd-09a.tex) (./Prep/eng-sd-10.tex [10])
+(./Prep/pali-sd-10.tex) (./Prep/eng-sd-10a.tex) (./Prep/pali-sd-10a.tex
+Overfull \hbox (21.40154pt too wide) in paragraph at lines 5--7
+[][] [] [] [] [] [] [] 
+ []
+
+) (./Prep/eng-sd-10b.tex) (./Prep/pali-sd-10b.tex) (./Prep/eng-sd-11.tex)
+(./Prep/pali-sd-11.tex) (./Prep/eng-sd-11a.tex) (./Prep/pali-sd-11a.tex)
+(./Prep/eng-sd-11b.tex) (./Prep/pali-sd-11b.tex) (./Prep/eng-sd-11c.tex)
+(./Prep/pali-sd-11c.tex
+Overfull \hbox (6.45958pt too wide) in paragraph at lines 5--7
+[] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (10.73161pt too wide) in paragraph at lines 5--7
+[] [] [] [] [] [] 
+ []
+
+) (./Prep/eng-sd-12.tex [11]) (./Prep/pali-sd-12.tex) (./Prep/eng-sd-12a.tex)
+(./Prep/pali-sd-12a.tex) (./Prep/eng-sd-12b.tex) (./Prep/pali-sd-12b.tex)
+(./Prep/eng-sd-12c.tex) (./Prep/pali-sd-12c.tex) (./Prep/eng-sd-13.tex)
+(./Prep/pali-sd-13.tex) (./Prep/eng-sd-13a.tex) (./Prep/pali-sd-13a.tex)
+(./Prep/eng-sd-13b.tex) (./Prep/pali-sd-13b.tex) (./Prep/eng-sd-13c.tex
+[12]) (./Prep/pali-sd-13c.tex) (./Prep/eng-sd-13d.tex) (./Prep/pali-sd-13d.tex)
+(./Prep/eng-sd-13e.tex) (./Prep/pali-sd-13e.tex) (./Prep/eng-sd-uddittha.tex)
+(./Prep/pali-sd-uddittha.tex) (./Prep/eng-sd-udditthaa.tex)
+(./Prep/pali-sd-udditthaa.tex) (./Prep/eng-sd-udditthab.tex)
+(./Prep/pali-sd-udditthab.tex) (./Prep/eng-sd-parisuddha.tex)
+(./Prep/pali-sd-parisuddha.tex) (./Prep/eng-center-sd-nitthito.tex [13])
+(./Prep/pali-center-sd-nitthito.tex) (./Prep/eng-an-intro.tex)
+(./Prep/pali-an-intro.tex) (./Prep/eng-an-01.tex) (./Prep/pali-an-01.tex)
+(./Prep/eng-an-01a.tex) (./Prep/pali-an-01a.tex) (./Prep/eng-an-02.tex)
+(./Prep/pali-an-02.tex) (./Prep/eng-an-02a.tex) (./Prep/pali-an-02a.tex)
+(./Prep/eng-an-02b.tex) (./Prep/pali-an-02b.tex) (./Prep/eng-an-uddittha.tex)
+(./Prep/pali-an-uddittha.tex) (./Prep/eng-an-parisuddha.tex)
+(./Prep/pali-an-parisuddha.tex) (./Prep/eng-center-an-nitthito.tex [14])
+(./Prep/pali-center-an-nitthito.tex) (./Prep/eng-npac-intro.tex)
+(./Prep/pali-npac-intro.tex) (./Prep/eng-npac-01.tex) (./Prep/pali-npac-01.tex)
+(./Prep/eng-npac-02.tex) (./Prep/pali-npac-02.tex) (./Prep/eng-npac-03.tex)
+(./Prep/pali-npac-03.tex) (./Prep/eng-npac-03a.tex) (./Prep/pali-npac-03a.tex)
+(./Prep/eng-npac-04.tex) (./Prep/pali-npac-04.tex) (./Prep/eng-npac-05.tex)
+(./Prep/pali-npac-05.tex) (./Prep/eng-npac-06.tex) (./Prep/pali-npac-06.tex)
+(./Prep/eng-npac-06a.tex [15]) (./Prep/pali-npac-06a.tex)
+(./Prep/eng-npac-07.tex) (./Prep/pali-npac-07.tex) (./Prep/eng-npac-08.tex)
+(./Prep/pali-npac-08.tex) (./Prep/eng-npac-08a.tex) (./Prep/pali-npac-08a.tex)
+(./Prep/eng-npac-09.tex) (./Prep/pali-npac-09.tex) (./Prep/eng-npac-09a.tex)
+(./Prep/pali-npac-09a.tex) (./Prep/eng-npac-10.tex) (./Prep/pali-npac-10.tex)
+(./Prep/eng-npac-10a.tex) (./Prep/pali-npac-10a.tex) (./Prep/eng-npac-10b.tex
+[16]) (./Prep/pali-npac-10b.tex) (./Prep/eng-npac-10c.tex)
+(./Prep/pali-npac-10c.tex) (./Prep/eng-npac-10d.tex) (./Prep/pali-npac-10d.tex
+Overfull \hbox (1.86053pt too wide) in paragraph at lines 5--7
+[] [] [] [] [] [] [] [] 
+ []
+
+) (./Prep/eng-npac-10e.tex) (./Prep/pali-npac-10e.tex) (./Prep/eng-npac-10f.tex
+) (./Prep/pali-npac-10f.tex) (./Prep/eng-npac-10g.tex)
+(./Prep/pali-npac-10g.tex) (./Prep/eng-npac-10h.tex) (./Prep/pali-npac-10h.tex)
+(./Prep/eng-npac-10i.tex) (./Prep/pali-npac-10i.tex)
+(./Prep/eng-center-npac-civaravaggo.tex)
+(./Prep/pali-center-npac-civaravaggo.tex) (./Prep/eng-npac-11.tex [17])
+(./Prep/pali-npac-11.tex) (./Prep/eng-npac-12.tex) (./Prep/pali-npac-12.tex)
+(./Prep/eng-npac-13.tex) (./Prep/pali-npac-13.tex) (./Prep/eng-npac-13a.tex)
+(./Prep/pali-npac-13a.tex) (./Prep/eng-npac-14.tex) (./Prep/pali-npac-14.tex)
+(./Prep/eng-npac-15.tex) (./Prep/pali-npac-15.tex) (./Prep/eng-npac-16.tex)
+(./Prep/pali-npac-16.tex) (./Prep/eng-npac-17.tex) (./Prep/pali-npac-17.tex)
+(./Prep/eng-npac-18.tex) (./Prep/pali-npac-18.tex) (./Prep/eng-npac-19.tex)
+(./Prep/pali-npac-19.tex) (./Prep/eng-npac-20.tex [18])
+(./Prep/pali-npac-20.tex) (./Prep/eng-center-npac-kosiyavaggo.tex)
+(./Prep/pali-center-npac-kosiyavaggo.tex) (./Prep/eng-npac-21.tex)
+(./Prep/pali-npac-21.tex) (./Prep/eng-npac-22.tex) (./Prep/pali-npac-22.tex)
+(./Prep/eng-npac-22a.tex) (./Prep/pali-npac-22a.tex) (./Prep/eng-npac-23.tex)
+(./Prep/pali-npac-23.tex) (./Prep/eng-npac-24.tex) (./Prep/pali-npac-24.tex
+Requested font "[texgyretermes-italic.otf]/OT:script=latn;language=DFLT;mapping
+=tex-text;" at 4.89998pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+LaTeX Font Info:    Calculating math sizes for size <4.89998> on input line 7.
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 4.89998pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 3.42996pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 2.44998pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.42996> not available
+(Font)              size <5> substituted on input line 7.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.44998> not available
+(Font)              size <5> substituted on input line 7.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.42996> not available
+(Font)              size <5> substituted on input line 7.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.44998> not available
+(Font)              size <5> substituted on input line 7.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.89998> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <3.42996> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <2.44998> on input line 7.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.42996> not available
+(Font)              size <5> substituted on input line 7.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.44998> not available
+(Font)              size <5> substituted on input line 7.
+
+Requested font "[texgyretermes-italic.otf]/OT:script=latn;language=DFLT;mapping
+=tex-text;" at 5.0pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+Requested font "[texgyretermes-italic.otf]/OT:script=latn;language=DFLT;mapping
+=tex-text;" at 3.49998pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 3.49998pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 2.44997pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=DFLT;mappin
+g=tex-text;" at 1.74998pt
+ -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+
+Overfull \hbox (12.82849pt too wide) in paragraph at lines 6--8
+[] [] [] [] [] [] [] [] 
+ []
+
+) (./Prep/eng-npac-25.tex) (./Prep/pali-npac-25.tex) (./Prep/eng-npac-26.tex)
+(./Prep/pali-npac-26.tex) (./Prep/eng-npac-27.tex) (./Prep/pali-npac-27.tex)
+(./Prep/eng-npac-27a.tex [19]) (./Prep/pali-npac-27a.tex)
+(./Prep/eng-npac-27b.tex) (./Prep/pali-npac-27b.tex) (./Prep/eng-npac-28.tex)
+(./Prep/pali-npac-28.tex) (./Prep/eng-npac-29.tex) (./Prep/pali-npac-29.tex)
+(./Prep/eng-npac-29a.tex) (./Prep/pali-npac-29a.tex) (./Prep/eng-npac-30.tex)
+(./Prep/pali-npac-30.tex) (./Prep/eng-center-npac-pattavaggo.tex)
+(./Prep/pali-center-npac-pattavaggo.tex) (./Prep/eng-npac-uddittha.tex)
+(./Prep/pali-npac-uddittha.tex) (./Prep/eng-npac-parisuddha.tex)
+(./Prep/pali-npac-parisuddha.tex) (./Prep/eng-center-npac-nitthito.tex [20])
+(./Prep/pali-center-npac-nitthito.tex) (./Prep/eng-pac-intro.tex)
+(./Prep/pali-pac-intro.tex) (./Prep/eng-pac-01.tex) (./Prep/pali-pac-01.tex)
+(./Prep/eng-pac-02.tex) (./Prep/pali-pac-02.tex) (./Prep/eng-pac-03.tex)
+(./Prep/pali-pac-03.tex) (./Prep/eng-pac-04.tex) (./Prep/pali-pac-04.tex)
+(./Prep/eng-pac-05.tex) (./Prep/pali-pac-05.tex
+Overfull \hbox (0.30159pt too wide) in paragraph at lines 6--8
+[][] [] [] [] [] [] 
+ []
+
+) (./Prep/eng-pac-06.tex) (./Prep/pali-pac-06.tex) (./Prep/eng-pac-07.tex)
+(./Prep/pali-pac-07.tex) (./Prep/eng-pac-08.tex) (./Prep/pali-pac-08.tex)
+(./Prep/eng-pac-09.tex) (./Prep/pali-pac-09.tex) (./Prep/eng-pac-10.tex)
+(./Prep/pali-pac-10.tex) (./Prep/eng-center-pac-musavadavaggo.tex)
+(./Prep/pali-center-pac-musavadavaggo.tex) (./Prep/eng-pac-11.tex)
+(./Prep/pali-pac-11.tex) (./Prep/eng-pac-12.tex) (./Prep/pali-pac-12.tex)
+(./Prep/eng-pac-13.tex) (./Prep/pali-pac-13.tex) (./Prep/eng-pac-14.tex)
+(./Prep/pali-pac-14.tex) (./Prep/eng-pac-15.tex [21]) (./Prep/pali-pac-15.tex)
+(./Prep/eng-pac-16.tex) (./Prep/pali-pac-16.tex) (./Prep/eng-pac-17.tex)
+(./Prep/pali-pac-17.tex) (./Prep/eng-pac-18.tex) (./Prep/pali-pac-18.tex)
+(./Prep/eng-pac-19.tex) (./Prep/pali-pac-19.tex) (./Prep/eng-pac-20.tex)
+(./Prep/pali-pac-20.tex) (./Prep/eng-center-pac-bhutagamavaggo.tex)
+(./Prep/pali-center-pac-bhutagamavaggo.tex) (./Prep/eng-pac-21.tex)
+(./Prep/pali-pac-21.tex) (./Prep/eng-pac-22.tex) (./Prep/pali-pac-22.tex)
+(./Prep/eng-pac-23.tex) (./Prep/pali-pac-23.tex) (./Prep/eng-pac-24.tex
+[22]) (./Prep/pali-pac-24.tex) (./Prep/eng-pac-25.tex) (./Prep/pali-pac-25.tex)
+(./Prep/eng-pac-26.tex) (./Prep/pali-pac-26.tex) (./Prep/eng-pac-27.tex)
+(./Prep/pali-pac-27.tex) (./Prep/eng-pac-27a.tex) (./Prep/pali-pac-27a.tex)
+(./Prep/eng-pac-28.tex) (./Prep/pali-pac-28.tex) (./Prep/eng-pac-29.tex)
+(./Prep/pali-pac-29.tex) (./Prep/eng-pac-30.tex) (./Prep/pali-pac-30.tex)
+(./Prep/eng-center-pac-ovadavaggo.tex) (./Prep/pali-center-pac-ovadavaggo.tex)
+(./Prep/eng-pac-31.tex) (./Prep/pali-pac-31.tex) (./Prep/eng-pac-32.tex)
+(./Prep/pali-pac-32.tex) (./Prep/eng-pac-32a.tex) (./Prep/pali-pac-32a.tex
+Overfull \hbox (2.09666pt too wide) in paragraph at lines 5--7
+[] [] [] [] 
+ []
+
+) (./Prep/eng-pac-33.tex [23]) (./Prep/pali-pac-33.tex) (./Prep/eng-pac-34.tex)
+(./Prep/pali-pac-34.tex) (./Prep/eng-pac-34a.tex) (./Prep/pali-pac-34a.tex)
+(./Prep/eng-pac-35.tex) (./Prep/pali-pac-35.tex) (./Prep/eng-pac-36.tex)
+(./Prep/pali-pac-36.tex) (./Prep/eng-pac-37.tex) (./Prep/pali-pac-37.tex)
+(./Prep/eng-pac-38.tex) (./Prep/pali-pac-38.tex) (./Prep/eng-pac-39.tex)
+(./Prep/pali-pac-39.tex) (./Prep/eng-pac-40.tex) (./Prep/pali-pac-40.tex)
+(./Prep/eng-center-pac-bhojanavaggo.tex)
+(./Prep/pali-center-pac-bhojanavaggo.tex) (./Prep/eng-pac-41.tex)
+(./Prep/pali-pac-41.tex) (./Prep/eng-pac-42.tex [24]) (./Prep/pali-pac-42.tex)
+(./Prep/eng-pac-42a.tex) (./Prep/pali-pac-42a.tex) (./Prep/eng-pac-43.tex)
+(./Prep/pali-pac-43.tex) (./Prep/eng-pac-44.tex) (./Prep/pali-pac-44.tex)
+(./Prep/eng-pac-45.tex) (./Prep/pali-pac-45.tex) (./Prep/eng-pac-46.tex)
+(./Prep/pali-pac-46.tex) (./Prep/eng-pac-46a.tex) (./Prep/pali-pac-46a.tex)
+(./Prep/eng-pac-47.tex) (./Prep/pali-pac-47.tex) (./Prep/eng-pac-48.tex)
+(./Prep/pali-pac-48.tex) (./Prep/eng-pac-49.tex) (./Prep/pali-pac-49.tex)
+(./Prep/eng-pac-50.tex) (./Prep/pali-pac-50.tex)
+(./Prep/eng-center-pac-acelakavaggo.tex)
+(./Prep/pali-center-pac-acelakavaggo.tex) (./Prep/eng-pac-51.tex [25])
+(./Prep/pali-pac-51.tex) (./Prep/eng-pac-52.tex) (./Prep/pali-pac-52.tex)
+(./Prep/eng-pac-53.tex) (./Prep/pali-pac-53.tex) (./Prep/eng-pac-54.tex)
+(./Prep/pali-pac-54.tex) (./Prep/eng-pac-55.tex) (./Prep/pali-pac-55.tex)
+(./Prep/eng-pac-56.tex) (./Prep/pali-pac-56.tex) (./Prep/eng-pac-57.tex)
+(./Prep/pali-pac-57.tex) (./Prep/eng-pac-57a.tex) (./Prep/pali-pac-57a.tex)
+(./Prep/eng-pac-58.tex) (./Prep/pali-pac-58.tex
+Overfull \hbox (2.66357pt too wide) in paragraph at lines 6--8
+[][] [] [] [] [] [] 
+ []
+
+) (./Prep/eng-pac-59.tex) (./Prep/pali-pac-59.tex) (./Prep/eng-pac-60.tex)
+(./Prep/pali-pac-60.tex) (./Prep/eng-center-pac-surapanavaggo.tex)
+(./Prep/pali-center-pac-surapanavaggo.tex) (./Prep/eng-pac-61.tex)
+(./Prep/pali-pac-61.tex) (./Prep/eng-pac-62.tex [26]) (./Prep/pali-pac-62.tex)
+(./Prep/eng-pac-63.tex) (./Prep/pali-pac-63.tex) (./Prep/eng-pac-64.tex)
+(./Prep/pali-pac-64.tex) (./Prep/eng-pac-65.tex) (./Prep/pali-pac-65.tex)
+(./Prep/eng-pac-66.tex) (./Prep/pali-pac-66.tex) (./Prep/eng-pac-67.tex)
+(./Prep/pali-pac-67.tex) (./Prep/eng-pac-68.tex) (./Prep/pali-pac-68.tex)
+(./Prep/eng-pac-68a.tex) (./Prep/pali-pac-68a.tex) (./Prep/eng-pac-68b.tex)
+(./Prep/pali-pac-68b.tex) (./Prep/eng-pac-69.tex [27]) (./Prep/pali-pac-69.tex
+Overfull \hbox (5.97054pt too wide) in paragraph at lines 6--8
+[][] [] [] [] [] [] [] 
+ []
+
+) (./Prep/eng-pac-70.tex) (./Prep/pali-pac-70.tex) (./Prep/eng-pac-70a.tex)
+(./Prep/pali-pac-70a.tex) (./Prep/eng-pac-70b.tex) (./Prep/pali-pac-70b.tex)
+(./Prep/eng-pac-70c.tex) (./Prep/pali-pac-70c.tex)
+(./Prep/eng-center-pac-sappanavaggo.tex)
+(./Prep/pali-center-pac-sappanavaggo.tex) (./Prep/eng-pac-71.tex)
+(./Prep/pali-pac-71.tex) (./Prep/eng-pac-71a.tex) (./Prep/pali-pac-71a.tex)
+(./Prep/eng-pac-72.tex [28]) (./Prep/pali-pac-72.tex) (./Prep/eng-pac-73.tex)
+(./Prep/pali-pac-73.tex) (./Prep/eng-pac-73a.tex) (./Prep/pali-pac-73a.tex)
+(./Prep/eng-pac-73b.tex) (./Prep/pali-pac-73b.tex) (./Prep/eng-pac-73c.tex)
+(./Prep/pali-pac-73c.tex) (./Prep/eng-pac-74.tex) (./Prep/pali-pac-74.tex)
+(./Prep/eng-pac-75.tex) (./Prep/pali-pac-75.tex) (./Prep/eng-pac-76.tex)
+(./Prep/pali-pac-76.tex) (./Prep/eng-pac-77.tex) (./Prep/pali-pac-77.tex)
+(./Prep/eng-pac-78.tex) (./Prep/pali-pac-78.tex) (./Prep/eng-pac-79.tex
+[29]) (./Prep/pali-pac-79.tex) (./Prep/eng-pac-80.tex) (./Prep/pali-pac-80.tex)
+(./Prep/eng-pac-81.tex) (./Prep/pali-pac-81.tex) (./Prep/eng-pac-82.tex)
+(./Prep/pali-pac-82.tex) (./Prep/eng-center-pac-sahadhammikavaggo.tex)
+(./Prep/pali-center-pac-sahadhammikavaggo.tex) (./Prep/eng-pac-83.tex)
+(./Prep/pali-pac-83.tex) (./Prep/eng-pac-84.tex) (./Prep/pali-pac-84.tex)
+(./Prep/eng-pac-84a.tex) (./Prep/pali-pac-84a.tex) (./Prep/eng-pac-85.tex)
+(./Prep/pali-pac-85.tex) (./Prep/eng-pac-86.tex) (./Prep/pali-pac-86.tex)
+(./Prep/eng-pac-87.tex) (./Prep/pali-pac-87.tex) (./Prep/eng-pac-88.tex
+[30]) (./Prep/pali-pac-88.tex) (./Prep/eng-pac-89.tex) (./Prep/pali-pac-89.tex)
+(./Prep/eng-pac-90.tex) (./Prep/pali-pac-90.tex) (./Prep/eng-pac-91.tex)
+(./Prep/pali-pac-91.tex) (./Prep/eng-pac-92.tex) (./Prep/pali-pac-92.tex)
+(./Prep/eng-pac-92a.tex) (./Prep/pali-pac-92a.tex
+Overfull \hbox (15.89952pt too wide) in paragraph at lines 5--7
+[] [] [] [] [] [] []  
+ []
+
+) (./Prep/eng-center-pac-ratanavaggo.tex)
+(./Prep/pali-center-pac-ratanavaggo.tex) (./Prep/eng-pac-uddittha.tex)
+(./Prep/pali-pac-uddittha.tex) (./Prep/eng-pac-parisuddha.tex)
+(./Prep/pali-pac-parisuddha.tex) (./Prep/eng-center-pac-nitthito.tex)
+(./Prep/pali-center-pac-nitthito.tex) (./Prep/eng-pat-intro.tex)
+(./Prep/pali-pat-intro.tex) (./Prep/eng-pat-01.tex [31])
+(./Prep/pali-pat-01.tex) (./Prep/eng-pat-01a.tex) (./Prep/pali-pat-01a.tex)
+(./Prep/eng-pat-02.tex) (./Prep/pali-pat-02.tex) (./Prep/eng-pat-02a.tex)
+(./Prep/pali-pat-02a.tex) (./Prep/eng-pat-02b.tex) (./Prep/pali-pat-02b.tex)
+(./Prep/eng-pat-02c.tex) (./Prep/pali-pat-02c.tex) (./Prep/eng-pat-03.tex)
+(./Prep/pali-pat-03.tex) (./Prep/eng-pat-03a.tex) (./Prep/pali-pat-03a.tex)
+(./Prep/eng-pat-04.tex) (./Prep/pali-pat-04.tex) (./Prep/eng-pat-04a.tex)
+(./Prep/pali-pat-04a.tex) (./Prep/eng-pat-uddittha.tex)
+(./Prep/pali-pat-uddittha.tex) (./Prep/eng-pat-parisuddha.tex)
+(./Prep/pali-pat-parisuddha.tex [32]) (./Prep/eng-center-pat-nitthito.tex)
+(./Prep/pali-center-pat-nitthito.tex) (./Prep/eng-sk-intro.tex)
+(./Prep/pali-sk-intro.tex) (./Prep/eng-sk-01.tex) (./Prep/pali-sk-01.tex)
+(./Prep/eng-sk-02.tex) (./Prep/pali-sk-02.tex) (./Prep/eng-sk-03.tex)
+(./Prep/pali-sk-03.tex) (./Prep/eng-sk-04.tex) (./Prep/pali-sk-04.tex)
+(./Prep/eng-sk-05.tex) (./Prep/pali-sk-05.tex) (./Prep/eng-sk-06.tex)
+(./Prep/pali-sk-06.tex) (./Prep/eng-sk-07.tex) (./Prep/pali-sk-07.tex)
+(./Prep/eng-sk-08.tex) (./Prep/pali-sk-08.tex) (./Prep/eng-sk-09.tex)
+(./Prep/pali-sk-09.tex) (./Prep/eng-sk-10.tex) (./Prep/pali-sk-10.tex)
+(./Prep/eng-sk-11.tex) (./Prep/pali-sk-11.tex) (./Prep/eng-sk-12.tex)
+(./Prep/pali-sk-12.tex) (./Prep/eng-sk-13.tex) (./Prep/pali-sk-13.tex)
+(./Prep/eng-sk-14.tex) (./Prep/pali-sk-14.tex) (./Prep/eng-sk-15.tex)
+(./Prep/pali-sk-15.tex) (./Prep/eng-sk-16.tex) (./Prep/pali-sk-16.tex)
+(./Prep/eng-sk-17.tex) (./Prep/pali-sk-17.tex) (./Prep/eng-sk-18.tex)
+(./Prep/pali-sk-18.tex) (./Prep/eng-sk-19.tex) (./Prep/pali-sk-19.tex)
+(./Prep/eng-sk-20.tex) (./Prep/pali-sk-20.tex) (./Prep/eng-sk-21.tex)
+(./Prep/pali-sk-21.tex) (./Prep/eng-sk-22.tex) (./Prep/pali-sk-22.tex)
+(./Prep/eng-sk-23.tex) (./Prep/pali-sk-23.tex) (./Prep/eng-sk-24.tex)
+(./Prep/pali-sk-24.tex) (./Prep/eng-sk-25.tex [33]) (./Prep/pali-sk-25.tex)
+(./Prep/eng-sk-26.tex) (./Prep/pali-sk-26.tex)
+(./Prep/eng-center-sk-chabbisati.tex) (./Prep/pali-center-sk-chabbisati.tex)
+(./Prep/eng-sk-27.tex) (./Prep/pali-sk-27.tex) (./Prep/eng-sk-28.tex)
+(./Prep/pali-sk-28.tex) (./Prep/eng-sk-29.tex) (./Prep/pali-sk-29.tex)
+(./Prep/eng-sk-30.tex) (./Prep/pali-sk-30.tex) (./Prep/eng-sk-31.tex)
+(./Prep/pali-sk-31.tex) (./Prep/eng-sk-32.tex) (./Prep/pali-sk-32.tex)
+(./Prep/eng-sk-33.tex) (./Prep/pali-sk-33.tex) (./Prep/eng-sk-34.tex)
+(./Prep/pali-sk-34.tex) (./Prep/eng-sk-35.tex) (./Prep/pali-sk-35.tex)
+(./Prep/eng-sk-36.tex) (./Prep/pali-sk-36.tex) (./Prep/eng-sk-37.tex)
+(./Prep/pali-sk-37.tex) (./Prep/eng-sk-38.tex) (./Prep/pali-sk-38.tex)
+(./Prep/eng-sk-39.tex) (./Prep/pali-sk-39.tex) (./Prep/eng-sk-40.tex)
+(./Prep/pali-sk-40.tex) (./Prep/eng-sk-41.tex) (./Prep/pali-sk-41.tex)
+(./Prep/eng-sk-42.tex) (./Prep/pali-sk-42.tex) (./Prep/eng-sk-43.tex)
+(./Prep/pali-sk-43.tex) (./Prep/eng-sk-44.tex) (./Prep/pali-sk-44.tex)
+(./Prep/eng-sk-45.tex) (./Prep/pali-sk-45.tex) (./Prep/eng-sk-46.tex)
+(./Prep/pali-sk-46.tex) (./Prep/eng-sk-47.tex) (./Prep/pali-sk-47.tex)
+(./Prep/eng-sk-48.tex) (./Prep/pali-sk-48.tex) (./Prep/eng-sk-49.tex [34])
+(./Prep/pali-sk-49.tex) (./Prep/eng-sk-50.tex) (./Prep/pali-sk-50.tex)
+(./Prep/eng-sk-51.tex) (./Prep/pali-sk-51.tex) (./Prep/eng-sk-52.tex)
+(./Prep/pali-sk-52.tex) (./Prep/eng-sk-53.tex) (./Prep/pali-sk-53.tex)
+(./Prep/eng-sk-54.tex) (./Prep/pali-sk-54.tex) (./Prep/eng-sk-55.tex)
+(./Prep/pali-sk-55.tex) (./Prep/eng-sk-56.tex) (./Prep/pali-sk-56.tex)
+(./Prep/eng-center-sk-bhojana.tex) (./Prep/pali-center-sk-bhojana.tex)
+(./Prep/eng-sk-57.tex) (./Prep/pali-sk-57.tex) (./Prep/eng-sk-58.tex)
+(./Prep/pali-sk-58.tex) (./Prep/eng-sk-59.tex) (./Prep/pali-sk-59.tex)
+(./Prep/eng-sk-60.tex) (./Prep/pali-sk-60.tex) (./Prep/eng-sk-61.tex)
+(./Prep/pali-sk-61.tex) (./Prep/eng-sk-62.tex) (./Prep/pali-sk-62.tex)
+(./Prep/eng-sk-63.tex) (./Prep/pali-sk-63.tex) (./Prep/eng-sk-64.tex)
+(./Prep/pali-sk-64.tex) (./Prep/eng-sk-65.tex) (./Prep/pali-sk-65.tex)
+(./Prep/eng-sk-66.tex) (./Prep/pali-sk-66.tex) (./Prep/eng-sk-67.tex)
+(./Prep/pali-sk-67.tex) (./Prep/eng-sk-68.tex) (./Prep/pali-sk-68.tex)
+(./Prep/eng-sk-69.tex [35]) (./Prep/pali-sk-69.tex) (./Prep/eng-sk-70.tex)
+(./Prep/pali-sk-70.tex) (./Prep/eng-sk-71.tex) (./Prep/pali-sk-71.tex)
+(./Prep/eng-sk-72.tex) (./Prep/pali-sk-72.tex)
+(./Prep/eng-center-sk-dhammadesana.tex) (./Prep/pali-center-sk-dhammadesana.tex
+) (./Prep/eng-sk-73.tex) (./Prep/pali-sk-73.tex) (./Prep/eng-sk-74.tex)
+(./Prep/pali-sk-74.tex) (./Prep/eng-sk-75.tex) (./Prep/pali-sk-75.tex)
+(./Prep/eng-center-sk-pakinnaka.tex) (./Prep/pali-center-sk-pakinnaka.tex)
+(./Prep/eng-sk-uddittha.tex) (./Prep/pali-sk-uddittha.tex)
+(./Prep/eng-sk-parisuddha.tex) (./Prep/pali-sk-parisuddha.tex)
+(./Prep/eng-center-sk-nitthito.tex) (./Prep/pali-center-sk-nitthito.tex)
+(./Prep/eng-sat-intro.tex) (./Prep/pali-sat-intro.tex) (./Prep/eng-sat-main.tex
+) (./Prep/pali-sat-main.tex) (./Prep/eng-sat-01.tex) (./Prep/pali-sat-01.tex)
+(./Prep/eng-sat-02.tex) (./Prep/pali-sat-02.tex) (./Prep/eng-sat-03.tex)
+(./Prep/pali-sat-03.tex) (./Prep/eng-sat-04.tex [36]) (./Prep/pali-sat-04.tex)
+(./Prep/eng-sat-05.tex) (./Prep/pali-sat-05.tex) (./Prep/eng-sat-06.tex)
+(./Prep/pali-sat-06.tex) (./Prep/eng-sat-07.tex) (./Prep/pali-sat-07.tex)
+(./Prep/eng-sat-uddittha.tex) (./Prep/pali-sat-uddittha.tex)
+(./Prep/eng-sat-parisuddha.tex) (./Prep/pali-sat-parisuddha.tex)
+(./Prep/eng-center-sat-nitthito.tex) (./Prep/pali-center-sat-nitthito.tex)
+(./Prep/eng-nit-01.tex) (./Prep/pali-nit-01.tex) (./Prep/eng-nit-02.tex)
+(./Prep/pali-nit-02.tex) (./Prep/eng-nit-03.tex) (./Prep/pali-nit-03.tex)
+(./Prep/eng-nit-04.tex) (./Prep/pali-nit-04.tex) (./Prep/eng-nit-05.tex)
+(./Prep/pali-nit-05.tex) (./Prep/eng-nit-06.tex) (./Prep/pali-nit-06.tex)
+(./Prep/eng-nit-07.tex) (./Prep/pali-nit-07.tex) (./Prep/eng-nit-08.tex)
+(./Prep/pali-nit-08.tex) (./Prep/eng-nit-09.tex) (./Prep/pali-nit-09.tex)
+(./Prep/eng-nit-ettakantassa.tex) (./Prep/pali-nit-ettakantassa.tex)
+(./Prep/eng-center-nit-nitthito.tex) (./Prep/pali-center-nit-nitthito.tex)
+[37] (./Patimokkha2Draft0.4.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 3.25002pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 19642 strings out of 495161
+ 381343 string characters out of 6180838
+ 522055 words of memory out of 5000000
+ 20768 multiletter control sequences out of 15000+600000
+ 6793 words of font info for 63 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 40i,16n,69p,10376b,852s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Patimokkha2Draft0.4.pdf (37 pages).

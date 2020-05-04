@@ -1,0 +1,145 @@
+\documentclass[11pt]{article}
+\usepackage[margin=45pt,letter, landscape]{geometry}
+\usepackage{titlesec}
+\usepackage{paracol}
+\usepackage{expex}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fontspec}
+\setromanfont[BoldFont={Gentium Basic Bold},ItalicFont={Gentium Italic}]{Gentium}
+\setcolumnwidth{310pt/60pt,310pt}
+
+\sloppy
+\raggedright
+
+\newcommand{\vsp}{\vspace{2mm}}
+
+%defining colors for grammatical highlighting
+
+\newcommand{\NUL}[1]{\textcolor{Black}{#1}}
+%noun
+\newcommand{\NOM}[1]{\colorbox{pink}{#1}}
+\newcommand{\ACC}[1]{\colorbox{Blue!20}{#1}}
+\newcommand{\INS}[1]{\colorbox{yellow!20}{#1}}
+\newcommand{\DAT}[1]{\colorbox{SpringGreen!20}{#1}}
+\newcommand{\ABL}[1]{\colorbox{Orange!20}{#1}}
+\newcommand{\GEN}[1]{\colorbox{Turquoise!20}{#1}}
+\newcommand{\LOC}[1]{\colorbox{Purple!20}{#1}}
+\newcommand{\VOC}[1]{\colorbox{Red!20}{#1}}
+
+%verb
+\newcommand{\ABS}[1]{\fcolorbox{Blue}{white}{#1}}
+\newcommand{\OPT}[1]{\colorbox{green!30}{#1}}
+\newcommand{\PRSPTCP}[1]{\colorbox{Apricot!20}{#1}}
+\newcommand{\PRSIND}[1]{\colorbox{Melon!20}{#1}}
+
+
+%Misc
+\newcommand{\ADJ}[1]{\colorbox{Gray!20}{#1}}
+\newcommand{\INDE}[1]{\colorbox{Thisle!20}{#1}}
+
+%Glossing Definitions
+\lingset{glstyle=nlevel,%sets the compile method for ExPex to the nlevel style (alternates words with []) as opposed to the wrap style uses gla glb separted lines
+	glhangindent=10pt,% sets the indentation to the entire gloss after the first set of lines
+	glossbreaking=true, %Allows for Glosses to break across pages
+	glwordalign=left, %sets allignment on pairs of words, center is other option
+	glneveryline={,\footnotesize\it}, %sets the font attributes per line {gla,glb...}
+	glnabovelineskip={,-4pt}, %sets the space above the glossing {gla,glb,...}
+	extraglskip=-2pt} %sets additional space between each line of glossing
+
+
+
+\begin{document}
+
+\begin{paracol}{2}
+\begin{column}
+{\itshape\footnotesize
+Herein these four cases involving disqualification come up for recitation.
+}
+\switchcolumn
+
+\begin{flushleft}
+Tatr’ime cattāro pārājikā dhammā uddesaṁ āgacchanti.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+1. If any bhikkhu (who) has entered upon the training and livelihood for bhikkhus, not having rejected the training, not having disclosed (his) incapability, should engage in the act of sexual intercourse, even with just a female animal, he is disqualified, not in communion.
+}
+\switchcolumn
+
+\begin{flushleft}
+1. Yo pana bhikkhu bhikkhūnaṁ sikkhāsājīvasamāpanno, sikkhaṁ appaccakkhāya dubbalyaṁ anāvikatvā, methunaṁ dhammaṁ paṭiseveyya antamaso tiracchānagatāya’pi: pārājiko hoti asaṁvāso.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+2. If any bhikkhu should take (what has) not been given from a village or wilderness-area, which is reckoned as theft, (and) the taking of what has not been given (is) of the kind (that) on account of (it) kings, having caught the robber, would physically punish or imprison or banish (him, saying): “You are a robber! You are a fool! You are insane! You are a thief!,” a bhikkhu taking (what has) not been given of such a kind, is also disqualified, not in communion.
+}
+\switchcolumn
+
+\begin{flushleft}
+2. Yo pana bhikkhu gāmā vā araññā vā adinnaṁ theyyasaṅkhātaṁ ādiyeyya, yathārūpe adinnādāne rājāno coraṁ gahetvā, haneyyuṁ vā bandheyyuṁ vā pabbājeyyuṁ vā, “Coro’si bālo’si muḷho’si theno’sī” ti. Tathārūpaṁ bhikkhu adinnaṁ ādiyamāno: ayam’pi pārājiko hoti asaṁvāso.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+3. If any bhikkhu should deliberately deprive a human being of life, or should seek an assassin for him, or should praise the attractiveness of death, or should incite (him) to death (saying): “Dear man, what (use) is this bad, wretched life for you? Death is better than life for you!” should he, (having) such-thought-and- mind, (having such-) thought-and-intention, praise in manifold ways the beauty of death or incite (him) to death, he also is disqualified, not in communion.
+}
+\switchcolumn
+
+\begin{flushleft}
+3. Yo pana bhikkhu sañcicca manussaviggahaṁ jīvitā voropeyya, satthahārakaṁ vāssa pariyeseyya, maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya, “Ambho purisa kiṁ tuyh’iminā pāpakena dujjīvitena? Matante jīvitā seyyo” ti. Iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya: ayam’pi pārājiko hoti asaṁvāso.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+4. If any bhikkhu, (though) not directly knowing (it), should claim a superhuman state pertaining to himself, (a state of) knowing and seeing (that is) suitable for the noble (ones), (saying): “Thus I know! Thus I see!,” (and) then, on another occasion, (whether) being interrogated or not being interrogated, having committed (the offence), desiring purification, should say so: “(Although) not knowing (it,) I spoke thus (saying): `I know,’ not seeing (it, I spoke, saying:) `I see.’ I bluffed vainly (and) falsely,” except (when said) in overestimation, he also is disqualified, not in communion.
+}
+\switchcolumn
+
+\begin{flushleft}
+4. Yo pana bhikkhu anabhijānaṁ uttarimanussadhammaṁ attūpanāyikaṁ alamariyañāṇadassanaṁ samudācareyya: “Iti jānāmi, iti passāmī” ti. Tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā āpanno visuddh’āpekkho evaṁ vadeyya, “Ajānam evaṁ āvuso avacaṁ, ‘jānāmi,’ apassaṁ, ‘passāmi.’ Tucchaṁ musā vilapin” ti. Aññatra adhimānā: ayam’pi pārājiko hoti asaṁvāso.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+Venerables, the four cases involving disqualification have been recited, a bhikkhu who has committed any one of them, does not obtain the communion with bhikkhus. As (he was) before, so (he is) after (committing it): he is one who is disqualified, not in communion.
+}
+\switchcolumn
+
+\begin{flushleft}
+Uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā, yesaṁ bhikkhu aññataraṁ vā aññataraṁ vā āpajjitvā na labhati bhikkhūhi saddhiṁ saṁvāsaṁ, yathā pure, tathā pacchā, pārājiko hoti asaṁvāso.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+Concerning that I ask the Venerables: (Are you) pure in this?
+A second time again I ask: (Are you) pure in this?
+A third time again I ask: (Are you) pure in this?
+The venerables are pure in this, therefore there is silence, so do I bear this (in mind).
+}
+\switchcolumn
+
+\begin{flushleft}
+Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā?
+Dutiyam’pi pucchāmi: Kacci’ttha parisuddhā?
+Tatiyam’pi pucchāmi: Kacci’ttha parisuddhā?
+Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam’etaṁ dhārayāmi.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The recitation of the (cases involving) disqualification is finished
+}
+\switchcolumn
+
+\begin{flushleft}
+Pārājik’uddeso niṭṭhito
+\switchcolumn*
+\end{flushleft}
+
+
+\end{column}
+\end{paracol}
+
+\end{document}

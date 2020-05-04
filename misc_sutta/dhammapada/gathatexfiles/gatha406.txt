@@ -1,0 +1,120 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** aviruddhaj viruddhesu attadandesu nibbutaj ******
+           ****** sadanesu anadanaj tam ahaj brumi brahmanaj ******
+                            ****** (DhP 406) ******
+===============================================================================
+
+
+Sentence Translation:
+One who is unhindered amongst the obstructed, one who is free amongst violent,
+one who does not cling to anything amongst those who do - him do I call a
+Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+aviruddhaj viruddhesu atta+dandesu nibbutaj
+|                         |           |          |            |
+Adj.m.          Adj.m.    Adj.  Adj.m.   Adj.m.
+Acc.Sg.         Loc.Pl.      |     Loc.Pl.  Acc.Sg.
+|______________|          |______|            |
+             |                            |__________|
+             |_____________________|
+                                 |_____________________________________
+List of Abbreviations
+sadanesu anadanaj   tam      ahaj       brumi     brahmanaj
+|                      |           |             |              
+|                |
+Adj.m.       Adj.m.   Pron.m.   Pron.     V.act.in.       N.m.
+Loc.Pl.      Acc.Sg.  Acc.Sg.  Nom.Sg.  1.Sg.pres.   Acc.Sg.
+|____________|            |             |               |                |
+______|_____________|             |               |                |
+                       |______________|________|_________|
+                                                 |              |_____|
+                                                 |___________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+aviruddhaj: aviruddha-, Adj.: unobstructed, unhindered, free. It is the word
+viruddha- (see below) with the negative prefix a-. Acc.Sg.m. = aviruddhaj.
+viruddhesu: viruddha-, Adj.: hindered, obstructed, disturbed. It is a p.p. of
+the verb root rudh- (to obstruct) with the prefix vi- (denoting separation).
+Loc.Pl.m. = viruddhesu.
+attadandesu: attadanda-, Adj.: who has taken a stick in his hand, a violent
+person. It is a compound of:
+    atta-, Adj.: taken up. It is a p.p. of the verb root da- (to give) with the
+prefix a- (towards). The whole verb has the meaning "take".
+    danda-, N.m.: stick, club, punishment.
+Loc.Pl.m. = attadandesu.
+nibbutaj: nibbuta-, Adj.: emancipated, free, reached the Nirvana. It is a p.p.
+of the verb root va- (to blow) with the prefix ni- (off, out). Acc.Sg. =
+nibbutaj.
+List of Abbreviations
+sadanesu: sadana-, Adj.: clinging. It is the word adana-, N.n.: attachment,
+clinging (this word is derived from the verb da-, to give with the prefix a-,
+towards; the meaning of the verb is "to take, to grasp") with the prefix sa-
+(with). Loc.Pl.m. = sadanesu.
+anadanaj: anadana-, Adj.: free from clinging. It is the word adana- (see above)
+negated by the negative prefix an-. Acc.Sg.m. = anadanaj.
+tam: tad-, Pron.: it. Masculine form: so-, he. Acc.Sg. = tam (him).
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+brahmanaj: brahmana-, N.m.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+List of Abbreviations
+    The subject is the pronoun ahaj (I, nominative singular). The verb is brumi
+([I] say, 1st person, singular, active, indicative, present tense). The object
+is the noun brahmanaj (Brahmin, accusative singular). It has four attributes:
+    1) aviruddhaj (unhindered, accusative singular). It has an attribute, the
+adjective viruddhesu (amongst the obstructed, locative plural).
+    2) nibbutaj (free, accusative singular). It has an attribute, the adjective
+attadandesu (amongst violent, locative plural).
+    3) anadanaj (not clinging, accusative singular). It has an attribute, the
+adjective sadanesu (amongst clinging, locative plural).
+    4) the pronoun tam (him, accusative singular).
+===============================================================================
+
+
+Commentary:
+    A Brahmin couple once prepared to offer food to the Buddhist monks. The
+wife sent her husband to the monastery to invite some senior monks. But the
+Buddha sent four novices (who were also Arahants). The wife was unhappy, did
+not offer the novices neither seats nor food and sent her husband back. He met
+Venerable Sariputta and brought him to their house. When Sariputta saw the
+situation, he returned to the monastery. The same thing happened next time,
+when the Brahmin brought Venerable Moggallana with him.
+    Sakka, the king of the gods, then took a form of an old Brahmin and came to
+the house. Husband and wife paid their respects to him and offered him the seat
+of honor. Sakka refused and paid respects to the four novices. Then he revealed
+that he was Sakka and the novices were actually Arahants. The Brahmin couple
+fell very ashamed and immediately served the novices food.
+    When the Buddha heard about this, he spoke this verse, saying that Arahants
+are not angry toward those, who are hostile.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+aviruddhaj
+viruddhesu
+attadandesu
+atta
+dandesu
+nibbutaj
+sadanesu
+anadanaj
+tam
+ahaj
+brumi
+brahmanaj
+===============================================================================

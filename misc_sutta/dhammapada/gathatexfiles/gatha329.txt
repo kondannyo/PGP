@@ -1,0 +1,178 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                 ****** no ce labhetha nipakaj sahayaj ******
+                 ****** saddhijcaraj sadhuviharidhiraj ******
+                 ****** raja va ratthaj vijitaj pahaya ******
+                  ****** eko care matavgarabbe va nago ******
+                            ****** (DhP 329) ******
+===============================================================================
+
+
+Sentence Translation:
+If you do not find an intelligent companion,
+a fellow-traveler of pure actions and wise,
+like a king leaves behind the subdued kingdom,
+you should travel alone, just like an elephant in the elephant-grove.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+no      ce    labhetha nipakaj sahayaj
+|           |          |             |             |
+neg.  part.   V.act.    Adj.m.      N.m.
+|           |    2.Pl.opt. Acc.Sg.    Acc.Sg.
+|______|______|             |_______|
+     |___|                               |________________________________I.
+        |_______________________________|
+                                 |_____________________________________II.
+List of Abbreviations
+saddhij+caraj sadhu+vihari+dhiraj
+|                  |         |          |          |
+Adv.        N.m.  Adv.    Adj.   Adj.m.
+|             Acc.Sg.   |______|    Acc.Sg.
+|__________|              |_________|
+         |__________________|
+I._____________|
+II.________________________________________________________________
+List of Abbreviations
+raja         va    ratthaj  vijitaj  pahaya
+|                |          |            |           |
+N.m.      part.    N.n.     Adj.n.   V.ger.
+Nom.Sg.    |    Acc.Sg.  Acc.Sg.      |
+|                |          |_______|           |
+|                |                |__________|
+|_________|______________|
+                 |______|
+                       |_________________________________________
+________________________________|
+List of Abbreviations
+eko             care   matavga+arabbe   va     nago
+|                    |            |            |         |         |
+Adj.m.     V.act.      N.m.      N.n.   part.   N.m.
+Nom.Sg. 3.Sg.opt.      |       Loc.Sg.    |    Nom.Sg.
+|___________|            |_______|         |         |
+           |                            |_________|_____|
+           |                                     |____|
+           |_______________________|
+__________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+no, neg.: not.
+ce, part.: if.
+labhetha, V.: obtains, gets. The verb root is labh-. 2.Pl.act.opt. = labhetha.
+nipakaj: nipaka-, Adj.: intelligent, prudent, wise. Acc.Sg.m. = nipakaj.
+sahayaj: sahaya-, N.m.: companion, friend. Acc.Sg. = sahayaj.
+saddhijcaraj: saddhijcara-, N.m.: companion; fellow-traveler. It is a compound
+of:
+    saddhij, Adv.: together, with.
+    carant-, Adj.: wanderer, wandering. It is an a.pr.p. of the verb root car-
+(to move, to wander about). Compound form = cara-.
+Acc.Sg. = saddhijcaraj.
+List of Abbreviations
+sadhuviharidhiraj: sadhuviharidhira-, Adj.: who is wise and acts nobly. It is a
+compound of:
+    sadhu, Adv.: well, good.
+    viharin-, Adj.: acting, living. It is the word vihara-, N.m.: abode, stay,
+with the possessive suffix -in.
+    dhira-, Adj.: wise, clever. As. an N.m.: wise person.
+Acc.Sg.m. = sadhuviharidhiraj.
+raja: rajan-, N.m.: king. Nom.Sg. = raja.
+va, part.: as, like.
+ratthaj: rattha-, N.n.: country, kingdom. Acc.Sg. = ratthaj.
+vijitaj: vijita-, Adj.: conquered, subdued. It is a p.p. of the verb root ji-
+(to conquer, to win) with the strengthening prefix vi-. Acc.Sg.n. = vijitaj.
+List of Abbreviations
+pahaya, V.ger.: having abandoned. A ger. of the verb ha- (to leave, to give up)
+with the strengthening prefix pa-.
+eko: eka-, Num.: one. As an Adj.: alone. Nom.Sg.m. = eko.
+care, V.: should practice. The verb root is car- (to walk). 3.Sg.act.opt. =
+care.
+matavgarabbe: matavgarabba-, N.n.: elephant forest, elephant-grove. It is a
+compound of:
+    matavga-, N.m.: elephant.
+    arabba-, N.n.: forest.
+Euphonic combination: matavga- + arabba- = matavgarabba-.
+Loc.Sg. = matavgarabbe.
+va: see above.
+nago: naga-, N.m.: elephant. Nom.Sg. = nago.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) no ce labhetha nipakaj sahayaj saddhijcaraj sadhuviharidhiraj (if you do
+not find an intelligent companion, a fellow-traveler of pure actions and wise).
+The subject is omitted; the verb implies the second person plural pronoun. The
+verb is labhetha (should you get, 2nd person, plural, active, optative). It is
+negated by the negative particle no (not) and modified by the particle ce (if).
+There are two objects, the noun sahayaj (companion, accusative singular) with
+its attribute, the adjective nipakaj (intelligent, accusative singular) and the
+compound saddhijcaraj (fellow-traveler, accusative singular) with its
+attribute, the compound sadhuviharidhiraj (of good deeds and wise, accusative
+singular).
+    2) raja va ratthaj vijitaj pahaya eko care matavgarabbe va nago (like a
+king leaves behind the subdued kingdom, you should travel alone, just like an
+elephant in the elephant-grove). This can be further analysed into two
+sentences:
+    a) raja va ratthaj vijitaj pahaya (like a king leaves behind the subdued
+kingdom). The subject is the noun raja (king, nominative singular). The verb is
+in gerund, pahaya (having abandoned). The object is the noun ratthaj (country,
+accusative singular). It has an attribute, the past participle vijitaj
+(subdued, accusative singular). The particle va (as, like) connects this
+sentence to the following one.
+    b) eko care matavgarabbe va nago (you should travel alone, just like an
+elephant in the elephant-grove). This can be further analysed into the main
+sentence I) and the dependent clause II):
+    I) eko care (you should travel alone). The subject is the numeral/adjective
+eko (one, alone, nominative singular). The verb is care (should travel, 3rd
+person, singular, active, optative).
+    II) matavgarabbe va nago (just like an elephant in the elephant-grove). The
+subject is the noun nago (elephant, nominative singular). It has an attribute,
+the compound matavgarabbe (in the elephant-grove). The particle va (as, like)
+connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 328) and for the following verse (DhP 330).
+    If one does not find a good and worthy friend, it is better to be alone
+than to associate with bad people. Good friends are very important, because
+they can teach and guide us and set a good example worthy of following.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+no
+ce
+labhetha
+nipakaj
+sahayaj
+saddhijcaraj
+saddhij
+caraj
+sadhuviharidhiraj
+sadhu
+vihari
+dhiraj
+raja
+va
+ratthaj
+vijitaj
+pahaya
+eko
+care
+matavgarabbe
+matavga
+arabbe
+nago
+===============================================================================

@@ -1,0 +1,167 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** gahakaraka dittho'si puna gehaj na kahasi ******
+          ****** sabba te phasuka bhagga gahakutaj visavkhataj ******
+         ****** visavkharagataj cittaj tanhanaj khayam ajjhaga ******
+                            ****** (DhP 154) ******
+===============================================================================
+
+
+Sentence Translation:
+Oh, house-builder, you are seen! You will not build this house again!
+All your ribs are broken; the roof is destroyed.
+My mind is dissolute; I have attained the end of all cravings.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+gaha+karaka   dittho         asi      puna gehaj  na    kahasi
+|            |            |               |          |         |       
+|         |
+N.m.  N.m.    Adj.m.    V.act.in. Adv.   N.m.  neg.  V.act.
+|       Voc.Sg. Nom.Sg. 2.Sg.pres.   |    Acc.Sg.   |    2.Sg.fut.
+|_______|           |_________|         |         |         |_____|
+      |_______________|                 |_____|________|
+                                                             |____|
+List of Abbreviations
+sabba         te      phasuka  bhagga gaha+kutaj visavkhataj
+|                  |             |            |         |         |            
+|
+Adj.f.     Pron.m.    N.f.      Adj.f.  N.m.  N.n.       Adj.n.
+Nom.Pl. Gen.Sg. Nom.Pl. Nom.Pl.   |    Nom.Sg. Nom.Sg.
+|                  |_______|             |        |_____|              |
+|______________|                   |             |__________|
+            |__________________|
+List of Abbreviations
+visavkhara+gataj    cittaj   tanhanaj khayam  ajjhaga
+|                     |             |             |             |             |
+
+N.m.          Adj.n.      N.n.       N.f.        N.m.     V.act.
+|               Nom.Sg. Nom.Sg. Gen.Pl.    Acc.Sg. 1.Sg.aor.
+|____________|            |             |________|            |
+           |_____________|                    |___________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+gahakaraka: gahakaraka-, N.m.: house-builder, house-maker. It is a metaphor for
+thirst or craving that is the maker of the "house", or in other words of the
+living being. It is a compound of:
+    gaha-, N.m.: house.
+    karaka-, N.m.: doer, maker. It is derived from the verb kar-, to do.
+Voc.Sg. = gahakaraka.
+dittha-, Adj.: seen. It is a p.p. of the verb root dis- (to see). Nom.Sg.m. =
+dittho.
+asi, V.: [you] are. The verb root is as- (to be). 2.Sg.act.in.pres. = asi.
+Euphonic combination: dittho + asi = dittho'si.
+puna, Adv.: again.
+gehaj: geha-, N.m.: house (another spelling of gaha-, N.m.). Acc.Sg. = gehaj.
+na, neg.: not.
+List of Abbreviations
+kahasi, V.: [you] will do. The verb root is kar- (to do). 2.Sg.act.fut. =
+kahasi.
+sabba: sabba-, Adj.: all, every. Nom.Pl.f. = sabba.
+te: tvaj, Pron.: you. Gen.Sg. = te.
+phasuka: phasuka-, N.f.: rib. Nom.Pl. = phasuka.
+bhagga: bhagga-, Adj.: broken. It is a p.p. of the verb root bhabj- (to break).
+Nom.Pl.f. = bhagga.
+gahakutaj: gahakuta-, N.n.: top of the house, roof. It is a compound of:
+    gaha-, N.m.: house.
+    kuta-, N.n.: top, highest point, peak.
+Nom.Sg. = gahakutaj.
+visavkhataj: visavkhata-, Adj.: destroyed, annihilated. It is a p.p. of the
+verb root kar- (to do) with the prefixes sam- (together) and vi- (separation,
+dis-). Nom.Sg.n. = visavkhataj.
+List of Abbreviations
+visavkharagataj: visavkharagata-, Adj.: dissolute, annihilated. Lit. "gone into
+dissolution". It is a compound of:
+    visavkhara-, N.m.: dissolution, annihilation. It is a noun derived from the
+verb root kar- with the prefixes sam- and vi-. See above under visavkhataj.
+    gata-, Adj.: gone. It is a p.p. of the verb root gam- (to go).
+Nom.Sg.n. = visavkharagataj.
+cittaj: citta-, N.n.: mind. Nom.Sg. = cittaj.
+tanhanaj: tanha-, N.f.: thirst, craving. Gen.Pl. = tanhanaj.
+khayam: khaya-, N.m.: destruction, dissolution, end. Acc.Sg. = khayam.
+ajjhaga, V.: [I] attained, found, acquired. The verb root is gam- (to go) with
+the prefix adhi- (to, into). 1.Sg.act.aor. = ajjhaga.
+List of Abbreviations
+    This verse consists of six syntactically separate sentences. They are:
+    1) gahakaraka dittho'si (oh, house-builder, you are seen). The subject of
+this sentence is the compound gahakaraka (oh, house-builder, vocative
+singular). The verb is asi ([you] are, 2nd person, singular, active,
+indicative, present tense). It has an attribute, the past participle dittho
+(seen, nominative singular).
+    2) puna gehaj na kahasi (you will not build this house again). The subject
+is omitted; the verb implies the second person singular pronoun. The verb is
+kahasi ([you] will do, 2nd person, singular, active, future). It is negated by
+the negative particle na (not). It has an attribute, the adverb puna (again).
+The object is the noun gehaj (house, accusative singular).
+    3) sabba te phasuka bhagga (all your ribs are broken). The subject is the
+noun phasuka (ribs, nominative plural). It has two attributes, the pronoun te
+(your, genitive singular) and the adjective sabba (all, nominative plural). The
+object is the adjective bhagga (broken, nominative plural). The verb is
+omitted, implying the verb "to be".
+    4) gahakutaj visavkhataj (the roof is destroyed). The subject is the
+compound gahakutaj (roof, nominative singular). The verb "to be" is omitted.
+The object is the past participle visavkhataj (destroyed, nominative singular).
+
+    5) visavkharagataj cittaj (my mind is dissolute). The noun cittaj (mind,
+nominative singular) forms the subject of this sentence. The object is the
+compound visavkharagataj (dissolute, nominative singular). The verb "to be" is
+omitted.
+    6) tanhanaj khayam ajjhaga (I have attained the end of all cravings). The
+subject is omitted; the verb implies the first person singular pronoun. The
+verb is ajjhaga ([I] have attained, 1st person, singular, active, aorist). The
+object is the noun khayam (end, accusative singular) with its attribute, the
+noun tanhanaj (of cravings, genitive plural).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the story for the preceding one
+(DhP 153). It forms a part of the first utterance of the new Buddha (The
+Awakened One) just after he reached the Awakenment. He addressed the "builder"
+of his personality, the cravings. He finally understood that the craving is the
+main factor in the repeated rebirth. He destroyed "the ribs" or body of the
+craving and also "the roof of the house" or the reason for the round of
+repeated existence. His mind became dissolute, or in other words, he has
+reached the Nirvana. He has attained the end of all cravings and thus the end
+of the round of rebirth.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+gahakaraka
+gaha
+karaka
+dittho
+asi
+puna
+gehaj
+na
+kahasi
+sabba
+te
+phasuka
+bhagga
+gahakutaj
+kutaj
+visavkhataj
+visavkharagataj
+visavkhara
+gataj
+cittaj
+tanhanaj
+khayam
+ajjhaga
+===============================================================================

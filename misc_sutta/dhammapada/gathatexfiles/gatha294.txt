@@ -1,0 +1,121 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** mataraj pitaraj hantva rajano dve ca khattiye ******
+          ****** ratthaj sanucaraj hantva anigho yati brahmano ******
+                            ****** (DhP 294) ******
+===============================================================================
+
+
+Sentence Translation:
+Having killed mother, father and two warrior kings,
+having killed the whole country with its followers, undisturbed walks the holy
+man.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+mataraj pitaraj hantva rajano    dve       ca    khattiye
+|                  |           |          |           |           |          |
+N.f.         N.m.    V.ger.  N.m.   Num.m.  conj.   N.m.
+Acc.Sg.  Acc.Sg.      |     Acc.Pl.  Acc.Pl.     |     Acc.Pl.
+|__________|           |          |______|           |           |
+         |                     |                |_________|______|
+         |                     |                         |____|
+         |____________|________________|
+                    |______|
+                          |__________________________________________________
+List of Abbreviations
+ratthaj sanucaraj hantva anigho      yati     brahmano
+|                   |             |          |              |             |
+N.n.        Adj.n.     V.ger.   Adj.m.   V.act.in.    N.m.
+Acc.Sg.  Acc.Sg.         |     Nom.Sg. 3.Sg.pres. Nom.Sg.
+|___________|            |          |________|             |
+           |____________|                  |___________|
+_____________|                                       |
+          |_____________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+mataraj: matar-, N.f.: mother. Acc.Sg. = mataraj.
+pitaraj pitar-, N.m.: father. Acc.Sg. = pitaraj.
+hantva, V.ger.: having killed. The verb root is han-.
+rajano: rajan-, N.m.: king. Acc.Pl. = rajano.
+dve: dvi-, Num.: two. Acc.Pl.m. = dve.
+ca, conj.: and.
+khattiye: khattiya-, N.m.: Kshatriya, warior, ruler; the member of the
+Kshatriya clan.
+Acc.Pl. = khattiye.
+List of Abbreviations
+ratthaj: rattha-, N.n.: country, kingdom. Acc.Sg. = ratthaj.
+sanucaraj: sanucara-, Adj.: together with followers. It is derived from the
+verb anucara-, N.m. (follower; it is derived form the verb root car-, to walk,
+with the prefix anu-, along, with) with the prefix sa- (with, together).
+Euphonic combination: sa- + anucara- = sanucara-. Acc.Sg.n. = sanucaraj.
+hantva: see above.
+anigho: anigha-, Adj.: undisturbed, calm. The etymology of this word is
+doubtful. Probably it is derived from the verb root igh- (to tremble, to rage)
+with the negative prefix an-. Nom.Sg.m. = anigho.
+yati, V.: goes, pursues. The verb root is ya- (to go). 3.Sg.in.act.pres. =
+yati.
+brahmano: brahmana-, N.m.: Brahmin, a holy man. Nom.Sg. = brahmano.
+List of Abbreviations
+    The subject is the noun brahmano (holy man, nominative singular). The verb
+is yati (goes, 3rd person, singular, active, indicative, present tense). The
+object is the adjective anigho (undisturbed, nominative singular). There are
+two clauses dependent on this main sentence:
+    1) mataraj pitaraj hantva rajano dve ca khattiye (having killed mother,
+father and two warrior kings). The subject is omitted, implying the subject of
+the main sentence, the noun brahmano. The verb is in gerund, hantva (having
+killed). There are three objects, the nouns mataraj (mother, accusative
+singular), pitaraj (father, accusative singular) and rajano (kings, accusative
+plural). This last word has two attributes, the noun khattiye (warrior,
+accusative plural) and the numeral dve (two, accusative plural). The
+conjunction ca (and) connects the last object to the two preceding ones.
+    2) ratthaj sanucaraj hantva (having killed the whole country with its
+followers). The subject is omitted, implying the subject of the main sentence,
+the noun brahmano. The verb is in gerund, hantva (having killed). The object is
+the noun ratthaj (country, accusative singular). It has an attribute, the
+adjective sanucaraj (with followers, accusative singular).
+===============================================================================
+
+
+Commentary:
+    Once a group of monks visited the Buddha. While they were paying their
+respects, the monk Lakuntaka Bhaddiya, who was an Arahant, passed by. The
+Buddha told the monks this verse (and the following one, DhP 295). He told the
+monks to look at Lakuntaka Bhaddiya: he was a monk who has killed his parents,
+and kings, indeed the whole country; and yet he was walking calmly, without
+remorse.
+    The monks could not understand what the Buddha was talking about! Surely
+this Arahant had killed nobody! Then the Buddha had to explain: "mother" means
+craving, "father" is conceit, "two warrior kings" are views of eternalism and
+nihilism, "the country" are sense-organs and sense-objects and the "followers"
+are attachment and lust.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+mataraj
+pitaraj
+hantva
+rajano
+dve
+ca
+khattiye
+ratthaj
+sanucaraj
+anigho
+yati
+brahmano
+===============================================================================

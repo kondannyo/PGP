@@ -1,0 +1,173 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                   ****** vacanurakkhi manasa sajvuto ******
+                  ****** kayena ca akusalaj na kayira ******
+                  ****** ete tayo kammapathe visodhaye ******
+                  ****** aradhaye maggam isippaveditaj ******
+                            ****** (DhP 281) ******
+===============================================================================
+
+
+Sentence Translation:
+One should guard one's speech and restrain one's mind.
+One should not do any evil bodily deed.
+One should purify these three ways of acting.
+One should attain the path declared by the Buddha.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+vaca+anurakkhi manasa  sajvuto
+|               |              |            |
+N.f.     Adj.m.      N.n.     Adj.m.
+|         Nom.Sg.   Ins.Sg.  Nom.Sg.
+|________|               |_______|
+List of Abbreviations
+kayena   ca   akusalaj na     kayira
+|              |           |         |           |
+N.m.    conj.    N.n.    neg.    V.act.
+Ins.Sg.     |     Acc.Sg.    |     3.Sg.opt.
+|________|______|         |______|
+               |     |___________|
+               |________|
+List of Abbreviations
+ete           tayo   kamma+pathe   visodhaye
+|                  |           |          |             |
+Pron.m. Num.m.  N.n.    N.m.      V.act.
+Acc.Pl.   Acc.Pl.      |     Acc.Pl.   3.Sg.opt.
+|                  |           |______|             |
+|                  |_________|                   |
+|_______________|                           |
+             |_______________________|
+List of Abbreviations
+aradhaye maggam  isi+ppaveditaj
+|                   |          |          |
+V.act.        N.m.   N.m.  Adj.m.
+3.Sg.opt.  Acc.Sg.    |     Acc.Sg.
+|                   |          |______|
+|                   |_________|
+|_______________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+vacanurakkhi: vacanurakkhin-, Adj.: guarding one's speech. It is a compound of:
+
+    vaca-, N.f.: speech (derived from the verb root vac-, to speak).
+    anurakkhin-, Adj.: guarding, protecting. It is derived from the verb root
+rakkh- (to protect) with the prefix anu- (along) and the possessive suffix -in.
+
+Euphonic combination: vaca- + anurakkhin- = vacanurakkhin-.
+Nom.Sg.m. = vacanurakkhi.
+manasa: manas-, N.n.: mind. Inst.Sg. = manasa.
+sajvuto: sajvuta-, Adj.: restrained, governed, guarded. It is a p.p. of the
+verb var- (to obstruct) with the prefix saj- (together, completely). Nom.Sg.m.
+= sajvuto.
+kayena: kaya-, N.m.: body. Here as "bodily action". Ins.Sg. = kayena.
+ca, conj.: and.
+List of Abbreviations
+akusalaj: akusala-, Adj.: improper, wrong, bad. As an N.n.: demerit, evil deed.
+It is the word kusala- (Adj.: good, right, meritorious; as an N.n.: meritorious
+deed, good deed, merit) negated by the negative prefix a-. Acc.Sg. = akusalaj.
+na, neg.: not.
+kayira, V.: would do. The verb is root kar- (to do). 3.Sg.act.opt. = kayira.
+ete: etad-, Pron.: this. Acc.Pl.m. = ete.
+tayo: ti-, Num.: three. Acc.Pl.m. = tayo.
+kammapathe: kammapatha-, N.m.: the way of acting. It is a compound of:
+    kamma-, N.n.: deed, action. Derived from the verb kar- (to do).
+    patha-, N.m.: road, path.
+Acc.Pl. = kammapathe.
+List of Abbreviations
+visodhaye, V.: should clean, should purify. The verb root is sudh- (to be
+clean) with the prefix vi- (intensifying sense). 3.Sg.act.caus.opt. =
+visodhaye.
+aradhaye, V.: should attain, accomplish, fulfill. The verb root is radh- (to
+succeed) with the prefix a- (to, at). 3.Sg.act.opt. = aradhaye.
+maggam: magga-, N.m.: way, road, path. Acc.Sg. = maggam.
+isippaveditaj: isippavedita-, Adj.: declared by the Buddha. It is a compound
+of:
+    isi-, N.m.: seer, the Buddha.
+    pavedita-, Adj.: declared, made known, taught. It is a p.p. of the verb
+pavedati (to make known).
+Euphonic combination: isi- + pavedita- = isippavedita-.
+Acc.Sg.m. = isippaveditaj.
+List of Abbreviations
+    This verse consists of five separate sentences. They are:
+    1) vacanurakkhi (one should guard one's speech). The object is the compound
+vacanurakkhi (guarding one's speech, nominative singular).
+    2) manasa sajvuto (one should restrain one's mind). The object is the past
+participle sajvuto (restrained, nominative singular). It has an attribute, the
+noun manasa (by mind, instrumental singular).
+    3)kayena ca akusalaj na kayira (one should not do any evil bodily deed).
+The subject is omitted, the verb implying the third person singular pronoun.
+The verb is kayira (should do, 3rd person, singular, active, optative). It is
+negated by the negative particle na (not). The object is the noun akusalaj
+(evil deed, accusative singular). It has an attribute, the noun kayena (by the
+body, instrumental singular). The conjunction ca (and) connects this sentence
+to the previous ones.
+    4) ete tayo kammapathe visodhaye (one should purify these three ways of
+acting). The subject is omitted, the verb implying the third person singular
+pronoun. The verb is visodhaye (one should purify, 3rd person, singular,
+active, optative). The object is the compound kammapathe (ways of acting,
+accusative plural). It has two attributes, the pronoun ete (these, accusative
+plural) and the numeral tayo (three, accusative singular).
+    5) aradhaye maggam isippaveditaj (one should attain the path declared by
+the Buddha). The subject is omitted, the verb implying the third person
+singular pronoun. The verb is aradhaye (one should attain, 3rd person,
+singular, active, optative). The object is the noun maggam (path, accusative
+singular). It has an attribute, the compound isippaveditaj (declared by the
+Buddha, accusative singular).
+===============================================================================
+
+
+Commentary:
+    Venerable Moggallana once went on an alms-round with Venerable Lakkhana.
+Suddenly Moggallana smiled, because he saw a hungry ghost (peta) with the head
+of a pig and a human body. Later Lakkhana asked Moggallana why he smiled.
+Moggallana told him about the peta.
+    The Buddha overheard that and told them that he himself saw the same peta.
+He then related the peta's story. Once he was a famous monk who was very good
+at expounding the Dharma. Once he came to a monastery, where two friend monks
+stayed. After a while he realized that he liked the place very much. There was
+plenty of good food and the lay followers liked his way of expounding the
+Dharma. So he decided to make the two monks go away and keep the place just for
+himself. He set one friend against the other. They quarreled and left away.
+    Because of this the monk suffered for a long time. He had to be born as a
+hungry ghost. The Buddha finished his story by this verse, saying that we
+should always guard our actions bodily, verbal and mental.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+vacanurakkhi
+vaca
+anurakkhi
+manasa
+sajvuto
+kayena
+ca
+akusalaj
+na
+kayira
+ete
+tayo
+kammapathe
+kamma
+pathe
+visodhaye
+aradhaye
+maggaj
+isippaveditaj
+isi
+paveditaj
+===============================================================================

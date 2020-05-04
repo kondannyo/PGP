@@ -1,0 +1,184 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+               ****** vitatanho anadano niruttipadakovido ******
+           ****** akkharanaj sannipataj jabba pubbaparani ca ******
+       ****** sa ve antimasariro mahapabbo mahapuriso ti vuccati ******
+                            ****** (DhP 352) ******
+===============================================================================
+
+
+Sentence Translation:
+If one who is without thirst, free of attachments and skilled in the language
+of the scriptures
+should know the arrangement of the texts in the right sequence,
+he then is known as a great person of great wisdom, living his last life.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+vita+tanho    anadano nirutti+pada+kovido
+|           |             |           |         |          |
+Adj. Adj.m.   Adj.m.    N.f.   N.n.   Adj.m.
+|     Nom.Sg. Nom.Sg.     |_____|    Nom.Sg.
+|______|             |                 |________|
+      |__________|______________|
+                                      |______________________________________
+List of Abbreviations
+akkharanaj sannipataj jabba    pubba+aparani  ca
+|                         |              |            |           |        |
+N.n.                N.m.       V.act.    Adj.    Adj.n. conj.
+Gen.Pl.          Acc.Sg.   3.Sg.opt.     |     Acc.Pl.    |
+|______________|              |            |______|         |
+             |_______________|__________|              |
+                                         |       |______________|
+                                         |____________|
+______________________________|
+|__________________________________________________
+List of Abbreviations
+sa           ve  antima+sariro maha+pabbo maha+puriso       ti    vuccati
+|               |        |          |         |          |         |        
+|            |          |
+Pron.m. part.  Adj.   Adj.m. Adj. Adj.m.  Adj.   Adj.m.   part.  V.pas.in.
+Nom.Sg.   |        |    Nom.Sg.   |  Nom.Sg.    |    Nom.Sg.     |   
+3.Sg.pres.
+|________|         |_____|          |_____|         |_____|           
+|           |
+       |                      |___________|___________|              
+|           |
+       |                                                    
+|______________|           |
+       |                                                                  
+|_____________|
+       |____________________________________________|
+__________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+vitatanho: vitatanha-, Adj.: without thirst. Lit. "with the thirst gone". It is
+a compound of:
+    vita-, Adj.: gone. It is a p.p. of the verb i- (to go) with the prefix vi-
+(away).
+    tanha-, N.f.: thirst, craving.
+Nom.Sg.m. = vitatanho.
+anadano: anadana-, Adj.: free from attachment. It is the word adana-, N.n.:
+attachment, clinging (this word is derived from the verb da-, to give with the
+prefix a-, towards; the meaning of the verb is "to take, to grasp") negated by
+the negative prefix an-. Nom.Sg.m. = anadano.
+niruttipadakovido: niruttipadakovida-, Adj.: skilled in the language of the
+scriptures. It is a compound of:
+    nirutti-, N.f.: grammar, etymology, pronunciation.
+    pada-, N.n.: saying, word, verse.
+    kovida-, Adj.: knowing, possessing the "know-how". It is derived from the
+word ku, Adv. (how) and the verb root vid- (to know).
+Nom.Sg.m. = niruttipadakovido.
+List of Abbreviations
+akkharanaj: akkhara-, N.n.: sound, tone, word. Gen.Pl. = akkharanaj.
+sannipataj: sannipata-, N.m. union, assemblage, collocation. It is derived from
+the verb root pat- (to fall) with the prefixes sam- (together) and ni- (down).
+Acc.Sg. = sannipataj.
+jabba, V.: should know. The verb root is ba- (to know). 3.Sg.act.opt. = jabba.
+pubbaparani: pubbapara-, Adj.: in the right order, what precedes and what
+follows (with regard to successive order of words in the Scriptures). It is a
+compound of:
+    pubba-, Adj.: previous, former.
+    apara-, Adj.: following, next, another.
+Euphonic combination: pubba- + apara- = pubbapara-.
+Acc.Pl.n. = pubbaparani.
+List of Abbreviations
+ca, conj.: and.
+sa: tad-, Pron.n.: it. Nom.Sg.m. = sa (the more usual form is so).
+ve, part.: indeed.
+antimasariro: antimasarira-, Adj.: living his last life, having a last body. It
+is a compound of:
+    antima-, Adj.: last, final.
+    sarira-, N.n.: body, here: life.
+Nom.Sg.m. = antimasariro.
+List of Abbreviations
+mahapabbo: mahapabba-, Adj.: with great wisdom. It is a compound of:
+    mahant-, Adj.: big, great. The compound form is maha-.
+    pabba-, N.f.: wisdom
+Nom.Sg.m. = mahapabbo.
+mahapuriso: mahapurisa-, N.m.: a great person, hero. It is a compound of:
+    mahant-, Adj.: see above.
+    purisa-, N.m.: person.
+Nom.Sg. = mahapuriso.
+ti, part.: a particle, symbolizing the end of direct speech. In English this is
+expressed by quotation marks. Sometimes it is written as iti.
+vuccati, V,: is called. It is a passive form of the verb root vac- (to say).
+3.Sg.pas.in.pres. = vuccati.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) vitatanho anadano niruttipadakovido akkharanaj sannipataj jabba
+pubbaparani ca (if one who is without thirst, free of attachments and skilled
+in the language of the scriptures should know the arrangement of the texts in
+the right sequence). There are three subjects, the adjectives vitatanho
+(without thirst, nominative singular), anadano (free of attachments, nominative
+singular) and niruttipadakovido (skilled in the language of the scriptures,
+nominative singular). The verb is jabba (should know, 3rd person, singular,
+active, optative). There are two objects, the noun sannipataj (arrangement,
+accusative singular) with its attribute, the noun akkharanaj (of words,
+genitive plural) and the adjective compound pubbaparani (in the right order,
+accusative plural). They are connected by the conjunction ca (and).
+    2) sa ve antimasariro mahapabbo mahapuriso ti vuccati (he then is known as
+a great person of great wisdom, living his last life). The subject is the
+pronoun sa (he, nominative singular). It is stressed by the particle ve
+(indeed). The verb is vuccati (is called, 3rd person, singular, passive,
+indicative, present tense). There are three objects, the compounds antimasariro
+(living his last life, nominative singular), mahapabbo (of great wisdom,
+nominative singular) and mahapuriso (great person, nominative singular). The
+particle ti (marks the direct speech) connects them to the verb.
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 351).
+    At the time of the Buddha, the sacred texts of various religions were not
+supposed to be written down. It was considered a kind of sacrilege to do that.
+Writing was reserved only for worldly matters. Therefore it was crucial that
+the texts were always remembered correctly and without alteration, in order to
+protect the true words of the teacher without his disciples changing the
+meaning.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+vitatanho
+vita
+tanho
+anadano
+niruttipadakovido
+nirutti
+pada
+kovido
+akkharanaj
+sannipataj
+jabba
+pubbaparani
+pubba
+aparani
+ca
+sa
+ve
+antimasariro
+antima
+sariro
+mahapabbo
+maha
+pabbo
+mahapuriso
+puriso
+ti
+vuccati
+===============================================================================

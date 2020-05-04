@@ -1,0 +1,116 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** hitva ratij ca aratij ca sitibhutaj nirupadhij ******
+         ****** sabbalokabhibhuj viraj tam ahaj brumi brahmanaj ******
+                            ****** (DhP 418) ******
+===============================================================================
+
+
+Sentence Translation:
+Who has renounced liking and dislike, tranquil and free from attachments,
+The hero, who has conquered the whole world - him do I call a Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+hitva    ratij     ca    aratij   ca     siti+bhutaj nirupadhij
+|              |          |         |         |        |         |             
+|
+V.ger.   N.f.    conj.   N.f.    conj. Adj.  Adj.m.     Adj.m.
+|         Acc.Sg.    |    Acc.Sg.    |        |   Acc.Sg.     Acc.Sg.
+|              |_____|          |_____|        |_____|              |
+|                   |___________|                  |                  |
+|________________|                             |                  |
+              |_________________________|__________|__________________
+List of Abbreviations
+sabba+loka+abhibhuj viraj     tam      ahaj       brumi  brahmanaj
+|            |            |            |           |             |             
+|             |
+Adj.   N.m.   Adj.m.     N.m.   Pron.m.   Pron.    V.act.in.    N.m.
+|_______|      Acc.Sg.  Acc.Sg. Acc.Sg. Nom.Sg. 1.Sg.pres. Acc.Sg.
+       |__________|            |           |             |             
+|             |
+_________|____________|           |             |              |             |
+                            |____________|_______|________|_______|
+                                                               |     |_____|
+                                                               |______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+hitva, V.ger.: having renounced, having left behind. It is a ger. of the verb
+ha- (to abandon, to leave).
+ratij: rati-, N.f.: liking, joy, pleasure. Acc.Sg. = ratij.
+ca, conj.: and.
+aratij: arati-, N.f.: dislike, aversion. It is the word rati-, N.f. (see above)
+negated by the negative particle a-. Acc.Sg. = aratij.
+sitibhutaj: sitibhuta-, Adj.: tranquil, calm. It is a compound of:
+    sita-, Adj.: cool, cold. The compound form: siti-.
+    bhuta-, Adj.: being, having become. It is a p.p. of the verb bhu- (to be).
+    Acc.Sg.m. = sitibhutaj.
+nirupadhij: nirupadhi-, Adj.: free from attachments. It is the word upadhi-,
+N.m. (attachment, clinging) with the prefix nir- (without). The verse form:
+nirupadhi-. Acc.Sg.m. = nirupadhij.
+List of Abbreviations
+sabbalokabhibhuj: sabbalokabhibhu-, Adj.: who has conquered the whole world. It
+is a compound of:
+    sabba-, Adj.: all.
+    loka-, N.m.: world.
+    abhibhu-, Adj.: overcoming, conquering. It is derived from the verb root
+bhu- (to be) with the prefix abhi- (over).
+Acc.Sg.m. = sabbalokabhibhuj.
+viraj: vira-, N.m.: hero. Acc.Sg. = viraj.
+tam: tad-, Pron.: it. Masculine form: so-, he. Acc.Sg. = tam (him).
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+brahmanaj: brahmana-, N.m.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+List of Abbreviations
+    The subject of this sentence is the pronoun ahaj (I, nominative singular).
+The verb is brumi ([I] say, 1st person, singular, active, indicative, present
+tense). The object is the noun brahmanaj (Brahmin, accusative singular). It has
+several attributes: the pronoun tam (him, accusative singular), the compound
+sabbalokabhibhuj (who has conquered the whole world, accusative singular), the
+noun viraj (hero, accusative singular), the adjectives sitibhutaj (tranquil,
+accusative singular) and nirupadhij (free from attachments, accusative
+singular). There is also a dependent clause, hitva ratij ca aratij ca (who has
+renounced liking and dislike). The verb is in gerund, hitva (having renounced).
+There are two objects, ratij (liking, accusative singular) and aratij (dislike,
+accusative singular). They are connected by two conjunctions ca (and).
+===============================================================================
+
+
+Commentary:
+    The story for this verse as identical to the story for the previous one.
+See DhP 417.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+hitva
+ratij
+ca
+aratij
+sitibhutaj
+siti
+bhutaj
+nirupadhij
+sabbalokabhibhuj
+sabba
+loka
+abhibhuj
+viraj
+tam
+ahaj
+brumi
+brahmanaj
+===============================================================================

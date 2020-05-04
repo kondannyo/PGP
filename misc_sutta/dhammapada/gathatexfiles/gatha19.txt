@@ -1,0 +1,157 @@
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+   ****** bahum pi ce saṃhitaṃ bhāsamāno na takkaro hoti naro pamatto ******
+     ****** gopo va gāvo gaṇayaṃ paresaṃ na bhāgavā sāmaññassa hoti ******
+                            ****** (DhP 19) ******
+===============================================================================
+
+Translation:
+Even if he recites a lot of scriptures, but does not act accordingly, the
+negligent man.
+He is like a cowherd who counts others' cows. He does not share the [blessings
+of] monkshood.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+bahum  pi     ce saṃhitaṃ bhāsamāno na   tak+karo       hoti        naro       
+pamatto
+|            |        |       |               |            |       |      
+|            |              |               |
+Adj.m. part. part. N.m.      Adj.m.     neg. Pron. N.m.  V.act.in.    
+N.m.      Adj.m.
+Acc.Sg.  |       |  Acc.Sg.    Nom.Sg.      |      |  Nom.Sg. 3.Sg.pres.
+Nom.Sg. Nom.Sg.
+|            |        |       |________|             |      |____|           
+|              |_________|
+|_______|____|________|                    
+|_____|_________|                       |
+       |___|        |                                            
+|___|                                  |
+          |______|                                               
+|                                     |
+               
+|______________________________|____________________|____________
+List of Abbreviations
+gopo       va     gāvo gaṇayaṃ  paresaṃ  na   bhāgavā sāmaññassa   hoti
+|               |         |           |              |        |          
+|              |               |
+N.m.      part.  N.m.   Adj.m.    Adj.m.  neg.  Adj.m.       N.n.     
+V.act.in.
+Nom.Sg.   |   Acc.Pl. Nom.Sg.  Gen.Pl.   |     Nom.Sg.  Gen.Sg.   3.Sg.pres.
+|               |         |______|              |       
+|______|________|________|
+|               |               |___________|                  
+|________|        |
+|________|______________|                                     |_________|
+      
+|____|                                                                        |
+
+______|__________________________________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+bahum: bahu-, Adj.: much, many, a lot. Acc.Sg.m. = bahum.
+pi, part.: also, as well, even (often spelled api).
+ce, part.: if.
+saṃhitaṃ: saṃhita-, Adj.: connected, joined, settled. A p.p. of the verb dhā-
+(put) with the prefix saṃ- (together). As a N.m. = the Buddhist texts. Acc.Sg.
+= saṃhitaṃ.
+bhāsamāno: bhāsamāna-, Adj.: speaking. It is a med.pr.p. of the verb bhās- (to
+speak). Nom.Sg.m. = bhāsamāno.
+List of Abbreviations
+na, neg.: not.
+takkaro: takkara-, N.m.: acting accordingly (lit. "doer of that"). A compound
+of:
+   tat-, Pron.n.: that.
+    kara-, N.m.: doer. Derived from the verb kar- (to do).
+The form takkarais due to the euphonic combination (tat + kara = takkara).
+Nom.Sg. = takkaro.
+hoti, V.: is. The verb bhū- (to be). 3.Sg.act.in.pres. = hoti.
+naro: nara-, N.m.: man, person. Nom.Sg. = naro.
+List of Abbreviations
+pamatto: pamatta-, Adj.: negligent, careless. A p.p. of the verb pamajjati (to
+be careless, to neglect). The verb root is mad- (to be intoxicated) with the
+strengthening prefix pa-. Nom.Sg.m. = pamatto.
+gopo: gopa-, N.m.: cowherd. Nom.Sg. = gopo.
+va, part.: as. like.
+gāvo: go-, N.m.: cow. Acc.Pl. = gāvo.
+gaṇayaṃ: gaṇayant-, Adj.: counting. It is an a.pr.p. of the verb gaṇ- (to
+count).
+Nom.Sg.m. = gaṇayaṃ.
+List of Abbreviations
+paresaṃ: para-, Adj.: other, different. Gen.Pl.m. = paresaṃ (of others).
+bhāgavā: bhāgavant-, Adj.m.: partaking of, having a share. The word bhāga-,
+N.m.: share, with a possessive suffix vant-. Nom.Sg. = bhāgavā.
+sāmaññassa: sāmañña-, N.n.: monkshood. An abstract from samaṇa-, N.m.: monk,
+recluse. Gen.Sg. = sāmaññassa.
+List of Abbreviations  
+    The first segment of this sentence is bahum pi ce saṃhitaṃ bhāsamāno (even
+if [he] recites a lot of scriptures). The subject of this sentence is omitted,
+implying a personal pronoun (which comes in the last clause). The verb is
+bhāsamāno (which is the medium present participle in nominative singular). The
+object is the word saṃhitaṃ(scripture, accusative singular) with its attribute
+bahum (a lot, accusative singular). There are two particles pi(even) and ce
+(if).
+    Next comes the clause na takkaro hoti(he is not a "doer-of-that"). Here the
+subject is the noun takkaro ("doer-of-that", nominative singular) and the verb
+is hoti(is, 3rd person, singular, active, indicative, present tense) negated by
+the negative particlena(not).
+    The last clause on the first line is naro pamatto(negligent man). We can
+take this phrase as a separate clause (as we do here). In this case it is a
+isolated subject naro (man, nominative singular) with its attribute pamatto
+(negligent, nominative singular). We could also understand it as the subject of
+the whole sentence.
+    On the second line we have two more clauses. The first one is gopo va gāvo
+gaṇayaṃ paresaṃ (like a cowherd, counting others' cows). The subject is gopo
+(cowherd, nominative singular) and as the verb serves the active present
+participle gaṇayaṃ(counting, nominative singular). The object is the word gāvo
+(cows, accusative plural) with its attribute paresaṃ (others', genitive
+plural). The particle va (like) connects this clause to the main sentence.
+    Last part is the sentence na bhāgavā sāmaññassa hoti ([he] is not a sharer
+of the monkshood). As the subject is again implied the pronoun he, meaning the
+"negligent man" from the first line. The verb is hoti(is, 3rd person, singular,
+active, indicative, present tense) negated by the negative particle na (not).
+The object is the word bhāgavā (sharer, "shareholder", nominative singular)
+with its attribute sāmaññassa (of monkshood, genitive singular).
+===============================================================================
+
+Commentary:
+    The teacher must act according to his own words. A monk, who talks nice,
+true words, but his acts are not in accordance with them, does not really share
+the blessings of monk's life. He is like a hireling, doing work for others.
+    A cowherd is poor, he usually does not have his own cows, and he just takes
+others' cows out to the pasture. He does not have a real profit out of his
+actions. In the same sense, the monk who only talks about the Buddha's
+teachings, but does not put them into practice himself, does not reap the fruit
+thereof, is just like the cowherd. Thus he neglects his own practice and as we
+will soon hear in coming verses, the negligence is not a good path to take.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+bahum
+pi
+ce
+saṃhitaṃ
+bhāsamāno
+na
+takkaro
+hoti
+naro
+pamatto
+gopo
+va
+gāvo
+gaṇayaṃ
+paresaṃ
+bhāgavā
+sāmaññassa
+===============================================================================

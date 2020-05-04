@@ -1,0 +1,93 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** cakkhuna sajvaro sadhu sadhu sotena sajvaro ******
+           ****** ghanena sajvaro sadhu sadhu jivhaya sajvaro ******
+                            ****** (DhP 360) ******
+===============================================================================
+
+
+Sentence Translation:
+Restraint over the eye is good. Good is restraint over the ear.
+Restraint over the nose is good. Good is restraint over the tongue.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+cakkhuna sajvaro sadhu sadhu sotena sajvaro
+|                    |           |         |         |            |
+N.n.           N.m.     Adv.  Adv.   N.n.      N.m.
+Ins.Sg.     Nom.Sg.    |         |     Ins.Sg.  Nom.Sg.
+|___________|           |         |         |_______|
+          |____________|         |_________|
+List of Abbreviations
+ghanena sajvaro sadhu sadhu jivhaya sajvaro
+|                  |           |        |          |             |
+N.n.         N.m.    Adv.  Adv.    N.f.       N.m.
+Ins.Sg.   Nom.Sg.    |        |       Ins.Sg. Nom.Sg.
+|__________|           |        |          |_______|
+        |____________|        |_________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+cakkhuna: cakkhu-, N.n.: eye. Ins.Sg. = cakkhuna.
+sajvaro: sajvara-, N.m.: restraint. It is derived from the verb root var- (to
+cover) with the prefix saj- (together). Nom.Sg. = sajvaro.
+sadhu, Adv.: well, good.
+sotena: sota-, N.n.: ear. Ins.Sg. = sotena.
+sajvaro: see above.
+List of Abbreviations
+ghanena: ghana-, N.n.: nose. Ins.Sg. = ghanena.
+sajvaro: see above.
+sadhu: see above.
+jivhaya: jivha-, N.f.: tongue. Ins.Sg. = jivhaya.
+sajvaro: see above.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) cakkhuna sajvaro sadhu (restraint over the eye is good). The subject is
+the noun sajvaro (restraint, nominative singular). It has an attribute, the
+noun cakkhuna (by eye, instrumental singular). The verb is omitted, implying
+the verb "to be". The object is the adverb sadhu (good, well).
+    2) sadhu sotena sajvaro (good is restraint over the ear). The subject is
+the noun sajvaro (restraint, nominative singular). It has an attribute, the
+noun sotena (by ear, instrumental singular). The verb is omitted, implying the
+verb "to be". The object is the adverb sadhu (good, well).
+    3) ghanena sajvaro sadhu (restraint over the nose is good). The subject is
+the noun sajvaro (restraint, nominative singular). It has an attribute, the
+noun ghanena (by nose, instrumental singular). The verb is omitted, implying
+the verb "to be". The object is the adverb sadhu (good, well).
+    4) sadhu jivhaya sajvaro (good is restraint over the tongue). The subject
+is the noun sajvaro (restraint, nominative singular). It has an attribute, the
+noun jivhaya (by tongue, instrumental singular). The verb is omitted, implying
+the verb "to be". The object is the adverb sadhu (good, well).
+===============================================================================
+
+
+Commentary:
+    In Savatthi there were five monks who practiced restraint over just one of
+the senses. All of them claimed that they alone practiced the most important
+and difficult type of restraint. They quarreled for a long time and could not
+agree. Finally they went to ask the Buddha, who answered them with this verse
+(and the following one, DhP 361), saying that one must control all senses in
+order to reach the Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+cakkhuna
+sajvaro
+sadhu
+sotena
+ghanena
+jivhaya
+===============================================================================

@@ -1,0 +1,105 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** yaj ce vibbu pasajsanti anuvicca suve suve ******
+           ****** acchiddavuttij medhavij pabbasilasamahitaj ******
+                            ****** (DhP 229) ******
+===============================================================================
+
+
+Sentence Translation:
+Whom the wise ones praise, having examined him thoroughly day after day,
+one with faultless conduct, intelligent, endowed with wisdom and virtue,
+[continued in DhP 230]
+===============================================================================
+
+Sentence Structure:
+List of Abbreviations
+yaj               ce    vibbu pasajsanti anuvicca suve suve
+|                      |         |             |              |         
+|       |
+Rel.Pron.m.  part.   N.m.    V.act.in.   V.ger.   Adv. Adv.
+Acc.Sg.           |    Nom.Pl. 3.Pl.pres.       |          |____|
+|____________|         |             |               |________|
+           |                    |             |____________|
+           |___________|_____________|___________________________________
+                               |            |______|
+                               |__________|
+List of Abbreviations
+acchidda+vuttij   medhavij pabba+sila+samahitaj
+|                  |              |             |         |           |
+Adj.        Adj.m.     N.m.       N.f.    N.m.  Adj.m.
+|             Acc.Sg.   Acc.Sg.        |_____|     Acc.Sg.
+|__________|              |                  |_________|
+______|____________|_______________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yaj: yat-, Rel.Pron.: that, which. Acc.Sg.m.: yaj.
+ce, part.: if. Here used instead of the conjunction ca (and).
+vibbu: vibbu-, Adj.: intelligent. As a N.m.: intelligent person. Nom.Pl. =
+vibbu.
+pasajsanti, V.: to praise, to commend. The verb root is sajs- (to proclaim, to
+point out) with the strenghtening prefix pa-. 3.Pl.act.in.pres. = pasajsanti.
+anuvicca, V.ger.: having examined thoroughly, having known well. The verb root
+is vid- (to know) with the prefix anu- (along).
+suve, Adv.: tomorrow. When doubled (as here): day after day.
+List of Abbreviations
+acchiddavuttij: acchiddavutti-, Adj.: having faultless conduct. It is the word
+chiddavutti-, Adj. (with wrong conduct), negated by the negative prefix a-.
+This word is a compound of:
+    chidda-, Adj.: having faults, faulty, defective.
+    vutti-, N.f.: conduct, acting, livelihood.
+Acc.Sg.m. = acchiddavuttij.
+medhavij: medhavin-, N.m.: intelligent person, wise one. Acc.Sg. = medhavij.
+pabbasilasamahitaj: pabbasilasamahita-, Adj.: endowed with wisdom and virtue.
+It is a compound of:
+    pabba-, N.f.: wisdom.
+    sila-, N.n.: virtue.
+    samahita-, Adj.: having attained, endowed with. It is a p.p. of the verb
+dha-, to put, with the prefixes saj-, together and a-, towards.
+Acc.Sg.m. = pabbasilasamahitaj.
+List of Abbreviations
+    The subject of this sentence is the noun vibbu (wise ones, nominative
+plural). The verb is pasajsanti (praise, 3rd person, plural, active,
+indicative, present tense). It has an attribute, the gerund anuvicca (having
+examined) with its attribute, the phrase consisting of two adverbs suve (every
+day). The main object is the relative adverb yaj (whom, accusative singular).
+It has three attributes, the adjective compounds acchiddavuttij (one with
+faultless conduct, accusative singular), medhavij (intelligent, accusative
+singular) and pabbasilasamahitaj (endowed with wisdom and virtue, accusative
+singular). The particle ce (if; here only in place of the conjunction ca, and)
+serves mainly for metrical purposes.
+===============================================================================
+
+Commentary:
+    The story for this verse is identical with the one for the previous verses
+(DhP 227, DhP 228) and the following verse (DhP 230).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yaj
+ce
+vibbu
+pasajsanti
+anuvicca
+suve
+acchiddavuttij
+chidda
+vuttij
+medhavij
+pabbasilasamahitaj
+pabba
+sila
+samahitaj
+===============================================================================

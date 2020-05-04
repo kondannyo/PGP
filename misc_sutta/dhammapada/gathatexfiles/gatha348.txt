@@ -1,0 +1,174 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                    ****** mubca pure mubca pacchato ******
+                  ****** majjhe mubca bhavassa paragu ******
+                     ****** sabbattha vimuttamanaso ******
+                   ****** na punaj jatijaraj upehisi ******
+                            ****** (DhP 348) ******
+===============================================================================
+
+
+Sentence Translation:
+Let go of the past, let go of the future.
+Let go of the present. When you cross over to the other shore of existence,
+and your mind will be completely free,
+you will never again come to birth and aging.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+mubca      pure     mubca pacchato
+|                  |            |            |
+V.act.       Adv.    V.act.     Adv.
+2.Sg.imp.     |     2.Sg.imp.      |
+|__________|            |_______|
+List of Abbreviations
+majjhe    mubca  bhavassa para+gu
+|                  |             |          |      |
+Adj.        V.act.      N.m.   N.n. N.m.
+Loc.Sg. 2.Sg.imp. Gen.Sg.    |  Nom.Sg.
+|__________|             |          |____|
+                                |________|
+                                        |_____________________________
+List of Abbreviations
+sabbattha vimutta+manaso
+|                   |            |
+Adv.         Adj.     Adj.m.
+|                   |      Nom.Sg.
+|                   |______|
+|______________|
+_______|
+      |________________________________________________
+List of Abbreviations
+na    punaj jati+jaraj   upehisi
+|           |        |        |            |
+neg.  Adv.   N.f.  N.f.     V.act.
+|           |        |   Acc.Sg. 2.Sg.fut.
+|           |        |____|             |
+|______|_______|_________|
+     |___|             |
+        |_________|
+_________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+mubca, V.: let go, abandon, give up, leave behind. The verb root is muc-, to
+free.
+2.Sg.act.imp. = mubca.
+pure, Adv.: before, formerly.
+mubca: see above.
+pacchato, Adv.: afterwards, after, later.
+majjhe: majjha-, Adj.: middle. Here: present (in the middle between the past
+and the future).
+Loc.Sg. = majjhe.
+mubca: see above.
+List of Abbreviations
+bhavassa: bhava-, N.m.: becoming, existence. It is derived from the verb root
+bhu- (to be).
+Gen.Sg. = bhavassa.
+paragu: paragu-, N.m.: gone to the other shore, crossed over, gone beyond. It
+is a compound of:
+    para-, N.n.: the opposite shore, the other side.
+    gu-, suf.: going, having gone. It is derived from the verb root gam- (to
+go).
+Nom.Sg. = paragu.
+sabbattha, Adv.: everywhere, in every place.
+vimuttamanaso: vimuttamanasa-, Adj.: with an emancipated mind. It is a compound
+of:
+    vimutta-, Adj.: emancipated, freed, released. It is a p.p. of the verb root
+muc- (to release) with the prefix vi- (separation).
+    manasa-, N.n.: belonging to the mind, intention, purpose, mind, mental
+action, heart. It is derived from the word manas-, N.n.: mind.
+Nom.Sg.m. = vimuttamanaso.
+List of Abbreviations
+na, neg.: not.
+punaj, Adv.: again.
+jatijaraj: jatijara-, N.f.: birth and old age. It is a compound of:
+    jati-, N.f.: birth, rebirth.
+    jara-, N.f.: old age.
+Acc.Sg. = jatijaraj.
+upehisi: [you will] come to, approach. The verb root is i- (to go) with the
+prefix upa- (near).
+2.Sg.act.fut. = upehisi.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) mubca pure (let go of the past). The subject is omitted; the verb
+implies the second person singular pronoun. The verb is mubca (let go, 2nd
+person, singular, active, imperative). The object is the adverb pure (before).
+    2) mubca pacchato (let go of the future). The subject is omitted; the verb
+implies the second person singular pronoun. The verb is mubca (let go, 2nd
+person, singular, active, imperative). The object is the adverb pacchato
+(after).
+    3) majjhe mubca (let go of the present). The subject is omitted; the verb
+implies the second person singular pronoun. The verb is mubca (let go, 2nd
+person, singular, active, imperative). The object is the adjective majjhe (in
+the middle, locative singular).
+    4) bhavassa paragu sabbattha vimuttamanaso na punaj jatijaraj upehisi (when
+you cross over to the other shore of existence, and your mind will be
+completely free, you will never again come to birth and aging). There are two
+subjects, the noun paragu (crossed over to the other shore, nominative
+singular) with its attribute, the noun bhavassa (of existence, genitive
+singular) and the compound vimuttamanaso (with an emancipated mind, nominative
+singular) with its attribute, the adverb sabbatha (everywhere). The verb is
+upehisi ([you] will approach, 2nd person, singular, active, future). It is
+negated by the negative particle na (not). The verb has an attribute, the
+adverb punaj (again). The object is the compound jatijaraj (to birth and aging,
+accusative singular).
+===============================================================================
+
+
+Commentary:
+    Once a group of wandering acrobats came to Rajagaha. A young man named
+Uggasena fell in love with a beautiful dancer from the troupe. He married her
+and joined the group. But since he was not an acrobat, he could only help carry
+boxes, drive carts and perform similar tasks.
+    The girl gave birth to a son later but she often scolded her husband for
+not being able to do anything better. Uggasena therefore learned the secrets of
+acrobatics and became a very skilful acrobat himself.
+    One day the group returned to Rajagaha. Uggasena was eager to perform as he
+expected to be applauded for his skills. Just as he was performing, the Buddha
+passed near the place and all the attention of the crowd was drawn to him.
+Uggasena just sat there feeling very depressed. The Buddha told him this verse
+and Uggasena reached the Awakenment there and then. He became a monk
+immediately.
+    Later the Buddha told Uggasena's story. A long time ago, during the times
+of the Buddha Kassapa, Uggasena gave almsfood to a monk and made a wish that he
+could reach Arahantship one day. The monk was an Arahant and looked into the
+future and smiled, because he was able to see that his wish would be fulfilled.
+Uggasena misunderstood the monk's smile and thought the monk was laughing at
+him. Therefore he became angry. Because of that he had to travel with a group
+of acrobats for some time before reaching his goal.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+mubca
+pure
+pacchato
+majjhe
+bhavassa
+paragu
+para
+gu
+sabbattha
+vimuttamanaso
+vimutta
+manaso
+na
+punaj
+jatijaraj
+jati
+jaraj
+upehisi
+===============================================================================

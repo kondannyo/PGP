@@ -1,0 +1,133 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** ekaj dhammaj atitassa musavadissa jantuno ******
+            ****** vitinnaparalokassa natthi papaj akariyaj ******
+                            ****** (DhP 176) ******
+===============================================================================
+
+
+Sentence Translation:
+For the person, who has transgressed the one law (of truthfulness) and is
+speaking falsely,
+and has rejected the other world, there is no evil that could not be done.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+ekaj  dhammaj atitassa musa+vadissa  jantuno
+|                |              |          |          |            |
+Num.m.  N.m.     Adj.m.  Adv.  Adj.m.    N.m.
+Acc.Sg. Acc.Sg.  Gen.Sg.     |    Gen.Sg.  Gen.Sg.
+|_________|              |          |_____|             |
+       |_____________|               |                  |
+                   |_______________|__________|______________________
+                                                         |____|
+List of Abbreviations
+vitinna+para+lokassa na        atthi      papaj  akariyaj
+|              |         |        |            |             |             |
+Adj.     Adj.    N.m.  neg.   V.act.in.    N.n.      Adj.n.
+|              |    Gen.Sg.  |     3.Sg.pres. Nom.Sg. Nom.Sg.
+|              |_____|        |_______|             |_______|
+|___________|                  |_______________|
+_____|                                           |
+     |__________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+ekaj: eka-, Num.: one. Acc.Sg.m. = ekaj.
+dhammaj: dhamma-, N.m.: here not as the Dharma (Buddha's Teaching), but rather
+in its more general meaning: law. Acc.Sg. = dhammaj.
+atitassa: atita-, Adj.: overstepped, transgressed. It is a p.p. of the verb
+root i- (to go) with the prefix ati- (over). Gen.Sg.m. = atitassa.
+musavadissa: musavadin-, Adj.: lying, speaking falsely. It is a compound of:
+    musa, Adv.: falsely, wrongly.
+    vadin-, Adj.: speaking. It is derived from the verb root vad- (to speak)
+with the possessive suffix -in.
+Gen.Sg.m. = musavadissa.
+jantuno: jantu-, N.m.: being, person, man. Gen.Sg. = jantuno.
+List of Abbreviations
+vitinnaparalokassa: vitinnaparaloka-, Adj.: who has rejected the other world.
+It is a compound of:
+    vitinna-, Adj.: abandoned, rejected. It is a p.p. of the verb root tar- (to
+cross) with the prefix vi- (over).
+    para-, Adj.: different, other.
+    loka-, N.m.: world.
+Gen.Sg.m. = vitinnaparalokassa.
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = natthi.
+papaj: papa-, Adj.: evil, wrong. Nom.Sg.n. = papaj.
+akariyaj: akariya-, Adj.: what could not be done. It is the word kariya-,
+V.grd.: what could be done, with the negative prefix a-. Nom.Sg.n. = akariyaj.
+List of Abbreviations
+    The subject of this sentence is the noun papaj (evil, nominative singular)
+with its attribute, the adjective akariyaj (that could not be done, nominative
+singular). The verb atthi (is, 3rd person, singular, active, indicative,
+present tense) is negated by the negative particle na (not). The object is the
+noun jantuno (for the person, genitive singular). It has three attributes.
+First of them is the compound vitinnaparalokassa (for the one, who has rejected
+the other world, genitive singular). The second one is the compound musavadissa
+(for the one, who has rejected the other world, genitive singular). The last
+one is the past participle atitassa (for the one, who has transgressed,
+genitive singular). It has an attribute, the word dhammaj (law, accusative
+singular) and this word has the numeral ekaj (one, accusative singular) as an
+attribute.
+===============================================================================
+
+
+Commentary:
+    The Buddha did not have only admirers and devotees. Some other teachers
+hated him for being so famous and for taking many disciples away from them. One
+such teacher instigated a beautiful young girl, a pupil of his, to ruin the
+Buddha's fame.
+    The girl, named Cibca Manavika, would go towards the Jetavana monastery in
+the evening and return early in the morning, claiming she spent the night with
+the Buddha. After several months of this behavior, she started wrapping cloth
+around her stomach. She added more and more cloth to create an impression she
+was pregnant. Finally she went to the monastery to confront the Buddha. She
+accused him of making her pregnant and not caring about her. The Buddha told
+her not to lie, but she would just repeat her statements.
+    Just then Sakka, the king of gods, sent some rats to bit off the strings of
+the cloth the girl had wrapped around her body. It fell off and her deceit was
+uncovered. People started to reprimand her and she ran away in shame. Later she
+died due to an accident.
+    The next day some monks were discussing this story and the Buddha replied
+them with this verse, saying that lying is the first step towards all kinds of
+evil deeds.
+    He also told them, that Cibca Manavika was a king's consort in one of her
+previous lives. She fell in love with a crown prince, but the young man did not
+respond to her love. She harmed herself and accused the prince of making
+advances to her and when she refused, he harmed her. The king was very angry
+and exiled his son immediately. Later he found out the truth and punished the
+evil woman.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+ekaj
+dhammaj
+atitassa
+musavadissa
+musa
+vadissa
+jantuno
+vitinnaparalokassa
+vitinna
+para
+lokassa
+na
+atthi
+papaj
+akariyaj
+===============================================================================

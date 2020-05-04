@@ -1,0 +1,103 @@
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+          ****** yathā agāraṃ ducchannaṃ vuṭṭhi samativijjhati ******
+            ****** evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati ******
+                            ****** (DhP 13) ******
+===============================================================================
+
+Translation:
+As a poorly covered house is penetrated by a rain,
+thus an undeveloped mind is penetrated by passion.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+yathā       agāraṃ du+cchannaṃ vuṭṭhi   samativijjhati
+|                   |        |          |            |               |
+Rel.Adv.    N.n.   pref.  Adj.n.     N.f.       V.act.in.
+|              Acc.Sg.  |     Acc.Sg.  Nom.Sg.  3.Sg.pres.
+|                   |        |_____|             |________|
+|                   |_______|                          |
+|                          |__________________|
+|_______________________|
+                  |___________________________________________________
+List of Abbreviations
+evaṃ   a+bhāvitaṃ   cittaṃ       rāgo   samativijjhati
+|           |         |             |             |                |
+Adv.  neg.   Adj.n.     N.n.       N.m.      V.act.in.
+|           |     Acc.Sg.  Acc.Sg.  Nom.Sg.  3.Sg.pres.
+|           |_____|             |             |_________|
+|                |__________|                     |
+|                         |_________________|
+|______________________|
+___________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+yathā, Rel.Adv.: as, just like.
+agāraṃ: agāra-, N.n.: house, home. Ac.Sg. = agāraṃ.
+ducchannaṃ: ducchanna-, Adj.: badly covered. It is a p.p. of the verb chad-
+(channa) with the prefix du- (bad). Acc.Sg.n. = ducchannaṃ.
+vuṭṭhi: vuṭṭhi-, N.f.: rain. Nom.Sg. = vuṭṭhi.
+samativijjhati, V.: to penetrate. The verb vidh- (to pierce, to perforate) with
+prefixes sam- (altogether) and ati- (above, extremely). 3.Sg.act.in.pres. =
+samativijjhati.
+List of Abbreviations
+evaṃ, Adv.: thus
+abhāvitaṃ: abhāvita-, Adj.: undeveloped. It is a p.p. of the verb bhāveti (to
+develop, to meditate) with the negative prefix a-. Acc.Sg.n. = abhāvitaṃ.
+cittaṃ: citta-, N.n.: mind. Acc.Sg. = cittaṃ.
+rāgo:rāga-, N.m.: passion. Nom.Sg. = rāgo.
+samativijjhati, V.: see above
+List of Abbreviations
+    Two lines of this verse form two sentences, which are both parts of one
+compound sentence.
+    First one is yathā agāraṃ ducchannaṃ vuṭṭhi samativijjhati (as a poorly
+covered house is penetrated by a rain). Here the subject is vuṭṭhi(rain,
+nominative singular). The verb is samativijjhati (penetrates, 3rd person
+singular, active, indicative, present tense). The object is agāraṃ (the house,
+accusative singular). This word has one attribute ducchannaṃ (poorly covered,
+accusative singular, it agrees with the main object). The relative clause yathā
+(like, as) connects this sentence to the following one (in a pattern yathā... -
+evaṃ...).
+    The second part is evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati (thus an
+undeveloped mind is penetrated by passion). The subject is rāgo (passion,
+nominative singular). The verb is samativijjhati (penetrates, 3rd person
+singular, active, indicative, present tense). The object is cittaṃ (the mind,
+accusative singular). This word has one attribute --abhāvitaṃ(undeveloped,
+accusative singular, it agrees with the main object). The adverb evaṃ (thus)
+connects this sentence to the previous one.
+===============================================================================
+
+Commentary:
+    A roof is the most important part of any house. If the roof is not well
+done, if we try to "cheat" and use cheap material of poor quality, we can be
+surprised when a strong rain comes. The roof will not be able to hold off the
+water and it will leak. Everything inside the house then becomes wet instantly
+- and after the rain we can start building again.
+    In the same way, the mind is the most important part of the human being. If
+it is not "well developed", if we have not practiced meditation earnestly, it
+will also "leak". The passions, hatred and other stuff will enter our mind and
+make it difficult for us to purify our minds. After one such "rain" we can
+start "rebuilding" our mind again.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yathā
+agāraṃ
+ducchannaṃ
+vuṭṭhi
+samativijjhati
+evaṃ
+abhāvitaṃ
+cittaṃ
+rāgo
+===============================================================================

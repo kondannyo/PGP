@@ -1,0 +1,116 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+           ****** mā pamādam anuyuñjetha mā kāmaratisanthavaṃ ******
+          ****** appamatto hi jhāyanto pappoti vipulaṃ sukhaṃ ******
+                            ****** (DhP 27) ******
+===============================================================================
+
+Translation:
+Don't pursue negligence or intimacy with pleasure delights.
+Conscientious practitioner of meditation obtains abundant happiness.
+ 
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+mā pamādam anuyuñjetha mā    kāma+rati+santhavaṃ
+|            |                |            |         |        |            |
+neg.    N.m.        V.act.      neg.   N.m  N.f.       N.n.
+|       Acc.Sg.     2.Pl.imp.     |         |____|        Acc.Sg.
+|            |                |            |             |_________|
+|            |_________|_______|___________|
+|________________|_______|
+List of Abbreviations
+a+ppamatto   hi      jhāyanto    pappoti     vipulaṃ    sukhaṃ
+|         |           |             |               |              
+|              |
+neg. Adj.m.  part.    Adj.m.     V.act.in.      Adj.n.      N.n.
+|      Non.Sg.   |      Nom.Sg.   3.Sg.pres.   Acc.Sg.   Acc.Sg.
+|_____|           |             |               |               |________|
+    |_________|_______|                |____________|
+                |_________________________|
+ 
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+mā, neg.: not, do not. Used with verbs in imperative instead of the more usual
+negative particle na.
+pamādam: pamāda-, N.m.: negligence. Acc.Sg. = pamādam.
+anuyuñjetha, V.: to practice, to give oneself up to, to pursue. The verb yuñj-
+(to join, to unite) with the prefix anu- (along, at, to). 2.Pl.act.imp. =
+anuyuñjetha.
+kāmaratisanthavaṃ: kāmaratisanthava-, N.n.: intimacy with delighting in
+pleasures.
+    kāmarati-, delighting in pleasures. A compound of:
+        kāma-, N.m.: pleasure, enjoyment, sense-desire.
+        rati-, N.f.: love, attachment, liking for.
+    santhava-, N.n.: acquaintance, intimacy.
+Acc.Sg. = kāmaratisanthavaṃ.
+List of Abbreviations
+appamatto: appamatta-, Adj.: conscientious, non-negligent. A negated (by the
+negative prefix a-) word pamatta-, Adj.: negligent. It is a p.p. of the verb
+mad- (to be intoxicated) with the strengthening prefix pa- (thus pamajjati = to
+be careless, to neglect).
+Doubled p is due to the euphonic combination (a+ pamatta = appamatta).
+Nom.Sg.m. = appamatto.
+hi, part.: indeed.
+jhāyanto: jhāyant-, Adj.m.: meditating, practicing meditation. It is an a.pr.p.
+of the verb root jhe- (to meditate). Nom.Sg. = jhāyanto.
+List of Abbreviations
+pappoti, V.: to obtain, to attain, to get. It is the contracted form of the
+verb pāpuṇāti, the verb root āp- (to get), with the strengthening prefix pa-.
+3.Sg.act.in.pres. = pappoti.
+vipulaṃ: vipula-, Adj.: large, great, abundant. Acc.Sg.n. = vipulaṃ.
+sukhaṃ: sukha-, N.n.: happiness, ease, well-being. Acc.Sg. = sukhaṃ.
+List of Abbreviations
+ 
+    The subject in the first sentence is omitted (since it is the personal
+pronoun "you", it is not necessary). The verb is anuyuñjetha (pursue, 2nd
+person, plural, active, imperative) with two negative particles mā(don't).
+There are two objects pamādaṃ (negligence, accusative singular) and
+kāmaratisanthavaṃ (intimacy with pleasure delights, accusative singular).
+    In the second sentence, the subject is jhāyanto (meditating one, nominative
+singular) with its attribute appamato (conscientious, nominative singular). The
+verb is pappoti (obtains, 3rd person, singular, active, indicative, present
+tense). The object is sukhaṃ (happiness, accusative singular) with its
+attribute, the adjective vipulaṃ (abundant, accusative singular). There is a
+particlehi(indeed) in this sentence, mainly for metrical purposes.
+===============================================================================
+
+Commentary:
+    The story for this verse is the same as for the previous one (see DhP 26).
+    Whereas the foolish and ignorant ones indulge in negligence and sense-
+pleasures, as the young men did during the festival in Sāvatthī, those, who are
+wise, treasure the conscientiousness like a jewel. If they practice the
+meditation diligently, with perseverance, never becoming negligent, they will
+at the end definitely reach the "abundant happiness" - which is of course only
+another term for the Awakenment and the Nirvana.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+mā
+pamādam
+anuyuñjetha
+kāmaratisanthavaṃ
+kāma
+rati
+santhavaṃ
+appamatto
+hi
+jhāyanto
+pappoti
+vipulaṃ
+sukhaṃ
+===============================================================================

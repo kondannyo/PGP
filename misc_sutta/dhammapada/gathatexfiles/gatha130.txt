@@ -1,0 +1,115 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** sabbe tasanti dandassa sabbesaj jivitaj piyaj ******
+           ****** attanaj upamaj katva na haneyya na ghataye ******
+                            ****** (DhP 130) ******
+===============================================================================
+
+
+Sentence Translation:
+Everybody trembles at punishment; life is dear to everybody.
+Having made the comparison with oneself, let one not kill, nor cause another to
+kill.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sabbe       tasanti  dandassa sabbesaj  jivitaj    piyaj
+|                   |             |             |              |             |
+Adj.m.    V.act.in.    N.m.     Adj.m.      N.n.      Adj.n.
+Nom.Pl. 3.Pl.pres. Gen.Sg.   Gen.Pl.   Nom.Sg. Nom.Sg.
+|                   |_______|             |________|             |
+|______________|                            |___________|
+List of Abbreviations
+attanaj upamaj katva  na   haneyya  na     ghataye
+|                 |           |        |          |         |            |
+N.m.        N.f.    V.ger. neg.   V.act.   neg.  V.act.caus.
+Acc.Sg.  Acc.Sg.     |        |    3.Sg.opt.   |      3.Sg.opt.
+|_________|            |        |_____|           |______|
+         |___________|             |____________|
+                   |___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sabbe: sabba-, Adj.: all, every. Nom.Pl.m. = sabbe.
+tasanti, V.: tremble, shake, have fear. The verb root is tas-.
+3.Pl.act.in.pres. = tasanti.
+dandassa: danda-, N.m.: stick, club, punishment. Gen.Sg. = dandassa.
+sabbesaj: sabba-, Adj.: all, every. Gen.Pl.m. = sabbesaj.
+jivitaj: jivita-, N.n.: life. It is derived from the verb root jiv- (to live).
+Nom.Sg. = jivitaj.
+piyaj: piya-, Adj.: dear, beloved, pleasant. Nom.Sg.n. = piyaj.
+attanaj: attan-, N.m.: self, oneself. Acc.Sg. = attanaj.
+List of Abbreviations
+upamaj: upama-, N.f.: comparison, example. Acc.Sg. = upamaj.
+katva, V.ger.: having done. The verb root is kar- (to do).
+na, neg.: not.
+haneyya, V.: should kill. The verb root is han-. 3.Sg.ac.opt. = haneyya.
+na, neg.: not.
+ghataye, V.: should cause to kill. It is a causative from the root han- (to
+strike, to beat). 3.Sg.act.caus.opt. = ghataye.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) sabbe tasanti dandassa (everybody trembles at punishment). The subject
+is the adjective sabbe (all, everybody, nominative plural). The verb is tasanti
+(tremble, 3rd person, plural, active, indicative, present tense). The object is
+the noun dandassa (of punishment, genitive singular).
+    2) sabbesaj jivitaj piyaj (life is dear to everybody). The subject is the
+noun jivitaj (life, nominative singular). It has an attribute, the adjective
+sabbesaj (everybody's, genitive plural). The verb is omitted, implying the verb
+"to be". The object is the adjective piyaj (dear, nominative singular).
+    3) attanaj upamaj katva na haneyya na ghataye (having made the comparison
+with oneself, let one not kill, nor cause another to kill). This can be further
+subdivided into two segments:
+    a) attanaj upamaj katva (having made the comparison with oneself). The
+subject is omitted; the third person singular pronoun is implied. The verb is
+in gerundive, katva (having done). The object is the noun upamaj (comparison,
+accusative singular) with its attribute, the adjective/noun attanaj (oneself,
+accusative singular).
+    b) na haneyya na ghataye (let one not kill, nor cause another to kill). The
+subject is omitted; the third person singular pronoun is implied. There are two
+verbs haneyya (should kill, 3rd person, singular, active, optative) and ghataye
+(should cause to kill, 3rd person, singular, active, causative, optative). They
+are both negated by negative particles na (not).
+===============================================================================
+
+
+Commentary:
+    In the last verse (see DhP 129) we saw monks beating each other because of
+a building. But the question of the building arose again. The second group of
+monks still intended to take it for themselves and again, the first group did
+not agree to that.
+    As a new rule was established, the monks from the second group did not
+physically attack the first group, but they made threatening gestures to them.
+The monks from the first group were frightened and cried out.
+    The Buddha again admonished the second group of monks, telling them this
+verse. And he also set another rule, that monks should not make threatening
+gestures to each other.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sabbe
+tasanti
+dandassa
+sabbesaj
+jivitaj
+piyaj
+attanaj
+upamaj
+katva
+na
+haneyya
+ghataye
+===============================================================================

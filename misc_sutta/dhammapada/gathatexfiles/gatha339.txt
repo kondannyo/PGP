@@ -1,0 +1,119 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** yassa chattijsati sota manapasavana bhusa ******
+          ****** vaha vahanti dudditthij savkappa raganissita ******
+                            ****** (DhP 339) ******
+===============================================================================
+
+
+Sentence Translation:
+The person in whom strong and carrying thirty-six streams flow towards the
+pleasurable things,
+is carried towards wrong views by his thoughts full of passion.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yassa         chattijsati  sota  manapa+savana   bhusa
+|                        |            |          |            |            |
+Rel.Pron.m.   Num.     N.m.    Adj.    Adj.m.   Adj.m.
+Gen.Sg.       Nom.Pl. Nom.Pl.    |      Nom.Pl. Nom.Pl.
+|                        |_______|         |_______|            |
+|                               |                      |__________|
+|                               |                              
+|_________________________I.
+|                               |_____________________________|
+|______________________________|
+                        |_______________________________________________II.
+List of Abbreviations
+    vaha      vahanti dudditthij savkappa raga+nissita
+       |               |             |               |          |         |
+   Adj.m.   V.act.in.     N.f.         N.m.    N.m. Adj.m.
+  Nom.Pl. 3.Pl.pres.  Acc.Sg.    Nom.Pl.    |    Nom.Pl.
+I.___|              |              |               |          |_____|
+                      |________|               |________|
+                             |_________________|
+II._______________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yassa: yat-, Rel.Pron.: that, which. Gen.Sg.m. = yassa (whose).
+chattijsati-, Num.: thirty six. Nom.Pl. = chattijsati.
+sota: sota-, N.m.: stream. Nom.Pl. = sota.
+manapasavana: manapasavana-, Adj.: flowing towards the pleasant things. It is
+compound of:
+    manapa-, Adj.: pleasing, charming, pleasant.
+    savana-, N.n.: flowing. It is derived from verb root su- (to flow).
+Nom.Pl.m. = manapasavana.
+bhusa: bhusa-, Adj.: strong, mighty. Nom.Pl.m. = bhusa.
+vaha: vaha-, Adj.: carrying, leading. Nom.Pl.m. = vaha.
+List of Abbreviations
+vahanti, V.: carry, lead, take. The verb root is vah-. 3.Pl.act.in.pres. =
+vahanti.
+dudditthij: dudditthi-, N.f.: bad or wrong view, belief, theory, idea. The word
+is a combination of the prefix du- (bad, wrong) and the word ditthi-, N.f.:
+view, belief, theory, idea. It is derived from the verb root dis- (to see).
+Euphonic combination: du- + ditthi- = dudditthi-. Acc.Sg. = dudditthij.
+savkappa: savkappa-, N.m.: thought, intention, plan. Nom.Pl. = savkappa.
+raganissita: raganissita-, Adj.: attached to passion. It is a compound of:
+    raga-, N.m.: passion, lust. It is derived from the verb root raj- (to
+color).
+    nissita-, Adj.: hanging on, attached to. It is a p.p. of the verb root si-,
+to lean on, with the prefix ni-, down.
+Nom.Pl.m. = raganissita.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) yassa chattijsati sota manapasavana bhusa vaha (the person in whom
+strong and carrying thirty-six streams flow towards the pleasurable things).
+The subject is the noun sota (streams, nominative plural). It has four
+attributes, the numeral chattijsati (thirty-six, nominative plural), the
+compound manapasavana (flowing towards pleasurable things, nominative plural),
+the adjectives bhusa (strong, nominative plural) and vaha (carrying, nominative
+plural). The verb is omitted, implying the verb "to be". It has an attribute,
+the relative adverb yassa (whose, genitive singular).
+    2) vahanti dudditthij savkappa raganissita (is carried towards wrong views
+by his thoughts full of passion). The subject is the noun savkappa (thoughts,
+nominative plural). It has an attribute, the compound raganissita (attached to
+passion, nominative plural). The verb is vahanti (carry, 3rd person, plural,
+active, indicative, present tense). The object is the compound dudditthij
+(towards wrong view, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 338) and for the four following verses (DhP 340 - DhP 343).
+    The thirty-six streams in this verse are the three types of craving (for
+sensual pleasure, for eternal existence, for non-existence) in relation to each
+of six sense organs that the Buddhist psychology works with: eye, nose, ears,
+tongue, body and mind.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yassa
+chattijsati
+sota
+manapasavana
+manapa
+savana
+bhusa
+vaha
+vahanti
+dudditthij
+savkappa
+raganissita
+raga
+nissita
+===============================================================================

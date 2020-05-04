@@ -1,0 +1,129 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** yo mukhasajyato bhikkhu mantabhani anuddhato ******
+        ****** atthaj dhammaj ca dipeti madhuraj tassa bhasitaj ******
+                            ****** (DhP 363) ******
+===============================================================================
+
+
+Sentence Translation:
+Sweet is the speech of the monk, who has control over his mouth, speaks
+cleverly,
+is not proud, and explains the Dharma and its meaning.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yo              mukha+sajyato  bhikkhu manta+bhani    anuddhato
+|                     |             |             |           |         
+|              |
+Rel.Pron.m. N.m.    Adj.m.     N.m.    N.m.   Adj.m.    Adj.m.
+Nom.Sg.         |      Nom.Sg.  Nom.Sg.    |     Nom.Sg. Nom.Sg.
+|                     |_______|              |          |______|              |
+
+|                            |___________|_________|___________|
+|                                       |_____|
+|                                           
+|__________________________________________
+|___________________________________________|
+List of Abbreviations
+atthaj dhammaj ca     dipeti    madhuraj   tassa   bhasitaj
+|                  |         |           |               |            
+|             |
+N.n.        N.m.   conj. V.act.caus.  Adj.n.    Pron.m.    N.n.
+Acc.Sg. Acc.Sg.     |     3.Sg.pres. Nom.Sg.  Gen.Sg. Nom.Sg.
+|__________|         |           |               |             |_______|
+          |__________|           |               |___________|
+                    |___________|                          |
+_________________|                                    |
+              |_____________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+mukhasajyato: mukhasajyata-, Adj.: with control over mouth. It is a compound
+of:
+    mukha-, N.n.: mouth.
+    sajyata-, Adj.: restrained, controlled. It is derived from the verb yam-
+(to restrain, to become tranquil) with the prefix sam- (together).
+Nom.Sg.m. = mukhasajyato.
+bhikkhu: bhikkhu-, N.m.: a (Buddhist) monk. Nom.Sg. = bhikkhu.
+mantabhani: mantabhanin-, Adj.: reciter of sacred texts, clever speaker. It is
+a compound of:
+    manta-, N.m.: religious text, sacred text, canon.
+    bhanin-, Adj.: speaking. It is derived from the verb root bhan-, with the
+possessive suffix -in.
+Nom.Sg.m. = mantabhani.
+anuddhato: anuddhata-, Adj.: not proud, unconceited. It is the word uddhata-,
+Adj,: proud, conceited (it is a p.p. of the verb root dhar-, to hold, with the
+prefix ud-, up) negated by the negative prefix an-. Nom.Sg.m. = anuddhato.
+List of Abbreviations
+atthaj: attha-, N.n.: meaning, worth, sense. Acc.Sg. = atthaj.
+dhammaj: dhamma-, N.m.: Dharma, The Law, the teaching of the Buddha. Acc.Sg. =
+dhammaj.
+ca, conj.: and.
+dipeti, V.: to make bright, to illustrate, to explain. The verb root is dip-
+(to shine).
+3.Sg.act.caus.pres. = dipeti.
+madhuraj: madhura-, Adj.: sweet. Nom.Sg.n. = madhuraj.
+tassa: tad-, Pron.: that. Gen.Sg.m. = tassa.
+bhasitaj: bhasita-, Adj.: spoken, said. It is a p.p. of the verb root bhas- (to
+speak). As an N.n.: speech, word. Nom.Sg. = bhasitaj.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) yo mukhasajyato bhikkhu mantabhani anuddhato atthaj dhammaj ca dipeti
+(the monk, who has control over his mouth, speaks cleverly, is not proud, and
+explains the Dharma and its meaning). The subject is the noun bhikkhu (monk,
+nominative singular). It has three attributes, the adjectives mukhasajyato
+(with control over mouth, nominative singular), mantabhani (clever speaker,
+nominative singular) and anuddhato (not proud, nominative singular). The verb
+is dipeti (explains, 3rd person, singular, active, causative, present tense).
+There are two objects, the nouns atthaj (meaning, accusative singular) and
+dhammaj (Dharma, accusative singular). They are connected by the conjunction ca
+(and). The relative pronoun yo (who, nominative singular) introduces the
+sentence and connects it to the following one.
+    2) madhuraj tassa bhasitaj (sweet is his speech). The subject is the noun
+bhasitaj (speech, nominative singular). It has an attribute, the pronoun tassa
+(his, genitive singular). The verb is omitted, implying the verb "to be". The
+object is the adjective madhuraj (sweet, nominative singular).
+===============================================================================
+
+
+Commentary:
+    Venerable Sariputta and Venerable Moggallana were abused by a monk named
+Kokalika. As a result, suffering befell Kokalika. The other monks then remarked
+that he had to suffer because he could not control his tongue. The Buddha
+replied with this verse, saying that control over one's mouth is very
+important.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yo
+mukhasajyato
+mukha
+sajyato
+bhikkhu
+mantabhani
+manta
+bhani
+anuddhato
+atthaj
+dhammaj
+ca
+dipeti
+madhuraj
+tassa
+bhasitaj
+===============================================================================

@@ -1,0 +1,201 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+    ****** asso yatha bhadro kasanivittho atapino sajvegino bhavatha ******
+ ****** saddhaya silena ca viriyena ca samadhina dhammavinicchayena ca ******
+ ****** sampannavijjacarana patissata jahissatha dukkham idaj anappakaj ******
+                            ****** (DhP 144) ******
+===============================================================================
+
+
+Sentence Translation:
+Be like a good horse when touched by a whip - strenuous and anxious.
+By faith, virtue, effort and concentration, by investigation of truth,
+by having knowledge and conduct, by being mindful abandon this big suffering.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+asso        yatha       bhadro kasa+nivittho  atapino sajvegino bhavatha
+|                  |               |         |         |            
+|             |               |
+N.m.      Rel.Adv.   Adj.m.  N.f.  Adj.m.    Adj.m.   Adj.m.      V.act.
+Nom.Sg.      |         Nom.Sg.   |   Nom.Sg. Nom.Pl. Nom.Pl.   2.Pl.imp.
+|__________|________|          |_____|             |_______|               |
+                   |      |_____________|                        |____________|
+
+                   |__________|                                               |
+
+                             |_______________________________|
+List of Abbreviations
+saddhaya silena   ca  viriyena ca samadhina dhamma+vinicchayena ca
+|                  |        |         |        |         |              
+|               |             |
+N.f.          N.n.  conj.   N.n.  conj.  N.m.        N.m.        N.m.      
+conj.
+Ins.Sg.    Ins.Sg.   |     Ins.Sg.   |     Ins.Sg.          |         
+Ins.Sg.        |
+|                  |____|          |____|          |              
+|________|             |
+|                      |                  |             
+|                       |___________|
+|____________|__________|________|___________________|_______________
+List of Abbreviations
+sampanna+vijja+carana   patissata jahissatha dukkham  idaj   anappakaj
+|                   |         |             |              |             
+|            |             |
+Adj.           N.f.   N.m.     Adj.m.    V.act.        N.n.     Pron.n.  
+Adj.n.
+|                   |    Nom.Pl. Nom.Pl. 2.Pl.imp.   Acc.Sg.  Acc.Sg.  Acc.Sg.
+|                   |_____|             |              |             
+|_______|_______|
+|_____________|                  |              |                      |___|
+           |_________________|               |                         |
+_______________|_________________|                         |
+                           |                |______________________|
+                           |____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+asso: assa-, N.m.: horse. Nom.Sg. = asso.
+yatha, Rel.Adv.: as, just like.
+bhadro: bhadra-, Adj.: good. Nom.Sg.m. = bhadro.
+kasanivittho: kasanivittha-, Adj.: whipped, touched by a whip. It is a compound
+of:
+    kasa-, N.f.: whip.
+    nivittha-, Adj.: touched, "put down on". It is a p.p. of the verb root vis-
+(to enter)
+with the prefix ni- (down).
+Nom.Sg.m. = kasanivittho.
+atapino: atapin-, Adj.: ardent, zealous, active, strenuous. It is the word
+atapa-, N.m.: endeavor, zeal, activity, with the possessive suffix -in.
+Nom.Pl.m. = atapino.
+sajvegino: sajvegin-, Adj.: anxious, agitated (by contemplating miseries of
+this world). It is the word sajvega-, N.m.: agitation, anxiety, with the
+possessive suffix -in. Nom.Pl.m. = sajvegino.
+List of Abbreviations
+bhavatha, V.: be. The verb root is bhu-. 3.Pl.act.imp. = bhavatha. The form
+bhavatha is sometimes used in poetry.
+saddhaya: saddha-, N.f.: trust, confidence, faith. Ins.Sg. = saddhaya.
+silena: sila-, N.n.: virtue. Ins.Sg. = silena.
+ca, conj.: and.
+viriyena: viriya-, N.n.: energy, vigor, effort. The form viriya- is used
+because of metrical requirements. Ins.Sg. = viriyena.
+ca, conj.: and.
+samadhina: samadhi-, N.m.: concentration, firmness of mind. It is derived from
+the verb root dha-, to put, with the prefixes saj-, together and a-, towards.
+Ins.Sg. = samadhina.
+List of Abbreviations
+dhammavinicchayena: dhammavinicchaya-, N.m.: investigation of truth. It is a
+compound of:
+    dhamma-, N.m.: here can mean either generally "thing", "phenomenon",
+"truth" or more specifically the teaching of the Buddha.
+    vinicchaya-, N.m.: thorough knowledge, firm opinion, investigation,
+analysis.
+Ins.Sg. = dhammavinicchayena.
+ca, conj.: and.
+sampannavijjacarana: sampannavijjacarana-, Adj.: endowed with knowledge and
+conduct. It is a compound of:
+    sampanna-, Adj.: endowed with, possessed of. P.p. of the verb pad- (to go
+to, to fall to) preceded by the prefix sam- (denoting "together" or
+"completely").
+    vijjacarana-, N.n.: knowledge and conduct. This is itself a compound of:
+        vijja-, N.f.: knowledge, higher knowledge. Derived from the verb root
+vid- (to know, to find out).
+        carana-, N.n.: conduct, behavior, acting. Derived from the verb root
+car- (to move, to go behave).
+Nom.Pl.m. of the whole compound = sampannavijjacarana.
+List of Abbreviations
+patissata: patissata-, Adj.: mindful, conscientious, recollecting. Nom.Pl.m. =
+patissata.
+jahissatha, V.: abandon, leave behind. The verb root is ha-. 2.Pl.act.imp. =
+jahissatha.
+dukkham: dukkha-, N.n.: suffering. Acc.Sg. = dukkham.
+idaj: idaj-, Pron.: this. Acc.Sg.n. = idaj.
+anappakaj : anappaka-, Adj.: big, "not little". It is the word appaka-, Adj.:
+little, few, with the negative prefix an-. Acc.Sg.n. = anappakaj.
+List of Abbreviations
+    This verse consists of two independent sentences. They are:
+    1) asso yatha bhadro kasanivittho atapino sajvegino bhavatha (be like a
+good horse when touched by a whip - strenuous and anxious). This sentence can
+be further analyzed into two parts:
+    a) atapino sajvegino bhavatha (be strenuous and anxious). This is the main
+sentence. The subject is omitted, implying the second person plural pronoun.
+The verb is bhavatha (be, 2nd person, plural, active, imperative). There are
+two objects, adjectives atapino (strenuous, nominative plural) and sajvegino
+(anxious, nominative plural).
+    b) asso yatha bhadro kasanivittho (like a good horse when touched by a
+whip). This is a clause to the main sentence. The subject is the noun asso
+(horse, nominative singular) with two attributes, the adjective bhadro (good,
+nominative singular) and the compound kasanivittho (touched by a whip,
+nominative singular). The verb is omitted; the verb bhavatha from the main
+sentence is implied.
+    2) saddhaya silena ca viriyena ca samadhina dhammavinicchayena ca
+sampannavijjacarana patissata jahissatha dukkham idaj anappakaj (by faith,
+virtue, effort and concentration, by investigation of truth, by having
+knowledge and conduct, by being mindful abandon this big suffering). The
+subject is omitted, the verb implying the second person plural pronoun. It has
+two attributes, the adjectives sampannavijjacarana (endowed with knowledge and
+conduct, nominative plural) and patissata (mindful, nominative plural). The
+verb is jahissatha (abandon, 2nd person, plural, active, imperative). It has
+five attributes: saddhaya (by faith, instrumental singular), silena (by virtue,
+instrumental singular), viriyena (by effort, instrumental singular), samadhina
+(by concentration, instrumental singular) and dhammavinicchayena (by
+investigation of truth, instrumental singular). Three of them (silena, viriyena
+and dhammavinicchayena) are connected to the other ones by the conjunction ca
+(and). The object is the noun dukkham (suffering, accusative singular). It has
+two attributes, the pronoun idaj (this, accusative singular) and the adjective
+anappakaj (big, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the story for the previous one
+(DhP 143).
+    There is no reason to whip a good horse - it knows what to do and how to do
+it. In the same way there is no need to blame a good person, he is not acting
+in a way that has to be blamed.
+    The good horse needs only to be touched by the whip and then it knows what
+to do. So it is with a good person. He is "touched" by the suffering and
+immediately starts to make effort to escape it forever.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+asso
+yatha
+bhadro
+kasanivittho
+kasa
+nivittho
+atapino
+sajvegino
+bhavatha
+saddhaya
+silena
+ca
+viriyena
+samadhina
+dhammavinicchayena
+dhamma
+vinicchayena
+sampannavijjacarana
+sampanna
+vijja
+carana
+patissata
+jahissatha
+dukkham
+idaj
+anappakaj
+===============================================================================

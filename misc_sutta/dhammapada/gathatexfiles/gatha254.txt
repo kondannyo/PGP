@@ -1,0 +1,124 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** akase padaj natthi samano natthi bahire ******
+            ****** papabcabhirata paja nippapabca tathagata ******
+                            ****** (DhP 254) ******
+===============================================================================
+
+
+Sentence Translation:
+There are no tracks in the sky. There is not a true monk outside of this
+teaching.
+Mankind delights in obsession. The Buddhas are free of obsession.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+akase     padaj   na     atthi       samano   na     atthi     bahire
+|                  |        |          |              |          |         
+|           |
+N.m.        N.n.   neg. V.act.in.     N.m.    neg.  V.act.in.  Adv.
+Loc.Sg. Nom.Sg.  |    3.Sg.pres. Nom.Sg.   |    3.Sg.pres.    |
+|                  |        |______|             |          |______|          
+|
+|__________|________|                  |                |_________|
+         |_____|                                 |______________|
+List of Abbreviations
+papabca+abhirata     paja  nippapabca tathagata
+|                   |             |             |              |
+N.m.        Adj.f.       N.f.      Adj.m.      N.m.
+|             Nom.Sg. Nom.Sg. Nom.Pl.   Nom.Pl.
+|___________|             |            |________|
+          |_____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+akase: akasa-, N.m.: air, sky, space. Loc.Sg. = akase.
+padaj: pada-, N.n.: track, path. Nom.Sg. = padaj.
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = natthi.
+samano: samana-, N.m.: a recluse, a wandering ascetic, a monk (not only a
+Buddhist monk).
+Nom.Sg. = samano.
+natthi: see above (na + atthi).
+bahire, Adv.: outside. It is the word bahira-, Adj.: external. Loc.Sg. =
+bahire. Here as an Adv.
+List of Abbreviations
+papabcabhirata: papabcabhirata-, Adj.: delighting in obsession. It is a
+compound of:
+    papabca-, N.m.: obsession, hindrance to spiritual progress.
+    abhirati-, N.f.: delight, content.
+Euphonic combination: papabca- + abhirata- = papabcabhirata-.
+Nom.Sg.f. = papabcabhirata.
+paja: paja-, N.f.: beings, people, mankind. Nom.Sg. = paja.
+nippapabca: nippapabca-, Adj.: without obsession, free of spiritual hindrances.
+It is the word papabca-, N.m. (see above) with the prefix ni- (without).
+Nom.Pl.m. = nippapabca.
+tathagata: tathagata-, N.m.: an epithet of the Buddha. Lit. "thus gone", one
+who has reached Awakenment in this way (that is according to the Dharma). It is
+a compound of:
+    tatha, Adv. thus, in such way.
+    gata-, Adj.: gone. It is a p.p. of the verb gam- (to go).
+Nom.Pl. = tathagata.
+List of Abbreviations
+    This verse consists of four sentences. They are:
+    1) akase padaj natthi (there are no tracks in the sky). The subject is the
+noun padaj (track, nominative singular). The verb is atthi (is, 3rd person,
+singular, active, indicative, present tense). It is negated by the negative
+particle na (not). The verb has an attribute, the noun akase (in the sky,
+locative singular).
+    2)samano natthi bahire (there is not a true monk outside [of this
+teaching]). The subject is the noun samano (monk, nominative singular). The
+verb is atthi (is, 3rd person, singular, active, indicative, present tense). It
+is negated by the negative particle na (not). The verb has an attribute, the
+adverb bahire (outside).
+    3) papabcabhirata paja (mankind delights in obsession). The subject is the
+noun paja (mankind, nominative singular). The verb is omitted, implying the
+verb "to be". The object is the compound papabcabhirata (delighting in
+obsession, nominative singular).
+    4) nippapabca tathagata (the Buddhas are free of obsession). The subject is
+the noun tathagata (the Buddhas, nominative plural). The verb is omitted,
+implying the verb "to be". The object is the compound nippapabca (free of
+obsession, nominative plural).
+===============================================================================
+
+
+Commentary:
+    The Buddha passed away in the town of Kusinara. At that time the ascetic
+named Subhadda stayed at Kusinara. He went to many religious teachers but none
+could satisfy his doubts and Subhadda did not become their pupil. Just before
+the Buddha died, Subhadda approached him and asked him some questions. The
+Buddha answered them in this verse (and the following one, DhP 255). Subhadda
+became a monk and later attained the Awakenment. He was the last direct pupil
+of the Buddha.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+akase
+padaj
+na
+atthi
+samano
+bahire
+papabcabhirata
+papabca
+abhirata
+paja
+nippapabca
+tathagata
+tatha
+gata
+===============================================================================

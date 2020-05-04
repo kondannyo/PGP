@@ -1,0 +1,109 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** sada jagaramananaj ahorattanusikkhinaj ******
+          ****** nibbanaj adhimuttanaj atthaj gacchanti asava ******
+                            ****** (DhP 226) ******
+===============================================================================
+
+
+Sentence Translation:
+Those, who are always watchful, studying all day and night,
+intent upon reaching the Nirvana - their taints disappear.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sada jagaramananaj aho+ratta+anusikkhinaj
+|                 |                |        |              |
+Adv.      Adj.m.        N.n.  N.n.      Adj.m.
+|            Gen.Pl.           |____|        Gen.Pl.
+|_________|                     |__________|
+        |______________________|_____________________________
+List of Abbreviations
+nibbanaj adhimuttanaj atthaj gacchanti   asava
+|                        |                |            |              |
+N.n.             Adj.m.         N.n.    V.act.in.    N.m.
+Acc.Sg.        Gen.Pl.      Acc.Sg. 3.Pl.pres. Nom.Pl.
+|_____________|                 |_______|             |
+_______|                                    |                   |
+     |________________________|___________|
+                         |_____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sada, Adv.: always.
+jagaramananaj: jagaramana-, Adj.: awake, watchful. It is a med.pr.p. of the
+verb jagarati (to be awake). Gen.Pl.m. = jagaramananaj.
+ahorattanusikkhinaj: ahorattanusikkhin-, Adj.: studying all day and night. It
+is a compound of:
+    aho-, N.n.: day.
+    ratta-, N.n.: night.
+    anusikkhin-, Adj.: studying, learning. It is derived from the verb root
+sikkh- (to learn) with the prefix anu- (along, at).
+Euphonic combination: ahoratta- + anusikhin- = ahorattanusikkhin-.
+Gen.Pl.m. = ahorattanusikkhinaj.
+List of Abbreviations
+nibbanaj: nibbana-, N.n.: Nirvana, the goal of Buddhism. Nom.Sg. = nibbanaj.
+adhimuttanaj: adhimutta-, Adj.: intent upon, given to. It is a p.p. of the verb
+adhimuccati (to be drawn to, to be inclined towards). Gen.Pl.m. = adhimuttanaj.
+atthaj: attha-, N.n.: home, place of rest. Acc.Sg. = atthaj.
+gacchanti, V.: goes. The verb root is gam-. 3.Pl.in.act.pres. = gacchanti. With
+the noun atthaj ("home" as here): disappear, vanish, become extinct.
+asava: asava- N.m.: taint, corruption. Nom.Pl. = asava.
+List of Abbreviations
+    The subject of this sentence is the noun asava (taints, nominative plural).
+It has three attributes: 1) the past participle adhimuttanaj (of those who are
+intent upon, genitive plural), with the noun nibbanaj (the Nirvana, accusative
+singular) as its attribute; 2) the compound ahorattanusikkhinaj (of those who
+are studying all day and night, genitive plural); 3) the medium present
+participle jagaramananaj (of the watchful ones, genitive plural) with its
+attribute, the adverb sada (always). The verb is gacchanti (go, 3rd person,
+plural, active, indicative, present tense). The object is the noun atthaj
+("home", accusative singular). The whole phrase atthaj gacchanti (lit. "go
+home" means "disappear", "vanish").
+===============================================================================
+
+
+Commentary:
+    There was a young slave girl, named Punna. One night she was doing some
+work for her master, when she saw some monks going to their rooms after
+listening to the Dharma. She pondered that she was up so late because she was
+poor and had to work hard. But she could not think about any reason for the
+monks to be up so late as well.
+    The next day she made for herself a simple rice cake and went to the
+riverside to rest and eat. But on the way she met the Buddha and offered the
+cake to him. The Buddha accepted and ate the cake.
+    After eating, the Buddha told her why the monks were up so late: they were
+always vigilant and learning something, no matter what time it was. He also
+tolf her this verse, saying that by being always watchful and mindful, one can
+eradicate one's taints. Punna immediately realized the Dharma.
+    Traditionally, these four taints (asava) are mentioned in the texts: sense
+desire (kama), desiring eternal existence (bhava), wrong views (ditthi) and
+ignorance (avijja).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sada
+jagaramananaj
+ahorattanusikkhinaj
+aho
+ratta
+anusikkhinaj
+nibbanaj
+adhimuttanaj
+atthaj
+gacchanti
+asava
+===============================================================================

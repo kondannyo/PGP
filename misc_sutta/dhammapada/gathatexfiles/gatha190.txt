@@ -1,0 +1,140 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+       ****** yo ca buddhaj ca dhammaj ca savghaj ca saranaj gato ******
+           ****** cattari ariyasaccani sammappabbaya passati ******
+                            ****** (DhP 190) ******
+===============================================================================
+
+
+Sentence Translation:
+And who has gone for refuge to the Buddha, Dharma and Sangha,
+sees with a true wisdom Four Noble Truths.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yo                ca  buddhaj  ca dhammaj ca   savghaj ca   saranaj    gato
+|                     |         |          |         |          |         
+|         |         |             |
+Rel.Pron.m. conj.   N.m.  conj.   N.m.   conj.   N.m.   conj.   N.n.     Adj.m.
+
+Nom.Sg.         |    Acc.Sg.    |     Acc.Sg.    |    Acc.Sg.    |    Acc.Sg. 
+Nom.Sg.
+|____________|        |______|        |______|          |_____|        
+|             |
+           |                         |___________|___________|             
+|             |
+           |                                                       
+|_____________|              |
+          
+|                                                                    
+|______________|
+           |_____________________________________________|
+                                               
+|____________________________________________
+List of Abbreviations
+cattari   ariya+saccani samma+ppabbaya passati
+|               |          |           |             |            |
+Num.n. Adj.     N.n.    Adv.        N.f.     V.act.in.
+Acc.Sg.    |     Acc.Sg.      |        Ins.Sg.  3.Sg.pres.
+|               |______|          |_______|             |
+|____________|                     |___________|
+          |________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+ca, conj.: and.
+buddhaj: buddha-, Adj.: Awakened One, Enlightened One. It is a pp. of the verb
+root budh-, to awaken. Here as an N.m.: a being who has attained Nirvana. The
+historical Buddha Shakyamuni. Acc.Sg.: buddhaj.
+ca: see above.
+dhammaj: dhamma-, N.m.: Buddha's Teaching. The Law. Derived from the verb dha-,
+to hold. Thus dhamma "holds the world together". Acc.Sg.: dhammaj.
+List of Abbreviations
+ca: see above.
+savghaj: savgha-, N.m.: community, the community of the Buddha's followers. It
+is of two kinds: the savgha of lay followers and the savgha of monks and nuns.
+Acc.Sg.: savghaj.
+ca: see above.
+saranaj: sarana-, N.n.: refuge. Acc.Sg.: saranaj.
+gato: gata-, Adj.: gone. It is a p.p. of the verb gam- (to go). Nom.Sg.m. =
+gato.
+cattari: catur-, Num.: four. Acc.Pl.n. = cattari.
+List of Abbreviations
+ariyasaccani: ariyasacca-, N.n.: Noble Truth, the core of Buddhist teaching. It
+is a compound of:
+    ariya-, Adj.: noble, distinguished, good.
+    sacca-, N.n.: truth.
+Acc.Pl. = ariyasaccani.
+sammappabbaya: sammappabba-, N.f.: true wisdom. It is a compound of:
+    samma-, Adv.: properly, rightly, as it should be, truly. Compound form:
+samma-.
+    pabba-, N.f.: wisdom.
+Euphonic combination: samma- + pabba- = sammappabba-.
+Ins.Sg. = sammappabbaya.
+passati: sees. The verb root is dis- (to see). 3.Sg.act.in.pres. = passati.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) yo ca buddhaj ca dhammaj ca savghaj ca saranaj gato (and who has gone
+for refuge to the Buddha, Dharma and Sangha). The subject of this sentence is
+the relative pronoun yo (who, nominative singular). The verb is in the past
+participle, gato (gone, nominative singular). The object is the noun saranaj
+(to refuge, accusative singular). It has three attributes, the nouns buddhaj
+(to the Buddha, accusative singular), dhammaj (to the Dharma, accusative
+singular) and savghaj (to the Sangha, accusative singular). These are connected
+to each other by multiple conjunctions ca (and).
+    2) cattari ariyasaccani sammappabbaya passati (sees with a true wisdom Four
+Noble Truths). The subject is omitted; the verb implies the third person
+singular pronoun. The verb is passati (sees, 3rd person, singular, active,
+indicative, present tense). It has an attribute, the compound sammappabbaya
+(with a true wisdom, instrumental singular). The object is the compound
+ariyasaccani (Noble Truths, accusative plural) with its attribute, the numeral
+cattari (four, accusative plural).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the preceding verses
+(DhP 188, DhP 189) and the following ones (DhP 191, DhP 192).
+    The Triple Gem, the Buddha (Awakened One), the Dharma (his teaching) and
+the Sangha (the community of his followers) are the highest possible refuge,
+because the Buddha has reached Awakenment, the Dharma is the teaching how to
+reach this goal and the Sangha is the community of people who are on the way to
+reach it.
+    Having taken refuge in this Triple Gem, one can clearly see the Four Noble
+Truths, the most important of all the Buddhist teachings. They are: 1) The
+truth of Suffering, 2) The truth of Origin of Suffering, 3) The truth of
+Extinction of Suffering and 4) The truth of the Path, leading to the Extinction
+of Suffering.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yo
+ca
+buddhaj
+dhammaj
+savghaj
+saranaj
+gato
+cattari
+ariyasaccani
+ariya
+saccani
+sammappabbaya
+samma
+pabbaya
+passati 
+===============================================================================

@@ -1,0 +1,117 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** etaj kho saranaj khemaj etaj saranam uttamaj ******
+            ****** etaj saranam agamma sabbadukkha pamuccati ******
+                            ****** (DhP 192) ******
+===============================================================================
+
+
+Sentence Translation:
+This refuge is safe; this refuge is supreme.
+Having come to such a refuge, one will be free from all suffering.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+etaj       kho  saranaj   khemaj   etaj    saranam  uttamaj
+|                |          |              |             |            
+|             |
+Pron.n.   part.    N.n.       Adj.n.    Pron.n.     N.n.      Adj.n.
+Nom.Sg.    |    Nom.Sg.  Nom.Sg. Nom.Sg. Nom.Sg. Nom.Sg.
+|_________|          |              |             |_______|              |
+         |__________|              |                    |___________|
+                  |_____________|
+List of Abbreviations
+etaj     saranam agamma sabba+dukkha pamuccati
+|                 |             |          |           |             |
+Pron.n.    N.n.      V.ger.   Adj.     N.n.     V.pas.in.
+Acc.Sg. Acc.Sg.        |          |      Abl.Sg.  3.Sg.pres.
+|__________|            |          |______|             |
+         |____________|                |__________|
+                    |____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+etaj: etad-, Pron.: this. Neuter: etaj. Nom.Sg. = etaj.
+Euphonic combination: na + etaj = n'etaj.
+kho, part.: indeed.
+saranaj: sarana-, N.n.: refuge. Nom.Sg. = saranaj.
+khemaj: khema-, N.n.: safe, calm, peaceful. Nom.Sg.n. = khemaj.
+etaj: see above.
+saranam: see above (saranaj).
+uttamaj: uttama-, Adj.: highest, supreme. Nom.Sg.n. = uttamaj.
+List of Abbreviations
+etaj: see above. Here Acc.Sg.
+saranam: see above. Here Acc.Sg.
+agamma, V.ger.: having come. The verb root is gam- (to go) with the prefix a-
+(towards).
+sabbadukkha: sabbadukkha-, N.n.: all suffering. It is a compound of:
+    sabba-, Adj.: all.
+    dukkha-, N.n.: sorrow, pain, suffering.
+Abl.Sg. = sabbadukkha.
+pamuccati, V.: to be released, to be freed. The verb root is muc- (to be
+released) with the strengthening prefix pa-. 3.Sg.pas.in.pres. = pamuccati.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) etaj kho saranaj khemaj (this refuge is safe). The subject is the noun
+saranaj (refuge, nominative singular). It has an attribute, the pronoun etaj
+(this, nominative singular). The verb is omitted, implying the verb "to be".
+The object is the adjective khemaj (safe, nominative singular). The particle
+kho (indeed) serves mainly for metrical purposes.
+    2) etaj saranam uttamaj (this refuge is supreme). The subject is the noun
+saranam (refuge, nominative singular). It has an attribute, the pronoun etaj
+(this, nominative singular). The verb is omitted, implying the verb "to be".
+The object is the adjective uttamaj (supreme, nominative singular).
+    3) etaj saranam agamma sabbadukkha pamuccati (having come to such a refuge,
+one will be free from all suffering). This can be further analysed into the
+main sentence b) and the clause a):
+    a) etaj saranam agamma (having come to such a refuge). The subject is
+omitted; the verb pamuccati from the main sentence implies the third person
+singular pronoun. The verb is in the gerund, agamma (having come). The object
+is the noun saranam (to the refuge, accusative singular) with its attribute,
+the pronoun etaj (to this, accusative singular).
+    b) sabbadukkha pamuccati (one will be free from all suffering). The subject
+is omitted; the verb implies the third person singular pronoun. The verb is
+pamuccati (is freed, 3rd person, singular, passive, indicative, present tense).
+The verb has an attribute, the compound sabbadukkha (from all suffering,
+ablative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the preceding verses
+(DhP 188, DhP 189, DhP 190, DhP 191).
+    Because the Buddha is free from the round of rebirths, his teaching can
+lead us in the same direction. And in the community of his followers we can
+help each other to reach this goal. Then we will be able to see the Four Noble
+Truths and lead our lives according to the Noble Eightfold Path. If we
+mindfully strive for the highest goal, surely we will reach it.
+    Therefore, the Buddha, Dharma and Sangha are the highest possible refuge,
+because by following them, we can attain the Awakenment and reach freedom from
+suffering and the round of rebirths.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+etaj
+kho
+saranaj
+khemaj
+uttamaj
+agamma
+sabbadukkha
+sabba
+dukkha
+pamuccati
+===============================================================================

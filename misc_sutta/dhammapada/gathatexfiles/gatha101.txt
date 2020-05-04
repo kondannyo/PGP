@@ -1,0 +1,155 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** sahassam api ce gatha anatthapadasajhita ******
+           ****** ekaj gathapadaj seyyo yaj sutva upasammati ******
+                            ****** (DhP 101) ******
+===============================================================================
+
+
+Sentence Translation:
+Rather then a thousand verses without meaningful words,
+is better one word of a verse, after hearing which, one can attain calm.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sahassam api    ce     gatha    an+attha+pada+sajhita
+|                |       |          |         |       |        |          |
+Num.n.   part. part.    N.f.    neg. N.n.   N.n.   Adj.f.
+Nom.Sg.    |____|    Nom.Pl.   |       |____|      Nom.Pl.
+|                    |             |          |           |________|
+|                    |             |          |__________|
+|                    |             |__________|
+|___________|____________|
+              |___|
+                 |________________________________________________________
+List of Abbreviations
+ekaj    gatha+padaj   seyyo          yaj      sutva upasammati
+|               |          |            |                 |           
+|            |
+Num.n.  N.f.     N.n.     Adj.n.    Rel.Pron.n. V.ger.  V.act.in.
+Nom.Sg.   |    Nom.Sg. Nom.Sg.    Acc.Sg.       |      3.Sg.pres.
+|               |_____|             |                 |_______|           |
+|___________|                  |                       |__________|
+         |________________|__________________|
+                           |______|
+__________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sahassam: sahassa-, Num.n.: thousand. Nom.Sg. = sahassam.
+api, part.: also, as well, even (often spelled pi).
+ce, part.: if.
+gatha: gatha-, N.f.: verse. Nom.Pl. = gatha.
+anatthapadasajhita: anatthapadasajhita-, Adj.: without meaningful sayings. It
+is the word atthapadasajhita-, Adj.: with meaningful sayings, negated by the
+negative prefix an-. This word is a compound of:
+    atthapada-, N.n.: profitable saying, word of good sense. This can be
+further analyzed into:
+        attha-, N.n.: meaning, worth, sense.
+        pada-, N.n.: saying, word, verse.
+    sajhita-, Adj.: connected, equipped with, possessed of. It is a p.p. of the
+verb dha- (put)
+    with the prefix saj- (together).
+Nom.Pl.f. = anatthapadasajhita.
+List of Abbreviations
+ekaj: eka-, Num.: one. Nom.Sg.n. = ekaj.
+gathapadaj: gathapada-, N.n.: verse-word. It is a compound of:
+    gatha-, N.f.: verse.
+    pada-, N.n.: word, saying.
+Nom.Sg. = gathapadaj.
+seyyo: seyya-, Adj.: better. Nom.Sg.n. = seyyo.
+yaj: yat-, Rel.Pron.: that, which. Acc.Sg.n.: yaj.
+sutva, V.ger.: having heard. The verb root is su- (to hear).
+upasammati, V.: calms down, is appeased. The verb root is sam- (to be appeased)
+with the prefix upa- (towards). 3.Sg.act.in.pres. = upasammati.
+List of Abbreviations
+    This verse contains two connected sentences. They form the first and the
+second line of the verse respectively.
+    In the first sentence, the subject is the noun gatha (verses, nominative
+plural). It has two attributes, the numeral sahassam (thousand, nominative
+singular - note that the numeral sahassa- is always in neuter) and the compound
+anatthapadasajhita (without meaningful words, nominative plural). There are two
+particles, api (also, even) and ce (if) which form a phrase api ce (even if).
+    In the second sentence, the subject is the compound gathapadaj (word of a
+verse, nominative singular). It has the numeral ekaj (one, nominative singular)
+as an attribute. There is a clause, which forms an attribute to the subject:
+yaj sutva upasammati (after hearing which, one can attain calm). The subject
+here is the relative pronoun yaj (which, accusative singular). There are two
+verbs, one is the gerundive sutva (having heard) and one is upasammati (calms
+down, 3rd person, singular, active, indicative, present tense). These two form
+the verbal phrase sutva- upasammati (having heard, calms). The object of the
+sentence is the adjective seyyo (better, nominative singular).
+
+===============================================================================
+
+
+Commentary:
+    Some merchants sailed in a boat. Their boat was wrecked and only one of
+them, named Bahiya, survived. He got hold of a piece of wood and came to land
+in the city of Supparaka. He tied a piece of bark to his body and sat in a
+public place. People gave him food; some thought that he was a holy man so they
+paid their respects to him. Some people offered him clothes but he refused.
+Everybody started to tell him that he was an Arahant so he began to consider
+himself one.
+    Now the god Brahma was a friend of Bahiya's in one of previous lives. He
+came to see him one night and told him that he certainly was not an Arahant.
+Bahiya asked if there are Arahants at all and where to find them. Brahma sent
+him to the city of Savatthi to see the Buddha.
+    Bahiya immediately set on a journey to Savatthi. He did not rest much
+because he was anxious to meet the Buddha. Therefore when he arrived at
+Savatthi he was extremely tired. He met the Buddha going on an almsround with
+some other monks. He asked the Buddha to teach him the Dharma, but the Buddha
+refused saying that it was not a proper time for a discourse. But Bahiya
+pleaded again and the Buddha realized that Bahiya is ready to become an
+Arahant. So he told him: "Bahiya, when you see a thing, be conscious only of
+the object. When you hear a sound, be conscious only of the sound. When you
+smell, taste, or touch anything, be conscious only of the smell, taste, or
+touch. When you think of anything, be conscious only of the mental object."
+    Bahiya did this and immediately he attained Arahantship. He asked
+permission to be admitted into the Order as a monk. The Buddha agreed, but
+first he sent him to find some robes, the bowl and other requisites. Bahiya
+went to find these things, but on the way he was attacked by a wild animal and
+died. When the Buddha and monks went back from the almsround, they found him
+laying dead on the road. The Buddha instructed the monks to cremate Bahiya's
+body and erect a stupa around the ashes.
+    The Buddha then told the monks that Bahiya has attained Arahantship. He
+proclaimed that Bahiya was the quickest of all his disciples to do so. Some
+monks wondered how it was possible to attain Awakenment just after listening to
+a few words on the road. The Buddha then explained by this verse that the
+number of words or the length of the speech does not really matter if one's
+mind is really ready.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sahassam
+api
+ce
+gatha
+anatthapadasajhita
+atthapadasajhita
+atthapada
+attha
+sajhita
+ekaj
+gathapadaj
+padaj
+seyyo
+yaj
+sutva
+upasammati
+===============================================================================
+
+ 

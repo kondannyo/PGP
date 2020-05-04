@@ -1,0 +1,140 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** yo ca vassasataj jive dussilo asamahito ******
+            ****** ekahaj jivitaj seyyo silavantassa jhayino ******
+                            ****** (DhP 110) ******
+===============================================================================
+
+
+Sentence Translation:
+Who would live for hundred years, with bad morality, without a firm mind,
+better is the life for one day of somebody who is virtuous and meditating.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yo              ca vassa+sataj      jive     dussilo asamahito
+|                  |      |         |             |            |              |
+
+Rel.Pron. conj. N.n. Num.n.   V.act.    Adj.m.    Adj.m.
+Nom.Sg.      |      |    Acc.Sg. 3.Sg.opt. Nom.Sg. Nom.Sg.
+|__________|      |_____|             |            |________|
+         |___________|__________|___________|
+                   |          |__________|
+                   |__________|
+                            |_______________________________________________
+List of Abbreviations
+eka+ahaj     jivitaj     seyyo silavantassa jhayino
+|           |            |              |             |                |
+Num. N.n.      N.n.       Adj.n.    Adj.m.       Adj.m.
+|     Nom.Sg. Nom.Sg. Nom.Sg. Gen.Sg.      Gen.Sg.
+|______|            |              |             |_________|
+     |__________|               |                     |
+               |_____________|____________|
+                           |______|
+__________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+ca, conj.: and.
+vassasataj: vassasata-, N.n.: hundred years, century. It is a compound of:
+    vassa-, N.n.: year.
+    sata-, Num.n.: hundred.
+Acc.Sg. = vassasataj.
+jive, V.: should live. The verb root is jiv-. 3.Sg.act.opt. = jive.
+dussilo: dussila-, Adj.: of bad morality. It is the word sila-, N.n.: virtue,
+morality, with a prefix du- (bad). Euphonic combination: du- + sila- =
+dussila-. Nom.Sg.m. = dussilo.
+asamahito: asamahita-, Adj.: not settled, not firm. It is the word samahita-
+(Adj., p.p. of the verb dha-, to put, with the prefixes saj-, together and a-,
+towards. Thus samahita- means settled, composed, firm) with the negative prefix
+a-. Nom.Sg.m. = asamahito.
+List of Abbreviations
+ekahaj: ekaha-, N.n.: one day. It is a compound of:
+    eka-, Num.: one.
+    aha-, N.n.: day.
+Euphonic combination: eka- + aha- = ekaha-.
+Nom.Sg. = ekahaj.
+jivitaj: jivita-, N.n.: life. Originally it is a p.p. of the verb jiv- (to
+live). Nom.Sg. = jivitaj.
+seyyo: seyya-, Adj.: better. Nom.Sg.n. = seyyo.
+silavantassa: silavant-, Adj.: virtuous. As an N.m.: virtuous person. It is the
+word sila-, N.n.: virtue, with a possessive suffix -vant. Gen.Sg.m. =
+silavantassa.
+jhayino: jhayin-, Adj.m.: meditating. Derived from the verb jhe- (to meditate).
+Gen.Sg. = jhayino.
+List of Abbreviations
+    This verse consists of two related sentences. They both form the first and
+the second lines of this verse respectively.
+    In the first sentence, the subject is the relative pronoun yo (who,
+nominative singular). It has two attributes, the adjectives dussilo (with bad
+morality, nominative singular) and asamahito (not firm, nominative singular).
+The verb is jive (should live, 3rd person, singular, active, optative). It has
+an attribute, the compound vassasataj (hundred years, accusative singular). The
+conjunction ca (and) serves only for metrical purposes.
+    In the second line, the subject is the adjective/noun jivitaj (life,
+nominative singular). It has three attributes. First of them is the compound
+ekahaj (one day, nominative singular). Second and third are the adjectives
+silavantassa (of a virtuous one, genitive singular) and jhayino (of a
+meditating one, genitive singular). The object is the adjective seyyo
+(nominative singular). The verb is omitted, implying the verb "to be".
+===============================================================================
+
+
+Commentary:
+    A group of monks took a subject of meditation from the Buddha and went to a
+forest village to practice. There were robbers in the jungle around the
+village. They wanted to make a human sacrifice and they decided to offer one of
+the monks to the spirits of the forest. They went to the monastery and told the
+monks to select one of them who would follow them to the jungle and be
+sacrificed. All of the monks volunteered. There was a young novice with them,
+named Samkicca. Although he was very young, he was already an Arahant. He told
+the monks that Venerable Sariputta sent him to that place with the task to be
+the one to go with the robbers. Although the other monks did not like it a lot,
+still they trusted in Sariputta's judgment and so let Samkicca go.
+    The bloody sacrifice was prepared deep in the jungle and the leader of the
+robbers took a sword and wanted to cut the young novice's head. At that time,
+Samkicca was in deep meditation and the sword did not cut him, but just curled
+up. The robber took another sword and hit again - only to find that the sword
+has bent upward. Samkicca was still unharmed. The robbers were terrified; all
+of them knelt down at the novice's feet and asked for forgiveness. They also
+asked his permission to become monks. He complied with this request and
+returned to the monastery with the new monks.
+    Everybody was very happy that Samkicca was unharmed and that he managed to
+bring the robbers into the Sangha. They all left for Savatthi to pay homage to
+the Buddha and Venerable Sariputta. The Buddha then admonished them with this
+verse, saying that it is better to live just for one day, but virtuously and in
+meditation, than to live a very long life, but immorally and without any self-
+control.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yo
+ca
+vassasataj
+vassa
+sataj
+jive
+dussilo
+asamahito
+ekahaj
+eka
+ahaj
+jivitaj
+seyyo
+silavantasssa
+jhayino
+===============================================================================

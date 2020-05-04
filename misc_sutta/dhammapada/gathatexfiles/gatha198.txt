@@ -1,0 +1,91 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+              ****** susukhaj vata jivama aturesu anatura ******
+               ****** aturesu manussesu viharama anatura ******
+                            ****** (DhP 198) ******
+===============================================================================
+
+
+Sentence Translation:
+Very happily indeed we live, healthy amongst diseased ones.
+Amongst diseased people we dwell healthy.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+susukhaj vata   jivama   aturesu  anatura
+|                  |           |            |            |
+Adv.         part.  V.act.in.  Adj.m.  Adj.m.
+|__________|     1.Pl.pres. Loc.Pl. Nom.Pl.
+         |___________|             |            |
+                   |_____________|            |
+                                |_____________|
+List of Abbreviations
+aturesu manussesu  viharama  anatura
+|                   |                |             |
+Adj.m.      N.m.      V.act.in.    Adj.m.
+Loc.Pl.    Loc.Pl.    1.Pl.pres.  Nom.Pl.
+|___________|               |              |
+          |______________|              |
+                       |_______________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+susukhaj, Adv.: very happily. It is derived from the word sukha-, Adj.: happy,
+with the prefix su- (well, good).
+vata, part.: indeed, certainly.
+jivama, V.: (we) live. The verb root is jiv-. 1.Pl.act.in.pres. = jivama.
+aturesu: atura-, Adj.: diseased, sick, miserable, affected. Loc.Pl.m. =
+aturesu.
+List of Abbreviations
+anatura: anatura-, Adj.: healthy, not sick. It is the word atura- (see above)
+with the negative prefix an-. Nom.Pl.m. = anatura.
+aturesu: see above.
+manussesu: manussa-, N.m.: human, person, man. Loc.Pl. = manussesu.
+viharama, V.: (we) stay, dwell, live. The verb root is har- (to carry) with the
+prefix vi- (denoting separation). Thus viharati, V.: to live, to stay, to
+dwell. 1.Pl.act.in.pres. = viharama.
+anatura: see above.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) susukhaj vata jivama aturesu anatura(very happily indeed we live,
+healthy amongst diseased ones). The subject is the adjective anatura (healthy,
+nominative plural). The verb is jivama (we live, 1st person, plural, active,
+indicative, present tense). It has two attributes, the adverb susukhaj (very
+happily) and the adjective aturesu (amongst diseased ones, locative plural).
+The particle vata (indeed) serves mainly for metrical purposes.
+    2) aturesu manussesu viharama anatura (amongst diseased people we dwell
+healthy). The subject is the adjective anatura (healthy, nominative plural).
+The verb is viharama (we dwell, 1st person, plural, active, indicative, present
+tense). It has an attribute, the noun manussesu (amongst people, locative
+plural). This word has itself an attribute, the adjective aturesu (amongst
+diseased ones, locative plural).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 197) and also the following verse (DhP 198).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+susukhaj
+vata
+jivama
+aturesu
+anatura
+manussesu
+viharama
+===============================================================================

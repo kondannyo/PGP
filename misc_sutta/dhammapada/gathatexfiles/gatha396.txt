@@ -1,0 +1,174 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** na cahaj brahmanaj brumi yonijaj mattisambhavaj ******
+            ****** bhovadi nama so hoti sace hoti sakibcano ******
+           ****** akibcanaj anadanaj tam ahaj brumi brahmanaj ******
+                            ****** (DhP 396) ******
+===============================================================================
+
+
+Sentence Translation:
+I do not call one a Brahmin only because on account of birth, because he is
+born from [a Brahmin] mother.
+If he has attachments, he is to be called only "self-important".
+One who is without attachments and without clinging - him do I call a Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na       ca    ahaj brahmanaj brumi    yoni+jaj    matti+sambhavaj
+|           |         |             |              |          |       
+|         |             |
+neg.  conj.   Pron.     N.m.     V.act.in.  N.f. Adj.m. N.f.     Adj.m.
+|           |    Nom.Sg. Acc.Sg. 1.Sg.pres.    |   Acc.Sg.   |       Acc.Sg.
+|______|_____|________|_______|           |____|         |________|
+                     |               |                            |___________|
+
+                     |               |______________________|
+                     |____________________|
+List of Abbreviations
+bho+vadi       nama      so           hoti       sace      hoti     sakibcano
+|          |              |           |               |            |          
+|              |
+Ind. Adj.m.     N.n.    Pron.m.   V.act.in.   part.  V.act.in.    Adj.m.
+|     Nom.Sg. Acc.Sg. Nom.Sg.  3.Sg.pres.     |    3.Sg.pres. Nom.Sg.
+|______|              |          |                |            |          
+|________|
+     |___________|           |                |            |__________|
+               |____________|_________|                     |
+                            |_____|                                     |
+                                 |_______________________|
+List of Abbreviations
+akibcanaj anadanaj   tam     ahaj       brumi brahmanaj
+|                       |             |           |               |           
+|
+Adj.m.         Adj.m.  Pron.m.   Pron.     V.act.in.   N.m.
+Acc.Sg.       Acc.Sg.  Acc.Sg. Nom.Sg. 1.Sg.pres. Acc.Sg.
+|_____________|             |           |               |            |
+            |______________|           |               |            |
+                        |______________|________|_______|
+                                                  |       |____|
+                                                  |______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+ca, conj.: and.
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+Euphonic combination: ca + ahaj = cahaj.
+brahmanaj: brahmana-, Nj.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+yonijaj: yonija-, Adj.: born from the womb, on account of birth. It is a
+compound of:
+    yoni-, N.f.: origin, womb.
+    -ja-, Adj.suf.: born, proceeding. It is derived from the verb root jan- (to
+give birth, to produce).
+Acc.Sg.m. = yonijaj.
+List of Abbreviations
+mattisambhavaj: mattisambhava-, Adj.: born from a mother. It is a compound of:
+    matar-, N.f.: mother.
+    sambhava-, N.m.: origin, production. It is derived from the verb root bhu-
+(to be) with the prefix sam- (together).
+    Euphonic combination: matar- + sambhava- = mattisambhava-.
+Acc.Sg. = mattisambhavaj.
+bhovadi: bhovadin-, Adj.: a Brahmin, self-important, one who addresses other
+with the word bho (implying supposed superiority of the speaker). It is a
+compound of:
+    bho, Ind.: sir, friend, a familiar term of address.
+    vadin-, Adj.: speaking. It is derived from the verb root vad- (to say).
+Nom.Sg.m. = bhovadi.
+nama: nama-, N.n.: name. Acc.Sg. = nama (named, called).
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+List of Abbreviations
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+sace, part.: if.
+sakibcano: sakibcana-, Adj.: having something [i.e. having attachments]. It is
+the word kibcana-, N.n.: something, anything with the possessive prefix sa-
+(with). Nom.Sg.m. = sakibcano.
+akibcanaj: akibcana-, Adj.: having nothing [i.e. having no attachments]. It is
+the word kibcana-, N.n.: something, anything with the negative prefix a-.
+Acc.Sg.m. = akibcanaj.
+anadanaj: anadana-, Adj.: free from clinging. It is the word adana-, N.n.:
+attachment, clinging (this word is derived from the verb da-, to give with the
+prefix a-, towards; the meaning of the verb is "to take, to grasp") negated by
+the negative prefix an-. Acc.Sg.m. = anadanaj.
+tam: tad-, Pron.: it. Masculine form: so, he. Acc.Sg. = tam (him).
+List of Abbreviations
+This verse consists of three syntactically separate sentences. They are:
+    1) na cahaj brahmanaj brumi yonijaj mattisambhavaj (I do not call one a
+Brahmin only because on account of birth, because he is born from [a Brahmin]
+mother). The subject is the pronoun ahaj (I, nominative singular). The verb is
+brumi ([I] say, 1st person, singular, active, indicative, present tense). It is
+negated by the negative particle na (not). The object is the noun brahmanaj
+(Brahmin, accusative singular). There are two objects, the compounds yonijaj
+(born from the womb, accusative singular) and mattisambhavaj (born from a
+mother, accusative singular). The conjunction ca (and) serves mainly for
+metrical purposes.
+    2) bhovadi nama so hoti sace hoti sakibcano (if he has attachments, he is
+to be called only "self-important"). This can be further analyzed into two
+parts:
+    a) bhovadi nama so hoti (he is to be called only "self-important"). The
+subject is the personal pronoun so (he, nominative singular). The verb is hoti
+(is, 3rd person, singular, active, indicative, present tense). The object is
+the adjective bhovadi (self-important, nominative singular) with its attribute,
+the noun nama (named, accusative singular).
+    b) sace hoti sakibcano (if he has attachments). The subject is omitted,
+implying the subject of the previous sentence. The verb is hoti (is, 3rd
+person, singular, active, indicative, present tense). The object is the
+adjective sakibcano (with attachments, nominative singular). The particle sace
+(if) connects the sentence to the previous one.
+    3) akibcanaj anadanaj tam ahaj brumi brahmanaj (one who is without
+attachments and without clinging - him do I call a Brahmin). The subject is the
+pronoun ahaj (I, nominative singular). The verb is brumi ([I] say, 1st person,
+singular, active, indicative, present tense). The object is the noun brahmanaj
+(Brahmin, accusative singular). It has three attributes, the pronoun tam (him,
+accusative singular) and the adjectives akibcanaj (without attachments,
+accusative singular) and anadanaj (without clinging, accusative singular).
+===============================================================================
+
+
+Commentary:
+A certain Brahmin once asked Buddha why he called his disciples "Brahmins". Was
+it then not proper that he should be called "a Brahmin" too, since he was born
+from Brahmin parents? The Buddha replied with this verse, saying that a true
+Brahmin is one who overcame all his attachments, not the one who was born from
+Brahmin parents.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+ca
+ahaj
+brahmanaj
+brumi
+yonijaj
+yoni
+jaj
+mattisambhavaj
+matti
+sambhavaj
+bhovadi
+bho
+vadi
+nama
+so
+hoti
+sace
+sakibcano
+akibcanaj
+anadanaj
+tam
+===============================================================================

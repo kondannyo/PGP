@@ -1,0 +1,125 @@
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+            ****** pare ca na vijānanti mayaṃ ettha yamāmase ******
+          ****** ye ca tattha vijānanti tato sammanti medhagā ******
+                             ****** (DhP 6) ******
+===============================================================================
+
+Translation:
+The others do not understand that we should restrain ourselves here.
+Those who understand that, therefore appease their quarrels.
+===============================================================================
+
+Sentence structure:
+
+List of Abbreviations
+pare         ca         na         vijānanti     mayaṃ     ettha     yamāmase
+|                |            |                |               |            
+|                |
+Adj.       conj.     neg.        V.act.in.      Pron.      Adv.     V.med.opt.
+Nom.Pl.    |            |          3.Pl.pres.    Nom.Pl.      |         
+3.Pl.pres.
+|_________|           |_________|               |________|________|
+        |_______________|                                 |___|
+
+                     |____________________________|
+List of Abbreviations
+ye                 ca    tattha         vijānanti         tato        
+sammanti         medhagā
+|                     |        |                  |                
+|                   |                     |
+rel.Pron.     conj.  Adv.          V.act.in.        Adv.           
+V.act.in.          N.m.
+Nom.Pl.         |        |             3.Pl.pres.         |              
+3.Pl.pres.       Nom.Pl.
+|___________|         |__________|                 |                  
+|____________|
+         |________________|                           |_________________|
+                       |________________________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+pare: para-, Adj.: other. Nom.Pl.m. = pare.
+ca, conj.: and.
+na, neg.: not.
+vijānanti: the verb ñā- or jā- (to know) with the prefixvi- (intensifying
+prefix). To understand, to realize. 3.Pl.act.in.pres. = vijānanti.
+mayaṃ: Pron. ahaṃ, I. Nom.Pl. = mayaṃ (we).
+List of Abbreviations
+ettha: Adv.: here, in this place.
+yamāmase: the verb yam- (to restrain, to control). This form is used only in
+this place and there is no consensus about its etymology. Probably it is
+3.Pl.opt.med.pres. (We should restrain ourselves). But some translate it "We
+must die" (deriving it from the word yama-, N.m.: death, the god of death).
+ye: rel.Pron. yad-, that which. Nom.Pl.m. = ye (those [people] who).
+ca: see above.
+List of Abbreviations
+tattha: Adv.: there, in this, about that.
+vijānanti: see above.
+tato, Adv.: originally Abl.Sg. of tat- (it), literally "from that". Because of
+that, thence, thereupon, afterwards.
+sammanti: the verb sam- (to be appeased). 3.Pl.act.in.pres. = sammanti.
+medhagā: medhaga-, N.m.: quarrel, strife. Nom.Pl. = medhagā. Note the passive
+structure of this verse (literally: those who understand this, therefore
+[their] quarrels are appeased).  
+List of Abbreviations
+    The first line consists of two sentences ("pare ca na vijānanti" and "mayaṃ
+ettha yamāmase"). In the first sentence the subject is pare (others, nominative
+plural) and the verb isvijānanti (understand; 3rd person, plural, active voice,
+indicative, present tense). The verb is negated by the negative particlena
+(not). The conjunctionca (and) connects this verse to the previous one (this
+chapter contains pairs of verses connected in meaning to each other).
+    The second verse has as its subject the word mayaṃ (we, nominative plural).
+The verb is yamāmase (we should restrain [ourselves]), it is probably 3rd
+person, plural, optative (used for hypothetical action, for suggesting
+something. It can be translated by "should", "would" and "may"), medium voice
+(this voice was originally -- in Sanskrit -- used to express the action done
+for the oneself -- ie. in case one wants to say "I do for myself" one would use
+medium voice, in case of "I do for somebody else" the active voice would be
+used). The adverb ettha (here) is an attribute to the verb.
+    The second line again brings two sentences ("ye ca tattha vijānanti" and
+"tato sammanti medhagā"). In the first one, the subject is ye (those, who,
+nominative plural) and the verb is vijānanti(understand, same as above). The
+conjunction ca (and) connects it to the previous line.
+    In the second sentence, the subject is medhagā (quarrels, nominative
+plural) and the verb sammanti (are appeased, 3rd person, plural, active voice,
+indicative, present tense). The adverb tato (therefore) connects this sentence
+to the previous one.
+===============================================================================
+
+Commentary:
+    This verse is related to the previous one (DhP 5), even if this relation is
+not apparent immediately. In DhP 5 we are told that hatred can not be appeased
+by hatred but only by abstention from hatred. Here it says that some people do
+not understand this, do not know that we should restrain ourselves, that we
+should not give in to hatred. Those who realize that, of course, stop their
+enmity and quarreling, thus stopping hatred completely.
+    By the word "others" the authors probably meant the people, who do not
+realize this eternal law (that hatred can be appeased by non-hatred only). The
+use of the word "here" ("that we should restrain ourselves here") suggests this
+world, our present situation. It can also point to the previous verse -- then
+we should understand "here" as "this" (meaning this eternal law of appeasing
+hatred by non-hatred).
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+pare
+ca
+na
+vijānanti
+mayaṃ
+ettha
+yamāmase
+ye
+tattha
+tato
+sammanti
+medhagā
+===============================================================================

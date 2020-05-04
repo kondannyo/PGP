@@ -1,0 +1,131 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+            ****** anavaṭṭhitacittassa saddhammaṃ avijānato ******
+             ****** pariplavapasādassa paññā na paripūrati ******
+                            ****** (DhP 38) ******
+===============================================================================
+
+Sentence Translation:
+The wisdom of a person, whose mind is unsteady, who does not understand the
+True Dharma and whose confidence is wavering will not become perfect.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+an+avaṭṭhita+cittassa  sad+dhammaṃ  a+vijānato
+|           |            |         |            |          |         |
+neg.   Adj.      N.m.   Adj.     N.m.     neg.  Adj.m.
+|______|       Gen.Sg.   |       Acc.Sg.     |    Gen.Sg.
+     |__________|         |_______|          |_____|
+              |                         |____________|
+              |____________________|______________________________________
+List of Abbreviations
+pariplava+pasādassa    paññā    na    paripūrati
+   |                  |                |         |           |
+Adj.              N.m.        N.f.    neg.   V.act.in.
+   |               Gen.Sg.  Nom.Sg.   |     3.Sg.pres.
+   |__________|                |         |______|
+_______|                         |               |
+     |__________________|               |
+                     |__________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+anavaṭṭhitacittassa: anavaṭṭhitacitta-, N.m.: a person of unsteady or unsettled
+mind. It is a compound of:
+    anavaṭṭhita-, Adj.: unsteady, unsettled. It is a negated (by the negative
+prefix an-)
+    word avaṭṭhita-, Adj.: steady, firm, settled. This word is a p.p. of the
+verb
+    ṭhā- (to stand) with the prexif ava- (down).
+    citta-, N.n.: mind.
+Gen.Sg. = anavaṭṭhitacittassa.
+saddhammaṃ: saddhamma-, N.m.: true Dharma. It is a compound of:
+    sad-, Adj.: good, true. Original meaning: existing. The full form (sant-
+) is an a.pr.p.
+    of the verb as- (to be). The compound form of sant- = sat-.
+    dhamma-, N.m.: Dharma, Buddha's teaching.
+Euphonic combination:sat- +dhamma- = saddhamma-.
+Acc.Sg. = saddhammaṃ.
+List of Abbreviations
+avijānato: avijānant-, Adj.: not understanding. It is a negated (by the
+negative prefix a-) word vijānant-, Adj.: knowing, which is an a.pr.p. of the
+verb ñā- (to know) with the prefix vi- (intensifying sense). Gen.Sg. =
+avijānato.
+pariplavapasādassa: pariplavapasāda-, Adj.:
+    pariplava-, Adj.: unsteady, wavering. Derived from the verb plu- (to float,
+to swim)
+    with the prefix pari- (around).
+    pasāda-, N.m.: confidence, faith. Derived from the verb sad- (to sit) with
+the
+    strengthening prefix pa-. Thus pa+sad-: to make clear, to become tranquil.
+Gen.Sg.m. = pariplavapasādassa.
+List of Abbreviations
+paññā: paññā, N.f.: wisdom. Nom.Sg. = paññā.
+na, neg.: not.
+paripūrati, V.: become full, become perfect. The verb pūr- (to fill) with the
+prefix pari- (all around). 3.Sg.act.in.pres. = paripūrati.
+List of Abbreviations
+    The subject of this sentence is the word paññā (wisdom, nominative
+singular) and the verb is paripūrati (becomes perfect, 3rd person, singular,
+active, indicative, present tense) which is negated by the negative particle
+na.
+    The subject has three attributes, namely: 1) anavaṭṭhitacittassa (of the
+unsteady-minded one, genitive singular), 2) avijānato (of the not understanding
+one, genitive singular); this word has its own attribute, the word saddhammaṃ
+(the true Dharma, accusative singular) and 3) pariplavapasādassa (of the one,
+whose confidence is wavering, genitive singular).
+===============================================================================
+
+Commentary:
+    A certain man from Sāvatthi was once looking for his ox lost in the forest.
+He got hungry so he went to a village monastery, where the monks gave him the
+remains of the morning meal. While eating, he realized that he was working hard
+every day, but did not even have enough food. What if he became a monk? So he
+asked the monks to grant him an ordination. As a monk he had plenty of food,
+soon he was quite fat.
+    After some time he grew tired of going for alms and so he decided to become
+a layman again. Later he again changed his mind, thinking the life too
+strenuous and became a monk. In this way he left the Order and came back six
+times.
+    While he was going back and forth, his wife became pregnant. Once he
+entered their bedroom when she was asleep. She was almost naked, snoring
+loudly, saliva trickling down the mouth. This and her bloated stomach made her
+look like a corpse. He was able to perceive impermanence and unpleasantness of
+the body. He was thinking that he was a monk for several times and only because
+of this woman he was not able to stay. So he left home for seventh time,
+repeating as he went the words "impermanence" and "suffering" and on the way to
+the monastery he attained the first stage of awakenment. But the monks did not
+want to permit him into the Order, joking: "You have been shaving your head so
+often, that it looks like a whetting stone." He asked once more and the monks
+granted him the ordination one last time. Within few days he attained
+arahantship.
+    The monks were surprised to see him staying so long, so they asked what
+happened. The man said he had no attachments any more, so why would he leave.
+But they did not believe him and asked the Buddha, who said it was the truth.
+The man was an arahant now, who discarded both the ideas of good and evil.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+anavaṭṭhitacittassa
+anavaṭṭhita
+cittassa
+saddhammaṃ
+avijānato
+pariplavapasādassa
+pariplava
+pasādassa
+paññā
+na
+paripūrati
+===============================================================================

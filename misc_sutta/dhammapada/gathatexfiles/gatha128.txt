@@ -1,0 +1,167 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+  ****** na antalikkhe na samuddamajjhe na pabbatanaj vivaraj pavissa ******
+  ****** na vijjati so jagatippadeso yatthatthitaj nappasaheyya maccu ******
+                            ****** (DhP 128) ******
+===============================================================================
+
+
+Sentence Translation:
+Not in the air, not in the middle of the ocean, not entering the hole in the
+mountains.
+There is no place in the world, where being, one would not be overcome by
+death.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na antalikkhe na samudda+majjhe   na pabbatanaj  vivaraj pavissa
+|           |          |        |              |        |        
+|                 |           |
+neg.   N.n.    neg.  N.m.      Adj.m. neg.   N.m.          N.n.    V.ger.
+|      Loc.Sg.    |         |        Loc.Sg.   |     Gen.Pl.     Acc.Sg.      |
+
+|______|          |         |_______|         |         |_________|           
+|
+                      |_________|               |__________|___________|
+                                                               |_____|
+List of Abbreviations
+na     vijjati         so      jagati+ppadeso yattha+tthitaj    na ppasaheyya
+maccu
+|            |              |           |          |           |           
+|          |          |             |
+neg. V.act.in.   Pron.m.  N.n.    N.m.   Rel.Adv. Adj.m. neg.   V.act.     
+N.m.
+|      3.Sg.pres. Nom.Sg.    |     Nom.Sg.    |        Acc.Sg.   |   
+3.Sg.opt.  Nom.Sg.
+|______|               |           |______|           |_______|        
+|           |            |
+      |                    |__________|                       |              
+|______|            |
+      |                             |                                
+|                    |__________|
+      |                             |                                
+|_________________|
+      |                             |___________________________|
+      |_____________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+antalikkhe: antalikkha-, N.n.: sky, atmosphere. Loc.Sg. = antalikkhe.
+na, neg.: not.
+samuddamajjhe: samuddamajjha-, Adj.: middle of the ocean. It is a compound of:
+    samudda-, N.m.: sea, ocean.
+    majjha-, Adj.: middle.
+Loc.Sg.m. = samuddamajjhe.
+na, neg.: not.
+pabbatanaj: pabbata-, N.m.: mountain. Gen.Pl. = pabbatanaj.
+List of Abbreviations
+vivaraj: vivara-, N.n.: opening, hole. Acc.Sg. = vivaraj.
+pavissa, V.ger.: having entered. The verb root is vis- (to enter) with the
+strengthening prefix pa-.
+na, neg.: not.
+vijjati, V.: exists, is found. The verb root is vid- (to find).
+3.Sg.pas.in.pres. = vijjati. The form vijjati is sometimes used in poetry.
+so:tad-, Pron.n.: it. Nom.Sg.m. = so.
+jagatippadeso: jagatippadesa-, N.m.: a place in the world. It is a compound of:
+
+    jagat-, N.n.: world. Compound form = jagati-.
+    padesa-, N.m.: place, spot, location, district.
+Euphonic combination: jagati-+ padesa- = jagatippadesa-.
+Nom.Sg. = jagatippadeso.
+List of Abbreviations
+yatthatthitaj: yatthatthita-, Adj.: where being. It is a compound of:
+    yattha, Rel.Adv.: where.
+    thita-, Adj.: being, lit. standing. It is a p.p. of the verb root tha- (to
+stand).
+Euphonic combination: yattha + thita- = yatthatthita-.
+Acc.Sg.m. = yatthatthitaj.
+na, neg.: not.
+pasaheyya, V.: would use force, would subdue, would overcome. The verb root is
+sah- (to conquer) with the emphasizing prefix pa-. 3.Sg.act.opt. = pasaheyya.
+Euphonic combination na + pasaheyya = nappasaheyya.
+maccu: maccu-, N.m.: death. Nom.Sg. = maccu.
+List of Abbreviations
+    In the first line of this verse, there are three syntactically isolated
+incomplete sentences. They are:
+    1) na antalikkhe (not in the air). The subject and verb are omitted. The
+verb "to be" is implied and it is negated by the negative particle na(not). It
+has an attribute, the noun antalikkhe (in the air, locative singular).
+    2)na samuddamajjhe (not in the middle of the ocean). The subject and verb
+are omitted. The verb "to be" is implied and it is negated by the negative
+particle na (not). It has an attribute, the compound samuddamajjhe (in the
+middle of the ocean, locative singular).
+    3) na pabbatanaj vivaraj pavissa (not entering the hole in the mountains).
+The subject is omitted. The verb is pavissa (having entered, gerundive). It is
+negated by the negative particle na (not). The object is the noun vivaraj (the
+hole, accusative singular) with its attribute, the noun pabbatanaj (of
+mountains, genitive plural).
+    The second line forms the main sentence. It can be further subdivided into
+two segments:
+    1) na vijjati so jagatippadeso (there is no place in the world). The
+subject is the compound jagatippadeso (a place in the world, nominative
+singular). It has an attribute, the personal pronoun so (that, nominative
+singular). The verb is vijjati (exists, 3rd person, singular, active,
+indicative, present tense). It is negated by the negative particle na (not).
+    2) yatthatthitaj nappasaheyya maccu (where being one would not be overcome
+by death). The subject is the noun maccu (death, nominative singular). The
+object is the compound yatthatthitaj (standing where, accusative singular). The
+verb is pasaheyya (would be overcome, 3rd person, singular, active, optative).
+It is negated by the negative particle na (not).
+===============================================================================
+
+
+Commentary:
+    Buddha had also some enemies. One of them was his own cousin Devadatta who
+wanted to take the Buddha's place in the Community. Devadatta's father was king
+Suppabuddha. He was also an enemy of the Buddha, because the Buddha married
+Suppabuddha's daughter, Yasodhara, and later left her and became a monk.
+    When the Buddha came for almsfood to his place, the king got drunk and
+blocked the way. He refused to make way for the Buddha. The Buddha turned
+around and went back, saying to the monks that the king make a bad karma by
+refusing to make way for a Buddha and would have to face the consequences very
+soon.
+    Suppabuddha wanted to prove the Buddha wrong, so he paid special attention
+to his deeds and also instructed his servants to protect him very carefully.
+But on the seventh day he heard his horse neighing loudly and kicking about. He
+wanted to handle the horse and went down to the stable. He fell down the stairs
+and died immediately.
+    The Buddha remarked that one can not escape death no matter how one tries,
+no matter where on hides.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+antalikkhe
+samuddamajjhe
+samudda
+majjhe
+pabbatanaj
+vivaraj
+pavissa
+vijjati
+so
+jagatippadeso
+jagati
+padeso
+yatthatthitaj
+yattha
+thitaj
+pasaheyya
+maccu
+===============================================================================
+
+ 

@@ -1,0 +1,113 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+              ****** atha vassa agarani aggi dahati pavako ******
+          ****** kayassa bheda duppabbo nirayaj so 'papajjati ******
+                            ****** (DhP 140) ******
+===============================================================================
+
+
+Sentence Translation:
+[continued from DhP 139]
+Or then a blazing fire will burn his houses.
+And after death this fool will be reborn in hell.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+atha  va       assa    agarani   aggi        dahati     pavako
+|         |           |            |           |              |             |
+Adv. conj. Pron.m.   N.n.     N.m.     V.act.in.   Adj.m.
+|_____|      Gen.Sg. Acc.Pl. Nom.Sg. 3.Sg.pres. Nom.Sg.
+|                    |_______|           |________|_______|
+|                          |______________|        |
+|                                      |____________|
+|___________________________|
+List of Abbreviations
+kayassa  bheda duppabbo nirayaj    so      upapajjati
+|                 |           |             |            |              |
+N.m.       N.m.   Adj.m.     N.m.   Pron.m.  V.act.in.
+Gen.Sg. Abl.Sg. Nom.Sg. Acc.Sg. Nom.Sg. 3.Sg.pres.
+|_________|            |_______|_______|              |
+        |_______________|____|_______________|
+                                    |       |_______|
+                                    |_______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+atha, Adv.: and also, and then.
+va, conj.: or.
+assa: idam-, Pron.: it. Gen.Sg.m. = assa (his).
+Euphonic combination: va + assa = vassa.
+agarani: agara- N.n.: house, home. Acc.Pl. = agarani.
+aggi: aggi-, N.m.: fire. Nom.Sg. = aggi.
+dahati, V.: burns. The verb root is dah- (or dah-), to burn. 3.Sg.act.in.pres.
+= dahati.
+pavako: pavaka-, Adj.: bright, shining. Nom.Sg.m. = pavako.
+List of Abbreviations
+kayassa: kaya-, N.m.: body. Gen.Sg. = kayassa.
+bheda: bheda-, N.m.: breaking, disunion. Abl.Sg. = bheda.
+The phrase kayassa bheda- ("disunion of the body") means "death" in the Pali
+texts.
+duppabbo: dupabba-, Adj.: unwise, lit. "with a bad wisdom". It is the word
+pabba-, N.f.: wisdom, with the prefix du- (bad, wrong). Euphonic combination:
+du- + pabba- = duppabba-.
+Nom.Sg.m. = duppabbo.
+nirayaj: niraya-, N.m.: hell. Acc.Sg. = nirayaj.
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+upapajjati, V.: to get to, to be reborn in. The verb root is pad- (to go to)
+with the prefix upa- (up). 3.Sg.act.in.pres. = upapajjati.
+Euphonic combination: so + upapajjati = so 'papajjati.
+List of Abbreviations
+    In this verse, there are two sentences. They are:
+    1) atha vassa agarani aggi dahati pavako (or then a blazing fire will burn
+his houses). This sentence is introduced by the phrase atha va ("or then", or).
+This phrase consists of the adverb atha (then) and the conjunction va (or). It
+also connects this verse to the previous one (DhP 139). The subject of this
+sentence is the noun aggi (fire, nominative singular). It has an attribute, the
+adjective pavako (blazing, bright, nominative singular). The verb is dahati
+(burns, 3rd person, singular, active, indicative, present tense). The object is
+the noun agarani (houses, accusative plural) with its attribute, the pronoun
+assa (his, genitive singular).
+    2) kayassa bheda duppabbo nirayaj so 'papajjati (and after death this fool
+will be reborn in hell). There is a double subject in this sentence, it
+consists of the adjective duppabbo (unwise, foolish, nominative singular) and
+the personal pronoun so (he, nominative singular). The verb is upapajjati (is
+reborn, 3rd person, singular, active, indicative, present tense). It has an
+attribute, the noun bheda (after the breaking up, ablative singular). This word
+has its own attribute, the noun kayassa (of the body, genitive singular). The
+object is the noun nirayaj (in hell, accusative singular).
+===============================================================================
+
+
+Commentary:
+The story for this verse is identical with the story for the previous verses
+(DhP 137, DhP 138, DhP 139), the story of Moggallana's untimely death.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+atha
+va
+assa
+agarani
+aggi
+dahati
+pavako
+kayassa
+bheda
+duppabbo
+nirayaj
+so
+upapajjati
+===============================================================================

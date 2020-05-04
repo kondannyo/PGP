@@ -1,0 +1,129 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** tatheva katapubbam pi asma loka paraj gataj ******
+            ****** pubbani patiganhanti piyaj bati va agataj ******
+                            ****** (DhP 220) ******
+===============================================================================
+
+
+Sentence Translation:
+Thus, the good deeds receive the well-doer, gone from this world to the other
+one,
+just like relatives receive a beloved one, who has come back.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+tatha  eva   kata+pubbam pi      asma     loka   paraj   gataj
+|           |        |          |        |          |           |          
+|           |
+Adv.  part. Adj.     N.m.  part. Pron.m.  N.m.   Adj.m.  Adj.m.
+|______|        |     Acc.Sg.   |     Abl.Sg. Abl.Sg. Acc.Sg. Acc.Sg.
+     |              |______|        |          |______|           |           
+|
+     |                   |________|                |_________|            |
+     |                           |                                |___________|
+
+     |                           |_______________________|
+     |                                             
+|_______________________________________
+     |_____________________________________________|
+List of Abbreviations
+pubbani patiganhanti piyaj     bati     va    agataj
+    |                 |             |           |          |         |
+ N.n.       V.act.in.   Adj.m.    N.m.    part. Adj.m.
+Nom.Pl.  3.Pl.pres. Acc.Sg. Nom.Pl.    |    Acc.Sg.
+__|__________|            |______|______|_____|
+    |____|                            |___|          |
+        |                                   |_______|
+        |_______________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+tatha, Adv. thus, in such way.
+eva, part.: just, only.
+Euphonic combination: tatha + eva = tatheva.
+katapubbam: katapubba-, N.m.: a good man, one who has done good deeds. A
+compound of:
+    kata-, Adj.: done. It is a p.p. of the verb root kar- (to do).
+    pubba-, N.n.: good deed, meritorious deed, merit.
+Acc.Sg. = katapubbam.
+pi, conj.: also.
+asma: idaj-, Pron.: this. Abl.Sg. = asma.
+loka: loka-, N.m.: world. Abl.Sg. = loka.
+List of Abbreviations
+paraj: para-, Adj.: different, other. Acc.Sg.m. = paraj.
+gataj: gata-, Adj.: gone. It is a p.p. of the verb root gam- (to go). Acc.Sg.m.
+= gataj.
+pubbani: pubba-, N.n.: good deed, meritorious deed, merit. Nom.Pl. = pubbani.
+patiganhanti, V.: receive, welcome, accept. The verb root is ganh- (to grasp,
+to hold) with the prefix pati- (on to, up to - reflexive sense).
+3.Pl.act.in.pres. = patiganhanti.
+piyaj: piya-, Adj.: dear, beloved, pleasant. Acc.Sg.m. = piyaj.
+bati: bati-, N.m.: relative. Nom.Pl. = bati.
+va, part.: as, like.
+agataj: agata-, Adj.: come. It is a p.p. of the verb root gam- (to go) with the
+prefix a- (towards). Acc.Sg.m. = agataj.
+List of Abbreviations
+    This verse consists of the main sentence and the clause.
+    1) tatheva katapubbam pi asma loka paraj gataj pubbani patiganhanti (thus,
+the good deeds receive the well-doer, gone from this world to the other one).
+The sentence is introduced by the adverb tatha (thus), which is further
+stressed by the particle eva (just). The subject is the noun pubbani (good
+deeds, nominative plural). The verb is patiganhanti (receive, 3rd person,
+plural, active, indicative, present tense). The object is the noun katapubbam
+(well-doer, accusative singular). It is stressed by the particle pi (also). The
+object has an attribute, the past participle gataj (gone, accusative singular).
+This word has the adjective paraj (to the other one, accusative singular) as an
+attribute. The noun loka (from the world, ablative singular) is an attribute to
+this adjective. And the pronoun asma (from this, ablative singular) is an
+attribute to the word loka.
+    2) piyaj bati va agataj (just like relatives receive a beloved one, who has
+come back). The subject is the noun bati (relatives, nominative plural). The
+verb is omitted, implying the verb patiganhanti from the main sentence. The
+object is the adjective piyaj (beloved one, accusative singular) with its
+attribute, the past participle agataj (come back, accusative singular). The
+particle va (like) connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 219).
+    Just like the rich man Nandiya from the story, we will reap the fruit of
+our good deeds - if not in this life, then in the next one. Our good deeds will
+"welcome" us immediately and we will be able to taste their outcome. Maybe we
+will have a mansion in heaven, like Nandiya. Or maybe we will be just a little
+bit wiser and more able to strive for our Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+tatha
+eva
+katapubbam
+kata
+pubbam
+pi
+asma
+loka
+paraj
+gataj
+pubbani
+patiganhanti
+piyaj
+bati
+va
+agataj
+===============================================================================

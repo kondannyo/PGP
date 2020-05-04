@@ -1,0 +1,134 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+       ****** asantaṃ bhāvanaṃ iccheyya purekkhāraṃ ca bhikkhusu ******
+            ****** āvāsesu ca issariyaṃ pūjaṃ parakulesu ca ******
+                            ****** (DhP 73) ******
+===============================================================================
+
+Sentence Translation:
+He might want undue respect, deference from monks,
+supremacy over dwellings and devotion from other families.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+asantaṃ bhāvanaṃ iccheyya purekkhāraṃ ca bhikkhusu
+|                   |               |                |            |        |
+Adj.f.        N.f.         V.act.         N.m.     conj.  N.m.
+Acc.Sg.   Acc.Sg.    3.Sg.opt.    Acc.Sg.       |    Loc.Pl.
+|__________|                |                |_______|____|
+         |______________|_____________|________________________________
+List of Abbreviations
+āvāsesu ca  issariyaṃ  pūjaṃ para+kulesu  ca
+|             |         |             |         |         |       |
+N.m.   conj.   N.m.      N.f.   Adj.    N.m. conj.
+Loc.Pl.   |    Acc.Sg.  Acc.Sg.    |    Loc.Pl.  |
+|_______|_____|             |          |_____|       |
+         |                           |________|_______|
+_____|_____________________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+asantaṃ: asant-, Adj.: nonexistent, undue. It is a negated (by the negative
+prefix a-) active present participle sant- (being, existing). Acc.Sg.f. =
+asantaṃ.
+bhāvanaṃ: bhāvanā-, N.f.: respect, lit. "putting one's thoughts to". It is
+derived from the verb bhāveti (to put one's thoughts to, to develop, to
+meditate). Acc.Sg. = bhāvanaṃ.
+iccheyya, V.: might want. The verb root is is-. 3.Sg.act.opt. =iccheyya.
+purekkhāraṃ: purekkhāra-, N.m.: devotion, deference. It is a noun derived from
+the verb purekkharoti (to honor). The verb root is kar- (to do) with the prefix
+pure- (in front). So the literal meaning is "to put in front", therefore "to
+honor".
+Acc.Sg. = purekkhāraṃ.
+List of Abbreviations
+ca, conj.: and.
+bhikkhusu: bhikkhu-, N.m.: a (Buddhist) monk. Loc.Sg. = bhikkhusu.
+āvāsesu: āvāsa-, N.m.: dwelling, residence. It is derived from the verb vas-(to
+stay) with the prefix
+ā-(at). Loc.Pl. = āvāsesu.
+ca: see above.
+issariyaṃ: issariya-, N.m.: mastership, rulership, supremacy. It is derived
+from the noun issara-, N.m.: lord, master, ruler. Acc.Sg. = issariyaṃ.
+List of Abbreviations
+pūjaṃ: pūjā-, N.f.: worship, devotion. It is derived from the verb root pūj-
+(to worship).
+Acc.Sg. = pūjaṃ.
+parakulesu: parakula-, N.m.: different clan, different family. It is a compound
+of:
+    para-, Adj.: different, other.
+    kula-, N.m.: clan, family.
+Loc.Pl. = parakulesu.
+ca: see above
+List of Abbreviations
+    The subject of this sentence is omitted, implying any personal pronoun. The
+verb is iccheyya(might want, 3rd person, singular, active, optative). There are
+several objects. 1) First one is the noun bhāvanaṃ (respect, accusative
+singular) with its attribute, the active present participle asantaṃ (undue,
+nonexistent, accusative singular). 2) Second object is purekkhāraṃ (deference,
+accusative singular) with the noun bhikkhusu (amongst monks, locative plural)
+as its attribute. The conjunction ca (and) connects this object to the previous
+one. 3) Third object is the noun issariyaṃ (supremacy, accusative singular)
+with its attribute āvāsesu (amongst dwellings, locative plural) and the
+conjunction ca (and), connecting it to the previous objects. 4) Last object is
+the noun pūjaṃ (devotion, accusative singular). It has the noun parakulesu
+(amongst other families, locative plural) as an attribute. The conjunction ca
+(and) connects this object to the previous ones.
+
+===============================================================================
+
+Commentary:
+    A householder named Citta once met Venerable Mahānāma, one of the first
+Buddha's disciples. When listening to the discourse given by him, Citta
+realized the Dharma. Therefore, he built a monastery in his mango grove and
+installed a monk named Sudhamma as the resident monk.
+    On day, Venerable Moggallāna and Venerable Sāriputta came to the monastery.
+They gave a discourse and after hearing it, Citta attained the third stage of
+Awakenment. He then invited Moggallāna and Sāriputta to his house for alms food
+the next day. After that he also invited Sudhamma, but he refused, saying that
+he was invited only after the other two were. Citta repeated his invitation,
+but Sudhamma again turned it down.
+    But the next day Sudhamma came to the Citta's house nevertheless. He was
+invited inside, but he refused, saying that he was on his alms round. But when
+he saw tasty food being prepared for Moggallāna and Sāriputta he got envious
+and angry. He told Citta that he did not want to live in his monastery any
+longer.
+    Sudhamma then reported to the Buddha what happened. The Buddha told him,
+"You have offended a faithful and generous lay disciple. You must go back and
+apologize for your mistake!" Sudhamma did so, but Citta felt that he still did
+not realize his mistake fully and refused his apology. Sudhamma went back to
+the Buddha, who admonished him with this verse (and the following one, see DhP
+74). He said, "You should not be attached to this or that dwelling, to this or
+that lay disciple - in this way the pride and envy will increase."
+    Sudhamma went back to the Citta's house and this time Citta accepted the
+apology. Not long after that, Sudhamma attained Arahantship.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+asantaṃ
+bhāvanaṃ
+iccheyya
+purekkhāraṃ
+ca
+bhikkhusu
+āvāsesu
+issariyaṃ
+pūjaṃ
+parakulesu
+para
+kulesu
+
+===============================================================================

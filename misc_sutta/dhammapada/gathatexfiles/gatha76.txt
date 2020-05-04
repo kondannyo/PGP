@@ -1,0 +1,166 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+         ****** nidhīnaṃ va pavattāraṃ yaṃ passe vajjadassinaṃ ******
+          ****** niggayhavādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje ******
+            ****** tādisaṃ bhajamānassa seyyo hoti na pāpiyo ******
+                            ****** (DhP 76) ******
+===============================================================================
+
+Sentence Translation:
+Should one see an intelligent person, who speaks rebukingly,
+who can see faults as if showing treasures, one should associate with such a
+wise one.
+Associating with such people is better, not worse.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+nidhīnaṃ va  pavattāraṃ  yaṃ         passe  vajja+dassinaṃ
+|               |           |             |                |         |         
+|
+N.m.      part.    N.m.    Rel.Pron.    V.act.   N.n.  Adj.m.
+Gen.Pl.     |      Acc.Sg.   Acc.Sg.   3.Sg.opt.   |     Acc.Sg.
+|_________|______|            |                |         |______|
+         |____|                       |                |                |
+             |_______________|_________|_________|
+                                        |                 |         
+|___________________________________I.
+                                        |_________|_________________|
+                                               |_____|
+                                                   
+|____________________________________________II.
+List of Abbreviations
+niggayha+vādiṃ medhāviṃ tādisaṃ paṇḍitaṃ  bhaje
+|                  |             |             |             |            |
+Adj.       Adj.m.      N.m.     Adj.m.     N.m.     V.act.
+|            Acc.Sg.    Acc.Sg.  Acc.Sg.   Acc.Sg. 3.Sg.opt.
+|__________|             |             |________|           |
+I.____|____________|                      |__________|
+II.________________________________|
+List of Abbreviations
+tādisaṃ bhajamānassa seyyo      hoti       na   pāpiyo
+|                     |               |             |          |         |
+Adj.m.       Adj.m.      Adj.m.   V.act.in. neg.  Adj.m.
+Acc.Sg.     Gen.Sg.    Nom.Sg. 3.Sg.pres. |     Nom.Sg.
+|___________|                 |            |          |_____|
+          |                           |_______|________|
+          |_________________________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+nidhīnaṃ: nidhi-, N.m.: treasure. Gen.Pl. = nidhīnaṃ.
+va, part.: as, like.
+pavattāraṃ: pavattar-, N.m.: one who shows, one who tells about. It is derived
+fom the verb vac- (to say) with the prefix pa- (out). Acc.Sg. = pavattāraṃ.
+yaṃ: yat-, Rel.Pron.: that, which. Acc.Sg.m.: yaṃ.
+passe, V.: should see. The verb root is dis- (to see). 3.Sg.act.opt =passe.
+List of Abbreviations
+vajjadassinaṃ: vajjadassin-, N.m.: one who sees faults. It is a compound of:
+    vajja-, N.n.: fault, what should be avoided.
+    dassin-, Adj.: seeing. It is derived from the verb das- (to see) by adding
+the
+    denominative suffix -in.
+Acc.Sg. = vajjadassinaṃ.
+niggayhavādiṃ: niggayhavādin-, N.m.: one who speaks rebukingly, censuring. It
+is a compound of:
+    niggayha-, Adj.: what should be rebuked, censured. It is a grd. of the verb
+
+    niggaṇhāti (to rebuke, to censure).
+    vādin-, Adj.: speaking. It is derived from the verb root vad- (to say).
+Acc.Sg. = niggayhavādiṃ.
+medhāviṃ: medhāvin-, N.m.: intelligent person, wise one. Acc.Sg. = medhāviṃ.
+tādisaṃ: tādisa-, Adj.: such. Acc.Sg.m. =tādisaṃ.
+List of Abbreviations
+paṇḍitaṃ: paṇḍita-, N.m.: wise man, learned man. Acc.Sg. =paṇḍitaṃ.
+bhaje, V.: one should associate with. The verb root is bhaj- (to associate
+with). 3.Sg.act.opt. = bhaje.
+tādisaṃ: see above.
+bhajamānassa: bhajamāna-, Adj.: associating with. It is a med.pr.p. of the verb
+bhaj- (to associate with). Gen.Sg.m. = bhajamānassa.
+seyyo: seyya-, Adj.: better. Nom.Sg.m. = seyyo.
+hoti, V.: is. The verb root is bhū- (to be). 3.Sg.act.in.pres. = hoti.
+na, neg.: not.
+pāpiyo: pāpiya-, Adj.: worse. Nom.Sg.m. = pāpiyo.
+List of Abbreviations
+    This verse consists of two sentences. The first two lines form the first
+one and the second line contains the second one.
+    The first sentence can be subdivided into two sentences.
+    1) nidhīnaṃ va pavattāraṃ yaṃ passe vajjadassinaṃ niggayhavādiṃ medhāviṃ
+(should one see an intelligent person, who speaks rebukingly who can see faults
+as if showing treasures). The subject is omitted; any personal pronoun can be
+implied. The verb is passe (one should see, 3rd person, singular, active,
+optative). The main object is the relative pronoun yaṃ (whom, accusative
+singular). This object has three attributes: medhāviṃ (intelligent one,
+accusative singular), niggayhavādiṃ (speaking rebukingly, accusative singular)
+and vajjadassinaṃ (seeing faults, accusative singular). This last word has an
+attribute clause, nidhīnaṃ va pavattāraṃ (like showing treaures). Here the main
+attribute is pavattāraṃ (one who shows, accusative singular). It has the
+nounnidhīnaṃ (of treasures, genitive plural) as an attribute. The particle va
+(like) connects the clause to the word vajjadassinaṃ.
+    2) tādisaṃ paṇḍitaṃ bhaje (one should associate with such a wise one).
+Again, the subject is omitted. The verb is bhaje (one should associate, 3rd
+person, singular, active, optative). The object is paṇḍitaṃ (wise one,
+accusative singular) with its attribute, the adjective tādisaṃ (such,
+accusative singular).
+    In the second sentence, the subject is the adjective seyyo (better,
+nominative singular). The noun pāpiyo (worse, nominative singular), negated by
+the negative particlena (not), forms an attribute to the subject. The verb is
+hoti(is, 3rd person, singular, active, indicative, present tense). The object
+is the medium present participle bhajamānassa (of the one who associates,
+genitive singular) with the adjective tādisaṃ (such, accusative singular) as an
+attribute.
+
+===============================================================================
+
+Commentary:
+    A poor old man named Rādha was staying in the monastery doing manual work,
+like sweeping, cutting the grass etc. He wanted to become a monk, but the
+elders were not willing to admit him.
+    One day the Buddha saw that Rādha had a potential to become an arahant, so
+he called the monks and asked them if any of them recollects a good deed done
+by Rādha. Venerable Sāriputta said that Rādha once offered him some rice. The
+Buddha then asked if it wasn't proper to repay the kindness by accepting the
+man into the Order and show him the way out of suffering. So Rādha became a
+monk under Venerable Sāriputta. He strictly followed Sāriputta's guidance and
+in a very short time he attained arahantship.
+    When the Buddha heard about this he explained by this verse that a monk
+should always be attentive to guidance by his betters and not resent rebukes
+for his faults.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+nidhīnaṃ
+va
+pavattāraṃ
+yaṃ
+passe
+vajjadassinaṃ
+vajja
+dassinaṃ
+niggayhavādiṃ
+niggayha
+vādiṃ
+medhāviṃ
+tādisaṃ
+paṇḍitaṃ
+bhaje
+bhajamānassa
+seyyo
+hoti
+na
+pāpiyo
+
+===============================================================================

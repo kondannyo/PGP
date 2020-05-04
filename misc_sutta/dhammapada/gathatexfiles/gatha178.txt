@@ -1,0 +1,128 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** pathavya ekarajjena saggassa gamanena va ******
+            ****** sabbalokadhipaccena sotapattiphalaj varaj ******
+                            ****** (DhP 178) ******
+===============================================================================
+
+
+Sentence Translation:
+From sole sovereignty over the earth, or from going to heaven,
+from lordship over the whole world, the fruit of Entering the Stream is the
+best.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+pathavya eka+rajjena saggassa gamanena va
+|                |         |           |             |          |
+N.f.       Num.  N.n.     N.m.       N.n.    conj.
+Gen.Sg.     |    Ins.Sg. Gen.Sg.   Ins.Sg.     |
+|                |_____|           |_______|          |
+|____________|                      |_________|
+           |_______________________|_______________________________
+List of Abbreviations
+sabba+loka+adhipaccena sota+apatti+phalaj   varaj
+|            |              |            |         |         |             |
+Adj.   N.m.        N.n.      N.n.   N.f.    N.n.      Adj.n.
+|_______|         Ins.Sg.       |_____|   Nom.Sg. Nom.Sg.
+       |___________|                |________|             |
+_________|                                   |                    |
+        |________________________|___________|
+                            |_____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+pathavya: pathavi-, N.f.: earth, world. Gen.Sg. = pathavya.
+ekarajjena: ekarajja-, N.n.: sole sovereignty. It is a compound of:
+    eka-, Num.: one.
+    rajja-, N.n.: sovereignty, kingship, reign.
+Ins.Sg. = ekarajjena.
+saggassa: sagga-, N.m.: heaven. Gen.Sg. = saggassa.
+gamanena: gamana-, N.n.: going. It is derived from the verb root gam- (to go).
+Ins.Sg. = gamanena.
+va, conj.: or.
+List of Abbreviations
+sabbalokadhipaccena: sabbalokadhipacca-, N.n.: lordship over the whole world.
+It is a compound of:
+    sabba-, Adj.: all.
+    loka-, N.m.: world.
+   adhipacca-, N.n.: supreme rule, lordship.
+Ins.Sg. = sabbalokadhipaccena.
+sotapattiphalaj: sotapattiphala-, N.n.; the fruit of Entering the Stream. It is
+a compound of:
+    sotapatti-, N.f.: Entering the Stream, the first level of Awakenment. It is
+a compound of:
+        sota-, N.n.: stream.
+        apatti-, N.f.: entering. It is derived from the verb root pat- (to
+fall, to go) with the prefix a- (to, towards).
+    phala-, N.n.: fruit.
+Nom.Sg. = sotapattiphalaj.
+varaj: vara-, Adj.: best. Nom.Sg.n. = varaj.
+List of Abbreviations
+    The subject of this sentence is the compound sotapattiphalaj (the fruit of
+Entering the Stream, nominative singular). The verb is omitted, implying the
+verb "to be". The object is the adjective varaj (the best, nominative
+singular). The object has three attributes:
+    1) the compound ekarajjena (from sole sovereignty, instrumental singular)
+with its attribute, the noun pathavya (of the earth, genitive singular),
+    2) the noun gamanena (from going, instrumental singular) with its
+attribute, the noun saggassa (of heaven, genitive singular), which is connected
+to the previous attribute by the conjunction va (or),
+    3) the compound sabbalokadhipaccena (from lordship over the whole world,
+instrumental singular).
+===============================================================================
+
+
+Commentary:
+    Anathapindika was a very famous benefactor of the Buddha and his followers.
+But his son Kala did not have any interest in the teaching of the Buddha and
+would never come to attend the almsgiving ceremonies. His father was afraid
+that Kala would never be able to understand the Dharma. So he promised his son
+one hundred pieces of gold if he went to the monastery for one day. The young
+man did so, but did not pay any attention to what was being said there.
+    At another time Anathapindika promised Kala one thousand pieces of gold if
+he could recite one verse of the Buddha's teaching. Because the Buddha knew
+Kala was interested only in the money, he made it impossible for him to
+memorize anything. Thus Kala went to the monastery very often and gradually he
+was able to understand the Dharma and attained the first level of Awakenment,
+called Entering the Stream.
+    In the morning of that day, he accompanied the Buddha and some monks to his
+father's house for the almsgiving. When his father offered him the money he
+earned, Kala refused. The Buddha then explained that since Kala attained the
+first level of Awakenment, he was on longer interested in the money. He further
+added this verse, saying that Entering the Stream was the best thing one could
+attain, far better than any worldly power or even attainment of a rebirth in
+heavens.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+pathavya
+ekarajjena
+eka
+rajjena
+saggassa
+gamanena
+va
+sabbalokadhipaccena
+sabba
+loka
+adhipaccena
+sotapattiphalaj
+sota
+apatti
+phalaj
+varaj
+===============================================================================

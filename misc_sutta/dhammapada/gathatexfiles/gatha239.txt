@@ -1,0 +1,106 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** anupubbena medhavi thokaj thokaj khane khane ******
+            ****** kammaro rajatasseva niddhame malam attano ******
+                            ****** (DhP 239) ******
+===============================================================================
+
+
+Sentence Translation:
+A wise one should cleanse oneself of impurities, gradually,
+little by little, moment by moment - just like a smith does with silver.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+anupubbena  medhavi thokaj thokaj khane   khane
+|                         |            |            |         |            |
+Adv.               N.m.     Adv.      Adv.   N.m.     N.m.
+|                   Nom.Sg.     |_______|     Loc.Sg. Loc.Sg.
+|                         |                  |                |_______|
+|______________|__________|____________|___________________I.
+                          |__________________________________________II.
+List of Abbreviations
+kammaro rajatassa iva  niddhame malam   attano
+|                    |         |          |            |            |
+N.m.          N.n.    part.   V.act.     N.n.     Pron.
+Nom.Sg.  Gen.Sg.    |    3.Sg.opt. Acc.Sg. Gen.Sg.
+|___________|         |          |            |_______|
+           |__________|          |__________|
+I.__________|________________|
+II._________|_______|
+          |_____|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+anupubbena, Adv.: gradually, by and by. It is derived from the word anupubba-,
+Adj.: successive, gradual. Ins.Sg. = anupubbena. Here as an Adv.
+medhavi: medhavin-, N.m.: intelligent person, wise one. Voc.Pl. = medhavi.
+thokaj, Adv.: a little. It is derived from the word thoka-, Adj.: little,
+small. Acc.Sg. = thokaj. Here as an Adv.
+thokaj: see above. The repetition thokaj thokaj means "little by little".
+khane: khana-, N.m.: moment, while. Loc.Sg. = khane.
+khane: see above. The repetition khane khane means "moment by moment", "from
+time to time".
+List of Abbreviations
+kammaro: kammara-, N.m.: smith, metal worker. Nom.Sg. = kammaro.
+rajatassa: rajata-, N.n.: silver. Gen.Sg. = rajatassa.
+iva, part.: like, as (another, more often used form of this word is va).
+Euphonic combination: rajatassa + iva = rajatasseva.
+niddhame, V.: would remove, cleanse, blow off. The verb root is dham- (to blow)
+with the prefix ni- (away, off). 3.Sg.act.opt. = niddhame.
+malam: mala-, N.n.: impurity, stain, dirt. Acc.Sg. = malam.
+attano: attan-, N.m./Pron.: self, oneself. Gen.Sg. = attano.
+List of Abbreviations
+    The subject of this sentence is the noun medhavi (wise man, nominative
+singular). The verb is nidhamme ([he] should cleanse, 3rd person, singular,
+active, optative). It has three attributes, the adverbs anupubbena (gradually)
+and thokaj thokaj (little by little) and the two-noun phrase khane khane
+(moment by moment, both in locative singular). The object is the noun malam
+(impurity, accusative singular), with its attribute, the noun/pronoun attano
+(of oneself, genitive singular). There is a dependent clause, kammaro
+rajatasseva (just like a smith [does] with silver). The subject is the noun
+kammaro (smith, nominative singular). The object is the noun rajatassa (of
+silver, genitive singular). The particle iva (like, as) connects the clause to
+the main sentence.
+===============================================================================
+
+
+Commentary:
+    Once a brahmin saw a group of monks preparing to enter the city for
+almsfood. They were rearranging their robes in order to go to the city. The
+brahmin saw that the robes touched the ground and got wet because of dew. So he
+cleared that place of grass. The next day he saw that the ground is dirty and
+it soiled the robes. So he covered the place with sand. During the next few
+days he saw that when the sun is shining the monks sweat and when it rains,
+they get wet. Therefore he built a shelter at that place.
+    When it was ready, the brahmin invited the Buddha and monks for an
+almsfood. He then explained how he performed this good deed gradually. The
+Buddha replied him with this verse, saying that one should use every little
+opportunity to perform good deeds and cleanse one's mind of impurities.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+anupubbena
+medhavi
+thokaj
+khane
+kammaro
+rajatassa
+iva
+niddhame
+malam
+attano
+===============================================================================

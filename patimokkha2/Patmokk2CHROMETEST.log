@@ -1,0 +1,26 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xetex 2017.8.3)  3 AUG 2017 14:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Patmokk2CHROMETEST.tex
+(./Patmokk2CHROMETEST.tex
+! Undefined control sequence.
+l.3 \documentclass
+                  [10pt]{article}
+? 
+! I can't find file `{PM_AnsiADefinition.tex}'.
+l.6 \input{PM_AnsiADefinition.tex}
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: PM_AnsiBDefinitin.tex
+! I can't find file `PM_AnsiBDefinitin.tex'.
+l.6 \input{PM_AnsiADefinition.tex}
+                                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! Emergency stop.
+l.6 \input{PM_AnsiADefinition.tex}
+                                  
+End of file on the terminal!
+
+No pages of output.

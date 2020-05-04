@@ -1,0 +1,160 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+   ****** sabbattha ve sappurisa cajanti na kamakama lapayanti santo ******
+****** sukhena phuttha atha va dukkhena na uccavacaj pandita dassayanti ******
+                            ****** (DhP 83) ******
+===============================================================================
+
+
+Sentence Translation:
+True people abandon everything. Good people do not mutter, desiring pleasure.
+Wise people do not show elation or depression when they are affected by
+happiness or suffering.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sabbattha ve   sap+purisa     cajanti  na   kama+kama   lapayanti    santo
+|               |       |       |               |        |        |        
+|             |              |
+Adv.      part. Adj. N.m.     V.act.in. neg. N.m. Adj.m.  V.act.caus. Adj.m.
+|               |       |   Nom.Pl. 3.Pl.pres. |        |    Nom.Pl. 
+3.Pl.pres. Nom.Pl.
+|               |       |____|               |        |       
+|_____|             |              |
+|________|______|___________|        |_______|__________|              |
+               |           |____|                           |     
+|__________________|
+               |________|                               |____________|
+List of Abbreviations
+sukhena phuttha atha  va dukkhena na ucca+avacaj pandita dassayanti
+|                |          |       |        |        |      |        
+|           |             |
+N.n.      Adj.m.  Adv. conj. N.n.  neg. Adj. Adj.m.    N.m.   V.act.caus.
+Ins.Sg.  Nom.Pl.   |____|    Ins.Sg.  |      |    Acc.Sg. Nom.Pl.  3.Pl.pres.
+|_________|________|______|        |      |_____|           |             |
+                 |____|                          |______|_________|_______|
+                     |                                         |____|         |
+
+                     |                                             |_______|
+                     |_____________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sabbattha, Adv.: everywhere, in every respect.
+ve, part.: indeed, truly.
+sappurisa: sappurisa-, N.m.: a true person. It is a compound of:
+    sat-, Adj.: true, good, real. This is a compound form of the word sant-
+(see below).
+    purisa-, N.m.: person.
+Euphonic combination: sat- + purisa- = sappurisa-.
+Nom.Pl. = sappurisa.
+cajanti, V.: abandon, give up. The verb root is caj-. 3.Pl.act.in.pres. =
+cajanti.
+List of Abbreviations
+na, neg.: not.
+kamakama: kamakama-, Adj.: desiring, pleasure-loving. It is a compound of:
+    kama-, N.m.: pleasure, enjoyment, sense-desire.
+    kama-, N.m.: as above.
+Nom.Pl.m. = kamakama.
+lapayanti, V.: talk, prattle, mutter. The verb root is lap-.
+3.Pl.act.caus.pres. = lapayanti.
+santo: sant-, Adj.: real, good, true. It is an a.pr.p. of the verb root as- (to
+be). Thus sant- means literally means "existing", "being". Nom.Pl.m. = santo.
+sukhena: sukha-, N.n.: happiness, ease, well-being. Ins.Sg. = sukhena.
+phuttha:phuttha-, Adj.: touched, affected. It is a p.p. of the verb phus- (to
+touch).
+Nom.Pl.m. = phuttha.
+List of Abbreviations
+atha, Adv.: and also, and then.
+va, conj.: or.
+dukkhena: dukkha-, N.n.: suffering. Ins.Sg. = dukkhena.
+uccavacaj: uccavaca-, Adj.: high and low, elated and depressed. It is a
+compound of:
+    ucca-, Adj.: high.
+    avaca-, Adj.: low.
+Euphonic combination: ucca- + avaca- = uccavaca-.
+Acc.Sg.m. = uccavacaj.
+pandita: pandita-, N.m.: wise man, learned man. Nom.Pl. = pandita.
+dassayanti, V.: show. It is the causative of the verb root das- (to see).
+3.Pl.act.caus.pres. = dassayanti.
+List of Abbreviations
+    This verse consists of three sentences. They are:
+    1) sabbattha ve sappurisa cajanti(true people abandon everything). The
+subject is the noun sappurisa(true people, nominative plural). The verb is
+cajanti (give up, 3rd person, plural, active, indicative, present tense). It
+has an attribute, the adverb sabbattha (everywhere, everything). The particle
+ve(indeed) just stresses the sentence and serves mainly metrical purposes.
+    2) na kamakama lapayanti santo (good people do not mutter, desiring
+pleasure). The subject is the active present participle santo (good people,
+nominative plural). It has an attribute, the adjective kamakama (desiring
+pleasure, nominative plural). The verb islapayanti (mutter, 3rd person, plural,
+active, causative, present tense). It is negated by the negative particlena
+(not).
+    3) sukhena phuttha atha va dukkhena na uccavacaj pandita dassayanti (wise
+people do not show elation or depression when they are affected by happiness or
+suffering). The subject is the noun pandita (wise ones, nominative plural). It
+has an attribute, the past participle phuttha (affected, nominative plural).
+This word has two attributes, nouns sukhena (by happiness) and dukkhena (by
+suffering). They are both in instrumental singular and they are connected by
+the phrase atha va ("or then", or). This phrase consists of the adverb atha
+(then) and the conjunction va (or). The verb is dassayanti (show, 3rd person,
+plural, active, causative, present tense). It is negated by the negative
+particle na(not). The object is the adjective uccavacaj (high and low, elated
+and depressed, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The Buddha and many monks once stayed for the Rain Retreat in the village
+of Veranja at a request of a Brahmin from that village. But for some reason the
+Brahmin did not look after them. Moreover, there was a famine in the region and
+people could not support them very well. But the monks were all contented and
+happy. Some horse traders offered them grain every day and they lived on that
+food and continued to practice meditation diligently.
+    When the Rains were over, the Buddha and the monks returned to Savatthi. At
+that time, a certain group of people was permitted to stay in the monastery.
+They only ate greedily, slept and played on the bank of the river. There was a
+lot of noise in the monastery and around it.
+    When monks remarked to the Buddha that people were so depressed during the
+famine and now, when it was over, they were so elated. The Buddha replied with
+this verse, adding that only the foolish are full of sorrow when things do not
+go well and extremely happy when everything is fine. The wise is always calm
+and equanimous whether they have to face good or bad things.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sabbattha
+ve
+sappurisa
+sat
+purisa
+cajanti
+na
+kamakama
+kama
+lapayanti
+santo
+sukhena
+phuttha
+atha
+va
+dukkhena
+uccavacaj
+ucca
+avacaj
+pandita
+dassayanti
+===============================================================================

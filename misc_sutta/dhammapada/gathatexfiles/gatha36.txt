@@ -1,0 +1,127 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+            ****** sududdasaṃ sunipuṇaṃ yatthakāmanipātinaṃ ******
+        ****** cittaṃ rakkhetha medhāvī cittaṃ guttaṃ sukhāvahaṃ ******
+                            ****** (DhP 36) ******
+===============================================================================
+
+Sentence Translation:
+O Wise Ones, you should protect the mind, which is very difficult to see, very
+subtle
+and jumping at whatever it desires. Protected mind brings happiness.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+sududdasaṃ sunipuṇaṃ   yattha+kāma+nipātinaṃ
+     |                     |               |         |             |
+ Adj.n.            Adj.n.     Rel.Adv. N.m.    Adj.n.
+Acc.Sg.         Acc.Sg.           |_____|        Acc.Sg.
+     |                     |                    |__________|
+     |____________|________________|
+                                   
+|_____________________________________________
+List of Abbreviations
+cittaṃ  rakkhetha  medhāvī  cittaṃ     guttaṃ sukha+āvahaṃ
+  |               |              |             |              |         
+|         |
+N.n.        V.act.      N.m.       N.n.       Adj.n.   N.m. Adj.n.
+Acc.Sg.  2.Pl.opt.  Voc.Pl.  Nom.Sg.  Nom.Sg.   |     Nom.Sg.
+__|             |________|             |________|          |_____|
+ |_____________|                            |____________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+sududdasaṃ: sududdasa-, Adj.: very difficult to see. The word duddasa-, Adj.
+difficult to see with the prefix su-. This prefix usually means "well", "good"
+etc., but here it further strengthens the adjective. The word duddasa- itself
+is derived from the verb root das- (to see) with the prefix du- (bad,
+difficult). Acc.Sg.n. = sududdasaṃ.
+sunipuṇaṃ: sunipuṇa-, Adj.: very subtle. The word nipuṇa-, Adj.: subtle, fine,
+with the prefix su- (well, very; strengthening prefix). Acc.Sg.n. = sunipuṇaṃ.
+List of Abbreviations
+yatthakāmanipātinaṃ: yatthakāmanipātin-, Adj: jumping at whatever it desires.
+It is a complex compound of:
+    yatthakāmaṃ, Adv.: according to one's desire. The disappearance of the
+final -ṃ is
+    only an omission, perhaps due to the metrical requirements. It can be
+further analyzed as:
+        yattha, Rel.Adv.: where.
+        kāma-, N.m.: desire, pleasure.
+    nipātin-, Adj.: falling down, chancing upon. It is derived (by the way of
+adding
+    the possessive suffix -in) from the verb root pat- (fall) with the prefix
+ni- (down).
+Acc.Sg.n. = yatthakāmanipātinaṃ.
+cittaṃ: citta-, N.n.: mind. Acc.Sg. = cittaṃ.
+List of Abbreviations
+rakkhetha, V.: should protect. The verb root rakkh-. 2.Pl.act.imp. = rakkhetha.
+medhāvī: medhāvin-, N.m.: intelligent person, wise one. Voc.Pl. = medhāvī.
+cittaṃ: citta-, N.n.: mind (see also above). Nom.Sg. = cittaṃ.
+guttaṃ: gutta-, Adj.: protected. It is a p.p. of the verb root gup- (to
+protect).
+Nom.Sg.n. = guttaṃ.
+sukhāvahaṃ: sukhāvaha-, Adj.: bringing happiness. A compound of:
+    sukha-, N.n.: happiness.
+    āvaha-, Adj.: bringing, causing. Derived from the verb root vah- (to carry)
+with
+    the prefix ā- (towards, to).
+Nom.Sg.n. = sukhāvahaṃ.
+List of Abbreviations
+    This verse consists of two grammatically separated sentences. One is:
+sududdasaṃ sunipuṇaṃ yatthakāmanipātinaṃ cittaṃ rakkhetha medhāvī (o Wise Ones,
+you should protect the mind, which is very difficult to see, very subtle and
+jumping at whatever it desires). Here the subject is the word medhāvī (o Wise
+Ones, vocative plural). The verb is rakkhetha (you should protect, 2nd person
+plural, active, optative). The object is cittaṃ (mind, accusative singular)
+with three attributes: 1) sududdasaṃ (very difficult to see), 2) sunipuṇaṃ
+(very subtle), 3) yatthakāmanipātinaṃ (jumping at whatever it desires). They
+all have to agree with the object and are therefore in accusative singular.
+    The second sentence is cittaṃ guttaṃ sukhāvahaṃ (restrained mind brings
+happiness). Here the subject is the word cittaṃ (mind, nominative singular). It
+has an attribute, the past participle guttaṃ (protected, nominative singular).
+The verb is omitted, the verb "to be" again being implied. The word sukhāvahaṃ
+(happiness-bringing, nominative singular) forms an attribute to this verb.
+===============================================================================
+
+Commentary:
+    Once in the city of Sāvatthi, there lived a son of a banker. He asked a
+monk who came to his house for alms food, how to be liberated from the ills of
+life. The monk instructed him to divide his property into three parts. One he
+was to do business with, one to support his family, one for charity. The man
+did so and then asked what to do next. He was instructed to take refuge in the
+Buddha, Dharma and Sangha and to observe five precepts. But the man was still
+not satisfied. So the monk told him to renounce the world and to become a monk
+too.
+    As a monk he was taught Dharma by one teacher and Vinaya by another. Thus
+he felt that there was too much to learn, the rules were too strict and there
+was no freedom. He wanted to return to lay life. He began to have doubts, was
+discontent and unhappy, neglected his meditation. The Buddha told him that if
+he only could control his mind, he had nothing else to control. Then he told
+him this verse. The monk attained arahantship.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sududdasaṃ
+sunipuṇaṃ
+yatthakāmanipātinaṃ
+yatthakāma
+nipātinaṃ
+cittaṃ
+rakkhetha
+medhāvī
+guttaṃ
+sukhāvahaṃ
+sukha
+āvahaṃ
+===============================================================================

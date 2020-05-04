@@ -1,0 +1,116 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** mataraj pitaraj hantva rajano dve ca sotthiye ******
+          ****** veyyagghapabcamaj hantva anigho yati brahmano ******
+                            ****** (DhP 295) ******
+===============================================================================
+
+
+Sentence Translation:
+Having killed mother, father and two Brahmin kings,
+having killed the tiger as fifth, undisturbed walks the Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+mataraj pitaraj hantva rajano    dve       ca    sotthiye
+|                  |           |          |           |           |          |
+N.f.         N.m.    V.ger.  N.m.   Num.m.  conj.   N.m.
+Acc.Sg.  Acc.Sg.      |     Acc.Pl.  Acc.Pl.     |     Acc.Pl.
+|__________|           |          |______|           |           |
+         |                     |                |_________|______|
+         |                     |                         |____|
+         |____________|________________|
+                    |______|
+                          |__________________________________________________
+List of Abbreviations
+veyyaggha+pabcamaj hantva  anigho      yati    brahmano
+|                        |             |           |              |            
+|
+Adj.              Adj.m.   V.ger.   Adj.m.    V.act.in.    N.m.
+|                   Acc.Sg.        |     Nom.Sg. 3.Sg.pres. Nom.Sg.
+|_____________|              |           |________|             |
+           |_______________|                  |____________|
+______________|                                           |
+            |_______________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+mataraj: matar-, N.f.: mother. Acc.Sg. = mataraj.
+pitaraj pitar-, N.m.: father. Acc.Sg. = pitaraj.
+hantva, V.ger.: having killed. The verb root is han-.
+rajano: rajan-, N.m.: king. Acc.Pl. = rajano.
+dve: dvi-, Num.: two. Acc.Pl.m. = dve.
+ca, conj.: and.
+sotthiye: sotthiya-, N.m.: learned man, a Brahmin. Acc.Pl. = sotthiye.
+List of Abbreviations
+veyyagghapabcamaj: veyyagghapabcama-, Adj.: with a tiger as fifth. It is a
+compound of:
+    veyyagha-, Adj.: belonging to a tiger. It is derived from the word
+vyaggha-, N.m.: tiger.
+    pabcama-, Adj.: fifth. It is derived from the word pabca-, Num.: five.
+Acc.Sg.m. = veyyaghapabcamaj.
+hantva: see above.
+anigho: anigha-, Adj.: undisturbed, calm. The etymology of this word is
+doubtful. Probably it is derived from the verb root igh- (to tremble, to rage)
+with the negative prefix an-. Nom.Sg.m. = anigho.
+yati, V.: goes, pursues. The verb root is ya- (to go). 3.Sg.in.act.pres. =
+yati.
+brahmano: brahmana-, N.m.: Brahmin, a holy man. Nom.Sg. = brahmano.
+List of Abbreviations
+    The subject is the noun brahmano (Brahmin, nominative singular). The verb
+is yati (goes, 3rd person, singular, active, indicative, present tense). The
+object is the adjective anigho (undisturbed, nominative singular). There are
+two clauses dependent on this main sentence:
+    1) mataraj pitaraj hantva rajano dve ca sotthiye (having killed mother,
+father and two Brahmin kings). The subject is omitted, implying the subject of
+the main sentence, the noun brahmano. The verb is in gerund, hantva (having
+killed). There are three objects, the nouns mataraj (mother, accusative
+singular), pitaraj (father, accusative singular) and rajano (kings, accusative
+plural). This last word has two attributes, the noun sotthiye (Brahmin,
+accusative plural) and the numeral dve (two, accusative plural). The
+conjunction ca (and) connects the last object to the two preceding ones.
+    2) veyyagghapabcamaj hantva (having killed the tiger as fifth). The subject
+is omitted, implying the subject of the main sentence, the noun brahmano. The
+verb is in gerund, hantva (having killed). The object is the compound
+veyyagghapabcamaj (having the tiger as fifth, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the story for the previous one
+(DhP 294).
+    Here, the Brahmin kings are a simile for two extreme views. The "tiger as
+fifth" is taken to mean the five mental hindrances. These are: sense-desire
+(kamacchanda), ill-will (vyapada), sloth and torpor (thina-middha),
+restlessness and scruples (uddhacca-kukkucca) and skeptical doubt (vicikiccha).
+
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+mataraj
+pitaraj
+hantva
+rajano
+dve
+ca
+sotthiye
+veyyagghapabcamaj
+veyyaggha
+pabcamaj
+anigho
+yati
+brahmano
+===============================================================================

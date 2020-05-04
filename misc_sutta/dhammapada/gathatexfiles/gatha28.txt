@@ -1,0 +1,168 @@
+
+
+   ________________________________________________________________________
+  |_________Gāthā_______|__Sentence_Translation__|__Sentence_Structure___|
+  |__Vocabulary&Grammar___|_______Commentary_______|_____Pronunciation_____|
+List of Abbreviations
+===============================================================================
+             ****** pamādaṃ appamādena yadā nudati paṇḍito ******
+             ****** paññāpāsādam āruyha asoko sokiniṃ pajaṃ ******
+          ****** pabbataṭṭho va bhūmaṭṭhe dhīro bāle avekkhati ******
+                            ****** (DhP 28) ******
+===============================================================================
+
+Translation:
+When the wise one expels negligence by conscientiousness,
+having climbed the stronghold of wisdom, without sorrow,
+such a clever one observes the sorrowing crowd
+as somebody standing on a mountain observes the foolish people on the ground.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+pamādaṃ a+ppamādena yadā       nudati       paṇḍito
+|               |          |             |              |                |
+N.m.      neg.    N.m.   Rel.Adv.   V.act.in.      N.m.
+Acc.Sg.    |       Ins.Sg.       |        3.Sg.pres.   Nom.Sg.
+|               |______|            |              |_________|
+|____________|                 |                      |
+         |_________________|____________|
+                       |_________|
+                              
+|______________________________________________I.
+List of Abbreviations
+paññā+pāsādam āruyha    a+soko       sokiniṃ    pajaṃ
+|                |            |          |      |               |             |
+
+N.f.        N.m.    V.ger.   neg. Adj.m.     Adj.f.     Adj.f.
+|           Acc.Sg.      |          |   Nom.Sg.  Acc.Sg.  Acc.Sg.
+|_________|           |          |____|               |_______|
+        |___________|              |                          |
+I._________|                        |                         
+|______________________II.
+                                          
+|______________________________________III.
+List of Abbreviations
+pabbata+ṭṭho    va   bhūma+ṭṭhe      dhīro      bāle      avekkhati
+|              |         |         |        |             |           
+|                |
+N.m.  Adj.m.  part.  N.m. Adj.m.    N.m.       N.m.       V.act.in.
+|       Nom.Sg.    |         |   Acc.Pl.  Nom.Sg   Acc.Pl.     3.Sg.pres.
+|_______|           |         |____|            |             |                
+|
+III.__|_________|_______|_________|             |                 |
+                         |             |     |                      
+|                  |
+II.____________|_______|___|_____________|                 |
+                         |__________|                                         
+|
+                                 |_____________________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+pamādaṃ: pamāda-, N.m.: negligence. Acc.Sg. = pamādaṃ.
+appamādena: appamāda-, N.m.: conscientiousness, non-negligence. A negated (by
+the negative prefix a-) word pamāda-, N.m.: negligence. Doubled p is due to the
+euphonic combination (a + pamāda = appamāda). Ins.Sg. = appamādena.
+yadā, Rel.Adv.: when.
+nudati, V.: to expel, to drive away, to reject. The verb root nud-.
+3.Sg.act.in.pres. = nudati.
+paṇḍito: paṇḍita-, N.m.: wise man, learned man. Nom.Sg. = paṇḍito.
+List of Abbreviations
+paññāpāsādam, paññāpāsāda-, N. : the stronghold of wisdom. A compound of:
+    paññā-, N.f.: wisdom.
+    pāsāda-, N.m.: stronghold, palace, building on a high foundation.
+Acc.Sg. = paññāpāsādam.
+āruyha, V.ger.: having climbed. The verb ruh- (to grow, to spread) with the
+prefix ā- (towards). To climb, to ascend, to go up to.
+asoko: asoka-, Adj.: free from sorrow. The word soka-, N.m.: grief, sorrow,
+negated by the negative prefix a-. Nom.Sg.m.: asoko.
+sokiniṃ: sokinī-, Adj.f.: sorrowful. The word soka-, N.m.: grief, sorrow, with
+the possessive suffix -in. Feminine form -inī. Acc.Sg. = sokiniṃ.
+List of Abbreviations
+pajaṃ: pajā-, N.f.: beings, people, mankind. Acc.Sg. = pajaṃ.
+pabbataṭṭho: pabbataṭṭha-, Adj.: standing on the mountain. Composed of:
+    pabbata-, N.m: mountain, hill.
+    -ṭṭha-, Adj. suffix: standing. From the verb ṭhā- (to stand).
+Nom.Sg.m. = pabbataṭṭho.
+va, part.: as, like.
+List of Abbreviations
+bhūmaṭṭhe: bhūmaṭṭha-, Adj.: standing on the ground. Composed of:
+    bhūma-, N.m.: ground, earth, soil.
+    -ṭṭha-, Adj. suffix: standing. From the verb ṭhā- (to stand).
+Acc.Pl.m. = bhūmaṭṭhe.
+dhīro: dhīra-, Adj.: wise, clever. Nom.Sg.m. = dhīro.
+bāle: bāla-, N.m.: fool. Acc.Pl. = bāle.
+avekkhati, V.: to look at. The verb ikkh- (to see) with the prefix ava- (down,
+over). 3.Sg.act.in.pres. = avekkhati.
+List of Abbreviations
+    This verse is composed of two sentences. The first one is: pamādaṃ
+appamādena yadā nudati paṇḍito paññāpāsādam āruyha asoko (When the wise one
+expels negligence by conscientiousness, having climbed the stronghold of
+wisdom, without sorrow). The subject is the word paṇḍito (wise one, nominative
+singular), with a attribute asoko (sorrowless, nominative singular). The verb
+is nudati (expels, 3rd person, singular, active, indicative, present tense).
+The object is pamādaṃ (negligence, accusative singular) with its attribute
+appamādena (by conscientiousness, instrumental singular). There is a
+subordinated clause paññāpāsādam āruyha (having climbed the stronghold of
+wisdom). Here the verb is āruyha (having climbed, gerund) and the object
+paññāpāsādam (the stronghold of wisdom, accusative singular). The whole
+sentence is introduced by the relative adverb yadā (when).
+    The second sentence is sokiniṃ pajaṃ pabbataṭṭho va bhūmaṭṭhe dhīro bāle
+avekkhati (such a clever one observes the sorrowing crowd as somebody standing
+on a mountain observes the foolish people on the ground). We would expect the
+adverb tadā (then) as a counterbalance of the relative adverb yadā (when) in
+the first sentence, but it is not really necessary. We can further analyze this
+sentence into two segments: dhīro sokiniṃ pajaṃ avekkhati(the clever one
+observes sorrowing crowd). Here the subject is dhīro (clever one, nominative
+singular) and the verb avekkhati (observes, 3rd person, singular, active,
+indicative, present tense). The object is pajaṃ (crowd, accusative singular)
+with an attributesokiniṃ (sorrowing, accusative singular). The second segment
+is a simile: pabbataṭṭho va bhūmaṭṭhe bāle (as somebody standing on a mountain
+[observes] fools standing on the ground). Here, the subject is pabbataṭṭho
+(standing on a mountain, nominative singular). The verb is missing, the word
+avekkhati from the first segment is implied. The object is bāle (fools,
+accusative plural) with its attribute bhūmaṭṭhe(standing on the ground,
+accusative plural).
+===============================================================================
+
+Commentary:
+    The story says, that one of the chief disciples of the Buddha, the Elder
+Mahākassapa was once practicing meditation, trying to find out which of the
+beings in the world were conscientious and which were negligent. He also tried
+to find who was about to be born and who was about to die.
+    The Buddha learned about this and told him not to waste his time on
+something like that - because such things do not lead to the Awakenment. In
+addition to that, such a task is possible only for a Buddha, because of the
+innumerable beings in the world. The Buddha the spoke this verse.
+    The negligence is of course best dispelled with the conscientiousness. When
+we are able to do that, we will "climb the stronghold of wisdom", we will reach
+the Nirvana. Then we can look at the others, who are still negligent, as
+somebody on the top of a mountain can watch the people on the plain below him.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+pamādam
+appamādena
+yadā
+nudati
+paṇḍito
+paññāpāsādam
+paññā
+pāsādam
+āruyha
+asoko
+sokiniṃ
+pajaṃ
+pabbataṭṭho
+va
+bhūmaṭṭhe
+dhīro
+bāle
+avekkhati
+===============================================================================

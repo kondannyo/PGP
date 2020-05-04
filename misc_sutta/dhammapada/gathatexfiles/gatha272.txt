@@ -1,0 +1,131 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** phusami nekkhammasukhaj aputhujjanasevitaj ******
+           ****** bhikkhu vissasam apadi appatto asavakkhayaj ******
+                            ****** (DhP 272) ******
+===============================================================================
+
+
+Sentence Translation:
+[continued from DhP 271]
+nor by thinking "I am experiencing the pleasure of renunciation, which is not
+practiced by ordinary people",
+do, o monk, get content, if you have not attained dissolution of taints.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+phusami nekkhamma+sukhaj aputhu+jjana+sevitaj
+|                    |                 |           |         |           |
+V.act.in.     N.n.           N.n.     Adj.    N.m.   Adj.n.
+1.Sg.pres.      |           Acc.Sg.       |_____|     Acc.Sg.
+|                    |_________|                 |_________|
+|                             |___________________|
+|____________________________|
+[continued from DhP 271] __|_______________________________
+List of Abbreviations
+bhikkhu vissasam  apadi    appatto asava+kkhayaj
+    |              |             |            |          |           |
+N.m.        N.m.     V.act.    Adj.m.  N.m.    N.m.
+Voc.Sg.  Acc.Sg. 2.Sg.aor. Nom.Sg.   |      Acc.Sg.
+__|________|_______|            |          |______|
+    |      |____|                         |_________|
+    |______|____________________|
+               |__________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+phusami, V.: touch. The verb root is phus- (to touch). 1.Sg.in.act.pres. =
+phusami.
+nekkhammasukhaj: nekkhammasukha-, N.n.: the happiness of renunciation. It is a
+compound of:
+    nekkhamma-, N.n.: renunciation, giving up [the world].
+    sukha-, N.n.: happiness, ease, well-being.
+Acc.Sg. = nekkhammasukhaj.
+aputhujjanasevitaj: aputthujjanasevita-, Adj.: not practiced by ordinary
+people. It is a compound of:
+    aputhujjana-, N.m.: not an ordinary person. It is the word puthujjana-,
+N.m. negated by the negative prefix a-. This word is a compound of:
+        puthu-, Adj.: various, many, most.
+        jana-, N.m.: human being, person.
+Euphonic combination: puthu- + jana- = puthujjana-.
+    sevita-, Adj.: practiced, associated with, embraced. It is a p.p. of the
+verb root sev-.
+Acc.Sg.n. = aputhujjanasevitaj.
+List of Abbreviations
+bhikkhu: bhikkhu-, N.m.: a (Buddhist) monk. Voc.Sg. = bhikkhu.
+vissasam: vissasa-, N.m.: contentment, trust, confidence. Acc.Sg. = vissasam.
+apadi, V.: get into, meet. The verb root is pad- (to attain) with the prefix a-
+(towards).
+2.Sg.act.aor. = apadi. The negated aorist is used as another form of
+imperative.
+appatto: appatta-, Adj.: not having reached, not having attained. It is the
+word patta-, Adj.: reached, attained, a p.p. of the verb root ap- (to get, to
+obtain) with the strengthening prefix pa- and the negative prefix a-. Nom.Sg.m.
+= appatto.
+asavakkhayaj: asavakkhaya-, N.m.: dissolution of taints. It is a compound of:
+    asava-, N.m.: see above.
+     khaya-, N.m.: destruction, dissolution, end.
+Euphonic combination: asava- + khaya- = asavakkhaya-.
+Acc.Sg. = asavakkhayaj.
+List of Abbreviations
+    The subject of this sentence is the noun bhikkhu (monk, vocative singular).
+It has an attribute, the past participle appatto (not having attained,
+nominative singular). This word has also an attribute, the compound
+asavakkhayaj. (dissolution of taints, accusative singular). The verb is apadi
+(get, 2nd person, singular, active, aorist) which is negated by the negative
+particle na (not) from the previous verse (see DhP 271). The object is the noun
+vissasam (content, accusative singular). The verb has several attributes, four
+of which came in the previous verse. In this verse there is another attribute,
+the sentence phusami nekkhammasukhaj aputhujjanasevitaj ([nor by thinking] "I
+am experiencing the pleasure of renunciation, which is not practiced by
+ordinary people"). Here the subject is omitted, the verb implies the first
+person singular pronoun. The verb is phusami (I touch, 1st person, singular,
+active, indicative, present tense). The object is the compound nekkhammasukhaj
+(the pleasure of renunciation, accusative singular). It has an attribute, the
+compound adjective aputhujjanasevitaj (which is not practiced by ordinary
+people, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 271).
+To attain the Awakenment is not easy. We should not compare it to other tasks.
+Even if we have attained some spiritual progress, like good concentration of
+mind, if we have learned a lot of Sutras, or if we are truly moral and
+spiritual people - in comparison with the ultimate goal these tasks are very
+easy indeed. Only when we have reached the final goal and eradicated all the
+taints from our minds, then we can finally be content and say that we have done
+what had to be done.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+phusami
+nekkhammasukhaj
+nekkhamma
+sukhaj
+aputhujjanasevitaj
+puthu
+jana
+sevitaj
+bhikkhu
+vissasam
+apadi
+appatto
+asavakkhayaj
+asava
+khayaj
+===============================================================================

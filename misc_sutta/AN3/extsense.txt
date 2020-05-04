@@ -1,0 +1,87 @@
+rūpa: Neuter noun, "a" declens.
+form; figure; image; object of the eye; a material composition. (nt.)
+Case	s.	pl.
+nom	rūpaṃ	rūpāni
+voc	-	-
+acc	rūpaṃ	rūpāni
+ins	rūpena	rūpehi
+dat	rūpāya, rūpassa	rūpānaṃ
+abl	rūpā, rūpasmā, rūpamhā, rūpato	rūpehi
+gen	rūpassa	rūpānaṃ
+loc	rūpe, rūpasmiṃ	rūpesu
+
+sadda: Masculine noun, "a" decl.
+sound; noise; a word. (m.)
+Case	s.			pl.
+nom	saddo			saddā
+voc	sadda			saddā
+acc	saddaṃ			sadde
+ins	saddena			saddehi
+dat	saddāya, saddassa	saddānaṃ
+abl	saddā, saddasmā,	saddehi
+	saddamhā, saddato
+gen	saddassa		saddānaṃ
+loc	sadde, saddasmiṃ	saddesu
+
+gandha: Masculine noun, "a" decl.
+odour; smell; scent. (m.)
+Case	s.	pl.
+nom	gandho	gandhā
+voc	gandha	gandhā
+acc	gandhaṃ	gandhe
+ins	gandhena	gandhehi
+dat	gandhāya, gandhassa	gandhānaṃ
+abl	gandhā, gandhasmā,	gandhehi
+	gandhamhā, gandhato
+gen	gandhassa		gandhānaṃ
+loc	gandhe, gandhasmiṃ	gandhesu
+
+rasa: Masculine noun, "a" decl.
+taste; juice; flavour; quick-silver. (m.)
+Case	s.			pl.
+nom	raso			rasā
+voc	rasa			rasā
+acc	rasaṃ			rase
+ins	rasena			rasehi
+dat	rasāya, rasassa		rasānaṃ
+abl	rasā, rasasmā,		rasehi
+	rasamhā, rasato
+gen	rasassa			rasānaṃ
+loc	rase, rasasmiṃ		rasesu
+
+phoṭṭhabba: Neuter noun, "a" declens.
+touch; contact. (nt.)
+Case	s.	pl.
+nom	phoṭṭhabbaṃ		phoṭṭhabbāni
+voc	-			-
+acc	phoṭṭhabbaṃ		phoṭṭhabbāni
+ins	phoṭṭhabbena		phoṭṭhabbehi
+dat	phoṭṭhabbāya, phoṭṭhabbassa	phoṭṭhabbānaṃ
+abl	phoṭṭhabbā, phoṭṭhabbasmā,
+	phoṭṭhabbamhā, phoṭṭhabbato	phoṭṭhabbehi
+gen	phoṭṭhabbassa			phoṭṭhabbānaṃ
+loc	phoṭṭhabbe, phoṭṭhabbasmiṃ	phoṭṭhabbesu
+
+dhamma: Masculine noun, "a" decl.
+doctrine; nature; truth; the Norm; morality; good conduct. (m.)
+Case	s.	pl.
+nom	dhammo	dhammā
+voc	dhamma	dhammā
+acc	dhammaṃ	dhamme
+ins	dhammena	dhammehi
+dat	dhammāya, dhammassa	dhammānaṃ
+abl	dhammā, dhammasmā, dhammamhā, dhammato	dhammehi
+gen	dhammassa	dhammānaṃ
+loc	dhamme, dhammasmiṃ	dhammesu
+
+indriya: Neuter noun, "a" declens.
+controlling principal; faculty; sense. (nt.)
+Case	s.	pl.
+nom	indriyaṃ	indriyāni
+voc	-	-
+acc	indriyaṃ	indriyāni
+ins	indriyena	indriyehi
+dat	indriyāya, indriyassa	indriyānaṃ
+abl	indriyā, indriyasmā, indriyamhā, indriyato	indriyehi
+gen	indriyassa	indriyānaṃ
+loc	indriye, indriyasmiṃ	indriyesu

@@ -1,0 +1,165 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** poranam etaj atula netaj ajjatanam iva ******
+          ****** nindanti tunhim asinaj nindanti bahubhaninaj ******
+           ****** mitabhanim pi nindanti natthi loke anindito ******
+                            ****** (DhP 227) ******
+===============================================================================
+
+
+Sentence Translation:
+O Atula, this is an old thing; it is not just today.
+They blame one who is sitting silently; they blame one who is speaking a lot.
+They blame also the one who is speaking moderately. There is nobody blameless
+in the world.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+poranam   etaj      atula    na    etaj    ajjatanam  iva
+|                  |             |        |         |              |          
+|
+Adj.n.     Pron.n.    N.m.   neg. Pron.n.    Adj.n.   part.
+Nom.Sg. Nom.Sg. Voc.Sg.  |    Nom.Sg. Nom.Sg.    |
+|__________|             |        |_____|              |______|
+        |_____________|             |______________|
+List of Abbreviations
+nindanti tunhim asinaj nindanti  bahu+bhaninaj
+|                |          |             |           |           |
+V.act.in.  Adv.  Adj.m.  V.act.in.  Adj.    Adj.m.
+3.Pl.pres.   |     Acc.Sg. 3.Pl.pres.    |      Acc.Sg.
+|                |______|            |           |______|
+|____________|                  |_________|
+List of Abbreviations
+mita+bhanim  pi    nindanti    na     atthi        loke    anindito
+|            |         |          |           |          |            
+|            |
+Adj. Adj.m.  conj. V.act.in.  neg.  V.act.in.    N.m.    Adj.m.
+|      Acc.Sg.    |     3.Pl.pres.   |    3.Sg.pres. Loc.Sg. Nom.Sg.
+|_______|        |           |          |______|             |            |
+       |________|           |                |__________|            |
+               |__________|                         |____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+poranam: porana-, Adj.: ancient, belonging to old times. Nom.Sg.n. = poranam.
+etaj: etad-, Pron.: this. Neuter: etaj. Nom.Sg. = etaj.
+atula: atula-, N.m.: personal name. Voc.Sg. = atula.
+na, neg.: not.
+etaj: see above.
+Euphonic combination: na + etaj = netaj.
+ajjatanam: ajjatana-, Adj.: present, modern, today's. Nom.Sg.n. = ajjatanam.
+The form ajjatanam is used because of metrical requirements.
+iva, part.: like, as (another, more often used form of this word is va). Here
+used instead of the particle eva (just, only).
+List of Abbreviations
+nindanti, V.: blame. The verb root is nind-. 3.Pl.act.in.pres. = nindanti.
+tunhim, Adv.Ind.: silently, without words.
+asinaj: asina-, Adj.: sitting. It is a p.p. of the verb as- (to sit). Acc.Sg.m.
+= asinaj.
+nindanti: see above.
+bahubhaninaj: bahubhanin-, Adj.: speaking much, speaking a lot. It is a
+compound of:
+    bahu-, Adj.: large, much, very.
+    bhanin-, Adj.: speaking. It is derived from the verb root bhan-, with the
+possessive suffix -in.
+Acc.Sg.m. = bahubhaninaj.
+mitabhanim: mitabhanin-, Adj.: speaking moderately. It is a compound of:
+    mita-, Adj: measured, moderate. It is a p.p. of the verb root ma- (to
+measure).
+    bhanin-, Adj.: see above.
+Acc.Sg.m. = mitabhanim. (See above to note that there are two possible forms of
+the Acc.Sg.)
+List of Abbreviations
+pi, conj.: also.
+nindanti: see above.
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = natthi.
+loke: loka-, N.m.: world. Loc.Sg. = loke.
+anindito: anindita-, Adj.: blameless, not being blamed. It is a p.p. of the
+verb root nind- (to blame) with the negative prefix a-. Nom.Sg.m. = anindito.
+List of Abbreviations
+    This verse consists of six syntactically separate sentences. They are:
+    1) poranam etaj atula (o Atula, this is an old thing). The subject is the
+pronoun etaj (this, nominative singular). The verb is omitted, implying the
+verb "to be". The object is the adjective poranam (of old, nominative
+singular). The sentence is introduced by the noun atula (o, Atula; vocative
+singular), addressing the person present.
+    2) netaj ajjatanam iva (it is not just today). The subject is the pronoun
+etaj (this, nominative singular). The verb is omitted, implying the verb "to
+be". It is negated by the negative particle na (not). The object is the
+adjective ajjatanam (of today, nominative singular). It is further stressed by
+the particle iva (like; here instead of the particle eva, just).
+    3) nindanti tunhim asinaj (they blame one who is sitting silently). The
+subject is omitted; the verb implies the third person plural pronoun. The verb
+is nindanti (they blame, 3rd person, plural, active, indicative, present
+tense). The object is the past participle asinaj (sitting, accusative singular)
+with its attribute, the adverb tunhim (silently).
+    4) nindanti bahubhaninaj (they blame one who is speaking a lot). The
+subject is omitted; the verb implies the third person plural pronoun. The verb
+is nindanti (they blame, 3rd person, plural, active, indicative, present
+tense). The object is the compound bahubhaninaj (one who is speaking a lot,
+accusative singular).
+    5) mitabhanim pi nindanti (they blame also the one who is speaking
+moderately). The subject is omitted; the verb implies the third person plural
+pronoun. The verb is nindanti (they blame, 3rd person, plural, active,
+indicative, present tense). The object is the compound mitabhanim (the one who
+is speaking moderately, accusative singular). It is further stressed by the
+conjunction pi (also).
+    6) natthi loke anindito (there is nobody blameless in the world). The
+subject is the adjective anindito (blameless, nominative singular). The verb is
+atthi (is, 3rd person, singular, active, indicative, present tense). It is
+negated by the negative particle na (not). The object is the noun loke (in the
+world, locative singular).
+===============================================================================
+
+
+Commentary:
+    There was a man named Atula. Once he and his friends wanted to hear the
+Dharma. They went to see Venerable Revata. But he was practicing meditation and
+did not tell them anything. They were disappointed and so went to see Venerable
+Sariputta. He expounded the Dharma in length, telling them many profound
+teachings they did not quite understand. Still unhappy, they went to Venerable
+Ananda. He explained shortly basic teachings of the Buddha.
+    Atula and his friends then went to see the Buddha. They complained. Revata
+did not say anything at all, Sariputta spoke too much and Ananda too little.
+After such a long time, they still were not satisfied. The Buddha replied with
+this verse (and the following ones, DhP 228, DhP 229 and DhP 230), saying that,
+as before, so today, there is no one who is never blamed.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+poranam
+etaj
+atula
+na
+ajjatanam
+iva
+nindanti
+tunhim
+asinaj
+bahubhaninaj
+bahu
+bhaninaj
+mitabhanim
+mita
+bhanim
+pi
+na
+atthi
+loke
+anindito
+===============================================================================

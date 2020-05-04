@@ -1,0 +1,25 @@
+\documentclass{article}
+
+\usepackage{fontspec}
+\setmainfont{Palatino Linotype}
+\setsansfont{Arial}
+\newfontfamily\versefont{Tahoma}
+
+\usepackage{expex}
+\lingset{everygla=\footnotesize\sffamily, % formatting the numbers in the gla line
+    glwordalign=center, % center alignment within glwords
+    aboveglbskip=-0.4ex, % narrows the vertical gap between the gla and glb lines
+    glhangstyle=none, % no hanging indent
+    glspace=!0pt plus .2em, % widens the allowable space between glwords to avoid overfull lines
+    glrightskip=0pt plus .5\hsize} % widens the allowable space between the right margin and the end of the last glword on a line to avoid overfull lines
+
+\newcommand{\vs}[1]{{\bfseries\versefont #1}}
+
+\begin{document}
+\exdisplay
+\begingl
+\gla yo pana	bhikkhu bhikkhūnaṁ sikkhāsājīvasamāpanno sikkhaṁ appaccakkhāya dubbalyaṁ anāvīkatvā methunaṁ dhammaṁ paṭiseveyya, antamaso tiracchānagatāya pi; pārājiko hoti, asaṁvāso//
+\glb  bhikkhu for the bhikkhus training livelihood having undertaken training not having rejected weakness not having disclosed sexual intercourse act should engage in even so much as with a female animal even, he is defeated, he is not in communiona//
+\endgl
+\xe
+\end{document}

@@ -1,0 +1,127 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** appamadarata hotha sacittam anurakkhatha ******
+          ****** dugga uddharathattanaj pavke sanno va kubjaro ******
+                            ****** (DhP 327) ******
+===============================================================================
+
+
+Sentence Translation:
+Be devoted to conscientiousness. Guard your own mind.
+Lift yourself up from this bad place, just like an elephant sunk in mud.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+appamada+rata       hotha     sa+cittam anurakkhatha
+|                   |             |          |        |              |
+N.m.       Adj.m.    V.act.    Adj.  N.n.       V.act.
+|             Nom.Pl. 2.Pl.imp.    |   Acc.Sg.  2.Pl.imp.
+|___________|            |          |_____|              |
+         |_____________|               |__________|
+List of Abbreviations
+dugga uddharatha attanaj   pavke    sanno     va    kubjaro
+|                  |             |            |            |          
+|          |
+N.m.       V.act.      N.m.     N.m.     Adj.m.  part.    N.m.
+Abl.Sg.  2.Pl.imp.  Acc.Sg. Loc.Sg. Nom.Sg.    |     Nom.Sg.
+|__________|              |           |_______|          |           |
+         |_____________|                  |_________|______|
+                     |                                       |____|
+                     |________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+appamadarata: appamadarata-, Adj.: devoted to conscientiousness. It is a
+compound of:
+    appamada-, N.m.: conscientiousness, non-negligence. A negated (by the
+negative prefix a-) word pamada-, N.m.: negligence. Euphonic combination: a- +
+pamada- = appamada-.
+    rata-, Adj.: devoted. It is a p.p. of the verb ram- (to delight in, to be
+devoted to).
+Nom.Pl.m. = appamadarata.
+hotha, V.: be. The verb root is (b)hu-. 2.Pl.act.imp. = hotha.
+sacittam: sacitta-, N.n.: one's own mind. This word is itself a compound of:
+    sa-, Adj.: own.
+    citta-, N.n.: mind.
+Acc.Sg. = sacittam.
+anurakkhatha, V.: guard, protect. The verb root is rakkh- (to protect) with the
+prefix anu- (along). 2.Pl.act.imp. = anurakkhatha.
+List of Abbreviations
+dugga: dugga-, N.m.: bad place, difficult road. It is derived from the verb
+root gam- (to go) and the prefix du- (bad, difficult). Abl.Sg. = dugga.
+uddharatha, V.: rise, lift up. The verb root is dhar- (to hold) with the prefix
+ud- (up).
+2.Pl.act.imp. = uddharatha.
+attanaj: attan-, N.m.: self. Acc.Sg. = attanaj.
+Euphonic combination: uddharatha + attanaj = uddharathattanaj.
+pavke: pavka-, N.m.: mud, dirt. Loc.Sg. = pavke.
+sanno: sanna-, Adj.: sunk. It is a p.p. of the verb root sad- (to sit).
+Nom.Sg.m. = sanno.
+va, part.: as, like.
+kubjaro: kubjara-, N.m.: elephant. Nom.Sg. = kubjaro.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) appamadarata hotha (be devoted to conscientiousness). The subject is
+omitted; the verb implies the second person plural pronoun. The verb is hotha
+(be, 2nd person, plural, active, imperative). The object is the compound
+appamadarata (devoted to conscientiousness, nominative singular).
+    2) sacittam anurakkhatha (guard your own mind). The subject is omitted; the
+verb implies the second person plural pronoun. The verb is anurakkhatha (guard,
+2nd person, plural, active, imperative). The object is the compound sacittam
+(own mind, accusative singular).
+    3) dugga uddharathattanaj pavke sanno va kubjaro (lift yourself up from
+this bad place, just like an elephant sunk in mud). This can be further
+analysed into the main sentence a) and the dependent clause b):
+    a) dugga uddharathattanaj (lift yourself up from this bad place). The
+subject is omitted; the verb implies the second person plural pronoun. The verb
+is uddharatha (lift up, 2nd person, plural, active, imperative). It has an
+attribute, the noun dugga (from the bad place). The object is the noun attanaj
+(yourself, accusative singular).
+    b) pavke sanno va kubjaro (just like an elephant sunk in mud). The subject
+is the noun kubjaro (elephant, nominative singular). It has an attribute, the
+past participle sanno (sunk, nominative singular). This word has also an
+attribute, the noun pavke (in mud, locative singular). The particle va (as,
+like) connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    There was an elephant that was very strong when young, but as he got old,
+he became weak. Once he went to a pond and got stuck in the mud. The king sent
+some elephant trainers to help him. They started to beat the battle-drums. When
+the elephant heard them, his spirit rose and he freed himself from the mud.
+    When the Buddha heard about this, he spoke this verse, saying that just as
+the elephant pulled himself out of mud, so we must pull ourselves from the mud
+of defilements and suffering.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+appamadarata
+appamada
+rata
+hotha
+sacittam
+sa
+cittam
+anurakkhatha
+dugga
+uddharatha
+attanaj
+pavke
+sanno
+va
+kubjaro
+===============================================================================

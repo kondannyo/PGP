@@ -1,0 +1,140 @@
+\documentclass[11pt]{article}
+\usepackage[margin=45pt,letter, landscape]{geometry}
+\usepackage{titlesec}
+\usepackage{paracol}
+\usepackage{expex}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fontspec}
+\setromanfont[BoldFont={Gentium Basic Bold},ItalicFont={Gentium Italic}]{Gentium}
+\setcolumnwidth{310pt/60pt,310pt}
+
+\sloppy
+\raggedright
+\linespread{1.6}
+
+\newcommand{\vsp}{\vspace{2mm}}
+
+%defining colors for grammatical highlighting
+
+\newcommand{\NUL}[1]{\textcolor{Black}{#1}}
+%noun
+\newcommand{\NOM}[1]{\colorbox{pink}{#1}}
+\newcommand{\ACC}[1]{\colorbox{Blue!20}{#1}}
+\newcommand{\INS}[1]{\colorbox{yellow!20}{#1}}
+\newcommand{\DAT}[1]{\colorbox{SpringGreen!20}{#1}}
+\newcommand{\ABL}[1]{\colorbox{Orange!20}{#1}}
+\newcommand{\GEN}[1]{\colorbox{Turquoise!20}{#1}}
+\newcommand{\LOC}[1]{\colorbox{Purple!20}{#1}}
+\newcommand{\VOC}[1]{\colorbox{Red!20}{#1}}
+
+%verb
+\newcommand{\ABS}[1]{\fcolorbox{Blue}{white}{#1}}
+\newcommand{\OPT}[1]{\colorbox{green!30}{#1}}
+\newcommand{\PRSPTCP}[1]{\colorbox{Apricot!20}{#1}}
+\newcommand{\PRSIND}[1]{\colorbox{Melon!20}{#1}}
+
+
+%Misc
+\newcommand{\ADJ}[1]{\colorbox{Gray!20}{#1}}
+\newcommand{\INDE}[1]{\colorbox{Thisle!20}{#1}}
+
+\newcommand{\EnglishColumn}[1]{\itshape\footnotesize{#1}}
+
+%Glossing Definitions
+\lingset{glstyle=nlevel,%sets the compile method for ExPex to the nlevel style (alternates words with []) as opposed to the wrap style uses gla glb separted lines
+	glhangindent=10pt,% sets the indentation to the entire gloss after the first set of lines
+	glossbreaking=true, %Allows for Glosses to break across pages
+	glwordalign=left, %sets allignment on pairs of words, center is other option
+	glneveryline={,\footnotesize\it}, %sets the font attributes per line {gla,glb...}
+	glnabovelineskip={,-4pt}, %sets the space above the glossing {gla,glb,...}
+	extraglskip=-2pt} %sets additional space between each line of glossing
+
+
+
+\begin{document}
+
+\begin{paracol}{2}
+\begin{column}
+{\EnglishColumn
+Venerables, these four cases that are to be acknowledged come up for recitation.
+}
+\switchcolumn
+
+\begin{flushleft}
+Ime kho pan’āyasmanto cattāro pāṭidesanīyā dhammā uddesaṁ āgacchanti.
+\switchcolumn*
+\end{flushleft}
+
+{\EnglishColumn
+1. If any bhikkhu, having accepted (it) with his own hand from the hand of an unrelated bhikkhunì who has entered an inhabited area (for alms), should chew uncooked food or eat cooked food), (it) is to be acknowledged by that bhikkhu (saying): “Friend(s), I have committed a blameworthy act which is unsuitable, which is to be acknowledged; I acknowledge it.”
+}
+\switchcolumn
+
+\begin{flushleft}
+1. Yo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṁ paviṭṭhāya hatthato, khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā, “Gārayhaṁ āvuso dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī” ti.
+\switchcolumn*
+\end{flushleft}
+
+{\EnglishColumn
+2. Now, bhikkhus who have been invited are eating among families, and if a bhikkhunì who is giving directions is standing there (saying), “Give curry here, give rice here!” (then) by those bhikkhus that bhikkhunì is to be dismissed (saying), “Go away, sister, for as long as the bhikkhus eat!,” and if not even one bhikkhu would speak against (it, so as) to dismiss that bhikkhunì (saying), “Go away, sister, for as long as the bhikkhus eat!,” (then it) is to be acknowledged by those bhikkhus, “Friend(s), we have committed a blameworthy act which is unsuitable, which is to be acknowledged; we acknowledge it.”
+}
+\switchcolumn
+
+\begin{flushleft}
+2. Bhikkhū pan’eva kulesu nimantitā bhuñjanti. Tatra ce bhikkhunī vosāsamānarūpā ṭhitā hoti, “Idha sūpaṁ detha, idha odanaṁ dethā” ti. Tehi bhikkhūhi sā bhikkhunī apasādetabbā, “Apasakka tāva bhagini, yāva bhikkhū bhuñjantī” ti. Ekassa’pi ce bhikkhuno nappaṭibhāseyya taṁ bhikkhuniṁ apasādetuṁ, “Apasakka tāva bhagini, yāva bhikkhū bhuñjantī” ti, paṭidesetabbaṁ tehi bhikkhūhi, "Gārayhaṁ āvuso dhammaṁ āpajjimhā asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemā” ti.
+\switchcolumn*
+\end{flushleft}
+
+{\EnglishColumn
+3. Now, (there are) those families which are agreed upon as trainees: if any bhikkhu who has not been invited beforehand, who is not ill, should chew uncooked food or eat cooked food having accepted (it) with his own hand in families who are of such a kind, who are considered trainees, (then it) is to be acknowledged by that bhikkhu: “Friend(s), I have committed a blameworthy act which is unsuitable, which is to be acknowledged; I acknowledge it.”
+}
+\switchcolumn
+
+\begin{flushleft}
+3. Yāni kho pana tāni sekkhasammatāni kulāni. Yo pana bhikkhu tathārūpesu sekkhasammatesu kulesu pubbe animantito agilāno khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā, “Gārayhaṁ āvuso dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī” ti.
+\switchcolumn*
+\end{flushleft}
+
+{\EnglishColumn
+4. Now, (there are) those those wilderness lodgings which are considered risky, which are dangerous: if any bhikkhu, (staying) in lodgings which are of such a kind, without having announced (the danger) beforehand, having accepted (the food) with his own hand inside the monastery, (and then) not being ill, should chew uncooked food or eat cooked food, (then it) is to be acknowledged by that bhikkhu, “Friend(s), I have committed a blameworthy act which is unsuitable, which is to be acknowledged; I acknowledge it.”
+}
+\switchcolumn
+
+\begin{flushleft}
+4. Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni. Yo pana bhikkhu tathārūpesu senāsanesu viharanto, pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā, “Gārayhaṁ āvuso dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī” ti.
+\switchcolumn*
+\end{flushleft}
+
+{\EnglishColumn
+Venerables, the four cases that are to be acknowledged have been recited.\newline
+Concerning that I ask the Venerables: (Are you) pure in this?\newline
+A second time again I ask: (Are you) pure in this?\newline
+A third time again I ask: (Are you) pure in this?\newline
+The venerables are pure in this, therefore there is silence, thus I bear this (in mind).
+}
+\switchcolumn
+
+\begin{flushleft}
+Uddiṭṭhā kho āyasmanto cattāro pāṭidesanīyā dhammā.\newline
+Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā?\newline
+Dutiyam’pi pucchāmi: Kacci’ttha parisuddhā?\newline
+Tatiyam’pi pucchāmi: Kacci’ttha parisuddhā?\newline
+Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam’etaṁ dhārayāmi.
+\switchcolumn*
+\end{flushleft}
+
+{\EnglishColumn
+The (cases) which are to be acknowledged have finished.
+}
+\switchcolumn
+
+\begin{flushleft}
+Pāṭidesanīyā niṭṭhitā
+\switchcolumn*
+\end{flushleft}
+
+
+\end{column}
+\end{paracol}
+
+\end{document}

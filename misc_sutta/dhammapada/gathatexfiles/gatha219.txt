@@ -1,0 +1,116 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** cirappavasij purisaj durato sotthim agataj ******
+            ****** batimitta suhajja ca abhinandanti agataj ******
+                            ****** (DhP 219) ******
+===============================================================================
+
+
+Sentence Translation:
+Relatives, companions and friends are happy about coming back of
+a person, long away from home, safely come back from far away,
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+cira+ppavasij purisaj durato sotthim agataj
+|             |             |           |          |           |
+Adj.  Adj.m.      N.m.    Adv.   Adv.   Adj.m.
+|       Acc.Sg.    Acc.Sg.     |          |     Acc.Sg.
+|_______|             |            |          |______|
+      |                    |            |_________|
+      |___________|___________|
+                |_______________________________________________
+List of Abbreviations
+bati+mitta      suhajja  ca  abhinandanti agataj
+|           |             |         |            |              |
+N.m. N.m.      N.m.   conj.  V.act.in.    Adj.m.
+|      Nom.Pl. Nom.Pl.   |     3.Pl.pres.   Acc.Sg.
+|______|             |         |            |              |
+      |__________|         |            |              |
+                |__________|            |              |
+______________|____________|________|
+                         |          |______|
+                         |_________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+cirappavasij: cirappavasi-, Adj.: away from home for a long time. It is a
+compound of:
+    cira-, Adj.: long (time).
+    pavasin-, Adj.: living abroad, away from home. It is derived from the verb
+root vas- (to live, to dwell) with the prefix pa- (forward, out).
+Euphonic combination: cira- + pavasin- = cirappavasin-.
+Acc.Sg.m. = cirappavasij.
+purisaj: purisa-, N.m.: person. Acc.Sg. = purisaj.
+durato, Adv.: from afar. It is derived from the word dura-, Adj.: far, distant.
+Special form of Abl.Sg. = durato. Here as an Adv.
+sotthim, Adv.: safely, in safety, happily. It is derived from the word sotthi-,
+N.f.: safety, well-being, happiness. Acc.Sg. = sotthim. Here as an Adv.
+List of Abbreviations
+agataj: agata-, Adj.: come. It is a p.p. of the verb root gam- (to go) with the
+prefix a- (towards). Acc.Sg.m. = agataj.
+batimitta: batimitta-, N.m.: relatives and companions. It is a compound of:
+   bati-, N.m.: relative.
+    mitta-, N.m.: companion.
+Nom.Pl. = batimitta.
+suhajja: suhajja-, N.m.: friend. Nom.Pl. = suhajja.
+ca, conj.: and.
+abhinandanti, V.: rejoice at, are happy about. The verb root is nand- (to be
+happy, to delight in) with the prefix abhi- (intensifying sense).
+3.Pl.act.in.pres. = abhinandanti.
+agataj: see above.
+List of Abbreviations
+    There are two subjects in this sentence, the compound batimitta (relatives
+and companions, nominative plural) and the noun suhajja (friends, nominative
+plural). They are connected by the conjunction ca (and). The verb is
+abhinandanti (rejoice at, are happy about; 3rd person, plural, active,
+indicative, present tense). The object is the noun purisaj (person, accusative
+singular). It has several attributes:
+    1) in the second line the past participle agataj (come back, accusative
+singular).
+    2) in the first line the same word with two attributes, the adverbs sotthim
+(safely) and durato (from far away).
+    3) the compound cirappavasij (long away from home, accusative singular).
+===============================================================================
+
+
+Commentary:
+    In the city of Benares there lived a rich man named Nandiya. Once he
+listened to the Buddha’s discourse on the benefits of giving. He built a
+monastery and furnished it. Immediately a mansion came up for him in the
+Tavatimsa heaven, awaiting him.
+    Venerable Moggallana once visited the Tavatimsa world and saw the mansion
+built there for Nandiya. When he returned back, he asked the Buddha about this.
+The Buddha replied with this verse (and the following one, DhP 220), saying
+that the good deeds await the well-doer in the next world as surely as the
+relatives and friends await somebody who is long away from home.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+cirappavasij
+cira
+pavasij
+purisaj
+durato
+sotthim
+agataj
+batimitta
+bati
+mitta
+suhajja
+ca
+abhinandanti
+===============================================================================

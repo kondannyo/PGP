@@ -1,0 +1,1112 @@
+\documentclass[11pt]{article}
+\usepackage[margin=45pt,letter, landscape]{geometry}
+\usepackage{titlesec}
+\usepackage{paracol}
+\usepackage{expex}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fontspec}
+\setromanfont[BoldFont={Gentium Basic Bold},ItalicFont={Gentium Italic}]{Gentium}
+\setcolumnwidth{310pt/60pt,310pt}
+
+\sloppy
+\raggedright
+
+\newcommand{\vsp}{\vspace{2mm}}
+
+%defining colors for grammatical highlighting
+
+\newcommand{\NUL}[1]{\textcolor{Black}{#1}}
+%noun
+\newcommand{\NOM}[1]{\colorbox{pink}{#1}}
+\newcommand{\ACC}[1]{\colorbox{Blue!20}{#1}}
+\newcommand{\INS}[1]{\colorbox{yellow!20}{#1}}
+\newcommand{\DAT}[1]{\colorbox{SpringGreen!20}{#1}}
+\newcommand{\ABL}[1]{\colorbox{Orange!20}{#1}}
+\newcommand{\GEN}[1]{\colorbox{Turquoise!20}{#1}}
+\newcommand{\LOC}[1]{\colorbox{Purple!20}{#1}}
+\newcommand{\VOC}[1]{\colorbox{Red!20}{#1}}
+
+%verb
+\newcommand{\ABS}[1]{\fcolorbox{Blue}{white}{#1}}
+\newcommand{\OPT}[1]{\colorbox{green!30}{#1}}
+\newcommand{\PRSPTCP}[1]{\colorbox{Apricot!20}{#1}}
+\newcommand{\PRSIND}[1]{\colorbox{Melon!20}{#1}}
+
+
+%Misc
+\newcommand{\ADJ}[1]{\colorbox{Gray!20}{#1}}
+\newcommand{\INDE}[1]{\colorbox{Thisle!20}{#1}}
+
+%Glossing Definitions
+\lingset{glstyle=nlevel,%sets the compile method for ExPex to the nlevel style (alternates words with []) as opposed to the wrap style uses gla glb separted lines
+	glhangindent=10pt,% sets the indentation to the entire gloss after the first set of lines
+	glossbreaking=true, %Allows for Glosses to break across pages
+	glwordalign=left, %sets allignment on pairs of words, center is other option
+	glneveryline={,\footnotesize\it}, %sets the font attributes per line {gla,glb...}
+	glnabovelineskip={,-4pt}, %sets the space above the glossing {gla,glb,...}
+	extraglskip=-2pt} %sets additional space between each line of glossing
+
+
+
+\begin{document}
+
+\begin{paracol}{2}
+\begin{column}
+{\itshape\footnotesize
+Venerables, these ninety-two cases involving expiation come up for recitation.
+}
+\switchcolumn
+
+\begin{flushleft}
+Ime kho pan’āyasmanto dvenavuti pācittiyā dhammā uddesaṁ āgacchanti.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+1. In deliberate false speech, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+1. Sampajānamusāvāde pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+2. In abusive speech, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+2. Omasavāde pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+3. In the backbiting of a bhikkhu, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+3. Bhikkhupesuññe pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+4. If any bhikkhu should have one who has not been fully admitted (into the community) recite the Dhamma (line) by line, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+4. Yo pana bhikkhu anupasampannaṁ padaso dhammaṁ vāceyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+5. If any bhikkhu should make use of a sleeping place for more than two nights or three nights together with one who has not been fully admitted (into the bhikkhu-community), (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+5. Yo pana bhikkhu anupasampannena uttaridvirattatirattaṁ sahaseyyaṁ kappeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+6. If any bhikkhu should make use of a sleeping place together with a woman, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+6. Yo pana bhikkhu mātugāmena sahaseyyaṁ kappeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+7. If any bhikkhu should teach the Dhamma to a woman by (means of) more than five or six sentences, except (when being together) with a discerning male human being, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+7. Yo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṁ deseyya, aññatra viññunā purisaviggahena, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+8. If any bhikkhu should declare a superhuman state to one who has not been fully admitted (into the bhikkhu-community), (even) when it is a fact, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+8. Yo pana bhikkhu anupasampannassa uttarimanussadhammaṁ āroceyya, bhūtasmiṁ pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+9. If any bhikkhu should declare the depraved offence of (another) bhikkhu to one who has not been fully admitted (into the bhikkhu-community), except with the authorisation of bhikkhus, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+9. Yo pana bhikkhu bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa āroceyya aññatra bhikkhusammatiyā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+10. If any bhikkhu should dig the earth or should have it dug, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+10. Yo pana bhikkhu paṭhaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The section [starting with the rule] on false speech is first.
+}
+\switchcolumn
+
+\begin{flushleft}
+Musāvādavaggo paṭhamo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+11. In the destroying of vegetation, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+11. Bhūtagāmapātabyatāya pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+12. In evading, in vexing, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+12. Aññavādake vihesake pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+13. In making (another bhikkhu) find fault, in criticising, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+13. Ujjhāpanake khiyyanake pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+14. If any bhikkhu, having (himself) put out or after having (someone else) put out in the open air, a bed or seat or mattress or stool belonging to the community, (and) then, when departing, should not take (it) away or should not have (it) taken away or should go without asking (someone to put it back), (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+14. Yo pana bhikkhu saṅghikaṁ mañcaṁ vā pīṭhaṁ vā bhisiṁ vā kocchaṁ vā ajjhokāse santharitvā vā santharāpetvā vā, taṁ pakkamanto n’eva uddhareyya na uddharāpeyya, anāpucchaṁ vā gaccheyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+15. If any bhikkhu, having (himself) put out or having (someone else) put out, bedding in a dwelling belonging to the community, (and) then, when departing, should not take (it) away or should not have (it) taken away, or should go without asking (someone to put it back), (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+15. Yo pana bhikkhu saṅghike vihāre seyyaṁ santharitvā vā santharāpetvā vā, taṁ pakkamanto n’eva uddhareyya na uddharāpeyya, anāpucchaṁ vā gaccheyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+16. If any bhikkhu, having encroached upon a bhikkhu who has arrived before, should knowingly use a sleeping place in a dwelling belonging to the community (saying): “He for whom it is (too) cramped, will leave,” having done (it) for just this reason, (and) not another, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+16. Yo pana bhikkhu saṅghike vihāre jānaṁ pubbūpagataṁ bhikkhuṁ anūpakhajja seyyaṁ kappeyya, “Yassa sambādho bhavissati, so pakkamissatī” ti. Etad’eva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+17. If any bhikkhu, being resentful and displeased, should drive out a bhikkhu or have (him) driven out from a dwelling belonging to the community, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+17. Yo pana bhikkhu bhikkhuṁ kupito anattamano saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+18. If any bhikkhu should (brusquely) sit down or lie down on a bed or seat with detachable legs in a hut with an upper-floor in a dwelling belonging to the community, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+18. Yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+19. By a bhikkhu who is having a large dwelling built, a surrounding-layer of two or three coverings can be ordered, by (a bhikku) standing on (a place which has) few crops, upto the frame of the door for (the purpose of) fixing the bolt, (and) for surrounding the window. If he should order more than that, even (when) standing on (a place which has) few crops, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+19. Mahallakam pana bhikkhunā vihāraṁ kārayamānena, yāva dvārakosā aggalaṭṭhapanāya, ālokasandhiparikammāya, dvitticchadanassa pariyāyaṁ, appaharite ṭhitena adhiṭṭhātabbaṁ. Tato ce uttariṁ appaharite’pi ṭhito adhiṭṭhaheyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+20. If any bhikkhu should knowingly pour out, or should have (someone else) pour out, water containing living beings on grass or clay, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+20. Yo pana bhikkhu jānaṁ sappāṇakaṁ udakaṁ tiṇaṁ vā mattikaṁ vā siñceyya vā siñcāpeyya vā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The section [starting with the rule] on vegetation is second.
+}
+\switchcolumn
+
+\begin{flushleft}
+Bhūtagāmavaggo dutiyo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+21. If any bhikkhu who has not been authorised should exhort the bhikkhunìs, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+21. Yo pana bhikkhu asammato bhikkhuniyo ovadeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+22. Even if a bhikkhu who has been authorised should exhort the bhikkhunìs after the sun has set, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+22. Sammato’pi ce bhikkhu atthaṅgate suriye bhikkhuniyo ovadeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+23. If any bhikkhu, having approached the bhikkhunì-quarters, should exhort the bhikkhunìs, except at the (right) occasion, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+23. Yo pana bhikkhu bhikkhunūpassayaṁ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: Gilānā hoti bhikkhunī. Ayaṁ tattha samayo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+24. If any bhikkhu should say so: “The bhikkhus exhort bhikkhunìs for the sake of reward,” (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+24. Yo pana bhikkhu evaṁ vadeyya, “Āmisahetu bhikkhū bhikkhuniyo ovadantī” ti, pācittiyaṁ
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+25. If any bhikkhu should give a robe (-cloth) to an unrelated bhikkhunì, except in an exchange, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+25. Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṁ dadeyya, aññatra pārivaṭṭakā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+26. If any bhikkhu should sew a robe or should have a robe sewn for an unrelated bhikkhunì, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+26. Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṁ sibbeyya vā sibbāpeyya vā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+27. If any bhikkhu, having made an arrangement, should travel together with a bhikkhunì on the same main road, even (if) just the distance between villages, except at the (right) occasion, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+27. Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjeyya, antamaso gām’antaram’pi aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: Satthagamanīyo hoti maggo sāsaṅkasammato sappaṭibhayo. Ayaṁ tattha samayo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+28. If any bhikkhu, having made an arrangement, should embark (on a voyage) together with a bhikkhunì on the same boat, which is going up (-stream) or which is going down (-stream), except with (a boat which is)crossing over (a river), (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+28. Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya ekaṁ nāvaṁ abhirūheyya, uddhagāminiṁ vā adhogāminiṁ vā, aññatra tiriy’antaraṇāya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+29. If any bhikkhu should knowingly eat alms-food which a bhikkhunì has caused to be prepared, except through previous arrangement of householders, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+29. Yo pana bhikkhu jānaṁ bhikkhunīparipācitaṁ piṇḍapātaṁ bhuñjeyya, aññatra pubbe gihisamārambhā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+30. If any bhikkhu should sit down together with a bhikkhunì, privately, one (man) with one (woman), (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+30. Yo pana bhikkhu bhikkhuniyā saddhiṁ eko ekāya raho nisajjaṁ
+kappeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The section (starting with the rule) on exhortation is third.
+}
+\switchcolumn
+
+\begin{flushleft}
+Ovādavaggo tatiyo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+31. By a bhikkhu who is not ill one alms-meal in a resthouse can be eaten; if he should eat more than that, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+31. Agilānena bhikkhunā eko āvasatha’piṇḍo bhuñjitabbo. Tato ce uttariṁ bhuñjeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+32. In eating (a meal) in a group, except at the (right) occasion, (there is a case) involving expiation.Here the occasion is this: the occasion of illness; the occasion of a giving of robe (-cloth)s; the occasion of a robe-making; the occasion of going on a (long) journey; the occasion of voyaging on a boat; the occasion of a great (gathering); the occasion of a meal (made) by an ascetic; this is the occasion here.
+}
+\switchcolumn
+
+\begin{flushleft}
+32. Gaṇabhojane aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhirūhanasamayo, mahāsamayo, samaṇabhattasamayo. Ayaṁ tattha samayo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+33. In (taking) a meal before another (invitation-meal), except at the (right) occasion, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+33. Paramparabhojane aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: gilānasamayo, cīvaradānasamayo, cīvarakārasamayo. Ayaṁ tattha samayo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+34. Now, should a family invite a bhikkhu who has approached to take as many cakes and parched cakes (as he likes), by a bhikkhu who is wishing (so) two or three bowls full (of cakes) can be accepted; if he should accept more than that, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+34. Bhikkhuṁ pan’eva kulaṁ upagataṁ pūvehi vā manthehi vā abhihaṭṭhumpavāreyya, ākaṅkhamānena bhikkhunā dvittipattapūrā paṭiggahetabbā. Tato ce uttariṁ paṭiggaṇheyya, pācittiyaṁ. Dvittipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṁ saṁvibhajitabbaṁ. Ayaṁ tattha sāmīci.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+35. If any bhikkhu who has eaten (a meal), who has been invited (to take more and refused), should chew uncooked food or eat cooked food which is not left over, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+35. Yo pana bhikkhu bhuttāvī pavārito anatirittaṁ khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+36. If any bhikkhu, knowingly (and) desiring to cause offence, should invite a bhikkhu, who has eaten (a meal and) who has been invited (to take more), to take uncooked food or cooked food which is not left over (saying): “Here, bhikkhu, chew and eat!,” when (the bhikkhu) has eaten, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+36. Yo pana bhikkhu bhikkhuṁ bhuttāviṁ pavāritaṁ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhumpavāreyya, “Handa bhikkhu khāda vā bhuñja vā” ti, jānaṁ āsādan’āpekkho, bhuttasmiṁ pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+37. If any bhikkhu should chew uncooked food or eat cooked food at the wrong time, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+37. Yo pana bhikkhu vikāle khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+38. If any bhikkhu should chew uncooked food or eat cooked food (while) keeping (it) in store, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+38. Yo pana bhikkhu sannidhikārakaṁ khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+39. Those foods which are superior, namely: ghee, butter, oil, honey and molasses, fish, meat, milk, curd; whichever bhikkhu, who is not ill, having requested such superior foods for his own benefit, should eat (them), (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+39. Yāni kho pana tāni paṇītabhojanāni, seyyathīdaṁ: sappi navanītaṁ telaṁ madhu phāṇitaṁ, maccho maṁsaṁ khīraṁ dadhi. Yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+40. If any bhikkhu should take into the mouth (any) nutriment that has not been given (to bhikkhus); except water and tooth-wood, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+40. Yo pana bhikkhu adinnaṁ mukhadvāraṁ āhāraṁ āhareyya,
+aññatra udakadantapoṇā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The section [starting with the rule] on eating is fourth
+}
+\switchcolumn
+
+\begin{flushleft}
+Bhojanavaggo catuttho.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+41. If any bhikkhu should give with his own hand uncooked food or cooked food to a naked ascetic or to a male wanderer or to a female wanderer, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+41. Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṁ vā bhojanīyaṁ vā dadeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+42. If any bhikkhu should say so to a bhikkhu, “Come friend! We shall enter a village or town for alms,” (then after) having had (food) given or not having had (food) given to him, should he dismiss (the bhikkhu saying), “Go friend! There is no ease for me talking or sitting down together with you; there is ease for me talking or sitting down by myself;” having made just this the reason, (and) not another, (this is a case) involving expiation;
+}
+\switchcolumn
+
+\begin{flushleft}
+42. Yo pana bhikkhu bhikkhuṁ evaṁ vadeyya: “Eh’āvuso gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā” ti. Tassa dāpetvā vā adāpetvā vā uyyojeyya, “Gacch’āvuso. Na me tayā saddhiṁ kathā vā nisajjā vā phāsu hoti. Ekakassa me kathā vā nisajjā vā phāsu hotī” ti. Etad’eva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+43. If any bhikkhu, having intruded upon an family having a meal, should sit down, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+43. Yo pana bhikkhu sabhojane kule anūpakhajja nisajjaṁ kappeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+44 .If any bhikkhu should sit down together with a woman, privately, on a concealed seat, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+44. Yo pana bhikkhu mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+45. If any bhikkhu sit down together with a woman, one (man) with one (woman), privately, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+45. Yo pana bhikkhu mātugāmena saddhiṁ eko ekāya raho nisajjaṁ kappeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+46. If any bhikkhu who has been invited for a meal, not having asked (permission to) a bhikkhu who is present (in the monastery), should go visiting families before the meal or after the meal, except at the (right) occasion, (this is a case) involving expiation. Here the occasion is this: the occasion of a giving of robe (-cloth)s; the occasion of a making of robes; this is the occasion here.
+}
+\switchcolumn
+
+\begin{flushleft}
+46. Yo pana bhikkhu nimantito sabhatto samāno santaṁ bhikkhuṁ anāpucchā purebhattaṁ vā pacchābhattaṁ vā kulesu cārittaṁ āpajjeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: cīvaradānasamayo, cīvarakārasamayo. Ayaṁ tattha samayo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+47. By a bhikkhu who is not ill a four-month invitation for requisites can be accepted; except with a repeated invitation, except with a permanent invitation; if he should accept more than that, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+47. Agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā, aññatra punapavāraṇāya, aññatra niccapavāraṇāya. Tato ce uttariṁ sādiyeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+48. If any bhikkhu should should go to visit an army in action; except with an appropriate reason, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+48. Yo pana bhikkhu uyyuttaṁ senaṁ dassanāya gaccheyya, aññatra tathārūpapaccayā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+49. And if there might be any reason for that bhikkhu for going to the army, two nights or three nights can be stayed within the army by that bhikkhu; if he should stay more than that, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+49. Siyā ca tassa bhikkhuno kocid’eva paccayo senaṁ gamanāya, dvirattatirattaṁ tena bhikkhunā senāya vasitabbaṁ. Tato ce uttariṁ vaseyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+50. If a bhikkhu staying two nights or three nights within an army should go to a battle-field, or a review, or a massing of the army, or an inspection of units, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+50. Dvirattatirattañce bhikkhu senāya vasamāno, uyyodhikaṁ vā balaggaṁ vā senābyūhaṁ vā anīkadassanaṁ vā gaccheyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The section [starting with the rule] on naked ascetics is fifth
+}
+\switchcolumn
+
+\begin{flushleft}
+Acelakavaggo pañcamo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+51. In drinking alcoholic drink made of grain (-products) or fruit (and/or flower products), (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+51. Surāmerayapāne pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+52. In tickling with the fingers, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+52. Aṅgulipatodake pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+53. In the act of playing in water, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+53. Udake hassadhamme pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+54. In disrespect, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+54. Anādariye pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+55. If any bhikkhu should scare (another) bhikkhu, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+55. Yo pana bhikkhu bhikkhuṁ bhiṁsāpeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+56. If any bhikkhu who is not ill, desiring to warm (himself), should light a fire or should have (it) lit, except with an appropriate reason, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+56. Yo pana bhikkhu agilāno visīvan’āpekkho, jotiṁ samādaheyya vā samādahāpeyya vā, aññatra tathārūpapaccayā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+57. If any bhikkhu should should bathe within less than half a month, except at the (right) occasion, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+57. Yo pana bhikkhu oren’aḍḍhamāsaṁ nhāyeyya, aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo: “Diyaḍḍho māso seso gimhānan” ti, vassānassa paṭhamo māso, icc’ete aḍḍhateyyamāsā; uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo. Ayaṁ tattha samayo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+58. By a monk with the gain of a new robe a certain stain (from) amongst the three stains is to be applied: dark-blue or muddy (-grey) or dark-brown. If a bhikkhu, not having applied a certain stain (from) amongst the three stains, should use a new robe, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+58. Navam’pana bhikkhunā cīvaralābhena tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ ādātabbaṁ, nīlaṁ vā kaddamaṁ vā kāḷasāmaṁ vā. Anādā ce bhikkhu tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ navaṁ cīvaraṁ paribhuñjeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+59. If any bhikkhu, having himself assigned a robe to a bhikkhu or a bhikkhunì or a male novice or a female novice, should use (it) without withdrawing (the assignment), (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+59. Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṁ cīvaraṁ vikappetvā apaccuddhārakaṁ paribhuñjeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+60. If any bhikkhu should hide a bhikkhu's bowl or robe or sitting-cloth or needle case or body-belt, or have (it) hidden, even if just desiring amusement, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+60. Yo pana bhikkhu bhikkhussa pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidheyya vā apanidhāpeyya vā, antamaso hass’āpekkho’pi, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The section [starting with the rule] on alcoholic drink is sixth.
+}
+\switchcolumn
+
+\begin{flushleft}
+Surāpānavaggo chaṭṭho.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+61. If any bhikkhu should intentionally deprive a living being of life, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+61. Yo pana bhikkhu sañcicca pāṇaṁ jīvitā voropeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+62. If any bhikkhu should knowingly use water containing living beings, [this is a case] involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+62. Yo pana bhikkhu jānaṁ sappāṇakaṁ udakaṁ paribhuñjeyya,
+pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+63. If any bhikkhu should knowingly agitate for further (legal) action a legal issue which has been disposed of according to the law, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+63. Yo pana bhikkhu jānaṁ yathādhammaṁ nīhatādhikaraṇaṁ punakammāya ukkoṭeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+64. If any bhikkhu should knowingly have a person who is less than twenty years (old) fully admitted (into the bhikkhu-community), then that person is one who has not been fully admitted and those bhikkhus are blameworthy. Because of that, this (is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+64. Yo pana bhikkhu bhikkhussa jānaṁ duṭṭhullaṁ āpattiṁ paṭicchādeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+65. If any bhikkhu should knowingly have a person who is less than twenty years [old] fully admitted [into 
+the bhikkhu-community], then that person is one who has not been fully admitted and those bhikkhus are 
+blameworthy. Because of that, this [is a case] involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+65. Yo pana bhikkhu jānaṁ ūnavīsativassaṁ puggalaṁ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā. Idaṁ tasmiṁ pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+66. If any bhikkhu, having made an arrangement, should knowingly travel together on the same main road with a company of thieves, even (if) just the distance between villages, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+66. Yo pana bhikkhu jānaṁ theyyasatthena saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjeyya, antamaso gām’antaram’pi, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+67. If any bhikkhu, having made an arrangement, should travel together with a woman on the same main road, even (if) just the distance between villages, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+67. Yo pana bhikkhu mātugāmena saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjeyya, antamaso gām’antaram’pi, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+68. If any bhikkhu should say so, “As I understand the Teaching taught by the Fortunate One, these obstructive acts which are spoken of by the Fortunate One: they are not enough to be an obstruction for the one who is being engaged in (them),” (then) that bhikkhu is to be spoken to thus by the bhikkhus: “Venerable, don't say so! Don't misrepresent the Fortunate One; for the misrepresentation of the Fortunate One is not good; for the Fortunate One would not say so; friend, (that) obstructive acts are (really) obstructive is spoken of in manifold ways by the Fortunate One and they are enough to be an obstruction for the one who is being engaged in (them),” and (if) that bhikkhu being spoken to thus by the bhikkhus should persist in the same way (as before), (then) that bhikkhu is to be argued with up to three times by the bhikkhus for the relinquishing of that (view), (and if that bhikkhu,) being argued with up to three times, should relinquish that (view), then this is good, (but) if he should not relinquish (it): (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+68. Yo pana bhikkhu evaṁ vadeyya, “Tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā ye’me antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā” ti. So bhikkhu bhikkhūhi evam’assa vacanīyo, “Mā āyasmā evaṁ avaca. Mā bhagavantaṁ abbhācikkhi. Na hi sādhu bhagavato abbhakkhānaṁ. Na hi bhagavā evaṁ vadeyya. Anekapariyāyena āvuso antarāyikā dhammā vuttā bhagavatā, Alañca pana te paṭisevato antarāyāyā” ti. Evañca so bhikkhu bhikkhūhi vuccamāno tath’eva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṁ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamāno taṁ paṭinissajjeyya, icc’etaṁ kusalaṁ. No ce paṭinissajjeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+69. If any bhikkhu knowingly should eat together with, or should live together with, or should use a sleeping place together with a bhikkhu who is speaking thus, who has not performed the normal procedure, who has not relinquished that view, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+69. Yo pana bhikkhu jānaṁ tathāvādinā bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena, saddhiṁ sambhuñjeyya vā saṁvaseyya vā saha vā seyyaṁ kappeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+70. If a novice should say so too, “As I understand the Teaching taught by the Fortunate One, these obstructive acts which are spoken of by the Fortunate One: they are not enough to be an obstruction for the one who is being engaged in (them),” (then) that novice is to be spoken to thus by the bhikkhus, “Friend novice, don't say so! Don't misrepresent the Fortunate One; for the misrepresentation of the Fortunate One is not good; for the Fortunate One would not say so; friend novice, (that) obstructive acts are (really) obstructive is spoken of in manifold ways by the Fortunate One and they are enough to be an obstruction for the one who is engaging (in them),” and if that novice being spoken to thus by the bhikkhus should persist in the same way (as before), (then) that novice is to be spoken to thus by the bhikkhus, “From today on, friend novice, the Fortunate One is not to be referred to as the teacher by you, and also the two or three nights sleeping together (in one room) with bhikkhus that other novices get, that too is not for you. Go away, disappear!” If any bhikkhu knowingly should treat kindly such an expelled novice, or should make (him) attend (to himself), or should eat together with (him), or should use a sleeping place together with (him), (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+70. Samaṇuddeso’pi ce evaṁ vadeyya, “Tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā ye’me antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā” ti. So samaṇuddeso bhikkhūhi evam’assa vacanīyo, “Mā āvuso samaṇuddesa evaṁ avaca. Mā bhagavantaṁ abbhācikkhi. Na hi sādhu bhagavato abbhakkhānaṁ. Na hi bhagavā evaṁ vadeyya. Anekapariyāyena āvuso samaṇuddesa antarāyikā dhammā vuttā bhagavatā, Alañca pana te paṭisevato antarāyāyā” ti. Evañca so samaṇuddeso bhikkhūhi vuccamāno tath’eva paggaṇheyya, so samaṇuddeso bhikkhūhi evam’assa vacanīyo, “Ajjatagge te āvuso samaṇuddesa na c’eva so bhagavā satthā apadisitabbo, yam’pi c’aññe samaṇuddesā labhanti bhikkhūhi saddhiṁ dvirattatirattaṁ sahaseyyaṁ, sā’pi te n’atthi. Cara’pi re vinassā” ti. Yo pana bhikkhu jānaṁ tathānāsitaṁ samaṇuddesaṁ upalāpeyya vā upaṭṭhāpeyya vā sambhuñjeyya vā saha vā seyyaṁ kappeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The section [starting with the rule] on living beings is seventh
+}
+\switchcolumn
+
+\begin{flushleft}
+Sappāṇavaggo sattamo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+71. If any bhikkhu when being righteously spoken to by bhikkhus should say so, “Friends, I shall not train in this training precept for as long as I can not question another bhikkhu (about it) who is a learned memoriser of the discipline,” (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+71. Yo pana bhikkhu bhikkhūhi sahadhammikaṁ vuccamāno evaṁ vadeyya, “Na tāvāhaṁ āvuso etasmiṁ sikkhāpade sikkhissāmi, yāva n’aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī” ti, pācittiyaṁ. Sikkhamānena bhikkhave bhikkhunā aññātabbaṁ paripucchitabbaṁ paripañhitabbaṁ. Ayaṁ tattha sāmīci.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+72. If any bhikkhu, when the Disciplinary Code is being recited, should say so, “But why these small and minute training precepts that are recited? They just lead to worry, annoyance, (and) discomfort.” In the disparaging of training precepts, (there is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+72. Yo pana bhikkhu pāṭimokkhe uddissamāne evaṁ vadeyya, “Kimpan’imehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvad’eva kukkuccāya vihesāya vilekhāya saṁvattantī” ti. Sikkhāpadavivaṇṇanake, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+73. If any bhikkhu when the Disciplinary Code is being recited half-monthly should say so, “Only now I know! This too, indeed, is a case which has been handed down in the Sutta, which has been included in the Sutta, which comes up for recitation half-monthly!” (and) if other bhikkhus should know (about) that bhikkhu (thus), “This bhikkhu has sat (in) two or three times previously when the Disciplinary Code was being recited. What to say about more (times than that)!” (then) there is no release for that bhikkhu through not-knowing, and whatever the offence is that he has committed there, he is to be made to do according to that case and moreover his deluding is to be exposed, “Because of that (there are) losses for you, because of that (it) has been ill-gained by you, that you, when the Disciplinary Code is being recited, do not take (it) to mind (after) having focussed carefully (on it).” Because of that deluding, this (is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+73. Yo pana bhikkhu anvaḍḍhamāsaṁ pāṭimokkhe uddissamāne evaṁ vadeyya, “Idān’eva kho ahaṁ ājānāmi, ‘Ayam’pi kira dhammo sutt’āgato suttapariyāpanno anvaḍḍhamāsaṁ uddesaṁ āgacchatī’” ti. Tañce bhikkhuṁ aññe bhikkhū jāneyyuṁ, “Nisinnapubbaṁ iminā bhikkhunā dvittikkhattuṁ pāṭimokkhe uddissamāne, ko pana vādo bhiyyo” ti, na ca tassa bhikkhuno aññāṇakena mutti atthi. Yañca tattha āpattiṁ āpanno, tañca yathādhammo kāretabbo, uttariñc’assa moho āropetabbo, “Tassa te āvuso alābhā, tassa te dulladdhaṁ, yaṁ tvaṁ pāṭimokkhe uddissamāne na sādhukaṁ aṭṭhikatvā manasikarosī” ti. Idaṁ tasmiṁ mohanake, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+74. If any bhikkhu who is resentful (and) displeased should give a blow to a bhikkhu, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+74. Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṁ dadeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+75. If any bhikkhu should brandish the palm of the hand (threateningly) like (one holds) a dagger to a bhikkhu, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+75. Yo pana bhikkhu bhikkhussa kupito anattamano talasattikaṁ uggireyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+76. If any bhikkhu should should accuse a bhikkhu with a groundless (case concerning) the community in the beginning and in the rest (of the procedure), (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+76. Yo pana bhikkhu bhikkhuṁ amūlakena saṅghādisesena anuddhaṁseyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+77. If any bhikkhu should deliberately provoke worry for a bhikkhu (thinking), “Thus there will be discomfort for him, even (if only) for a short time,” having made just this the reason, (and) not another, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+77. Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṁ upadaheyya, “Iti’ssa muhuttam’pi aphāsu bhavissatī” ti. Etad’eva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+78. If any bhikkhu should stand overhearing bhikkhus who are arguing, who are quarrelling, who are engaged in dispute (thinking), “I shall hear what these ones will say,” having made just this the reason, (and) not another, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+78. Yo pana bhikkhu bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ upassutiṁ tiṭṭheyya, “Yaṁ ime bhaṇissanti taṁ sossāmī” ti. Etad’eva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+79. If any bhikkhu, having given consent to legitimate (legal) actions, should afterwards engage in the act of criticising, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+79. Yo pana bhikkhu dhammikānaṁ kammānaṁ chandaṁ datvā, pacchā khiyyanadhammaṁ āpajjeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+80. If any bhikkhu, when investigatory discussion is going on in the community, not having given (his) consent, having gotten up from (his) seat, should depart, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+80. Yo pana bhikkhu saṅghe vinicchayakathāya vattamānāya, chandaṁ adatvā uṭṭhāy‘āsanā pakkameyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+81. If any bhikkhu, having given a robe (-cloth) (together) with a united community, should afterwards engage in criticising (saying): “The bhikkhus allocate communal gain according to familiarity,” (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+81. Yo pana bhikkhu samaggena saṅghena cīvaraṁ datvā, pacchā khiyyanadhammaṁ āpajjeyya, “Yathāsanthutaṁ bhikkhū saṅghikaṁ lābhaṁ pariṇāmentī” ti, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+82. If any bhikkhu should knowingly allocate (already) allocated communal gain to a (lay-) person, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+82. Yo pana bhikkhu jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ puggalassa pariṇāmeyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The section (starting with the rule) about (being spoken to) righteously is eighth.
+}
+\switchcolumn
+
+\begin{flushleft}
+Sahadhammikavaggo aṭṭhamo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+83. If any bhikkhu, without having been announced beforehand, should go beyond the boundary post of a noble consecrated king's (bed-room) when the king has not departed, (and) the (queen-) jewel has not withdrawn, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+83. Yo pana bhikkhu rañño khattiyassa muddhābhisittassa anikkhantarājake aniggataratanake pubbe appaṭisaṁvidito indakhīlaṁ atikkameyya, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+84. If any bhikkhu should pick up, or should make (someone else) pick up, a treasure or what is considered a treasure, except within a monastery or within a dwelling, (this is a case) involving expiation. However, by a bhikkhu having picked up, or having had picked up, a treasure or what is considered a treasure within a monastery or within a dwelling, (it) is to be put aside (thinking): “He to whom it belongs will take it.” This is the proper procedure here.
+}
+\switchcolumn
+
+\begin{flushleft}
+84. Yo pana bhikkhu ratanaṁ vā ratanasammataṁ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṁ. Ratanaṁ vā pana bhikkhunā ratanasammataṁ vā, ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggaṇhāpetvā vā nikkhipitabbaṁ, “Yassa bhavissati so harissatī” ti. Ayaṁ tattha sāmīci.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+85. If any bhikkhu, not having asked (permission of) a bhikkhu who is present, should enter a village at the wrong time, except with an appropriate urgent duty, (this is a case) involving expiation.
+}
+\switchcolumn
+
+\begin{flushleft}
+85. Yo pana bhikkhu santaṁ bhikkhuṁ anāpucchā vikāle gāmaṁ paviseyya, aññatra tathārūpā accāyikā karaṇīyā, pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+86. If any bhikkhu should have a needle-case made, which is made of bone, or made of ivory, or made of horn, (this is a case) involving expiation with breaking up (the needle-case).
+}
+\switchcolumn
+
+\begin{flushleft}
+86. Yo pana bhikkhu aṭṭhimayaṁ vā dantamayaṁ vā visāṇamayaṁ vā sūcigharaṁ kārāpeyya, bhedanakaṁ pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+87. By a bhikkhu who is having a new bed or seat made, (a bed or seat) which has legs of eight finger-breadths is to be made, according to the Sugata-finger-breadth, except the lowermost (edge of the) frame. For one who lets it exceed (this measure), (this is a case) involving expiation with cutting (down the legs).
+}
+\switchcolumn
+
+\begin{flushleft}
+87. Navam’pana bhikkhunā mañcaṁ vā pīṭhaṁ vā kārayamānena, aṭṭh’aṅgulapādakaṁ kāretabbaṁ sugat’aṅgulena, aññatra heṭṭhimāya aṭaniyā. Taṁ atikkāmayato, chedanakaṁ pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+88. If any bhikkhu should have a bed or seat covered with cotton made, (this is a case) involving expiation with tearing off (the cotton).
+}
+\switchcolumn
+
+\begin{flushleft}
+88. Yo pana bhikkhu mañcaṁ vā pīṭhaṁ vā tūlonaddhaṁ kārāpeyya, uddālanakaṁ pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+89. By a bhikkhu who is having a sitting-cloth made, (a sitting-cloth) which has the (proper) measure is to be made. This measure here is: two spans of the sugata-span in length, one and a half across, (and) the border is a span. For one who lets it exceed (the measure), (this is a case) involving expiation with cutting (off the cloth).
+}
+\switchcolumn
+
+\begin{flushleft}
+89. Nisīdanam pana bhikkhunā kārayamānena pamāṇikaṁ kāretabbaṁ. Tatr’idaṁ pamāṇaṁ: dīghaso dve vidatthiyo sugatavidatthiyā, tiriyaṁ diyaḍḍhaṁ, dasā vidatthi. Taṁ atikkāmayato, chedanakaṁ pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+90. By a bhikkhu who is having an itch-covering (-cloth) made, (an itch-covering) which has the (proper) measure is to be made. This measure here is: four spans of the Sugata-span in length, two spans across. For one who lets it exceed (the measure), (this is a case) involving expiation with cutting off the cloth).
+}
+\switchcolumn
+
+\begin{flushleft}
+90. Kaṇḍupaṭicchādiṁ pana bhikkhunā kārayamānena pamāṇikā kāretabbā. Tatr’idaṁ pamāṇaṁ: dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṁ dve vidatthiyo. Taṁ atikkāmayato, chedanakaṁ pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+91. By a bhikkhu who is having a rain's bathing-cloth made, (a bathing-cloth) which has the (proper) measure is to be made. This measure here is: six spans of the sugata-span in length, two and a half across. For one who lets it exceed (the measure), (this is a case) involving expiation with cutting (off the cloth).
+}
+\switchcolumn
+
+\begin{flushleft}
+91. Vassikasāṭikaṁ pana bhikkhunā kārayamānena pamāṇikā kāretabbā. Tatr’idaṁ pamāṇaṁ: dīghaso cha vidatthiyo sugatavidatthiyā tiriyaṁ aḍḍhateyyā. Taṁ atikkāmayato, chedanakaṁ pācittiyaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+92. If any bhikkhu should have a robe made which has the sugata-robe measure or (one) which is more (than that), (this is a case) involving expiation with cutting (off the robe). This is the Sugata's sugata-robe measure here: nine spans of the sugata-span in length, six spans across. This is the Sugata's sugata-robe measure.
+}
+\switchcolumn
+
+\begin{flushleft}
+92. Yo pana bhikkhu sugatacīvarappamāṇaṁ cīvaraṁ kārāpeyya atirekaṁ vā, chedanakaṁ pācittiyaṁ. Tatr’idaṁ sugatassa sugatacīvarappamāṇaṁ: dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṁ cha vidatthiyo. Idaṁ sugatassa sugatacīvarappamāṇaṁ.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The section (starting with the rule) on kings is ninth.
+}
+\switchcolumn
+
+\begin{flushleft}
+Ratanavaggo navamo.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+Venerables, the ninety-two cases involving expiation have been recited.\newline
+Concerning that I ask the Venerables: (Are you) pure in this?\newline
+A second time again I ask: (Are you) pure in this?\newline
+A third time again I ask: (Are you) pure in this?\newline
+The venerables are pure in this, therefore there is silence, thus I keep this (in mind).
+}
+\switchcolumn
+
+\begin{flushleft}
+Uddiṭṭhā kho āyasmanto dvenavuti pācittiyā dhammā.\newline
+Tatth’āyasmante pucchāmi: Kacci’ttha parisuddhā?\newline
+Dutiyam’pi pucchāmi: Kacci’ttha parisuddhā?\newline
+Tatiyam’pi pucchāmi: Kacci’ttha parisuddhā?\newline
+Parisuddh’etth’āyasmanto, tasmā tuṇhī, evam’etaṁ dhārayāmi.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The (cases) involving expiation are finished.
+}
+\switchcolumn
+
+\begin{flushleft}
+Pācittiyā niṭṭhitā
+\switchcolumn*
+\end{flushleft}
+
+
+\end{column}
+\end{paracol}
+
+\end{document}

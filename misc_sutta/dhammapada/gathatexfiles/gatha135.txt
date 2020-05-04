@@ -1,0 +1,129 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** yatha dandena gopalo gavo pajeti gocaraj ******
+           ****** evaj jara ca maccu ca ayuj pajenti paninaj ******
+                            ****** (DhP 135) ******
+===============================================================================
+
+
+Sentence Translation:
+Just like a cowherd drives cows to pasture with a stick,
+so old age and death drive the life of living beings.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yatha    dandena  gopalo   gavo       pajeti        go+caraj
+|                 |            |            |              |           
+|        |
+Rel.Adv.  N.m.     N.m.     N.m.   V.act.caus. N.m.  N.m.
+|             Ins.Sg. Nom.Sg. Acc.Pl.  3.Sg.pres.     |    Acc.Sg.
+|                 |            |            |              |            |_____|
+
+|                 |            |            |              |_________|
+|                 |_______|______|_____________|
+|                              |           |_____|
+|                              |_________|
+|_____________________|
+                |_____________________________________________________
+List of Abbreviations
+evaj   jara    ca     maccu     ca    ayuj     pajenti     paninaj
+|             |        |          |           |         |              
+|               |
+Adv.    N.f.   conj.   N.m.    conj.   N.n.    V.act.caus.    N.m.
+|       Nom.Sg.  |     Nom.Sg.    |    Acc.Sg.   3.Pl.pres.   Gen.Pl.
+|             |____|           |______|         |________|_________|
+|                 |___________|                       |____|
+|                           |_____________________|
+|_________________________|
+__________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yatha, Rel.Adv.: as, just like.
+dandena: danda-, N.m.: stick, club, punishment. Ins.Sg. = dandena.
+gopalo: gopala-, N.m.: cowherd. Nom.Sg. = gopalo.
+gavo: go-, N.m.: cow. Acc.Pl. = gavo.
+pajeti, V.: drives. It is a causative of the verb root aj- (to throw, to cast)
+with the prefix pa- (strengthening). 3.Sg.act.caus.pres. = pajeti.
+gocaraj: gocara-, N.m.: pasture, sphere. This can be further analyzed as:
+    go-, N.m.: cow
+    cara-, N.m.: going, walking. Derived from the verb car- (to walk, to roam).
+
+Acc.Sg. = gocaraj.
+List of Abbreviations
+evaj, Adv.: thus, in this way.
+jara: jara-, N.f.: old age. Nom.Sg. = jara.
+ca, conj.: and.
+maccu: maccu-, N.m.: death. Nom.Sg. = maccu.
+ca, conj.: and.
+ayuj: ayu-, N.n.: life, life-span. Nom.Sg. = ayuj.
+pajenti, V.: drive. See above under pajeti. 3.Pl.act.caus.pres. = pajenti.
+paninaj: panin-, Adj.: having breath, having life. As an N.m.: living being. It
+is the word pana-, N.m.: breath, life, with the possessive suffix -in. Gen.Pl.
+= paninaj.
+List of Abbreviations
+    There are two dependent sentences in this verse. They are:
+    1) yatha dandena gopalo gavo pajeti gocaraj (just like a cowherd drives
+cows to pasture with a stick). The subject is the noun gopalo (cowherd,
+nominative singular). The verb is pajeti (drives, 3rd person, singular, active,
+causative, present tense). It has two attributes, the nouns gocaraj (to
+pasture, accusative singular) and dandena (with a stick, instrumental
+singular). The object is the noun gavo (cows, accusative plural). The relative
+adverb yatha (just like) introduces the sentence and connects it to the
+following one.
+    2) evaj jara ca maccu ca ayuj pajenti paninaj (so old age and death drive
+the life of living beings). There is a double subject in this sentence. It
+contains the two nouns jara (old age, nominative singular) and maccu (death,
+nominative singular). They are connected by two conjunctions ca (and) in a
+common Pali phrase X ca Y ca (X and Y). The verb is pajenti (drive, 3rd person,
+plural, active, causative, present tense). The object is the noun ayuj (life,
+life-force; accusative singular) with its attribute, the noun paninaj (of
+living beings, genitive plural). The adverb evaj (thus, in this way) introduces
+the sentence and connects it to the previous one.
+===============================================================================
+
+
+Commentary:
+    A large group of women came to the Pubbarama monastery to observe the
+precepts for one day. Visakha, the woman who built that monastery, asked them
+for what purpose did they come to observe the precepts. Different women gave
+her different answers.
+    Old women did so in order to have a good rebirth, middle aged women wanted
+to have peaceful and prosperous lives with their families, young women came in
+order to give birth to a son and unmarried girls wanted to find a good husband.
+
+    Visakha took them to see the Buddha. He told her this verse, saying that
+although we are all constantly driven by birth, old age and death, there are
+still so few people who realize this and strive for Awakenment and release from
+this never-ending cycle. Most people still pursue only earthly goals and do not
+care about overcoming them.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yatha
+dandena
+gopalo
+gavo
+pajeti
+gocaraj
+evaj
+jara
+ca
+maccu
+ayuj
+pajenti
+paninaj
+===============================================================================

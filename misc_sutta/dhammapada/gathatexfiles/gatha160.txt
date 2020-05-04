@@ -1,0 +1,142 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** atta hi attano natho ko hi natho paro siya ******
+          ****** attana'va sudantena nathaj labhati dullabhaj ******
+                            ****** (DhP 160) ******
+===============================================================================
+
+
+Sentence Translation:
+One is indeed one's own lord. What other lord would there be?
+With oneself well restrained, one will obtain the lord that is so hard to get.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+atta        hi     attano    natho       ko        hi     natho     
+paro          siya
+|              |          |            |            |           |         
+|            |               |
+N.m.     part.   N.m.     N.m.    Pron.m.  part.   N.m.     Adj.m.     V.act.
+Nom.Sg.  |    Gen.Sg. Nom.Sg. Nom.Sg.   |     Nom.Sg. Nom.Sg. 3.Sg.opt.
+|              |          |_______|            |          |         
+|_______|               |
+|________|_________|                   |         |                
+|____________|
+         |___|                                    |_____|________________|
+List of Abbreviations
+attana  va sudantena nathaj   labhati  dullabhaj
+|            |         |            |              |             |
+N.m.   part.  Adj.m.    N.m.    V.act.in.   Adj.m.
+Ins.Sg.   |     Ins.Sg.   Acc.Sg. 3.Sg.pres. Acc.Sg.
+|_______|_____|           |________|________|
+         |__|                                    |       |
+           |_____________________|____|
+                             |___________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+atta: attan-, N.m.: self. Nom.Sg. = atta.
+hi, part.: indeed.
+attano: attan-, N.m./Pron.: self, oneself. Gen.Sg. = attano.
+natho: natha-, N.m.: lord, protector. Nom.Sg. = natho.
+ko: kij-, Inter.Pron.: who. Nom.Sg.m. = ko.
+hi: see above.
+natho: see above.
+paro: para-, Adj.m.: other. Nom.Sg.m. = paro.
+List of Abbreviations
+siya, V.: would be. The verb root is as-. 3.Sg.act.opt. = siya.
+attana: attan-, N.m.: self. Ins.Sg. = attana.
+va, part.: just, only.
+Euphonic combination: attana + va = attana'va.
+sudantena: sudanta-, Adj.: well restrained, tamed, controlled. It is a p.p. of
+the verb dam- (to restrain, to control, to tame) with the prefix su- (well).
+Ins.Sg.m. = sudantena.
+nathaj: natha-, N.m.: lord, protector. Acc.Sg. = nathaj.
+labhati, V.: obtains, gets. The verb root is labh-. 3.Sg.act.in.pres. =
+labhati.
+dullabhaj: dullabha-, Adj.: hard to get, difficult to obtain. It is the word
+labha-, Adj.: receiving, with the prefix du(l)- (difficult, bad, hard).
+Acc.Sg.m. = dullabhaj.
+List of Abbreviations
+    This sentence consists of three syntactically separate sentences. They are:
+
+    1) atta hi attano natho (one is indeed one's own lord). The subject is the
+noun atta (one, self; nominative singular). The verb is omitted, implying the
+verb "to be". The object is the noun natho (lord, nominative singular) with its
+attribute, the noun/pronoun attano (one's own, genitive singular). The particle
+hi (indeed) serves mainly for metrical purposes.
+    2) ko hi natho paro siya (what other lord would there be?). The subject is
+the interrogative particle ko (who, nominative singular). The verb is siya
+(would be, 3rd person, singular, active, optative). The object is the noun
+natho (lord, nominative singular) with its attribute, the adjective paro
+(other). The particle hi (indeed) serves mainly for metrical purposes.
+    3) attana'va sudantena nathaj labhati dullabhaj (with oneself well
+restrained, one will obtain the lord that is so hard to get). The subject is
+omitted; the verb implies the third person singular pronoun. The verb is
+labhati (obtains, 3rd person, singular, active, indicative, present tense). It
+has an attribute, the noun attana (by oneself, instrumental singular). This in
+turn has the adjective sudantena (by well restrained, instrumental singular) as
+an attribute. The object is the noun nathaj (lord, accusative singular) with
+its attribute, the adjective dullabhaj (difficult to get, accusative singular).
+The particle va (just) serves mainly for metrical purposes.
+===============================================================================
+
+
+Commentary:
+    There was a young married woman who wanted to become a nun. She got
+permission from her husband and entered the Order. She became a pupil of
+Devadatta, the Buddha's cousin. Before she became a nun, she was already
+pregnant but did not know about it. When she found out, she asked Devadatta
+what to do. He sent her back to the lay life. But the woman was not happy and
+went to see the Buddha. The Buddha sent for Upali, who was the master of
+Vinaya, rules of conduct. He further asked the king Pasenadi and the famous lay
+devotes, Anathapindika and Visakha to come and settle the case.
+    Visakha examined the young woman and told Upali that she was already
+pregnant when she joined the Order. Upali therefore declared that the woman was
+pure of any misconduct and could continue her life as a nun. Later the woman
+gave birth to a son. He was named Kumara Kassapa and king Pasenadi adopted him.
+At the age of seven, the boy became a novice and when he was eighteen, he
+received the full ordination. He went to the forest to practice meditation and
+soon attained Arahantship. He lived in the forest for twelve years and then
+went back to the monastery.
+    His mother was very attached to him and whenever she saw him she would run
+after him calling his name. Kumara Kassapa decided that he should help his
+mother to get rid of this attachment. Therefore he spoke coolly to her, "How is
+it possible that you, as a nun, can not cut off even the affection for your
+son?" The woman reflected, "I have been weeping for twelve years, waiting for
+my son. Now he speaks so harshly to me! Why should I be attached to him?" Then
+she realized danger of all attachments and very soon reached Arahanthsip.
+    The monks then remarked to the Buddha that if the woman had listened to
+Devadatta's words, neither she nor her son would have reached Arahantship. The
+Buddha replied with this verse, saying that in striving for the goal one must
+depend only on himself and not seek others to lean on.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+atta
+hi
+attano
+natho
+ko
+paro
+siya
+attana
+va
+sudantena
+nathaj
+labhati
+dullabhaj
+===============================================================================

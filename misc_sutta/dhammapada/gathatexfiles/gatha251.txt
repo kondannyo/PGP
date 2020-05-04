@@ -1,0 +1,147 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** natthi ragasamo aggi natthi dosasamo gaho ******
+          ****** natthi mohasamaj jalaj natthi tanhasama nadi ******
+                            ****** (DhP 251) ******
+===============================================================================
+
+
+Sentence Translation:
+There is no fire like passion. There is no grasp like hatred.
+There is no net like delusion. There is no river like thirst.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na      atthi     raga+samo       aggi     na       atthi    dosa+samo       
+gaho
+|            |          |         |             |         |          
+|          |        |              |
+neg. V.act.in. N.m. Adj.m.     N.m.   neg.  V.act.in. N.m. Adj.m.     N.m.
+|      3.Sg.pres.  |    Nom.Sg. Nom.Sg.  |    3.Sg.pres.   |    Nom.Sg. Nom.Sg.
+
+|_______|         |_____|              |         |______|         
+|_____|             |
+      |                      |__________|               |                   
+|__________|
+      |_________________|                         |________________|
+List of Abbreviations
+na      atthi    moha+samaj    jalaj   na     atthi      tanha+sama       nadi
+|            |           |          |            |         |        
+|            |         |             |
+neg. V.act.in.  N.m.  Adj.n.     N.n.    neg. V.act.in.  N.f.   Adj.f.     
+N.f.
+|      3.Sg.pres.   |    Nom.Sg. Nom.Sg.  |   3.Sg.pres.    |   Nom.Sg. Nom.Sg.
+
+|_______|          |______|            |         |_____|           
+|_____|             |
+       |                      |__________|              |                    
+|__________|
+       |__________________|                      |_________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = natthi.
+ragasamo: ragasama-, Adj.: equal to passion, like passion. It is a compound of:
+
+    raga-, N.m.: passion, lust. It is derived from the verb raj- (to color).
+    sama-, Adj.: same, just like, equal.
+Nom.Sg.m. = ragasamo.
+aggi: aggi-, N.m.: fire. Nom.Sg. = aggi.
+natthi: see above (na and atthi).
+List of Abbreviations
+dosasamo: dosasama-, Adj.: equal to hatred, like hatred. It is a compound of:
+    dosa-, N.m.: ill-will, hatred, anger.
+    sama-, Adj.: same, just like, equal.
+Nom.Sg.m. = dosasamo.
+gaho: gaha-, N.m.: seizing, grasping, an object having a hold upon people. It
+is derived from the verb root gah- (to grasp). Nom.Sg. = gaho.
+natthi: see above (na and atthi).
+mohasamaj: mohasama-, Adj.: equal to delusion, like delusion. It is a compound
+of:
+    moha-, N.m.: delusion, bewilderment. Derived from the verb muh- (to get
+bewildered).
+    sama-, Adj.: same, just like, equal.
+Nom.Sg.n. = mohasamaj.
+List of Abbreviations
+jalaj: jala-, N.n.: snare, net. Nom.Sg. = jalaj.
+natthi: see above (na and atthi).
+tanhasama: tanhasama-, Adj.: equal to thirst, like thirst. It is a compound of:
+
+    tanha-, N.f.: thirst, craving.
+    sama-, Adj.: same, just like, equal.
+Nom.Sg.f. = tanhasama.
+nadi: nadi-, N.f.: river. Nom.Sg. = nadi.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) natthi ragasamo aggi (there is no fire like passion). The subject is the
+noun aggi (fire, nominative singular). It has an attribute, the compound
+ragasamo (like passion, nominative singular). The verb is atthi (is, 3rd
+person, singular, active, indicative, present tense). It is negated by the
+negative particle na (not).
+    2) natthi dosasamo gaho (there is no grasp like hatred). The subject is the
+noun gaho (grasp, nominative singular). It has an attribute, the compound
+dosasamo (like hatred, nominative singular). The verb is atthi (is, 3rd person,
+singular, active, indicative, present tense). It is negated by the negative
+particle na (not).
+    3) natthi mohasamaj jalaj (there is no net like delusion). The subject is
+the noun jalaj (net, nominative singular). It has an attribute, the compound
+mohasama (like delusion, nominative singular). The verb is atthi (is, 3rd
+person, singular, active, indicative, present tense). It is negated by the
+negative particle na (not).
+    4) natthi tanhasama nadi (there is no river like thirst). The subject is
+the noun nadi (river, nominative singular). It has an attribute, the compound
+tanhasama (like thirst, nominative singular). The verb is atthi (is, 3rd
+person, singular, active, indicative, present tense). It is negated by the
+negative particle na (not).
+===============================================================================
+
+
+Commentary:
+    Once there were five lay followers listening to the Buddha's discourse. One
+of them was sleeping, the second one was scratching the ground with his hands,
+the third was shaking a tree and the fourth was looking up at the sky. But the
+fifth one listened carefully and respectfully. Ananda saw them and after the
+discourse was over he asked the Buddha about their behavior.
+    The Buddha explained that the first one was a snake in his previous life
+therefore he liked to sleep. The second one was a subterranean animal, the
+third was a monkey and the fourth one was an astrologer. But the fifth one was
+a learned man; therefore he was able to listen with attention.
+    Ananda then asked what things prevent people from listening and
+understanding the Dharma. The Buddha replied with this verse, saying it is
+passion, hatred, delusion and thirst.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+atthi
+ragasamo
+raga
+samo
+aggi
+dosasamo
+dosa
+gaho
+mohasamaj
+moha
+samaj
+jalaj
+tanhasama
+tanha
+sama
+nadi
+===============================================================================

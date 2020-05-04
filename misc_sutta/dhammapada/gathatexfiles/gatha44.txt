@@ -1,0 +1,150 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+     ****** ko imaṃ pathaviṃ vicessati yamalokaṃ ca imaṃ sadevakaṃ ******
+      ****** ko dhammapadaṃ sudesitaṃ kusalo puppham iva pacessati ******
+                            ****** (DhP 44) ******
+===============================================================================
+
+Sentence Translation:
+Who will investigate this earth and this Yama's world with its deities?
+Who will understand this well taught Dharma-verse, as a skilful person picks
+flowers?
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+ko            imaṃ  pathaviṃ  vicessati yama+lokaṃ     ca     imaṃ    sadevakaṃ
+
+|                   |             |             |           |        
+|           |          |              |
+Pron.m.    Pron.f.     N.f.      V.act.    N.m.   N.m.   conj.  Pron.m.  
+Adj.m.
+Nom.Sg.  Acc.Sg.  Acc.Sg.  3.Sg.fut.     |     Acc.Sg.    |     Acc.Sg.  
+Acc.Sg.
+|                   |_______|             |            |_____|         
+|           |             |
+|______________|___________|                  |________|______|             |
+                |_____|                                                     
+|    |___________|
+                    
+|                                                           |________|
+                     |_____________________________________|
+List of Abbreviations
+ko      dhamma+padaṃ sudesitaṃ kusalo  puppham  iva   pacessati
+|                |           |            |             |             
+|         |           |
+Pron.m.  N.m.    N.n.     Adj.n.      N.m.       N.n.    part.    V.act.
+Nom.Sg.    |     Acc.Sg.  Acc.Sg.  Nom.Sg.  Acc.Sg.    |      3.Sg.fut.
+|                |______|            |             |________|        
+|           |
+|                      |__________|                    |_________|           |
+|                                |_____________________|                   |
+|_____________________________|_____________________|
+                                    |_________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+ko: kiṃ-, Inter.Pron.: who. Nom.Sg.m. = ko.
+imaṃ: idaṃ-, Pron.: this. Acc.Sg.f. = imaṃ.
+pathaviṃ: pathavī-, N.f.: earth. Acc.Sg. = pathaviṃ.
+vicessati: will investigate. The verb is vicināti (to investigate, to examine),
+the root ci- (to collect, to accumulate) with the prefix vi- ("detail").
+3.Sg.act.fut = vicessati.
+List of Abbreviations
+yamalokaṃ: yamaloka-, N.m.: Yama's world. A compound of:
+    yama-, N.m.: Yama, the ruler of the underworld, the king of death.
+    loka-, N.m.; world.
+Acc.Sg. = yamalokaṃ.
+ca, conj.: and.
+imaṃ: see above.
+sadevakaṃ: sadevaka-, Adj.: with the gods. The word deva-, N.m.: god, deity,
+with the prefix sa- (with, together) and suffix -ka- (the suffix for forming
+adjectives).
+Acc.Sg.m. = sadevakaṃ.
+List of Abbreviations
+ko: see above.
+dhammapadaṃ: dhammapada-, N.n.: verse on Dharma, a portion of the Dharma.
+A compound of:
+    dhamma-, N.m.: Buddha's Teaching. The Law. Derived from the verb dha-, to
+hold.
+    Thus dhamma "holds the world together".
+    pada-, N.n.: portion, verse.
+Acc.Sg. = dhammapadaṃ.
+sudesitaṃ: sudesita-, Adj.: well taught. The word desita-, Adj.: taught (a p.p.
+of the verb root dis-, to teach) with the prefix su- (well, good). Acc.Sg.n. =
+sudesitaṃ.
+List of Abbreviations
+kusalo: kusala-, Adj.: skilful. As a N.m.: a skilful man. Nom.Sg. = kusalo.
+puppham: puppha-, N.n.: flower. Acc.Sg. = puppham.
+iva, part.: like, as (another, more often used form of this word is va).
+pacessati: will understand, will know, will realize. The verb is pacināti, to
+understand, to realize; but its different meaning is to gather, to collect, to
+pick. Both meanings are used here: understand and realize the world and the
+verses and pick the flowers. The verb root ci- (to collect, to accumulate) with
+the strengthening prefix pa-. 3.Sg.act.fut. = pacessati.
+List of Abbreviations
+    The two lines of this verse form two syntactically separated sentences.
+    In the first one, the subject is the interrogative pronoun ko (who,
+nominative singular). The verb is vicessati (will investigate, 3rd person,
+singular, active, future tense). There are two paratactic objects: pathaviṃ
+(earth, accusative singular) with the attribute imaṃ (this, accusative
+singular) and yamalokaṃ (Yama's world, accusative singular) with two
+attributes, imaṃ (as above) and sadevakaṃ (with the gods, accusative singular).
+These two objects are connected by the conjunction ca (and).
+    In the second sentence, the subjects is again the interrogative pronoun ko
+(as above). The verb ispacessati ("will understand" and "will pick", 3rd
+person, singular, active, future tense). The object is the noun dhammapadaṃ
+(verse on the Dharma, accusative singular) with one attribute, the adjective
+sudesitaṃ (well taught, accusative singular). There is a parenthetic clause,
+kusalo puppham iva (like a skilful [one] flowers). Here the noun-adjective
+kusalo (skilful [one], nominative singular) is the subject. The object is the
+noun puppham (flower, accusative singular). The verb is not in the clause
+itself, implying the verb pacessati from the main sentence. The particleiva(as,
+like) connects the clause to the sentence.
+
+===============================================================================
+
+Commentary:
+    A group of monks accompanied the Buddha to a certain village and then they
+all returned to the monastery. The monks started to talk about the trip. They
+paid close attention to the condition of the land: whether it was level or
+hilly, whether the soil was clayey or sandy etc.
+    The Buddha visited them and when overheard the topic of their discussion,
+he told them to better concentrate on their own bodies. He said, that the earth
+is external and that they should strive to examine their own bodies and
+understand what they really are.
+    He then added that by understanding one's own body we are also able to
+understand the whole world. We will be able to realize the Dharma, just as a
+skilful garland-maker makes the garlands.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+ 
+ko
+imaṃ
+pathaviṃ
+vicessati
+yamalokaṃ
+ca
+sadevakaṃ
+dhammapadaṃ
+sudesitaṃ
+kusalo
+puppham
+iva
+pacessati
+
+===============================================================================

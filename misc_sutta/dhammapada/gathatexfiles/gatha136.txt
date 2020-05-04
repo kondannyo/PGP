@@ -1,0 +1,131 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** atha papani kammani karaj balo na bujjhati ******
+           ****** sehi kammehi dummedho aggidaddho va tappati ******
+                            ****** (DhP 136) ******
+===============================================================================
+
+
+Sentence Translation:
+A fool does not realize when he is committing bad deeds.
+The stupid person is tormented by his own deeds just as if burned by fire.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+atha  papani kammani karaj    balo      na     bujjhati
+|             |           |           |            |          |            |
+Adv.  Adj.n.    N.n.    Adj.m.     N.m.   neg.   V.act.in.
+|        Acc.Pl. Acc.Pl. Nom.Sg. Nom.Sg.  |     3.Sg.pres.
+|             |______|           |            |           |______|
+|                   |_________|            |                |
+|                            |___________|_________|
+|                                       |_____|
+|________________________|
+List of Abbreviations
+sehi    kammehi dummedho aggi+daddho  va    tappati
+|               |              |            |         |          |          |
+Pron.n.  N.n.        N.m.     N.m. Adj.m.  pron. V.act.in.
+Ins.Pl.  Ins.Pl.     Nom.Sg.    |    Nom.Sg.   |     3.Sg.pres.
+|________|               |           |_____|          |           |
+        |                      |                |________|           |
+        |                      |_____________|                   |
+        |___________________|_________________|
+                        |__________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+atha, Adv.: then.
+papani: papa-, Adj.: evil, wrong. Acc.Pl.n. = papani.
+kammani: kamma-, N.n.: deed, action. Derived from the verb kar- (to do).
+Acc.Pl. = kammani.
+karaj: karont- (or karant-), Adj.: doing. It is an a.pr.p. of the verb root
+kar- (to do).
+Nom.Sg.m. = karaj.
+balo: bala-, Adj.: childish, young. As an N.m.: "like a child", fool, ignorant
+person. Nom.Sg. = balo.
+na, neg.: not.
+bujjhati, V.: realizes, understands. The verb root is budh- (tu understand).
+3.Sg.act.in.pres. = bujjhati.
+sehi: sa-, Pron.: own, one's own. Ins.Pl.n. = sehi.
+List of Abbreviations
+kammehi: kamma-, N.n.: deed, action. Derived from the verb kar- (to do).
+Ins.Pl. = kammehi.
+dummedho: dummedha-, Adj.: stupid. Derived from the word medha-, N.f.: wisdom,
+intelligence, by adding the prefix du- (lacking something, away from). The
+double m is due to the euphonic combination (du- + medha- = dummedha-).
+Nom.Sg.m. = dummedho.
+aggidaddho: aggidaddha-, Adj.: burned by fire. It is a compound of:
+    aggi-, N.n.: fire.
+    daddha-,: Adj.: burned. It is a p.p. of the verb root dah- (to burn).
+Nom.Sg.m. = aggidaddho.
+va, part.: as, like.
+tappati, V.: to be tormented, to be consumed by remorse. Pass. of tap- (to be
+hot, to burn). 3.Sg.pas.in.pres. = tappati.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) atha papani kammani karaj balo na bujjhati (a fool does not realize when
+he is committing bad deeds).The subject is the noun balo (fool, nominative
+singular). It has an attribute, the active present participle karaj (doing,
+nominative singular). This word has the noun kammani (deeds, accusative plural)
+as an attribute and that word in turn has the adjective papani (bad, accusative
+plural) as an attribute. The verb is bujjhati (understands, 3rd person,
+singular, active, indicative, present tense). It is negated by the negative
+particle na (not). The adverb atha (then) serves only for metrical purposes.
+    2) sehi kammehi dummedho aggidaddho va tappati(the stupid person is
+tormented by his own deeds just as if burned by fire). The subject is the
+adjective dummedho (stupid, nominative singular). It has a dependent clause,
+aggidaddho va (like burned by fire). Here the subject is the compound
+aggidaddho (burned by fire, nominative singular). It is connected to the
+subject of the main sentence by the particle va (like). The verb is tappati (is
+tormented, 3rd person, singular, passive, indicative, present tense). It has an
+attribute, the noun kammehi (by deeds, instrumental plural) with its attribute,
+the pronoun sehi (by [his] own, instrumental plural).
+===============================================================================
+
+
+Commentary:
+    Venerable Moggallana once went on an alms-round with Venerable Lakkhana. On
+the way from a certain hill he smiled as if he saw something strange. When they
+were back at the monastery, Lakkhana asked him about this incident.
+    Moggalana said that he saw a ghost in the form of a snake, being burned by
+flames. The Buddha told them that he also saw that particular ghost and
+revealed to them his story.
+    A long time ago there was a thief who repeatedly burned a house of a
+certain man. Not satisfied with that he also set fire to a monastery, donated
+by that man. As a result of these deeds, he was reborn as that ghost-snake,
+burned by flames.
+    At the end the Buddha added this verse, saying that even though a fool does
+not realize evilness of his actions, the consequences will certainly reach him.
+
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+atha
+papani
+kammani
+karaj
+balo
+na
+bujjhati
+sehi
+kammehi
+dummedho
+aggidaddho
+aggi
+daddho
+va
+tappati
+===============================================================================

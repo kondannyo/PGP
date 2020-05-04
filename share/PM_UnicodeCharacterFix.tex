@@ -1,0 +1,78 @@
+\usepackage[verbose]{newunicodechar}
+
+\UndeclareUTFcomposite[\UTFencname]{x0101}{\=}{a}
+\UndeclareUTFcomposite[\UTFencname]{x0100}{\=}{A}
+\UndeclareUTFcomposite[\UTFencname]{x012B}{\=}{i}
+\UndeclareUTFcomposite[\UTFencname]{x012A}{\=}{I}
+\UndeclareUTFcomposite[\UTFencname]{x016B}{\=}{u}
+\UndeclareUTFcomposite[\UTFencname]{x016A}{\=}{U}
+\UndeclareUTFcomposite[\UTFencname]{x1E45}{\.}{n}
+\UndeclareUTFcomposite[\UTFencname]{x1E44}{\.}{N}
+\UndeclareUTFcomposite[\UTFencname]{x00F1}{\~}{n}
+\UndeclareUTFcomposite[\UTFencname]{x00D1}{\~}{N}
+\UndeclareUTFcomposite[\UTFencname]{x1E6D}{\d}{t}
+\UndeclareUTFcomposite[\UTFencname]{x1E6C}{\d}{T}
+\UndeclareUTFcomposite[\UTFencname]{x1E0D}{\d}{d}
+\UndeclareUTFcomposite[\UTFencname]{x1E0C}{\d}{D}
+\UndeclareUTFcomposite[\UTFencname]{x1E47}{\d}{n}
+\UndeclareUTFcomposite[\UTFencname]{x1E46}{\d}{N}
+\UndeclareUTFcomposite[\UTFencname]{x1E37}{\d}{l}
+\UndeclareUTFcomposite[\UTFencname]{x1E36}{\d}{L}
+\UndeclareUTFcomposite[\UTFencname]{x1E41}{\.}{m}
+\UndeclareUTFcomposite[\UTFencname]{x1E40}{\.}{M}
+\makeatletter
+\let\d\relax
+\DeclareRobustCommand{\d}[1]
+  {\hmode@bgroup
+   \o@lign{\relax#1\crcr\hidewidth\ltx@sh@ft{-1ex}.\hidewidth}\egroup
+}
+\let\.\relax
+\DeclareRobustCommand{\.}[1]
+  {\hmode@bgroup\vbox{% \o@lign has \vtop
+   \lineskiplimit\z@
+   \baselineskip\z@skip
+   \lineskip.25ex
+   \ialign {##\crcr\hidewidth.\hidewidth\crcr#1\crcr}}\egroup
+}
+\makeatother
+
+\newunicodechar{ā}{\={a}}
+\newunicodechar{Ā}{\={A}}
+\newunicodechar{ī}{\={i}}
+\newunicodechar{Ī}{\={I}}
+\newunicodechar{ū}{\={u}}
+\newunicodechar{Ū}{\={U}}
+\newunicodechar{ṅ}{\.{n}}
+\newunicodechar{Ṅ}{\.{N}}
+\newunicodechar{ñ}{\~{n}}
+\newunicodechar{Ñ}{\~{N}}
+\newunicodechar{ṭ}{\d{t}}
+\newunicodechar{Ṭ}{\d{T}}
+\newunicodechar{ḍ}{\d{d}}
+\newunicodechar{Ḍ}{\d{D}}
+\newunicodechar{ṇ}{\d{n}}
+\newunicodechar{Ṇ}{\d{N}}
+\newunicodechar{ḷ}{\d{l}}
+\newunicodechar{Ḷ}{\d{L}}
+\newunicodechar{ṁ}{\.{m}}
+\newunicodechar{Ṁ}{\.{M}}
+
+% LaTeX command	Sample	Description
+% \`{o}	ò	grave accent
+% \'{o}	ó	acute accent
+% \^{o}	ô	circumflex
+% \"{o}	ö	umlaut, trema or dieresis
+% \H{o}	ő	long Hungarian umlaut (double acute)
+% \~{o}	õ	tilde
+% \c{c}	ç	cedilla
+% \k{a}	ą	ogonek
+% \l{}	ł	barred l (l with stroke)
+% \={o}	ō	macron accent (a bar over the letter)
+% \b{o}	o	bar under the letter
+% \.{o}	ȯ	dot over the letter
+% \d{u}	ụ	dot under the letter
+% \r{a}	å	ring over the letter (for å there is also the special command \aa)
+% \u{o}	ŏ	breve over the letter
+% \v{s}	š	caron/háček ("v") over the letter
+% \t{oo}	o͡o	"tie" (inverted u) over the two letters
+% \o	ø	slashed o (o with stroke)

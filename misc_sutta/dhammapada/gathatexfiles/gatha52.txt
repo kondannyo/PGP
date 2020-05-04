@@ -1,0 +1,123 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+        ****** yathā pi ruciraṃ pupphaṃ vaṇṇavantaṃ sagandhakaṃ ******
+           ****** evaṃ subhāsitā vācā saphalā hoti sakubbato ******
+                            ****** (DhP 52) ******
+===============================================================================
+
+Sentence Translation:
+Just like a beautiful flower, colorful and with smell,
+is a well said speech of somebody, who does act accordingly.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+yathā       pi     ruciraṃ   pupphaṃ vaṇṇavantaṃ sa+gandhakaṃ
+|                |          |               |               |            
+|           |
+Rel.Adv. conj.   Adj.n.       N.n.         N.n.       Pref.    Adj.n.
+|_________|     Nom.Sg.  Nom.Sg.   Nom.Sg.      |      Nom.Sg.
+        |                   |               |               |           
+|______|
+        |                   |________|_________|__________|
+        |                          |____|
+        |_________________|
+                       |_____________________________________________________
+List of Abbreviations
+evaṃ subhāsitā  vācā      sa+phalā           hoti        sa+kubbato
+|            |               |          |         |               |          
+|          |
+Adv.  Adj.f.        N.f.     Pref. Adj.f.     V.act.in.   Pref.  Adj.m.
+|       Nom.Sg.  Nom.Sg.    |   Nom.Sg.  3.Sg.pres.    |     Gen.Sg.
+|            |________|           |_____|               |           |_____|
+|                    |                       |___________|                |
+|                    |___________________|______________|
+|                                          |_______|
+|___________________________|
+____________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+yathā, Rel.Adv.: just as.
+pi, conj.: also, too.
+ruciraṃ: rucira-, Adj.: beautiful, pleasant. Nom.Sg.n. = ruciraṃ.
+pupphaṃ: puppha-, N.n.: flower. Nom.Sg. = pupphaṃ.
+List of Abbreviations
+vaṇṇavantaṃ: vaṇṇavant-, Adj.: having color, colorful. It is the word vaṇṇa-,
+N.m.: color, with the possessive suffix -vant-. Nom.Sg.n. = vaṇṇavantaṃ (the
+more usual is vaṇṇavaṃ, but for the sake of the meter, this form was used
+here).
+sagandhakaṃ: sagandhaka-, Adj.: smelling. The word gandhaka-, Adj.: smelling.
+This word is derived from the word gandha-, N.m.: smell by adding the adjective
+suffix -ka-. To the word gandhaka-, the prefix sa- (with-) is added.
+Nom.Sg.n. = sagandhakaṃ.
+evaṃ, Adv.: thus, so.
+List of Abbreviations
+subhāsitā: subhāsita-, Adj.: well said. It is the word bhāsita (well said, the
+p.p. of the verb bhās-, to speak) with the prefix su- (good, well). Nom.Sg.f. =
+subhāsitā.
+vācā: vācā-, N.f.: speech (derived from the verb root vac-, to speak). Nom.Sg.
+= vācā.
+saphalā: saphala-, Adj.: fruitful. It is the word phala-, N.n.: fruit, with the
+prefix sa- (with). Nom.Sg.f. = saphalā.
+hoti, V. is. The verb root is bhū- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+sakubbato: sakubbant-, Adj.: with doing. It is the word kubbant-, Adj.: doing,
+which is an a.pr.p. of the verb root kar- (to do), with the prefixsa- (with).
+Gen.Sg.m.= sakubbato.
+List of Abbreviations
+    The two lines of this verse form two sentences. In the first one, the
+subject is pupphaṃ (flower, nominative singular) with three attributes: 1)
+ruciraṃ (beautiful, nominative singular), 2) vaṇṇavantaṃ (colorful, nominative
+singular) and 3) sagandhakaṃ (with smell, nominative singular). The verb is
+omitted, implying the verb "to be" (hoti from the second line). The relative
+adverb yathā(just as), which forms a quite common phrase yathā pi (same
+meaning) with the conjunction pi (also), connects this sentence to the next
+one.
+    In the second sentence, the subject is the word vācā (speech, nominative
+singular), with two attributes, the adjective subhāsitā (well said, nominative
+singular) and the active present participle sakubbato(of the doing one,
+genitive singular). The verb is hoti (is, 3rd person, singular, active,
+indicative, present tense). The object is the adjective aphalā (fruitful,
+nominative singular). The adverb evaṃ(thus, so) connects this sentence to the
+previous one.
+
+===============================================================================
+
+Commentary:
+    The story for this verse is the same as for the previous one.
+    One who speaks well, who often admonishes others, but does not act
+according to one’s own speech speaks in vain. His words are just as a beautiful
+flower that does not smell. Only when one acts as well as one speak, one's
+speech can be considered well said, like a nice flower that also smells nicely.
+
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yathā
+pi
+ruciraṃ
+pupphaṃ
+vaṇṇavantaṃ
+sagandhakaṃ
+evaṃ
+subhāsitā
+vācā
+saphalā
+hoti
+sakubbato
+
+===============================================================================

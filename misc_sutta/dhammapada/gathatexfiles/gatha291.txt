@@ -1,0 +1,124 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** paradukkhupadhanena attano sukham icchati ******
+          ****** verasajsaggasajsattho vera so na parimuccati ******
+                            ****** (DhP 291) ******
+===============================================================================
+
+
+Sentence Translation:
+He wants his own happiness by imposing suffering on others.
+Full of hatred, he will not be released from hatred.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+para+dukkha+upadhanena attano  sukham    icchati
+|             |               |             |            |              |
+Adj.    N.n.         N.n.      Pron.m.   N.n.     V.act.in.
+|_______|          Ins.Sg.    Gen.Sg. Acc.Sg.  3.Sg.pres.
+       |____________|             |_______|              |
+                 |__________________|___________|
+                                 |_________|
+List of Abbreviations
+vera+sajsagga+sajsattho vera         so      na   parimuccati
+|             |                |            |             |         |          
+|
+N.n.    N.m.        Adj.m.    N.n.     Pron.m. neg.  V.pas.in.
+|_______|           Nom.Sg. Abl.Sg.  Nom.Sg.  |     3.Sg.pres.
+      |_____________|             |             |        |______|
+                  |______________|_______|              |
+                               |            |_______________|
+                               |______________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+paradukkhupadhanena: paradukkhupadhana-, N.n.: imposing suffering on others. It
+is a compound of:
+    para-, Adj.: different, other.
+    dukkha-, N.n.: suffering.
+    upadhana-, N.n.: imposing, giving. It is derived from the verb root dha-
+(put) with the prefix upa- (near, to).
+Euphonic combination: dukkha- + upadhana- = dukkhupadhana-.
+Ins.Sg. = paradukkhupadhanena.
+attano: attan-, N.m./Pron.: self, oneself. Gen.Sg. = attano.
+sukham: sukha-, N.n.: happiness. Acc.Sg. = sukham.
+icchati, V.: wants. The verb root is is-. 3.Sg.act.in.pres. = icchati.
+List of Abbreviations
+verasajsaggasajsattho: verasajsaggasajsattha-, Adj.: full of hatred. Lit.
+"joined with contact with hatred". It is a compound of:
+    vera-, N.n.: hatred, enmity.
+    sajsagga-, N.m.: contact, connection, association. It is derived from the
+verb root sajj- (to acquire) with the prefix sam- (together).
+    sajsattha-, Adj.: mixed with, associating with, joined. It is a p.p. of the
+verb root sajj- with the prefix sam- (see under sajsagga-).
+Nom.Sg.m. = verasajsaggasajsattho.
+vera: vera-, N.n.: hatred, enmity. Abl.Sg. = vera.
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+na, neg.: not.
+parimuccati, V.: is released, is freed, escapes. The verb root is muc- (to be
+freed) with the prefix pari- (all around). 3.Sg.pas.in.pres. = parimuccati.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) paradukkhupadhanena attano sukham icchati (he wants his own happiness by
+imposing suffering on others). The subject is omitted; the verb implies the
+third person singular pronoun. The verb is icchati (wants, 3rd person,
+singular, active, indicative, present tense). It has an attribute, the compound
+paradukkhupadhanena (by imposing suffering on others, instrumental singular).
+The object is the noun sukham (happiness, accusative singular). It has an
+attribute, the pronoun attano (one's own, genitive singular).
+    2) verasajsaggasajsattho vera so na parimuccati (full of hatred, he will
+not be released from hatred). The subject is the pronoun so (he, nominative
+singular). It has an attribute, the compound verasajsaggasajsattho (full of
+hatred, nominative singular). The verb is parimuccati (is released, 3rd person,
+singular, passive, indicative, present tense). It is negated by the negative
+particle na (not). The object is the noun vera (from hatred, ablative
+singular).
+===============================================================================
+
+
+Commentary:
+    Once there lived a woman who kept a hen. The hen would lay one egg every
+day and the woman would break it and eat it. The hen was very angry because of
+that and started hating the woman. As a result of his, they were always reborn
+together causing pain to each other.
+    During the time of the Buddha, one of them was born as a woman and the
+other one as an ogress. Once the woman with her husband and son were on their
+way home from a visit to relatives. Her husband went to take a bath and she
+rested with her son by the roadside. At that moment, the ogress appeared and
+attacked her. The woman took her son and ran to the monastery for refuge.
+    There the Buddha told them the whole story and asked them to stop hating
+each other, for otherwise they would never be free. He told them this verse to
+make them understand his meaning. Both of them realized the futility of hatred
+and agreed not to harm each other from then on.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+paradukkhupadhanena
+para
+dukkha
+upadhanena
+attano
+sukham
+icchati
+verasajsaggasajsattho
+vera
+sajsagga
+sajsattho
+vera
+so
+na
+parimuccati
+===============================================================================

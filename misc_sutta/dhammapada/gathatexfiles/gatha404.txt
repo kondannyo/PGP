@@ -1,0 +1,133 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** asajsatthaj gahatthehi anagarehi cubhayaj ******
+          ****** anokasarim appicchaj tam ahaj brumi brahmanaj ******
+                            ****** (DhP 404) ******
+===============================================================================
+
+
+Sentence Translation:
+Who is not associating neither with householders nor with monks,
+wandering in houselessness, wanting little - him do I call a Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+asajsatthaj gahatthehi anagarehi ca  ubhayaj
+|                         |                |         |         |
+Adj.m.            N.m.          N.m.  conj.   Adv.
+Acc.Sg.          Ins.Pl.        Ins.Pl.    |         |
+|                         |_________|         |_____|
+|                                  |____________|
+|__________________________|
+                      |______________________________________________
+List of Abbreviations
+anoka+sarim  appa+icchaj    tam       ahaj       brumi   brahmanaj
+|             |         |          |            |             |              
+|             |
+N.n.  Adj.m.  Adj.   Adj.m.  Pron.m.   Pron.     V.act.in.     N.m.
+|       Acc.Sg.    |      Acc.Sg. Acc.Sg.  Nom.Sg. 1.Sg.pres.  Acc.Sg.
+|_______|         |______|            |             |              
+|             |
+____|____________|_________|             |               |              |
+                                      |____________|________|________|
+                                                            |       |____|
+                                                            |______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+asajsatthaj: asajsattha-, Adj.: not associating, not given to society. It is
+the p.p. of the verb root saj- (to join) with the prefix saj- (together) and
+negated by the negative prefix a-.
+Acc.Sg.m. = asajsatthaj.
+gahatthehi: gahattha-, N.m.: householder. It is derived from the word gaha-,
+N.m.: house with the suffix -ttha- (this is derived from the verb root tha-, to
+stand). Ins.Pl. = gahatthehi.
+anagarehi: anagara-, N.m.: monk, homeless wanderer. It is derived from the word
+agara-, N.n.: home, abode, negated by the negative prefix an-. Ins.Pl. =
+anagarehi.
+ca, conj.: and.
+List of Abbreviations
+ubhayaj: ubhaya-, Adj.: both. Acc.Sg.m. = ubhayaj. Here as an Adv.
+Euphonic combination: ca + ubhayaj = cubhayaj.
+anokasarim: anokasarin-, Adj.: living in houseless state, free from worldly
+attachments. It is a compound of:
+    anoka-, N.n.: houselessness, homelessness. It is the word oka-, N.n.: home,
+house, abode, shelter negated by the negative prefix an-.
+    sarin-, Adj.: wandering, following. It is derived from the verb root sar-
+(to go).
+Acc.Sg.m. = anokasarim.
+List of Abbreviations
+appicchaj: appiccha-, Adj.: wanting little. It is a compound of:
+    appa-, Adj.: few, little.
+    iccha-, Adj.: wanting, desiring. It is derived from the verb root is- (to
+want).
+Euphonic combination: appa- + iccha- = appiccha-.
+Acc.Sg.m. = appicchaj.
+tam: tad-, Pron.: it. Masculine form: so-, he. Acc.Sg. = tam (him).
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+brahmanaj: brahmana-, N.m.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+List of Abbreviations
+    The subject is the pronoun ahaj (I, nominative singular). The verb is brumi
+([I] say, 1st person, singular, active, indicative, present tense). The object
+is the noun brahmanaj (Brahmin, accusative singular). It has four attributes:
+    1) the adjective asajsatthaj (not associating, accusative singular) with
+its two attributes, the nouns gahatthehi (with householders, instrumental
+plural) and anagarehi (with monks, instrumental plural). They are connected by
+the conjunction ca (and) and the adverb ubhayaj (both).
+    2) the compound anokasarim (wandering in houselessness, accusative
+singular).
+    3) the compound appicchaj (wanting little, accusative singular).
+    4) the pronoun tam (him, accusative singular).
+===============================================================================
+
+
+Commentary:
+    A monk named Tissa lived in a cave practicing meditation. In the same cave
+there lived a spirit who found it difficult to live near somebody of such pure
+virtue, yet didn't dare to ask Tissa directly to leave.
+    The spirit went to the nearby village and possessed a young boy. He then
+told the boy's mother that only after the boy is washed with water left over
+from washing Tissa's feet, would he leave the boy alone. The boy's mother asked
+Tissa for help and he agreed.
+    The spirit then accused Tissa of exorcism (the practice of which is an
+offence for Buddhist monks) and on account of this asked him to leave. Tissa
+reflected on his acts and realized that he did not practice exorcism and had no
+offence. That gave him assurance and happiness and he attained the Arahantship
+in that very spot.
+    Tissa continued to dwell in the cave for the whole Rain Retreat and when it
+was over, he went to see the Buddha. He narrated his encounter with the spirit
+and other monks asked the Buddha if Tissa was really an Arahant. The Buddha
+replied with this verse, confirming Tissa's attainment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+asajsatthaj
+gahatthehi
+anagarehi
+ca
+ubhayaj
+anokasarim
+anoka
+sarim
+appicchaj
+appa
+icchaj
+tam
+ahaj
+brumi
+brahmanaj
+===============================================================================

@@ -1,0 +1,147 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+        ****** na hi pāpaṃ kataṃ kammaṃ sajju khīraṃ va muccati ******
+         ****** ḍahaṃ taṃ bālam anveti bhasmacchanno va pāvako ******
+                            ****** (DhP 71) ******
+===============================================================================
+
+Sentence Translation:
+An evil deed when done, doesn't instantly bear fruits; just like milk does not
+coagulate at once.
+Burning, it follows the fool like fire covered with ashes.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+na     hi    pāpaṃ    kataṃ   kammaṃ sajju khīraṃ   va     muccati
+|         |         |              |             |         |          |        
+|            |
+neg. part.  Adj.n.     Adj.n.      N.n.    Adv.    N.n.    part.  V.pas.in.
+|         |    Nom.Sg. Nom.Sg. Nom.Sg.  |     Nom.Sg.   |     3.Sg.pres.
+|_____|         |________|             |        |           |_____|           
+|
+     |                      |___________|        |               
+|                |
+     |__________________|__________|_________|_________|
+                                      |                  |_________|____|
+                                      |________________|      |
+                                                    |____________|
+List of Abbreviations
+ḍahaṃ       taṃ     bālam      anveti  bhasma+cchanno  va    pāvako
+|                  |            |              |           |           
+|           |         |
+Adj.n.     Pron.n.    N.m.    V.act.in.  N.n.     Adj.m.   part.   N.m.
+Nom.Sg. Nom.Sg. Acc.Sg. 3.Sg.pres.   |       Nom.Sg.    |    Nom.Sg.
+|__________|            |              |           |_______|         
+|          |
+         |____________|________|                 |_________|______|
+                    |______|                                          |___|
+                          |____________________________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+na, neg.: not.
+hi, part.: indeed.
+pāpaṃ: pāpa-, Adj.: evil, wrong. Nom.Sg.n. = pāpaṃ.
+kataṃ: kata-, Adj.: done. P.p. of the verb kar- (to do). Nom.Sg.n. = kataṃ.
+kammaṃ: kamma-, N.n.: deed, action. Derived from the verb kar- (to do).
+Nom.Sg. = kammaṃ.
+sajju, Adv.: instantly, quickly.
+List of Abbreviations
+khīraṃ: khīra-, N.n.: milk. Nom.Sg. = khīraṃ.
+va, part.: as, like.
+muccati, V.: to be released, to be freed. The verb is muc-. 3.Sg.pas.in.pres.
+=muccati. Here it is probably a misspelling for mucchati, V.: to coagulate, to
+curdle, fig. to bear results. The verb root is much-. 3.Sg.act.in.pres. =
+mucchati.
+ḍahaṃ: ḍahant-, Adj.: burning. It is an a.pr.p. of the verb rootḍah- (to burn).
+Nom.Sg.n. = ḍahaṃ.
+taṃ: tad-, Pron.: it. Nom.Sg.n. =taṃ.
+bālam: bāla-, Adj.: childish, young. As an N.m.: "like a child", fool, ignorant
+person. Acc.Sg. = bālam.
+List of Abbreviations
+anveti, V.:follows. The verb root is i- (to go), preceded by prefix anu- (with,
+along, following). 3.Sg.act.in.pres. = anveti.
+bhasmacchanno:bhasmachanna-, Adj.: covered with ashes. It is a compound of:
+    bhasma-, N.n.: ash, dust.
+    channa-, Adj.: covered. It is a p.p. of the verb chad-(to cover).
+Euphonic combination:bhasma- + channa- = bhasmacchanna-.
+Nom.Sg.m. = bhasmachanno.
+va: see above.
+pāvako: pāvaka-, N.m.: fire. Nom.Sg. = pāvako.
+ 
+List of Abbreviations
+    The two lines of this verse form two syntactically separate sentences.
+    In the first sentence the subject is the noun kammaṃ (deed, nominative
+singular). It has two attributes, adjectives pāpaṃ (bad, nominative singular)
+and kataṃ (done, nominative singular). The verb is muccati (is freed, 3rd
+person, singular, passive, indicative, present tense; but the meaning here is
+"coagulates" for the milk and "bears results" for the evil deeds). This verb is
+negated by the negative prefix na (not). The verb has an attribute, the adverb
+sajju(instantly). There is a clause in this sentence, khīraṃ va (like milk).
+The subject is the noun khīraṃ (milk, nominative singular). The verb is
+omitted, implying the verb muccati from the main sentence. The particle va
+(like) connects the clause to the main sentence.
+    In the second sentence, the subject is the personal pronountaṃ(it,
+nominative singular; it points to the noun kammaṃ from the first sentence). It
+has an attribute, the active present participle ḍahaṃ(burning, nominative
+singular). The verb is anveti (follows, 3rd person, singular, active,
+indicative, present tense). The object is the nounbālaṃ(fool, accusative
+singular). There is a clause, bhasmachanno va pāvako (like a fire covered with
+ashes). Here the subject is the nounpāvako(fire, nominative singular). It has
+the compound bhasmachanno (covered with ashes, nominative singular) as an
+attribute. The particle va (like) connects the clause to the main sentence.
+
+===============================================================================
+
+Commentary:
+    Once the Venerable Moggallāna with Venerable Lakkhana were on alms round in
+the city of Rājagaha. Suddenly Venerable Moggallāna smiled but did not say
+anything. When they returned to the monastery, Lakkhana asked why he smiled.
+Moggallāna explained, that he saw a peta-ghost in the village. The Buddha then
+said that he himself saw that very peta on the day he attained awakenment. In
+one of his previous existences it was a rich landowner. There lived an
+Individual Buddha (Paccekabuddha) close to one of his fields. People who went
+to pay their respects to this Buddha had to pass through his field. He feared
+that this would damage the field and so he set fire to it. So the Buddha had to
+move to some other place. Because of this evil deed he was reborn as a peta-
+ghost.
+    At the end the Buddha spoke this verse, saying that although at the time of
+the evil action it may seem there are no consequences, they will surely come in
+the future. Because we cannot see the fire through the ashes it is covered
+with, does not mean there is no fire at all.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+hi
+pāpaṃ
+kataṃ
+kammaṃ
+sajju
+khīraṃ
+va
+muccati
+ḍahaṃ
+taṃ
+bālam
+anveti
+bhasmacchanno
+bhasma
+channo
+pāvako
+
+===============================================================================

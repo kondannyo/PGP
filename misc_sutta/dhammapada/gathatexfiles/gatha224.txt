@@ -1,0 +1,124 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** saccaj bhane na kujjheyya dajja appam pi yacito ******
+            ****** etehi tihi thanehi gacche devana santike ******
+                            ****** (DhP 224) ******
+===============================================================================
+
+
+Sentence Translation:
+Speak truth; don't get angry; when asked, give, even a little.
+By these three means one will go to the presence of gods.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+saccaj   bhane   na  kujjheyya   dajja     appam   pi     yacito
+|                  |        |          |             |             |       
+|          |
+N.n.        V.act.  neg.   V.act.     V.act.    Adj.m. part.  Adj.m.
+Acc.Sg. 3.Sg.opt.  |    3.Sg.opt. 3.Sg.opt. Acc.Sg.   |    Nom.Sg.
+|__________|        |______|            |             |_____|          |
+                                                   |__________|               |
+
+                                                             |_____________|
+List of Abbreviations
+etehi      tihi   thanehi  gacche   devana santike
+|               |          |            |           |           |
+Pron.n. Num.   N.n.     V.act.     N.m.    N.n.
+Ins.Pl.  Ins.Pl. Ins.Pl. 3.Sg.opt. Gen.Pl. Loc.Pl.
+|________|           |            |           |______|
+        |__________|            |                 |
+                 |____________|                 |
+                             |_______________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+saccaj: sacca-, N.n.: truth. Acc.Sg. = saccaj.
+bhane, V.: should speak. The verb root is bhan-. 3.Sg.act.opt. = bhane.
+na, neg.: not.
+kujjheyya, V.: should be angry. The verb root is kujjh-. 3.Sg.act.opt. =
+kujjheyya.
+dajja, V.: should give. The verb root is da-. 3.Sg.act.opt. = dajja.
+appam: appa-, Adj.: little, few. Acc.Sg.m. = appam.
+pi, conj.: also.
+List of Abbreviations
+yacito: yacita-, Adj.: begged, asked for. It is a p.p. of the verb root yac-.
+Nom.Sg.m. = yacito.
+etehi: etad-, Pron.: this. Ins.Pl. = etehi.
+tihi: ti-, Num.: three. Ins.Pl. = tihi.
+thanehi: thana-, N.n.: place, condition, state. It is derived from the verb
+root tha- (to stay).
+Ins.Pl. = thanehi.
+gacche, V.: should go, let him go. The verb root is gam- (to go). 3.Sg.act.opt.
+= gacche.
+devana: deva-, N.m.: god, deity. Gen.Pl. = devana (instead of the more usual
+devanaj).
+santike: santika-, N.n.: presence, vicinity. Loc.Sg. = santike.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) saccaj bhane (speak truth). The subject is omitted; the verb implies the
+third person singular pronoun. The verb is bhane ([one] should speak, 3rd
+person, singular, active, optative). The object is the noun saccaj (truth,
+accusative singular).
+    2) na kujjheyya (don't get angry). The subject is omitted; the verb implies
+the third person singular pronoun. The verb is kujjheyya ([one] should get
+angry, 3rd person, singular, active, optative). It is negated by the negative
+particle na (not).
+    3) dajja appam pi yacito (when asked, give, even a little). The subject is
+the past participle yacito (asked, nominative singular). The verb is dajja (
+[one] should give, 3rd person, singular, active, optative). The object is the
+adjective appam (little, accusative singular). It is modified by the particle
+pi (even).
+    4) etehi tihi thanehi gacche devana santike (by these three means one will
+go to the presence of gods). The subject is omitted; the verb implies the third
+person singular pronoun. The verb is gacche ([one] would go, 3rd person,
+singular, active, optative). It has an attribute, the noun thanehi (by means,
+instrumental plural). This word has also an attribute, the numeral tihi (by
+three, instrumental plural), with its attribute, the pronoun etehi (by these,
+instrumental plural). The object is the noun santike (to the presence, locative
+singular). The noun devana (of gods, genitive plural) is an attribute to the
+object.
+===============================================================================
+
+
+Commentary:
+    Venerable Moggallana once visited the heaven world and asked the gods what
+good deeds had they done to be reborn in such happy state. Different gods had
+different answers. One was reborn as a god only because he always spoke truth.
+Another goddess said that she was a servant who never got angry with her master
+and never hated him, although he beat and abused her. Some gods replied they
+offered what little they could for the benefit of others.
+    Moggallana returned back and asked the Buddha if it was really possible to
+be reborn as a god just by these deeds. The Buddha confirmed it and spoke this
+verse, saying even little good deeds lead to heaven.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+saccaj
+bhane
+na
+kujjheyya
+dajja
+appam
+pi
+yacito
+etehi
+tihi
+thanehi
+gacche
+devana
+santike
+===============================================================================

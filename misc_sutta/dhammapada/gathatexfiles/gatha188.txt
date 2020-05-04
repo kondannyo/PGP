@@ -1,0 +1,128 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** bahuj ve saranaj yanti pabbatani vanani ca ******
+             ****** aramarukkhacetyani manussa bhayatajjita ******
+                            ****** (DhP 188) ******
+===============================================================================
+
+
+Sentence Translation:
+People, driven by fear, go for the refuge to many places:
+mountains, forests, gardens, trees and shrines.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+bahuj ve saranaj    yanti   pabbatani vanani    ca
+|            |        |             |             |            |          |
+Adv.   part.  N.n.    V.act.in.    N.n.       N.n.    conj.
+|            |   Acc.Sg. 3.Pl.pres. Acc.Sg.  Acc.Sg.    |
+|_______|       |             |              |______|______|________________I.
+       |             |_______|___________|
+       |_______________|        |
+                   |_____________|
+                              |_______________________________________II.
+List of Abbreviations
+arama+rukkha+cetyani  manussa bhaya+tajjita
+|                |           |             |           |          |
+N.m.      N.m.     N.n.      N.m.     N.n.   Adj.m.
+|                |       Acc.Pl. Nom.Pl.     |     Nom.Pl.
+|_________|______|             |           |______|
+I.___|                                  |_________|
+II.__________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+bahuj: bahu-, Adj.: many, much, a lot. Here as an Adv.: much, a lot.
+ve, part.: indeed.
+saranaj: sarana-, N.n.: refuge. Acc.Sg.: saranaj.
+yanti, V.: go. The verb root is ya-. 3.Pl.act.in.pres. = yanti.
+pabbatani: pabbata-, N.n.: mountain. Usually a N.m., but here as a neuter.
+Acc.Pl. = pabbatani.
+vanani: vana-, N.n.: forest. Acc.Pl. = vanani.
+List of Abbreviations
+ca, conj.: and.
+aramarukkhacetyani: aramarukkhacetya-, N.n.: parks, trees and shrines. It is a
+compound of:
+    arama-, N.m.: park, garden.
+     rukkha-, N.m.: tree.
+     cetya-, N.n.: shrine.
+Acc.Pl. = aramarukkhacetyani.
+manussa: manussa-, N.m.: human being, person, man. Nom.Pl. = manussa.
+bhayatajjita: bhayatajjita-, Adj.: driven by fear. It is a compound of:
+    bhaya-, N.n.: fear, fright.
+    tajjita-, Adj.: moved, spurred, driven. It is a p.p. of the verb root taj-
+(to frighten, to drive).
+Nom.Pl.m. = bhayatajjita.
+List of Abbreviations
+    The subject of this sentence is the noun manussa (people, nominative
+plural). It has an attribute, the adjective compound bhayatajjita (driven by
+fear, nominative plural). The verb is yanti (go, 3rd person, plural, active,
+indicative, present tense). It has an attribute, the adverb bahuj (a lot). The
+particle ve (indeed) serves mainly for metrical purposes. The object is the
+noun saranaj (for the refuge, accusative singular). It has three attributes:
+the noun pabbatani (to mountains, accusative plural), the noun vanani (to
+forests, accusative plural) and the compound aramarukkhacetyani (to gardens,
+trees and shrines, accusative plural). The word vanani is connected to the
+previous attribute by the conjunction ca (and).
+===============================================================================
+
+
+Commentary:
+    When the father of the king Pasenadi of Kosala, Maha Kosala, was reigning,
+he had a head priest, named Aggidatta. When Maha Kosala died, Aggidatta gave up
+his position and wealth and became an ascetic. He had many followers and lived
+on the border of Anga, Magadha and Kuru countries. His teaching to the people
+was: pay homage to forests, mountains, trees and shrines. By doing so, you will
+be freed from all evils.
+    Once the Buddha sent Venerable Moggallana to teach the Dharma to Aggidatta.
+When Moggallana arrived, he asked for a place to spend the night. They refused
+to let him stay with them. Close to that place was a cave where lived a very
+powerful Naga and Aggidatta sent Moggallana there, thinking Naga would kill
+him. Moggallana and the Naga had a duel, but at the end the Naga was subdued
+and spread his hood over Moggallana's head, showing him respect.
+    In the morning, Aggidatta and his pupils went to the cave to find out what
+happened. When they saw the Naga holding his head over Moggallana, they were
+surprised and paid respects to Moggallana.
+    When the Buddha arrived there, Moggallana got up from his seat and paid
+homage to the Buddha, saying that he was only a disciple, the Buddha was his
+teacher. When Aggidatta heard that, his respect for the Buddha was only
+greater. The Buddha admonished them with this verse (and following ones, DhP
+189, DhP 190, DhP 191, DhP 192), saying that trees and mountains are not a real
+refuge; only the Three Gems (Buddha, Dharma, Sangha) are the highest refuge.
+    Aggidatta and his pupils attained Arahantship immediately. They all became
+monks. Later, lay disciples of Aggidatta came to that place and were confused.
+Who was more powerful? Aggidatta or the Buddha? Aggidatta got up from his seat
+and paid homage to the Buddha, saying that he was only a humble disciple, the
+Buddha was the highest teacher.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+bahuj
+ve
+saranaj
+yanti
+pabbatani
+vanani
+ca
+aramarukkhacetyani
+arama
+rukkha
+cetyani
+manussa
+bhayatajjita
+bhaya
+tajjita
+===============================================================================

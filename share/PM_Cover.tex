@@ -1,0 +1,20 @@
+
+\newlength{\drop} % Command for generating a specific amount of whitespace
+\setlength{\drop}{0.23\textheight} % Define the command as 23% of the total text height
+\newcommand*{\PMTitlePage}{\begingroup % Create the command for including the title page in the document
+{\vspace*{\drop}} % Whitespace between the top lines and title
+\centering % Center all text
+\rule{0.5\textwidth}{0.4pt}\par % Short horizontal line under the title
+\vspace{0.25\drop} % Whitespace between the title and short horizontal line
+{\cinzel\itshape\Large\suttatitle}\\
+\vspace{0.25\drop} % Whitespace between the title and short horizontal line
+\rule{0.3\textwidth}{0.4pt}\par % Short horizontal line under the title
+\vspace{0.1\drop}
+\pagebreak
+\endgroup}
+
+\newcommand{\vsp}{\vspace{2mm}}
+% \newlength{\drop}
+% 
+% \newcommand*{\titleAT}{%
+% \begingroup % Create the command for including the title page in the document

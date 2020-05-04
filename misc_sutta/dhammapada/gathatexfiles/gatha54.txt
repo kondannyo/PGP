@@ -1,0 +1,160 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+   ****** na pupphagandho paṭivātam eti na candanaṃ tagaramallikā vā ******
+   ****** sataṃ ca gandho paṭivātam eti sabbā disā sappuriso pavāyati ******
+                            ****** (DhP 54) ******
+===============================================================================
+
+Sentence Translation:
+The scent of flowers, sandal, tagara or jasmine does not go against the wind.
+The scent of true ones goes against the wind. The true person pervades all
+directions.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+na  puppha+gandho  paṭi+vātam      eti       na candanaṃ tagara+mallikā   vā
+|          |           |           |       |            |          |        
+|            |           |         |
+neg.  N.n.     N.m.     ind. Adv.   V.act.in.  neg.   N.n.      N.n.    
+N.f.    conj.
+|          |      Nom.Sg.    |____|     3.Sg.pres.   |    Nom.Sg.     |    
+Nom.Sg.   |
+|          |______|               |                |          |        
+|            |______|          |
+|                |                    |_________|          |        
+|__________|_________|
+|                |________________|                  |___________|
+|_________________|                                          |
+              |_________________________________|_____________________________
+List of Abbreviations
+sataṃ     ca     gandho paṭi+vātam   eti          sabbā     disā 
+sap+puriso        pavāyati
+|              |           |         |       |          |              
+|            |       |       |                  |
+Adj.m.  conj.    N.m.   ind. Adv.  V.act.in.     Adj.f.     N.f.   Adj. 
+N.m.       V.act.in.
+Gen.Pl.    |     Nom.Sg.  |____|     3.Sg.pres.  Acc.Pl.  Acc.Pl.  |   
+Nom.Sg.  3.Sg.pres.
+|________|______|            |________|               |_______|      
+|____|                 |
+          |____________________|                             
+|                  |___________|
+                           |                                                 
+|_______________|
+_______________|___________________________________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+na, neg.: not.
+pupphagandho: pupphagandha-, N.m.: the scent of a flower. It is a compound of:
+    puppha-, N.n.: flower.
+    gandha-, N.m.: scent.
+Nom.Sg. = pupphagandho.
+paṭivātam, Adv.: against the wind. It is a compound of:
+    paṭi-, pref.ind.: against.
+    vāta-, N.m.: wind.
+As an Adv.: paṭivātam.
+List of Abbreviations
+eti: goes. The verb root is i- (to go). 3.Sg.act.in.pres = eti.
+na: see above.
+candanaṃ: candana-, N.n.: sandal. Nom.Sg. = candanaṃ.
+tagaramallikā: tagaramallikā-, N.f.:
+    tagara-, N.n: the incense obtained from a kind of shrub
+    (in Latin: Tabernaemontana coronaria).
+    mallikā-, N.f.: jasmine.
+Nom.Sg. = tagaramallikā.
+List of Abbreviations
+vā, conj.: or.
+sataṃ: sant-, Adj.: real, good, true. It is an a.pr.p. of the verb root as- (to
+be). Thus sant- means literally means "existing", "being". Gen.Pl. = sataṃ.
+ca, conj.: and.
+gandho: gandha-, N.m.: scent. Nom.Sg. = gandho.
+paṭivātam: see above.
+eti: see above.
+List of Abbreviations
+sabbā: sabba-, Adj.: all, every. Acc.Pl.f. = sabbā.
+disā: disā-, N.f: direction. Acc.Pl. = disā.
+sappuriso: sappurisa-, N.m.: a true person. It is a compound of:
+    sat-, Adj.: true, good, real. This is a compound form of the word sant-
+(see above).
+    purisa-, N.m.: person.
+Euphonic combination: sat + purisa = sappurisa.
+Nom.Sg. = sappuriso.
+pavāyati, V.: to pervade, to blow forth, to emit (scent). The verb root is vā-
+(to blow) with the prefix pa- (strengthening, "forth"). 3.Sg.act.in.pres. =
+pavāyati.
+List of Abbreviations
+    This verse forms four syntactically separated sentences. They are:
+    1) na pupphagandho paṭivātam eti (the scent of flowers does not go against
+the wind). The subject of this sentence is the noun pupphagandho (scent of
+flowers, nominative singular). The verb is eti (goes, 3rd person, singular,
+active, indicative, present tense), which is negated by the negative particle
+na (not). The verb has an attribute, the adverb paṭivātam (against the wind).
+    2) na candanaṃ tagaramallikā vā (nor [does] tagara or jasmine). There are
+two subjects in this sentence, candanaṃ (sandal, nominative singular) and
+tagaramallikā (tagara and jasmine, nominative singular). They are connected by
+the conjunction vā (or). There is a negative particle na (not) in this
+sentence, which negates the verb eti (goes) from the previous sentence. In this
+sentence the verb is omitted.
+    3) sataṃ ca gandho paṭivātam eti (the scent of true ones goes against the
+wind). The subject here is the noun gandho (smell, nominative singular) with an
+attribute, the adjective sataṃ (of the true ones, genitive plural). The verb is
+eti (goes, 3rd person, singular, active, indicative, present tense) with an
+attribute, the adverb paṭivātam (against the wind). The conjunction ca (and)
+connects this sentence to the two previous ones.
+    4) sabbā disā sappuriso pavāyati (the true person pervades all directions).
+The subject is the noun sappuriso (true person, nominative singular). The verb
+is pavāyati (pervades, 3rd person, singular, active, indicative, present
+tense). The object is the noun disā (directions, accusative plural) with the
+adjective sabbā (all, accusative plural) as an attribute.
+
+===============================================================================
+
+Commentary:
+    Venerable Ānanda was once sitting in meditation and he was pondering the
+problem of scent. All the known scents - perfumes, flowers, roots etc. go only
+with the wind. No scent can go against the wind. Is there any scent at all that
+can go against the wind?
+    He asked the Buddha about it. The Buddha said that there exists such thing.
+A person, who takes refuge in the Buddha, Dharma and Sangha, observes the moral
+precepts and is generous, is really worthy of praise. The "scent", or the
+reputation, of such a person spreads far and wide, with the wind and against
+it. Such a person is famous everywhere and people praise him.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+pupphagandho
+puppha
+gandho
+paṭivātam
+paṭi
+vātam
+eti
+candanaṃ
+tagaramallikā
+tagara
+mallikā
+vā
+sataṃ
+ca
+sabbā
+disā
+sappuriso
+pavāyati
+
+===============================================================================

@@ -1,0 +1,130 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** dhammaramo dhammarato dhammaj anuvicintayaj ******
+        ****** dhammaj anussaraj bhikkhu saddhamma na parihayati ******
+                            ****** (DhP 364) ******
+===============================================================================
+
+
+Sentence Translation:
+The monk who is delighting in the Dharma, devoted to the Dharma, pondering the
+Dharma
+and always bearing the Dharma in mind, will never fall away from the true
+Dharma.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+dhamma+aramo dhamma+rato  dhammaj anuvicintayaj
+|                   |           |          |             |                 |
+N.m.       Adj.m.   N.m.  Adj.m.     N.m.         Adj.m.
+|             Nom.Sg.     |    Nom.Sg. Acc.Sg.      Nom.Sg.
+|___________|          |______|            |__________|
+          |_______________|_______________|____________________
+List of Abbreviations
+dhammaj anussaraj bhikkhu  sad+dhamma  na   parihayati
+|                       |              |          |          |        
+|           |
+N.m.           Adj.m.      N.m.    Adj.    N.m.   neg.  V.act.in.
+Acc.Sg.      Nom.Sg.  Nom.Sg.    |     Abl.Sg.    |    3.Sg.pres.
+|_____________|              |         |______|         |______|
+______|                           |                |___________|
+     |__________________|                           |
+                      |________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+dhammaramo: dhammarama-, Adj.: delighting in the Dharma. It is a compound of:
+    dhamma-, N.m.: Buddha's Teaching. The Law. Derived from the verb dha-, to
+hold. Thus dhamma "holds the world together".
+    arama-, N.m.: delight, pleasure. It is derived from the verb root ram- (to
+enjoy)
+with the prefix a- (to).
+Euphonic combination: dhamma- + arama- = dhammarama-.
+Nom.Sg.m. = dhammaramo.
+dhammarato: dhammarata-, Adj.: devoted to the Dharma. It is a compound of:
+    dhamma-, N.m.: see above.
+    rata-, Adj.: devoted. It is a p.p. of the verb ram- (to delight in, to be
+devoted to).
+Nom.Sg.m. = dhammarato.
+dhammaj: dhamma-, N.m.: see above. Acc.Sg. = dhammaj.
+anuvicintayaj: anuvicintayant-, Adj.: thinking about, pondering. It is an
+a.pr.p. of the verb root cint- (to think) with the prefixes anu- (along, on,
+to) and vi- (intensifying sense).
+Nom.Sg.m. = anuvicintayaj.
+List of Abbreviations
+dhammaj: see above.
+anussaraj: anussarant-, Adj.: being aware, remembering, bearing in mind. It is
+an a.pr.p. of the verb root sar- (to remember) with the prefix anu- (along, on,
+to). Nom.Sg.m. = anussaraj.
+bhikkhu: bhikkhu-, N.m.: a (Buddhist) monk. Nom.Sg. = bhikkhu.
+saddhamma: saddhamma-, N.m.: true Dharma. It is a compound of:
+    sad-, Adj.: good, true. Original meaning: existing. The full form (sant-
+) is an a.pr.p. of the verb as- (to be). The compound form of sant- = sat-.
+    dhamma-, N.m.: Dharma, Buddha's teaching.
+Euphonic combination: sat- + dhamma- = saddhamma-.
+Abl.Sg. = saddhamma.
+na, neg.: not.
+parihayati, V.: fall away from. It is derived from the verb root ha- (to leave,
+to abandon) with the prefix pari- (all around, completely). 3.Sg.act.in.pres. =
+parihayati.
+List of Abbreviations
+    The subject of this sentence is the noun bhikkhu (monk, nominative
+singular). It has four attributes:
+    1) the compound dhammaramo (delighting in the Dharma, nominative singular),
+
+    2) the compound dhammarato (devoted to the Dharma, nominative singular),
+    3) the present active participle anuvicintayaj (pondering, nominative
+singular) with its attribute, the noun dhammaj (the Dharma, accusative
+singular),
+    4) the present active participle anussaraj (bearing in mind, nominative
+singular) with its attribute, the noun dhammaj (the Dharma, accusative
+singular).
+    The verb is parihayati (falls away from, 3rd person, singular, active,
+indicative, present tense). It is negated by the negative particle na (not).
+The verb has an attribute, the compound saddhamma (from the true Dharma,
+ablative singular).
+===============================================================================
+
+
+Commentary:
+    Close to the age of eighty years, the Buddha announced that he would attain
+the Parinibbana (pass away) very soon. The monks who had not attained the
+Awakenment yet, were very distressed and spent all the time with the Buddha,
+never leaving his presence. But there was a monk named Dhammarama who did not
+come to see the Buddha but kept to himself. Other monks thought he was
+disrespectful towards the teacher. But Dhammarama explained that in his opinion
+the highest homage to the Buddha would be if he could attain the Awakenment
+before the Buddha's passing away.
+    The Buddha praised Dhammarama by this verse saying that a monk who really
+wants to pay homage to him should act as Dhammarama did.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+dhammaramo
+dhamma
+aramo
+dhammarato
+rato
+dhammaj
+anuvicintayaj
+anussaraj
+bhikkhu
+saddhamma
+sad
+dhamma
+na
+parihayati
+===============================================================================

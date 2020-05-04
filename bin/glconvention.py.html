@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>~/bin/glconvention.py.html</title>
+<meta name="Generator" content="Vim/8.0">
+<meta name="plugin-version" content="vim7.4_v2">
+<meta name="syntax" content="pymode">
+<meta name="settings" content="number_lines,use_css,no_foldcolumn,expand_tabs,line_ids,prevent_copy=">
+<meta name="colorscheme" content="solarized">
+<style type="text/css">
+<!--
+pre { font-family: monospace; color: #8080ff; background-color: #808080; }
+body { font-family: monospace; color: #8080ff; background-color: #808080; }
+* { font-size: 1em; }
+.LineNr { color: #00ff00; background-color: #000000; padding-bottom: 1px; }
+.Statement { color: #008000; }
+.Comment { color: #00ff00; }
+.Constant { color: #008080; }
+.Special { color: #c00000; }
+-->
+</style>
+
+<script type='text/javascript'>
+<!--
+
+/* function to open any folds containing a jumped-to line before jumping to it */
+function JumpToLine()
+{
+  var lineNum;
+  lineNum = window.location.hash;
+  lineNum = lineNum.substr(1); /* strip off '#' */
+
+  if (lineNum.indexOf('L') == -1) {
+    lineNum = 'L'+lineNum;
+  }
+  lineElem = document.getElementById(lineNum);
+  /* Always jump to new location even if the line was hidden inside a fold, or
+   * we corrected the raw number to a line ID.
+   */
+  if (lineElem) {
+    lineElem.scrollIntoView(true);
+  }
+  return true;
+}
+if ('onhashchange' in window) {
+  window.onhashchange = JumpToLine;
+}
+
+-->
+</script>
+</head>
+<body onload='JumpToLine();'>
+<pre id='vimCodeElement'>
+<span id="L1" class="LineNr"> 1 </span><span class="Special">#!/usr/bin/env python3</span>
+<span id="L2" class="LineNr"> 2 </span><span class="Special"># -*- coding: utf-8 -*-</span>
+<span id="L3" class="LineNr"> 3 </span>
+<span id="L4" class="LineNr"> 4 </span><span class="Comment"># master path</span>
+<span id="L5" class="LineNr"> 5 </span>glpath <span class="Statement">=</span> <span class="Constant">'data/texfiles/sutta'</span>
+<span id="L6" class="LineNr"> 6 </span>
+<span id="L7" class="LineNr"> 7 </span><span class="Comment"># manually processed text files ready for input</span>
+<span id="L8" class="LineNr"> 8 </span>pali_ext <span class="Statement">=</span> <span class="Constant">'_pali.txt'</span>
+<span id="L9" class="LineNr"> 9 </span>eng_ext <span class="Statement">=</span> <span class="Constant">'_eng.txt'</span>
+<span id="L10" class="LineNr">10 </span>
+<span id="L11" class="LineNr">11 </span><span class="Comment"># unique word lists</span>
+<span id="L12" class="LineNr">12 </span>pali_uw <span class="Statement">=</span> <span class="Constant">'_punique.txt'</span>
+<span id="L13" class="LineNr">13 </span>eng_uw <span class="Statement">=</span> <span class="Constant">'_eunique.txt'</span>
+<span id="L14" class="LineNr">14 </span>
+<span id="L15" class="LineNr">15 </span><span class="Comment"># glossaries</span>
+<span id="L16" class="LineNr">16 </span>pali_gl <span class="Statement">=</span> <span class="Constant">'_glossary.csv'</span>
+<span id="L17" class="LineNr">17 </span>engl_gl <span class="Statement">=</span> <span class="Constant">'_eglossary.csv'</span>
+<span id="L18" class="LineNr">18 </span>
+<span id="L19" class="LineNr">19 </span>gloss <span class="Statement">=</span> <span class="Constant">'_gloss.tex'</span>
+<span id="L20" class="LineNr">20 </span>
+<span id="L21" class="LineNr">21 </span>paracol <span class="Statement">=</span> <span class="Constant">'_paracol.tex'</span>
+<span id="L22" class="LineNr">22 </span>
+<span id="L23" class="LineNr">23 </span>alternating <span class="Statement">=</span> <span class="Constant">'_alternating.tex'</span>
+<span id="L24" class="LineNr">24 </span>
+<span id="L25" class="LineNr">25 </span>html <span class="Statement">=</span> <span class="Constant">'.html'</span>
+</pre>
+</body>
+</html>
+<!-- vim: set foldmethod=manual : -->

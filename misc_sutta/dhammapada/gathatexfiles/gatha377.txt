@@ -1,0 +1,109 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** vassika viya pupphani maddavani pamubcati ******
+         ****** evaj ragaj ca dosaj ca vippamubcetha bhikkhavo ******
+                            ****** (DhP 377) ******
+===============================================================================
+
+
+Sentence Translation:
+Just like the jasmine sheds its withered flowers,
+so you should shed passion and hatred, monks.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+vassika   viya pupphani maddavani pamubcati
+|                |         |                |                |
+N.f.        part.   N.n.        Adj.n.       V.act.in.
+Nom.Sg.    |    Acc.Pl.     Acc.Pl.     3.Sg.pres.
+|                |         |_________|                |
+|                |                 |______________|
+|_________|________________|
+       |_____|
+            |___________________________________________________
+List of Abbreviations
+evaj ragaj    ca   dosaj   ca vippamubcetha bhikkhavo
+|            |          |         |         |            |                   |
+Adv.  N.m.   conj.   N.m.  conj.    V.act.            N.m.
+|       Acc.Sg.    |    Acc.Sg.    |     2.Pl.opt.        Voc.Sg.
+|            |_____|          |_____|            |                   |
+|                 |___________|                |                   |
+|                            |______________|                   |
+|                                          |_________________|
+|________________________________|
+_______________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+vassika: vassika-, N.f.: jasmine. Nom.Sg. = vassika.
+viya, part.: as, like.
+pupphani: puppha-, N.n.: flower. Acc.Pl. = pupphani.
+maddavani: maddava-, Adj.: withered, soft. Acc.Pl.n. = maddavani.
+pamubcati, V.: releases, sheds. The verb root is muc-, to free, with the
+strengthening prefix pa-. 3.Sg.act.in.pres. = pamubcati.
+evaj, Adv.: thus, in this way.
+List of Abbreviations
+ragaj: raga-, N.m.: passion, lust. It is derived from the verb raj- (to color).
+Acc.Sg. = ragaj.
+ca, conj.: and.
+dosaj: dosa-, N.m.: ill-will, hatred, anger. Acc.Sg. = dosaj.
+ca, conj.: and.
+vippamubcetha, V.: release, shed. The verb root is muc-, to free, with the
+prefixes pa- (strengthening) and vi- (away, from). 2.Pl.act.opt. =
+vippamubcetha.
+bhikkhavo: bhikkhu-, N.m.: a (Buddhist) monk. Voc.Pl. = bhikkhavo.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) vassika viya pupphani maddavani pamubcati (just like the jasmine sheds
+its withered flowers). The subject is the noun vassika (jasmine, nominative
+singular). The verb is pamubcati (sheds, 3rd person, singular, active,
+indicative, present tense). The object is the noun pupphani (flowers,
+accusative plural). It has an attribute, the adjective maddavani (withered,
+accusative plural). The particle viya (as, like) connects this sentence to the
+following one.
+    2) evaj ragaj ca dosaj ca vippamubcetha bhikkhavo (so you should shed
+passion and hatred, monks). The subject is the noun bhikkhavo (monks, vocative
+plural). The verb is vippamubcetha (you should shed, 2nd person, plural,
+active, optative). There are two objects, ragaj (passion, accusative singular)
+and dosaj (hatred, accusative singular). They are connected by two conjunctions
+ca (and). The adverb evaj (thus, so) connects this sentence to the previous
+one.
+===============================================================================
+
+
+Commentary:
+A group of monks received a subject of meditation from the Buddha and they
+started to practice diligently. Once they observed a jasmine flowers, which
+blossomed beautifully in the morning, only to wither away and be shed in the
+evening. They realized that they must do the same with all the mental
+defilements of their minds. The Buddha then spoke this verse to them, further
+reinforcing the idea. The monks reflected on this and soon all attained the
+Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+vassika
+viya
+pupphani
+maddavani
+pamubcati
+evaj
+ragaj
+ca
+dosaj
+vippamubcetha
+bhikkhavo
+===============================================================================

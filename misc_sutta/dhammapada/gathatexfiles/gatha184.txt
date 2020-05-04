@@ -1,0 +1,150 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                  ****** khanti paramaj tapo titikkha ******
+                 ****** nibbanaj paramaj vadanti buddha ******
+                   ****** na hi pabbajito parupaghati ******
+                 ****** samano hoti paraj vihethayanto ******
+                            ****** (DhP 184) ******
+===============================================================================
+
+
+Sentence Translation:
+Patience and forgiveness is the highest ascetic practice.
+The Awakened Ones say the Nirvana to be the highest.
+A monk does not hurt others.
+One, who harms others, is not a monk.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+khanti     paramaj   tapo      titikkha
+|                    |            |              |
+N.f.           Adj.n.     N.n.        N.f.
+Nom.Sg.  Nom.Sg. Nom.Sg. Nom.Sg.
+|                    |_______|              |
+|_______________|___________|
+              |_______|
+List of Abbreviations
+nibbanaj paramaj  vadanti    buddha
+|                     |              |             |
+N.n.           Adj.n.    V.act.in.    N.m.
+Acc.Sg.     Acc.Sg.   3.Pl.pres. Nom.Pl.
+|____________|             |              |
+          |______________|              |
+                       |_______________|
+List of Abbreviations
+na     hi   pabbajito para+upaghati
+|         |          |          |           |
+neg. part.  Adj.m.   Adj.   Adj.m.
+|_____|    Nom.Sg.    |     Nom.Sg.
+     |________|          |______|
+            |_____________|
+List of Abbreviations
+samano       hoti      paraj  vihethayanto
+|                    |            |               |
+N.m.       V.act.in.   Adj.m.     Adj.m.
+Nom.Sg. 3.Sg.pres. Acc.Sg.   Nom.Sg.
+|___________|            |_________|
+          |_________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+khanti: khanti-, N.f.: patience, forbearance, forgiveness. Nom.Sg. = khanti.
+paramaj: parama-, Adj.: most, highest, absolute. Nom.Sg.n. = paramaj.
+tapo: tapo-, N.n.: ascetic practice, religious practice. Nom.Sg. = tapo.
+titikkha: titikkha-, N.f.: endurance, forgiveness. Nom.Sg. = titikkha.
+nibbanaj: nibbana-, N.n.: Nirvana, the goal of Buddhism. Acc.Sg. = nibbanaj.
+paramaj: see above. Acc.Sg. = paramaj.
+List of Abbreviations
+vadanti, V.: say. The verb root is vad- (to say). 3.Pl.act.in.pres. = vadanti.
+buddha: buddha-, Adj.: awakened. It is a p.p. of the verb root budh- (to
+awaken). As a N.m.: Awakened One, Enlightened One, a being who has attained the
+Nirvana. Nom.Pl. = buddha.
+na, neg.: not.
+hi, part.: indeed.
+pabbajito: pabbajita-, Adj.: One who has "gone forth" from home and became a
+monk. It is a p.p. of the verb pabbajati (to go forth). Nom.Sg. = pabbajito.
+List of Abbreviations
+parupaghati: parupaghatin-, Adj.: killing others, hurting others. It is a
+compound of:
+    para-, Adj.: different, other.
+    upaghatin-, Adj.: hurting, killing. It is derived from the verb root han-
+(to strike, to beat) with the prefix upa- (on, onto).
+Euphonic combination: para- + upaghatin- = parupaghatin-.
+Nom.Sg.m. = parupaghati.
+samano: samana-, N.m.: a recluse, a wandering ascetic, a monk (not only a
+Buddhist monk).
+Nom.Sg. = samano.
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+paraj: para-, Adj.: different, other. Acc.Sg.m. = paraj.
+vihethayanto: vihethayant-, Adj.: hurting, oppressing, harming. It is an
+a.pr.p. of the verb root hel- (to be hostile) with the prefix vi- (intensifying
+sense). Nom.Sg.m. = vihethayanto.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) khanti paramaj tapo titikkha (patience and forgiveness is the highest
+ascetic practice). There are two subjects in this sentence, khanti (patience,
+nominative singular) and titikkha (forgiveness, nominative singular). The
+object is the noun tapo (ascetic practice, nominative singular). It has an
+attribute, the adjective paramaj (highest, nominative singular). The verb is
+omitted, implying the verb "to be".
+    2) nibbanaj paramaj vadanti buddha (the Awakened Ones say the Nirvana to be
+the highest). The subject is the noun buddha (Awakened Ones, nominative
+plural). The verb is vadanti (say, 3rd person, plural, active, indicative,
+present tense). The object is the noun nibbanaj (Nirvana, accusative singular)
+with its attribute, the adjective paramaj (highest, accusative singular).
+    3) na hi pabbajito parupaghati(a monk does not hurt others). The object is
+the noun pabbajito (monk, nominative singular). The verb is omitted, implying
+the verb "to be". It is negated by the negative particle na (not). The object
+is the adjective parupaghati (hurting others, nominative singular). The
+particle hi (indeed) serves mainly for metrical purposes.
+    4) samano hoti paraj vihethayanto (one, who harms others, is not a monk).
+The object is the active present participle vihethayanto (harming, nominative
+singular). It has an attribute, the adjective paraj (other, accusative
+singular). The verb is hoti (is, 3rd person, singular, active, indicative,
+present tense). It is negated by the negative particle na (not) from the
+previous sentence. The object is the noun samano (monk, nominative singular).
+===============================================================================
+
+
+Commentary:
+    Venerable Ananda once asked the Buddha if the basic instructions for the
+behavior of the monks were the same in case of the past Buddhas, or if each
+Awakened One sets his own rules.
+    The Buddha replied with this verse and with the preceding one (DhP 183) and
+with the following one (DhP 185), saying that they were all the same. He also
+added that the previous Buddhas uttered these three verses also.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+khanti
+paramaj
+tapo
+titikkha
+nibbanaj
+vadanti
+buddha
+na
+hi
+pabbajito
+parupaghati
+para
+upaghati
+samano
+hoti
+paraj
+vihethayanto
+===============================================================================

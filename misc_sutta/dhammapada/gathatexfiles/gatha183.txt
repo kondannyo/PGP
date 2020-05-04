@@ -1,0 +1,156 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                      ****** Sabbapapassa akaranaj ******
+                      ****** Kusalassa upasampada ******
+                      ****** Sacittapariyodapanaj ******
+                      ****** Etaj buddhana sasanaj ******
+                            ****** (DhP 183) ******
+===============================================================================
+
+
+Translation:
+Not doing the evil deeds,
+Gathering the wholesome,
+Purifying one's own mind -
+That is teaching of the buddhas.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+Sabba+papassa a+karanaj
+|              |         |          |
+Adj.     N.n.    neg.    N.n.
+|        Gen.Sg.    |    Nom.Sg.
+|________|         |______|
+      |_____________|
+               
+|______________________                                                    List
+of Abbreviations
+Kusalassa upasampada
+|                      |
+N.n.              N.f.
+Gen.Sg.      Nom.Sg.
+|____________|
+______|_________________________
+Sa+citta+pariyodapanaj
+|         |               |
+Adj.  N.n.        N.n.
+|_____|          Nom.Sg.
+    |___________|
+________|
+     
+|___________________________                                                     
+List of Abbreviations
+Etaj     buddhana sasanaj
+|                  |               |
+Pron.n.      N.m.       N.n.
+Nom.Sg.  Gen.Pl.   Nom.Sg.
+|                  |________|
+|______________|
+________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sabbapapassa: sabbapapa-, N.n.: All evil. A compound of two words:
+    sabba-, Adj.: all, whole, complete
+    papa-, Adj. or N.n.: evil, bad, unwholesome, wicked. As a noun usually
+means bad or evil deed.
+Gen.Sg.: sabbapapassa.
+akaranaj: akarana-, N.n.: non-doing, Absence of action. The word karana-
+(doing, acting) is derived from the verb kar-, to do. Preceded by the negative
+prefix a- (not). Nom.Sg.: akaranaj.
+kusalassa: kusala-, Adj. or N.n.: good, wholesome. As a noun usually means a
+good thing, good deed, merit. Gen.Sg: kusalassa.
+List of Abbreviations
+upasampada: upasampada-, N.f.: gathering, obtaining, acquiring. Derived from
+the verb pad- (to fall, to go to) preceded by two prefixes: upa- (close, near)
+and saj- (together). Nom.Sg.: upasampada.
+sacittapariyodapanaj: sacittapariyodapana-, N.n.: purifying one's own mind. A
+compound of two words:
+    sacitta-, N.n.: one's own mind. This word is itself a compound of
+        sa-, Adj.: own and
+        citta-, N.n.:  mind.
+    pariyodapana-, N.n.: cleansing, purification. Derived from the verb
+pariyodapeti, which is a
+    causative form (odapeti) of the verb da- (to clean) preceded by the prefix
+pari- (all around).
+Nom.Sg.: saccittapariyodapanaj.
+List of Abbreviations
+etaj: etad-, Pron.: this. Neuter: etaj. Nom.Sg.: etaj.
+buddhana: buddha-, Adj. or N.m.: awakened; p.p. of the verb budh- (to wake up).
+As a noun: a buddha (Awakened being) or the Buddha (historical Buddha
+Shakyamuni). Gen.Pl.: buddhana.
+sasanaj: sasana-, N.n.: teaching. Derived from the verb sas- (to instruct, to
+teach). Nom.Sg.: sasanaj.
+ 
+List of Abbreviations
+The subject of this sentence is sasanaj (teaching). It is in the nominative
+case. Its attribute buddhana (of the Buddhas) is in genitive plural.
+Also in nominative is the object, etaj (this). The verb is omitted (and thus it
+is the verb "to be").
+The first three lines form three secondary objects, enumerating what the main
+object (etaj, this) means.
+The first of them is sabbapapassa akaranaj (non-doing of all evil). Actually,
+the object here is only the word akaranaj (non-doing), which is therefore in
+nominative. The word sabbapapassa (of all evil) is only its attribute, being in
+genitive case. Note that this word is a compound, instead of sabbassa papassa
+(of all evil, both words separated and in genitive case) we write just
+sabbapapassa, having the same meaning.
+Next one is kusalassa upasampada (gathering the wholesome). Again, the word
+upasampada (gathering) is the object in the nominative. Its attribute kusalassa
+(of the wholesome [things]) is in genitive.
+Last is sacittapariyodapanaj. It is in nominative and it is a compound that can
+be described as sacittassa (of one's own mind) pariyodapanaj(purification), or
+even sassa (of own) citassa (of mind) pariyodapanaj (purification).
+===============================================================================
+
+
+Commentary:
+This gatha, simply said, is Buddhism in a nutshell. Truly, what can be
+explained and expanded in hundreds of books, can be also abbreviated into three
+main guidelines. Not doing evil deeds - the first step on the road to
+Awakenment. But what exactly are "evil deeds"? A deed is considered evil if it
+brings suffering to any living being.
+After one refrains from doing evil deeds one needs to do good deeds - to
+"gather" them like flowers. Good deeds are deeds that help living beings. They
+are based on loving kindness, compassion, sympathetic joy and equanimity. In
+order to be able to do so, one must cultivate these feelings in one's heart and
+mind.
+These two steps are only preparatory stages to the final and most important
+action - purification of mind. The first two stages are here to prepare our
+mind for the highest goal. Without them it would be indeed impossible to purify
+our minds, for a mind that harbors evil thoughts can not purify itself.
+The last verse mentions that this is the teaching of the buddhas. Why is the
+plural form used here? The historical Buddha Shakyamuni is believed to be just
+one from the long succession of Awakened beings, buddhas, who reach the nirvana
+by themselves and the become teachers of the Dharma. And as this verse states,
+their teachings might differ, but these three basic patterns do not change in
+either of them. Therefore, these lines can truly be described as the very core
+of Buddha's teaching.
+===============================================================================
+
+
+Pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sabbapapassa
+sabba
+akaranaj
+kusalassa
+upasampada
+sacittapariyodapanaj
+sacitta
+pariyodapanaj
+etaj
+buddhana
+sasanaj
+===============================================================================

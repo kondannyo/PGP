@@ -1,0 +1,125 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** sibca bhikkhu imaj navaj sitta te lahum essati ******
+          ****** chetva ragaj ca dosaj ca tato nibbanam ehisi ******
+                            ****** (DhP 369) ******
+===============================================================================
+
+
+Sentence Translation:
+Empty this boat, monk! Empty it will travel quickly.
+Having cut off passion and hatred, you will approach the Nirvana.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sibca        bhikkhu   imaj   navaj    sitta          te     lahum  essati
+|                    |            |            |            |            
+|          |          |
+V.act.         N.m.    Pron.f.    N.f.     Adj.f.    Pron.m. Adv.   V.act.
+2.Sg.imp.  Voc.Sg. Acc.Sg. Acc.Sg. Nom.Sg. Gen.Sg.     |    3.Sg.fut.
+|                    |            |_______|           |              |         
+|______|
+|___________|___________|                 |              |_________|
+         |______|                                     |_____________|
+List of Abbreviations
+chetva  ragaj    ca   dosaj    ca   tato nibbanam    ehisi
+|               |          |         |         |       |         
+|              |
+V.ger.   N.m.   conj.   N.m.  conj. Adv.   N.n.       V.act.
+|          Acc.Sg.    |    Acc.Sg.    |       |    Acc.Sg.   2.Sg.fut.
+|               |_____|          |_____|       |          |________|
+|                    |___________|           |__________|
+|_________________|                               |
+                 |_________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sibca, V.: empty. The verb root is sic-. The usual meaning of this verb is "to
+sprinkle", "to make wet". In connection with boats it means "empty the boat of
+water". 2.Sg.act.imp. = sibca.
+bhikkhu: bhikkhu-, N.m.: a (Buddhist) monk. Voc.Sg. = bhikkhu.
+imaj: idaj-, Pron.: this. Acc.Sg.f. = imaj.
+navaj: nava-, N.f.: boat, ship. Acc.Sg. = navaj.
+sitta: sitta-, Adj.: emptied. It is a p.p. of the verb root sic- (to make wet,
+but here "to empty"; see above under sibca). Nom.Sg.f. = sitta.
+te: tvaj-, Pron.: you. Gen.Sg. = te.
+lahum, Adv.: quickly. It is derived from the word lahu-, Adj.: light, quick.
+essati, V.: will go. The verb root is i- (to go). 3.Sg.act.fut. = essati.
+List of Abbreviations
+chetva, V.ger.: having destroyed, having cut off. The verb root is chid- (to
+cut off).
+ragaj: raga-, N.m.: passion, lust. It is derived from the verb raj- (to color).
+Acc.Sg. = ragaj.
+ca, conj.: and.
+dosaj: dosa-, N.m.: ill-will, hatred, anger. Acc.Sg. = dosaj.
+ca, conj.: and.
+tato, Adv.: from that, than that.
+nibbanam: nibbana-, N.n.: Nirvana, the goal of Buddhism. Acc.Sg. = nibbanam.
+ehisi, V.: [you will] go to, approach. The verb root is i- (to go).
+2.Sg.act.fut. = ehisi.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) sibca bhikkhu imaj navaj (empty this boat, monk). The subject is the
+noun bhikkhu (monk, vocative singular). The verb is sibca (empty, 2nd person,
+singular, active, imperative). The object is the noun navaj (boat, accusative
+singular). It has an attribute, the pronoun imaj (this, accusative singular).
+    2) sitta te lahum essati (empty it will travel quickly for you). The
+subject is the past participle sitta (empty, nominative singular). The verb is
+essati (will go, 3rd person, singular, active, future). It has two attributes,
+the adverb lahum (quickly) and the pronoun te (for you, genitive singular).
+    3) chetva ragaj ca dosaj ca tato nibbanam ehisi (having cut off passion and
+hatred, you will approach the Nirvana). This can be further analysed into two
+parts:
+    a) chetva ragaj ca dosaj ca (having cut off passion and hatred). The
+subject is omitted. The verb is in gerund, chetva (having cut off). There are
+two objects, ragaj (passion, accusative singular) and dosaj (hatred, accusative
+singular). They are connected by two conjunctions ca (and).
+    b) tato nibbanam ehisi (because of that you will approach the Nirvana). The
+subject is omitted; the verb implies the second person singular pronoun. The
+verb is ehisi (you will go, 2nd person, singular, active, future). The object
+is the noun nibbanaj (to the Nirvana, accusative singular). The adverb tato
+(from that, because of that) connects the sentence to the previous one.
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 368) and for the seven following verses (DhP 370 - DhP 376).
+    Our striving for the peace of mind, the Nirvana, is often compared with
+crossing a river. If our boat (our mind) is filled with water (passion and
+hatred) it is extremely hard or almost impossible to cross to the other shore.
+We have to empty the boat of our mind of water (consisting mainly but not only
+of passion and hatred) to be able to make it to the other shore of Nirvana
+quickly and safely.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sibca
+bhikkhu
+imaj
+navaj
+sitta
+te
+lahum
+essati
+chetva
+ragaj
+ca
+dosaj
+tato
+nibbanam
+ehisi
+===============================================================================

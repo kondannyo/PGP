@@ -1,0 +1,119 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** na tena ariyo hoti yena panani hijsati ******
+             ****** ahijsa sabbapananaj ariyo ti pavuccati ******
+                            ****** (DhP 270) ******
+===============================================================================
+
+
+Sentence Translation:
+One is not to be called Noble if he hurts living beings.
+Because of non-violence towards all living beings is one called "Noble".
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na    tena       ariyo       hoti        yena     panani   hijsati
+|          |            |              |             |             |           
+|
+neg. Pron.    Adj.m.   V.act.in.  Rel.Pron.  N.n.    V.act.in.
+|      Ins.Sg. Nom.Sg. 3.Sg.pres.   Ins.Sg.  Acc.Pl. 3.Sg.pres.
+|______|______|________|              |            |_______|
+           |     |___|                             |__________|
+           |____|                                           |
+               |__________________________|
+List of Abbreviations
+ahijsa sabba+pananaj   ariyo      ti    pavuccati
+|               |           |             |          |           |
+N.f.       Adj.     N.m.     Adj.m.  part.  V.pas.in.
+Nom.Sg.   |      Gen.Pl.  Nom.Sg.   |     3.Sg.pres.
+|               |______|              |_____|           |
+|____________|                       |_________|
+          |_________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+tena: tad-, Pron.: it. Ins.Sg.n. = tena (by it, because of it).
+ariyo: ariya-, Adj.: noble, distinguished, good. Nom.Sg.m. = ariyo.
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+yena: yad-, Rel.Pron.: that which. Ins.Sg.n. = yena.
+panani: pana-, N.n.: breath, life, living being. Acc.Pl. = panani.
+hijsati, V.: hurts. The verb root is hijs- (to hurt). 3.Sg.act.in.pres. =
+hijsati.
+List of Abbreviations
+ahijsa: ahijsa-, N.f.: non-violence, not hurting, not injuring. It is derived
+from the verb root hijs- (to hurt) with the negative prefix a-. Nom.Sg. =
+ahijsa.
+sabbapananaj: sabbapana-, N.m.: all living beings. It is a compound of:
+    sabba-, Adj.: all.
+    pana-, N.m.: breath, life, living being.
+Gen.Pl. = sabbapananaj.
+ariyo: see above.
+ti, part.: a particle, symbolizing the end of direct speech. In English this is
+expressed by quotation marks. Sometimes it is written as iti.
+pavuccati, V,: is called. It is a passive form of the verb root vac- (to say),
+with the strengthening prefix pa-. 3.Sg.pas.in.pres. = pavuccati.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) na tena ariyo hoti yena panani hijsati (one is not to be called Noble if
+he hurts living beings). This can be analysed into two parts:
+    a) na tena ariyo hoti (one is not to be called Noble). The subject is
+omitted; the verb implies the third person singular pronoun. The verb is hoti
+(is, 3rd person, singular, active, indicative, present tense). It is negated by
+the negative particle na (not). The object is the noun ariyo (Noble, nominative
+singular). The pronoun tena (by that, instrumental singular) connects this
+segment to the following one.
+    b) yena panani hijsati (if he hurts living beings). The subject is omitted;
+the verb implies the third person singular pronoun. The verb is hijsati (hurts,
+3rd person, singular, active, indicative, present tense). The object is the
+noun panani (living beings, accusative plural). The relative adverb yena (by
+which, because; instrumental singular) connects this segment to the previous
+one.
+    2) ahijsa sabbapananaj ariyo ti pavuccati ([because of] non-violence
+towards all living beings is [one] called "Noble"). The subject is the noun
+ahijsa (non-violence, nominative singular). It has an attribute, the compound
+sabbapananaj (of all living beings, genitive plural). The verb is pavuccati (is
+called, 3rd person, singular, passive, indicative, present tense). The object
+is the adjective ariyo (Noble, nominative singular). It is modified by the
+particle ti (quotation marks).
+===============================================================================
+
+
+Commentary:
+    There was a fisherman named Ariya living in Savatthi. Once while he was
+fishing, the Buddha and some monks went around. Ariya got up and paid his
+respects to the Buddha, who asked him about his name. When replied, the Buddha
+spoke this verse, saying that he was not worthy to be called Ariya ("Noble") 
+if he harmed living beings.
+    Ariya understood and attained the first level of Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+tena
+ariyo
+hoti
+yena
+panani
+hijsati
+ahijsa
+sabbapananaj
+sabba
+pananaj
+ti
+pavuccati
+===============================================================================

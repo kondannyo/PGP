@@ -1,0 +1,117 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** gataddhino visokassa vippamuttassa sabbadhi ******
+            ****** sabbaganthappahinassa parilaho na vijjati ******
+                            ****** (DhP 90) ******
+===============================================================================
+
+
+Sentence Translation:
+Pain does not exist for one, who has finished the journey, is without sorrow,
+who is emancipated in every respect and who has abandoned all bonds.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+gata+addhino visokassa vippamuttassa sabbadhi
+|           |              |                 |                 |
+Adj.  N.m.       Adj.m.       Adj.m.         Adv.
+|      Gen.Sg.   Gen.Sg.      Gen.Sg.           |
+|______|              |                 |__________|
+     |___________|_______________|______________________________
+List of Abbreviations
+sabba+gantha+ppahinassa parilaho na     vijjati
+|             |              |              |          |          |
+Adj.    N.m.     Adj.m.       N.m.    neg.  V.pas.in.
+|_______|        Gen.Sg.    Nom.Sg.   |     3.Sg.pres.
+      |____________|              |          |______|
+__________|                        |                |
+        |___________________|                |
+                         |___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+gataddhino: gataddhin-, Adj.: one who has finished the journey. It is the word
+gataddhan-, Adj.: having gone the journey, with the possessive suffix -in. This
+word is a compound of:
+    gata-, Adj.: gone. It is a p.p. of the verb gam- (to go).
+    addhan-, N.m.: road, way, journey.
+Euphonic combination: gata- + addhin- = gataddhin-.
+Gen.Sg.m. = gataddhino.
+visokassa: visoka-, Adj.: without sorrow. It is the word soka-, N.m.: grief,
+sorrow, with the prefix vi- (separation). Gen.Sg.m. = visokassa.
+vippamuttassa: vippamutta-, Adj.: emancipated, freed, released. It is a p.p. of
+the verb muc- (to release) with the prefixes vi- (meaning separation) and pa-
+(strengthening). Gen.Sg.m. = vippamuttassa.
+sabbadhi, Adv.: everywhere, in every respect.
+List of Abbreviations
+sabbaganthappahinassa: sabbaganthappahina-, Adj.: one who has abandoned all
+bonds.
+It is a compound of:
+    sabba-, Adj.: all.
+    gantha-, N.m.: tie, bond. There are four ties: covetousness (avijja), ill-
+will (byapada),
+    attachment to rules and rituals (silabbataparamasa) and dogmatic fanaticism
+(idamsaccabhinivesa).
+    pahina-, Adj.: abandoned. It is a p.p. of the verb ha- (to leave, to give
+up)
+    with the strengthening prefix pa-.
+Gen.Sg.m. = sabbaganthappahinassa.
+parilaho: parilaha-, N.m.: fever, distress, pain. Nom.Sg. = parilaho.
+na, neg.: not.
+vijjati, V.: exists, is found. The verb root is vid- (to find).
+3.Sg.pas.in.pres. = vijjati.
+List of Abbreviations
+    The subject of this sentence is the noun parilaho (pain, nominative
+singular). It has four attributes. They are all in genitive singular:
+gataddhino (of the one who has finished the journey),visokassa (of the one who
+is without sorrow), sabbaganthappahinassa (of the one who has abandoned all
+bonds) and vippamuttassa (of the one who is emancipated). This last word has
+the adverb sabbadhi (everywhere) as an attribute. The verb vijjati (is found,
+exists; 3rd person, singular, passive, indicative, present tense) is negated by
+the negative particle na (not).
+===============================================================================
+
+
+Commentary:
+    Devadatta once tried to kill the Buddha by pushing a big rock on him from
+the top of the mountain. But the rock split and only one splinter hurt the
+Buddha's foot. The physician Jivaka attended on him. He applied some medicine
+and promised to come back and take the bandage off in the evening. But he was
+held by some other business and the city gates were already closed when he
+wanted to go to the monastery. He knew that the bandage had to be taken off
+that night, so he was very distressed.
+    The next morning, Jivaka hurried to see the Buddha, only to find out that
+Venerable Ananda helped the Buddha to take the bandage off the previous night
+and the wound has already healed completely! So Jivaka asked if the Buddha felt
+any pain. The Buddha replied by this verse, saying that for those, who have
+reached the awakenment, there was no pain.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+gataddhino
+gata
+addhino
+visokassa
+vippamuttassa
+sabbadhi
+sabbaganthappahinassa
+sabba
+gantha
+pahinassa
+parilaho
+na
+vijjati
+===============================================================================

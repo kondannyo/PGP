@@ -1,0 +1,135 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** sahassam api ce vaca anatthapadasajhita ******
+           ****** ekaj atthapadaj seyyo yaj sutva upasammati ******
+                            ****** (DhP 100) ******
+===============================================================================
+
+
+Sentence Translation:
+Rather then a thousand speeches without meaningful words,
+is better one meaningful word, after hearing which, one can attain calm.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sahassam api    ce     vaca     an+attha+pada+sajhita
+|                |       |          |         |      |         |          |
+Num.n.   part. part.    N.f.    neg. N.n.  N.n.    Adj.f.
+Nom.Sg.    |____|    Nom.Pl.   |      |_____|     Nom.Pl.
+|                    |              |         |          |_________|
+|                    |              |         |__________|
+|                    |              |__________|
+|___________|_____________|
+              |___|
+                 |________________________________________________________
+List of Abbreviations
+ekaj     attha+padaj    seyyo       yaj        sutva upasammati
+|               |          |             |              |             
+|            |
+Num.n.  N.n.    N.n.      Adj.n.   Rel.Pron.n. V.ger.  V.act.in.
+Nom.Sg.   |    Nom.Sg. Nom.Sg.   Acc.Sg.        |      3.Sg.pres.
+|               |_____|              |              |________|            |
+|___________|                   |                     |___________|
+         |_________________|_________________|
+                             |______|
+___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sahassam: sahassa-, Num.n.: thousand. Nom.Sg. = sahassam.
+api, part.: also, as well, even (often spelled pi).
+ce, part.: if.
+vaca: vaca-, N.f.: speech (derived from the verb root vac-, to speak). Nom.Pl.
+= vaca.
+anatthapadasajhita: anatthapadasajhita-, Adj.: without meaningful sayings. It
+is the word atthapadasajhita-, Adj.: with meaningful sayings, negated by the
+negative prefix an-. This word is a compound of:
+    atthapada-, N.n.: profitable saying, word of good sense. This can be
+further analyzed into:
+        attha-, N.n.: meaning, worth, sense.
+        pada-, N.n.: saying, word, verse.
+    sajhita-, Adj.: connected, equipped with, possessed of. It is a p.p. of the
+verb dha- (put)
+    with the prefix saj- (together).
+Nom.Pl.f. = anatthapadasajhita.
+List of Abbreviations
+ekaj: eka-, Num.: one. Nom.Sg.n. = ekaj.
+atthapadaj: atthapada-, N.n. see above. Nom.Sg. = atthapadaj.
+seyyo: seyya-, Adj.: better. Nom.Sg.n. = seyyo.
+yaj: yat-, Rel.Pron.: that, which. Acc.Sg.n.: yaj.
+sutva, V.ger.: having heard. The verb root is su- (to hear).
+upasammati, V.: calms down, is appeased. The verb root is sam- (to be appeased)
+with the prefix upa- (towards). 3.Sg.act.in.pres. = upasammati.
+List of Abbreviations
+    This verse contains two connected sentences. They form the first and the
+second line of the verse respectively.
+    In the first sentence, the subject is the noun vaca (speeches, nominative
+plural). It has two attributes, the numeral sahassam (thousand, nominative
+singular - note that the numeral sahassa- is always in neuter) and the compound
+anatthapadasajhita (without meaningful words, nominative plural). There are two
+particles, api (also, even) and ce (if) which form a phrase api ce (even if).
+    In the second sentence, the subject is the compound atthapadaj (meaningful
+word, nominative singular). It has the numeral ekaj (one, nominative singular)
+as an attribute. There is a clause, which forms an attribute to the subject:
+yaj sutva upasammati (after hearing which, one can attain calm). The subject
+here is the relative pronoun yaj (which, accusative singular). There are two
+verbs, one is the gerundive sutva (having heard) and one is upasammati (calms
+down, 3rd person, singular, active, indicative, present tense). These two form
+the verbal phrase sutva - upasammati (having heard, calms). The object of the
+sentence is the adjective seyyo (better, nominative singular).
+===============================================================================
+
+
+Commentary:
+Once there was a former public executioner named Tambadathika. Once he went for
+a bath to the river and took some food with him. Just as he was leaving the
+house, Venerable Sariputta stopped by his door on his way for almsfood.
+Tambadathika offered him his food.
+    After the meal, Sariputta taught him the Dharma. But Tambadathika's mind
+was not peaceful, because he was disturbed and feeling remorse recollecting his
+past work. This did not allow him to pay attention to the Dharma. Sariputta
+asked him if he killed those people because he wanted to, out of hate or anger
+– or was it just an order. Tambadathika replied that he was ordered to kill
+them by the king and personally did not feel hate towards them. So Sariputta
+reassured him that he did nothing wrong. Tambadathika then calmed down and
+listened to the Dharma attentively. He then accompanied Sariputta on the way
+back to the monastery. But on the way back home he died due to an accident.
+    The Buddha was told about this and he remarked that Tambadathika was reborn
+in Tusita heaven. The monks wondered how it was possible for somebody who
+killed so many people in his life to be reborn there. The Buddha told them by
+this verse that just one meaningful sentence that helped his mind to calm down
+and concentrate on the Dharma helped him to achieve this goal. For if one dies
+with a peaceful mind, one's rebirth is good. If at the time of death our mind
+is confused or angry - we face a bad rebirth.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sahassam
+api
+ce
+vaca
+anatthapadasajhita
+atthapadasajhita
+sajhita
+ekaj
+atthapadaj
+attha
+padaj
+seyyo
+yaj
+sutva
+upasammati
+===============================================================================

@@ -1,0 +1,146 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** andhabhuto ayaj loko tanukettha vipassati ******
+            ****** sakuno jalamutto va appo saggaya gacchati ******
+                            ****** (DhP 174) ******
+===============================================================================
+
+
+Sentence Translation:
+Blind is this world. Just a few can see clearly here.
+Few go to heaven, like a bird released from a snare.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+andha+bhuto   ayaj       loko        tanuko  ettha vipassati
+|              |           |             |              |           |         
+|
+Adj.   Adj.m.  Pron.m.    N.m.      Adj.m.  Adv.  V.act.in.
+|       Nom.Sg. Nom.Sg. Nom.Sg. Nom.Sg.    |    3.Sg.pres.
+|________|           |_______|              |______|______|
+       |______________|                          |___|
+List of Abbreviations
+sakuno  jala+mutto    va       appo   saggaya  gacchati
+|              |        |          |           |           |              |
+N.m.     N.n. Adj.m.  part.   Adj.m.   N.m.    V.act.in.
+Nom.Sg.  |   Nom.Sg.   |     Nom.Sg. Dat.Sg. 3.Sg.pres.
+|              |_____|         |           |           |________|
+|___________|             |           |__________|
+          |_____________|                    |
+                      |__________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+andhabhuto: andhabhuta-, Adj.: blinded, ignorant, not knowing. It is a compound
+of:
+    andha-, Adj.: blind.
+    bhuta-, Adj.: being, having become. It is a p.p. of the verb bhu- (to be).
+Nom.Sg.m. = andhabhuto.
+ayaj: idaj-, Pron.: this. Nom.Sg.m. = ayaj.
+loko: loka-, N.m.; world. Nom.Sg. = loko.
+tanuko: tanuka-, Adj.: little, small, few. Nom.Sg. = tanuko.
+ettha: Adv.: here, in this world.
+Euphonic combination: tanuko + ettha = tanukettha.
+vipassati, V.: see clearly, see with insight. The verb root is pas- (to see)
+with the prefix vi- (intensifying). 3.Sg.act.in.pres. = vipassati.
+List of Abbreviations
+sakuno: sakuna-, N.m.: bird. Nom.Sg. = sakuno.
+jalamutto: jalamutta-, Adj.: freed from a snare. It is a compound of:
+    jala-, N.n.: snare, net.
+    mutta-, Adj.: freed, released. It is a p.p. of the verb muc- (to release).
+Nom.Sg.m. = jalamutto.
+va: a contracted form of eva, part.: just, only.
+appo: appa-, Adj.: little, few. Nom.Sg.m. = appo.
+saggaya: sagga-, N.m.: heaven. Dat.Sg. = saggaya.
+gacchati, V.: goes. The verb root is gam- (to go). 3.Sg.act.in.pres. =
+gacchati.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) andhabhuto ayaj loko (blind is this world). The subject is the noun loko
+(world, nominative singular). It has an attribute, the pronoun ayaj (this,
+nominative singular). The verb is omitted, implying the verb "to be". The
+object is the adjective compound andhabhuto (blind, nominative singular).
+    2) tanukettha vipassati (just a few can see clearly here). The subject is
+the adjective tanuko (few, nominative singular). The verb is vipassati (sees
+with insight, 3rd person, singular, active, indicative, present tense). It has
+an attribute, the adverb attha (here).
+    3) sakuno jalamutto va appo saggaya gacchati (few go to heaven, like a bird
+released from a snare). This can be further analysed into the main sentence a)
+and the clause b):
+    a) appo saggaya gacchati (few go to heaven). The subject is the adjective
+appo (few, nominative singular). The verb is gacchati (goes, 3rd person,
+singular, active, indicative, present tense). The object is the noun saggaya
+(to heaven, dative singular).
+    b) sakuno jalamutto va (like a bird released from a snare). The subject is
+the noun sakuno (bird, nominative singular). It has an attribute, the compound
+jalamutto (freed from a snare, nominative singular). The particle va (like)
+connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    The Buddha once stayed in Alavi and spoke to its people about the
+impermanence of life. He told them to be aware of death and to reflect that
+their life is uncertain. He added that they should practice mindfulness as a
+weapon against the death. Many people did not really understand what he was
+talking about, but some did. Amongst them there was a young girl, who was a
+weaver by profession.
+    Later the Buddha returned to Alavi. The girl wanted to hear his discourse,
+but her father asked her to wind some thread spools and bring them to him. She
+did the job quickly and on the way to her father she stopped by the place where
+the Buddha was talking and listened.
+    The Buddha knew that the girl was ready to reach the first stage of
+Awakenment and so he looked at her directly. The girl approached respectfully.
+The Buddha then asked her four questions and she replied as follows:
+"Where have you come from?" "I don't know."
+"Where are you going?" "I don't know."
+"Don't you know?" "Yes, I know."
+"Do you know?" "I don't know."
+    Many people thought her answers were disrespectful, but the girl explained.
+By the first question the Buddha meant if she knew what was her previous
+existence. She replied that she did not know. The second question meant if she
+knew what would be her future existence. Since she did not know, she said so.
+The third question meant if she did not know that she would die one day. She
+replied she knew. And the last question meant if she knew when exactly would
+she die. She did not know and replied truthfully.
+    The Buddha applauded her and delivered a discourse. The girl attained the
+first stage of Awakenment.
+    Then she continued to her father. He was asleep and she woke him up. When
+he was waking up, her father accidentally pulled the shuttle and the sharp
+point hit the girl in her chest. She died instantly and was reborn in the
+Tusita heaven. Her father, full of remorse and broken-hearted went to the
+Buddha and asked to be admitted into the Order as a monk. The Buddha granted
+him permission and the man attained Arahantship soon.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+andhabhuto
+andha
+bhuto
+ayaj
+loko
+tanuko
+ettha
+vipassati
+sakuno
+jalamutto
+jala
+mutto
+va
+appo
+saggaya
+gacchati
+===============================================================================

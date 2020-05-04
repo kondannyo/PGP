@@ -1,0 +1,125 @@
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+                     ****** akkocchi maṃ avadhi maṃ ******
+                       ****** ajini maṃ ahāsi me ******
+                     ****** ye ca taṃ nupanayhanti ******
+                       ****** veraṃ tesūpasammati ******
+                             ****** (DhP 4) ******
+===============================================================================
+
+Translation:
+He abused me, he beat me,
+He defeated me, he robbed me.
+Those, who do not harbour such thoughts,
+Their hatred is appeased.
+===============================================================================
+
+Sentence structure:
+
+List of Abbreviations
+akkocchi     maṃ     avadhi     maṃ
+|                    |             |             |
+V.aor.        Pron.      V.aor.    Pron.
+3.Sg.        Acc.Sg.      3.Sg.   Acc.Sg.
+|___________|             |_______|
+
+         |_________________|________________________
+List of Abbreviations
+ajini         maṃ         ahāsi         me
+|                  |               |              |
+V.aor.      Pron.        V.aor.     Pron.
+3.Sg.      Acc.Sg.       3.Sg.     Gen.Sg.
+|__________|               |________|
+_____|__________________|
+List of Abbreviations
+ye                 ca         taṃ         na         upanayhanti
+|                     |             |             |                   |
+rel.Pron.     conj.    Pron.m.     neg.           V.act.in.
+Nom.Pl.         |        Acc.Sg.        |             3.Pl.pres.
+|                     |             |             |___________|
+|                     |             |_____________|
+|____________|______________|
+              |____|
+
+                  |____________________________________
+List of Abbreviations
+veraṃ         tesaṃ     upasammati
+|                     |                 |
+N.n.            Pron.        V.act.in.
+Nom.Sg.    Gen.Pl.     3.Sg.pres.
+|____________|                |
+           |_______________|
+_____________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+akkocchi: the verb ā+kus- (to abuse, to scold). Aor.3.Sg. = akkocchi.
+maṃ: Pron. aham-, I. Acc.Sg. = maṃ.
+avadhi: the verb vadh- (to strike, to beat). Aor.3.Sg. = avadhi.
+maṃ: see above.
+ajini: the verbji-(to win, to conquer). Aor.3.Sg. = ajini.
+maṃ: see above.
+List of Abbreviations
+ahāsi: the verb har- (to carry, to take). Aor.3.Sg. = ahāsi.
+me: Pron. aham-, I. Gen.Sg. = me.
+ye: rel.Pron. yad-, that which. Nom.Pl.m. = ye (those [people] who).
+ca: conj.: and
+taṃ: Pron. tad-, that. Acc.Sg.m. = taṃ.
+na: neg.: not.
+List of Abbreviations
+upanayhanti: The verb nah- (to bind, to tie) with the prefixupa- (towards). To
+come into touch with, to tie oneself to. 3.Pl.act.in.pres. = upanayhanti.
+Euphonic combination: na + upanayhanti = nupanayhanti.
+veraṃ: vera-, N.n.: hatred, enmity. Nom.Sg. = veraṃ.
+tesaṃ: Pron.tad-, that. Gen.Pl.m. = tesaṃ (their).
+upasammati: The verb sam- (to be appeased) with the prefix upa- (towards). To
+grow calm, to be appeased. 3.Sg.act.in.pres.: upasammati. The form that we can
+see in the gāthā (tesūpasammati) is just an euphonic combination that we come
+across quite often in Pali poetry.
+List of Abbreviations
+    The first sentence is discussed in the previous verse (DhP 3), therefore we
+will not repeat it here.
+ In the second sentence there are only two changes compared with DhP 3. In the
+third line the verb upanayhanti ([they] harbour) has a negative particle "na"
+(not) thus changing the meaning of the verb to the negative ([they] do not
+harbour).
+ In the fourth line, the negative particle is omitted -- the verb has a
+positive meaning now (and the verb is changed from sammatito upasammati).
+===============================================================================
+
+Commentary:
+ This verse is a "twin verse" of the previous one. If we can not conquer the
+hatred and suffering by crying and feeling powerless, it is exactly by the
+absence of such thoughts, that our hatred will disappear and dissolve. And when
+those people who enjoy making us suffer, see that we are not intimidated and do
+not give in to their way of thinking, they will eventually stop this kind of
+behavior.
+ Indeed, it is said very easily and the majority of people will quickly agree
+with it, but it is extremely difficult to bring this idea to life. Therefore,
+we must practice this more often in our daily lives -- and our effort must bear
+its fruits.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+akkocchi
+maṃ
+avadhi
+ajini
+ahāsi
+me
+ye
+ca
+taṃ
+na
+upanayhanti
+veraṃ
+tesaṃ
+upasammati
+===============================================================================

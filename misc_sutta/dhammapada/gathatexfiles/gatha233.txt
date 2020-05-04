@@ -1,0 +1,123 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** manoppakopaj rakkheyya manasa sajvuto siya ******
+           ****** manoduccaritaj hitva manasa sucaritaj care ******
+                            ****** (DhP 233) ******
+===============================================================================
+
+
+Sentence Translation:
+Protect yourself from blameworthy thoughts; guard your mind well.
+Having renounced the wrong mental deed, practice the right mental action.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+mano+ppakopaj rakkheyya  manasa  sajvuto      siya
+|               |                 |              |             |              
+|
+N.n.     N.m.          V.act.        N.n.     Adj.m.      V.act.
+|          Acc.Sg.     3.Sg.opt.    Ins.Sg.  Nom.Sg.   3.Sg.opt.
+|________|                 |              |________|                |
+        |_____________|                      |_____________|
+List of Abbreviations
+mano+duccaritaj hitva  manasa sucaritaj   care
+|                |             |            |           |              |
+N.n.       N.n.      V.ger.     N.n.      N.n.       V.act.
+|           Acc.Sg.       |        Ins.Sg. Acc.Sg.   3.Sg.opt.
+|________|              |          |_______|               |
+        |____________|                |____________|
+                   |_____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+manoppakopaj: manoppakopa-, N.m.: blameworthy thoughts. It is a compound of:
+    mano-, N.n.: mind.
+    pakopa-, N.m.: anger.
+Euphonic combination: mano- + pakopa- = manoppakopa-.
+Acc.Sg. = manoppakopaj.
+rakkheyya, V.: should protect. The verb root is rakkh- (to protect).
+3.Sg.act.opt. = rakkheyya.
+manasa: manas-, N.n.: mind. Inst.Sg. = manasa.
+sajvuto: sajvuta-, Adj.: restrained, governed, guarded. It is a p.p. of the
+verb var- (to obstruct) with the prefix saj- (together, completely). Nom.Sg.m.
+= sajvuto.
+siya, V.: would be. The verb root is as-. 3.Sg.act.opt. = siya.
+List of Abbreviations
+manoduccaritaj: manoduccarita-, N.n.: wrong mental deed. It is a compound of:
+    mano-, N.n.: mind.
+    duccarita-, Adj.: wrong-conduct, wrong action. It is the word carita-,
+N.n.: action, conduct (originally it is the p.p. of the verb root car-, to
+walk, to act), with the prefix du- (wrong, bad).
+Acc.Sg. = manoduccaritaj.
+hitva, V.ger.: having renounced, having left behind. It is a ger. of the verb
+ha- (to abandon, to leave).
+manasa: see above.
+sucaritaj: sucarita-, Adj.: good-conduct, right action. It is the word carita-,
+N.n.: action, conduct (originally it is the p.p. of the verb root car-, to
+walk, to act), with the prefix su- (good, well).
+Acc.Sg.m. = sucaritaj.
+care, V.: should practice. The verb root is car- (to walk). 3.Sg.act.opt. =
+care.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) manoppakopaj rakkheyya (one should protect oneself from blameworthy
+thoughts). The subject is omitted; the verb implies the third person singular
+pronoun. The verb is rakkheyya ([one] should protect oneself, 3rd person,
+singular, active, optative). The object is the noun manoppakopaj (from
+blameworthy thoughts, accusative singular).
+    2) manasa sajvuto siya (one should be guarded as for the mind). The subject
+is omitted; the verb implies the third person singular pronoun. The verb is
+siya ([one] should be, 3rd person, singular, active, optative). The object is
+the past participle sajvuto (guarded, nominative singular) with its attribute,
+the noun manasa (by the mind, instrumental singular).
+    3) manoduccaritaj hitva manasa sucaritaj care (having renounced the wrong
+mental deed, one should practice the right mental action). This can be further
+analysed into two segments:
+    a) manoduccaritaj hitva (having renounced the wrong verbal deed). The verb
+is in gerund, hitva (having renounced). The object is the compound
+manoduccaritaj (wrong mental deed, accusative singular).
+    b) manasa sucaritaj care (one should practice the right mental action). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is care ([one] should practice, 3rd person, singular, active, optative).
+The object is the noun sucaritaj (right action, accusative singular) with its
+attribute, the noun manasa (by the mind, instrumental singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verses
+(DhP 231, DhP 232) and the following one (DhP 234).
+    Even the thinking is very important. Truly, mental action is probably the
+most important of the three (bodily, verbal, mental). The bodily and verbal
+actions are only byproducts of the mental action. Thinking comes first and only
+after that we act with our body or our mouth. Therefore, the key to controlling
+our bodily and verbal actions lays in controlling our minds.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+manoppakopaj
+mano
+pakopaj
+rakkheyya
+manasa
+sajvuto
+siya
+manoduccaritaj
+duccaritaj
+hitva
+sucaritaj
+care
+===============================================================================

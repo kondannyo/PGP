@@ -1,0 +1,163 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+ ****** yo appadutthassa narassa dussati saddhassa posassa anavganassa ******
+  ****** tam eva balaj pacceti papaj sukhumo rajo pativataj va khitto ******
+                            ****** (DhP 125) ******
+===============================================================================
+
+
+Sentence Translation:
+Who offends against an uncorrupted man, against a trusting and pure person,
+the evil will fall back upon such a fool, like minute dust thrown against the
+wind.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yo         appadutthassa narassa    dussati   saddhassa posassa anavganassa
+|                      |               |               |            
+|              |               |
+Rel.Pron.m. Adj.m.       N.m.     V.act.in.   Adj.m.      N.m.       Adj.m.
+Nom.Sg.     Gen.Sg.    Gen.Sg.  3.Sg.pres. Gen.Sg.   Gen.Sg.    Gen.Sg.
+|                      |________|                |            
+|________|________|
+|                             |_____________|____________|
+|_______________________|
+                  |___________________________________________________________
+List of Abbreviations
+tam        eva  balaj    pacceti    papaj  sukhumo    rajo pativataj va  
+khitto
+|               |        |              |             |            
+|             |          |         |        |
+Pron.m. part.  N.m.    V.act.in.     N.n.      Adj.m.    N.m.    Adv.  part. 
+Adj.m.
+Acc.Sg.    |    Acc.Sg. 3.Sg.pres. Nom.Sg. Nom.Sg. Nom.Sg.   |         |   
+Nom.Sg.
+|________|_____|              |             |             |_______|          
+|_____|____|
+        |_________________|             |                    |_____________|  
+|
+                       |________________|                                
+|________|
+                                      |_______________________________|
+___________________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+appadutthassa: apaduttha-, Adj.: uncorrupted, not spoilt. It is the word
+paduttha-, Adj. (a p.p. of the verb dus-, to become bad or damaged, preceded by
+the strengthening prefix pa-) with the negative prefix a-. Euphonic
+combination: a- + paduttha- = appaduttha-. Gen.Sg.m. = apadutthassa.
+narassa: nara-, N.m.: man, person. Gen.Sg. = narassa.
+dussati, V.: offends against, does wrong to. The verb root is dus- (to become
+bad or damaged). 3.Sg.act.in.pres. = dussati.
+saddhassa: saddha-, Adj.: trusting, having confidence. Gen.Sg.m. = saddhassa.
+posassa: posa-, N.m.: person. It is a contraction of the word purisa-, N.m.:
+person. Gen.Sg. = posassa.
+List of Abbreviations
+anavganassa: anavgana-, Adj.: clear, without specks. It is the word avgana-,
+N.m.: speck, freckle, with the negative prefix an-. Gen.Sg.m. = anavganassa.
+tam: tad-, Pron.: it. Masculine form so-, he. Acc.Sg. = tam (him).
+eva, part.: just, only.
+balaj: bala-, Adj.: childish, young. As an N.m.: "like a child", fool, ignorant
+person. Acc.Sg. = balaj.
+pacceti, V.: falls back upon comes back to, returns. The verb root is i- (to
+go) with the prefix pati- (against, back). 3.Sg.act.in.pres. = pacceti.
+papaj: papa-, Adj.: evil, wrong. As an N.n.: evil, wrong doing. Nom.Sg. =
+papaj.
+List of Abbreviations
+sukhumo: sukhuma-, Adj.: subtle, minute, fine. Nom.Sg.m. = sukhumo.
+rajo: rajo-, N.m.: dust, dirt. Nom.Sg. = rajo.
+pativataj, Adv.: against the wind. It is a compound of:
+    pati-, pref.ind.: against.
+    vata-, N.m.: wind.
+As an Adv.: pativataj.
+va, part.: as, like.
+khitto: khitta-, Adj.: thrown, cast. It is a p.p. of the verb khip- (to throw,
+to cast). Nom.Sg.m. = khitto.
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) yo appadutthassa narassa dussati saddhassa posassa anavganassa (who
+offends against an uncorrupted man, against a trusting and pure person). The
+subject is the relative pronoun yo (who, nominative singular). The verb is
+dussati (offends against, 3rd person, singular, active, indicative, present
+tense). There are two objects, narassa (of a man, genitive singular) with its
+attribute appadutthassa (of uncorrupted, genitive singular) and posassa (of a
+person, genitive singular) with two attributes, saddhassa (of trusting,
+genitive singular) and anavganassa (of pure, genitive singular).
+    2) tam eva balaj pacceti papaj sukhumo rajo pativataj va khitto (the evil
+will fall back upon such a fool, like minute dust thrown against the wind).
+This can be further subdivided into the main sentence a) and the clause b):
+    a) tam eva balaj pacceti papaj (the evil will fall back upon such a fool).
+The subject is the noun papaj (evil, nominative singular). The verb is pacceti
+(falls back upon, 3rd person, singular, active, indicative, present tense). The
+object is the noun balaj (fool, accusative singular) with its attribute, the
+pronoun tam (that, accusative singular). The object is stressed by the particle
+eva (just).
+    b) sukhumo rajo pativataj va khitto (like minute dust thrown against the
+wind). The subject is the noun rajo (dust, nominative singular), with its
+attribute, the adjective sukhumo (minute, nominative singular). The past
+participle khitto (thrown, nominative singular) serves as a verb in this
+clause. It has an attribute, the adverb pativataj (against the wind). The
+particle va (like, as) connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    A hunter named Koka was leaving the city to hunt with his dogs. He met a
+monk who was entering the city to obtain some almsfood. The hunter took this
+for a bad sign and thought that that day he wouldn’t catch any animal. And that
+also happened - he did not get anything. Angry he went back home. On entering
+the city he met the same monk who obtained his food and was returning to the
+monastery. The hunter became so angry that he sent his dogs to kill the monk.
+But he climbed a tree and the dogs were unable to reach him. The hunter took an
+arrow and pricked the monk's feet with it. The monk was in pain and his robe
+fell down.
+    It just happened that the hunter was standing directly bellow. The robe
+fell onto him. His dogs thought that the monk fell down and attacked him. The
+monk threw some branches down and only then the dogs realized that they
+attacked their own master and ran away. The monk climbed down and found out
+that the hunter was already dead.
+    When he returned to the monastery, he went to see the Buddha, because he
+felt responsible for the hunter's death. But the Buddha told him that he was
+not responsible at all. Only hunter himself and his foolish actions caused him
+the untimely death. The Buddha then added this verse, saying that whoever wants
+to harm an innocent, calls evil on himself. Just like trying to throw dust
+against the wind - it will just come back and fall upon the very person who
+threw it.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yo
+appadutthassa
+narassa
+dussati
+saddhassa
+posassa
+anavganassa
+tam
+eva
+balaj
+pacceti
+papaj
+sukhumo
+rajo
+pativataj
+pati
+vataj
+va
+khitto
+===============================================================================

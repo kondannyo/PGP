@@ -1,0 +1,188 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                  ****** alavkato ce pi samaj careyya ******
+                  ****** santo danto niyato brahmacari ******
+                 ****** sabbesu bhutesu nidhaya dandaj ******
+                ****** so brahmano so samano sa bhikkhu ******
+                            ****** (DhP 142) ******
+===============================================================================
+
+
+Sentence Translation:
+Even if one would walk around like an adorned man,
+[but he would be] peaceful, self-controlled, restrained and pure,
+having given up punishing of all living beings,
+he is a Brahmin, he is a recluse, he is a monk.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+alavkato  ce    pi     samaj  careyya
+|               |      |          |             |
+Adj.m.   part. part.  Adj.m.   V.act.
+Nom.Sg.   |___|      Acc.Sg. 3.Sg.opt.
+|__________|________|            |
+         |_____|                           |
+             |__________________|
+                             |____________________________________
+List of Abbreviations
+santo        danto     niyato  brahma+cari
+|                   |             |          |          |
+Adj.m.     Adj.m.    Adj.m.  N.m.  Adj.m.
+Nom.Sg. Nom.Sg. Nom.Sg.   |     Nom.Sg.
+|                  |              |          |______|
+|__________|________|_________|
+______|_______________________________________________
+List of Abbreviations
+sabbesu bhutesu nidhaya dandaj
+|                 |           |           |
+Adj.m.    N.m.    V.ger.    N.m.
+Loc.Pl.  Loc.Pl.      |       Acc.Sg.
+|_________|            |           |
+         |___________|______|
+                    |_____|
+______________|_______________________________________
+List of Abbreviations
+so          brahmano    so       samano      sa       bhikkhu
+|                  |              |             |             |             |
+Pron.m.    N.m.     Pron.m.    N.m.    Pron.m.    N.m.
+Nom.Sg. Nom.Sg. Nom.Sg. Nom.Sg. Nom.Sg. Nom.Sg.
+|__________|              |_______|             |________|
+         |_________________|_______________|
+______________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+alavkato: alavkata-, Adj.: adorned, well-attired. Nom.Sg.m. = alavkato.
+ce, part.: if.
+pi, part.: also, as well, even (often spelled api).
+samaj: sama-, Adj.: same, even. Acc.Sg. = samaj. In the accusative, the meaning
+is: equally, like.
+careyya, V.: should walk. The verb root is car- (to walk). 3.Sg.act.opt. =
+careyya.
+santo: santa-, Adj.: calmed, tranquil, peaceful. It is a p.p. of the verb root
+sam- (to be calm).
+Nom.Sg.m. = santo.
+danto: danta-, Adj.: restrained, tamed, controlled. It is a p.p. of the verb
+dam- (to restrain, to control, to tame). Nom.Sg.m. = danto.
+List of Abbreviations
+niyato: niyata-, Adj.: restrained. It is a p.p. of the verb yam- (to restrain)
+with the prefix ni- (down). Adj.Sg.m. = niyato.
+brahmacari: brahmacarin-, Adj.: leading a holy life, pious, pure. It is a
+compound of:
+    brahma-, Adj.: holy, "brahmanic", pious.
+    carin-, Adj.: living, acting. Derived by the suffix -in from the verb car-
+(to walk, to act).
+Nom.Sg.m. = brahmacari.
+sabbesu: sabba-, Adj.: all, every. Loc.Pl.m. = sabbesu.
+bhutesu: bhuta-, N.m.: living being. Originally it is a p.p. of the verb bhu-
+(to be). Loc.Pl. = bhutesu.
+nidhaya, V.ger.: having laid down, having put aside. The verb root is dha- (to
+put) with
+the prefix ni- (down).
+dandaj: danda-, N.m.: stick, club, punishment. Acc.Sg. = dandaj.
+List of Abbreviations
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+brahmano: brahmana-, N.m.: Brahmin, a holy man. Nom.Sg. = brahmano.
+so: see above.
+samano: samana-, N.m.: a recluse, a wandering ascetic, a monk (not only a
+Buddhist monk).
+Nom.Sg. = samano.
+sa: tad-, Pron.n.: it. Nom.Sg.m. = sa (or, as above, so).
+bhikkhu: bhikkhu-, N.m.: a (Buddhist) monk. Nom.Sg. = bhikkhu.
+List of Abbreviations
+    This verse consists of four loosely connected sentences. They are:
+    1) alavkato ce pi samaj careyya (even if one would walk around like an
+adorned man). The subject of this sentence is omitted, implying the third
+person singular pronoun. This subject has an attribute, the adjective alavkato
+(adorned, nominative singular) with its attribute, the adjective samaj (like,
+equall; accusative singular). It is further modified by two particles, ce (if)
+and pi (even). The verb is careyya (3rd person, singular, active, optative).
+    2) santo danto niyato brahmacari ([but he would be] peaceful, self-
+controlled, restrained and pure). Here everything is omitted, except for four
+attributes to the subject. They are: santo (peaceful, nominative singular),
+danto (self-controlled, nominative singular), niyato (restrained, nominative
+singular) and brahmacari (of pure living, nominative singular). The subject
+would be a third person singular pronoun and the verb the verb "to be".
+    3) sabbesu bhutesu nidhaya dandaj (having given up punishing of all living
+beings). The subject is again omitted; third person singular pronoun is
+implied. The verb is nidhaya (having laid aside, gerundive). The object is the
+noun dandaj (stick, punishment, accusative singular). It has an attribute, the
+noun bhutesu (amongst living beings, locative plural) with its attribute, the
+adjective sabbesu (amongst all, locative plural).
+    4) so brahmano so samano sa bhikkhu (he is a Brahmin, he is a recluse, he
+is a monk). This part actually contains three more or less syntactically
+independent sentences. In all of them, the verb is omitted, implying the verb
+"to be". They are:
+    a) so brahmano (he is a Brahmin). The subject is the personal pronoun so
+(he, nominative singular). The object is the noun brahmano (Brahmin, nominative
+singular).
+    b) so samano (he is a recluse). The subject is the personal pronoun so (he,
+nominative singular). The object is the noun samano (recluse, nominative
+singular).
+    c) sa bhikkhu (he is a monk). The subject is the personal pronoun sa (he,
+nominative singular). The object is the noun bhikkhu (monk, nominative
+singular).
+===============================================================================
+
+
+Commentary:
+    The king Pasenadi of Kosala once sent his minister Santati to deal with
+some rebellion in the border area. Santati suppressed it quickly and
+efficiently and the king was very pleased. He gave Santati many gifts, amongst
+others also a dancing girl to entertain him. The minister spent several days
+drinking and enjoying the young dancer.
+    On the last day, he went to the river to take a bath. On the way he met the
+Buddha and some monks. Even though he was drunk, he still bowed in respect. The
+Buddha remarked to Venerable Ananda that Santati will reach the Awakenment the
+very same day and soon after that he will die.
+    In the evening, the dancer again entertained Santati and his guests. While
+dancing, she died due to exhaustion. The minister was shocked and distressed.
+Immediately he went to the Buddha and begged for some words of solace. The
+Buddha told him to get rid of his cravings, not to let these feelings to
+enslave him. By getting rid of all the cravings, all the roots of evil will be
+destroyed and he will reach the Nirvana.
+    After hearing this, Santati attained Awakenment. Realizing, that he was
+about to die, he thanked the Buddha for his help and told him that he was about
+to reach the final emancipation. Soon after that he passed away.
+    Some monks were confused that Santati attained the Arahantship, although he
+was wearing beautiful dress and ornaments. They asked if he was a monk or a
+Brahmin. The Buddha replied with this verse, saying that clothes and ornaments
+are not important. What counts is whether one has or has not freed oneself from
+ignorance and cravings.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+alavkato
+ce
+pi
+samaj
+careyya
+santo
+danto
+niyato
+brahmacari
+brahma
+cari
+sabbesu
+bhutesu
+nidhaya
+dandaj
+so
+brahmano
+samano
+sa
+bhikkhu
+===============================================================================

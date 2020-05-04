@@ -1,0 +1,121 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+        ****** attanaj ce piyaj jabba rakkheyya naj surakkhitaj ******
+           ****** tinnaj abbataraj yamaj patijaggeyya pandito ******
+                            ****** (DhP 157) ******
+===============================================================================
+
+
+Sentence Translation:
+If someone holds oneself dear, let him guard himself very well.
+In any of the three watches of the night let the wise one be watchful.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+attanaj ce    piyaj    jabba  rakkheyya  naj surakkhitaj
+|             |         |            |             |            |            |
+N.m.    part. Adj.m.   V.act.     V.act.   Pron.m. Adj.m.
+Acc.Sg.  |    Acc.Sg. 3.Sg.opt. 3.Sg.opt. Acc.Sg. Acc.Sg.
+|_______|_____|            |              |           |_______|
+             |   |__________|              |__________|
+             |_______|                                |
+                   |______________________|
+List of Abbreviations
+tinnaj abbataraj yamaj  patijaggeyya pandito
+|                |               |               |              |
+Num.    Adj.m.       N.m.       V.act.       N.m.
+Gen.Pl. Acc.Sg.    Acc.Sg.   3.Sg.opt.   Nom.Sg.
+|_________|               |               |              |
+        |_____________|               |              |
+                    |_______________|              |
+                                 |________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+attanaj: attan-, N.m.: self, oneself. Acc.Sg. = attanaj.
+ce, part.: if.
+piyaj: piya-, Adj.: dear, beloved, pleasant. Acc.Sg.m. = piyaj.
+jabba, V.: should know. The verb root is ba- (to know). 3.Sg.act.opt. = jabba.
+rakkheyya, V.: should protect. The verb root is rakh- (to protect).
+3.Sg.act.opt. = rakkheyya.
+naj: ena-, pron. In Pali used only in Acc.Sg.m.: naj (him).
+surakkhitaj: surakkhita-, Adj.: well guarded, protected. It is the word
+rakkhita-, Adj.: protected (the verb root is rakh-, to protect) with the prefix
+su- (well, good). Acc.Sg.m. = surakkhitaj.
+List of Abbreviations
+tinnaj: ti-, Num.: three. Gen.Pl. = tinnaj.
+abbataraj: abbatara-, Pron./Adj.: one of a number, any. Acc.Sg.m. = abbataraj.
+yamaj: yama-, N.m.: a watch of the night, an old Indian measure of time. There
+are three watches during the night. Acc.Sg. = yamaj.
+patijaggeyya, V.: should watch over, look after, be watchful. The verb root is
+jagg- (to watch, to be awake) with the prefix pati- (to, at). 3.Sg.act.opt. =
+patijaggeyya.
+pandito: pandita-, N.m.: wise man, learned man. Nom.Sg. = pandito.
+List of Abbreviations
+    This sentence consists of two syntactically separate sentences. They are:
+    1) attanaj ce piyaj jabba rakkheyya naj surakkhitaj (if someone holds
+oneself dear, let him guard himself very well). This can be further analysed
+into two segments:
+    a) attanaj ce piyaj jabba (if someone holds oneself dear). The subject is
+omitted; the verb implies the third person singular pronoun. The verb is jabba
+(should know, 3rd person, singular, active, optative). The object is the noun
+attanaj (oneself, accusative singular) with its attribute, the adjective piyaj
+(dear, accusative singular). The sentence is modified by the particle ce (if)
+which connects it to the other segment.
+    b) rakkheyya naj surakkhitaj (let him guard himself very well). Again, the
+subject is omitted and the verb implies the third person singular pronoun. The
+verb is rakkheyya (should guard, 3rd person, singular, active, optative). The
+object is the pronoun naj (it, him; accusative singular) with its attribute,
+the adjective surakkhitaj (well-guarded, accusative singular).
+    2) tinnaj abbataraj yamaj patijaggeyya pandito (in any of the three watches
+of the night let the wise one be watchful). The subject is the noun pandito
+(wise one, nominative singular). The verb is patijaggeyya (should be watchful,
+3rd person, singular, active, optative). It has an attribute, the noun yamaj
+(watch of the night, accusative singular). This word in has the adjective
+abbataraj (any, accusative singular) as an attribute. And the numeral tinnaj
+(of three, genitive plural) forms an attribute to this word.
+===============================================================================
+
+
+Commentary:
+    There was a prince named Bodhiraja. He had built a new palace and invited
+the Buddha with monks for alms offering. Because the prince had no children, he
+spread some pieces of cloth on the floor and made a wish that if the Buddha
+stepped on the cloth, he and his wife would be able to have children.
+    When the Buddha came, he asked Bodhiraja to remove the cloth. He told him
+he and his wife could not have children because of evil deeds they committed in
+the past. The Buddha then related the story to the prince.
+    He and his wife had been the only survivors of a shipwreck in one of their
+past existences. They were stranded on an island and ate the birds. They also
+ate their eggs and small fledglings. They did not even feel a slightest remorse
+for killing some other living creatures' babies. Because of that, they would
+not able to have any children in this life.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+attanaj
+ce
+piyaj
+jabba
+rakkheyya
+naj
+surakkhitaj
+tinnaj
+abbataraj
+yamaj
+patijaggeyya
+pandito
+===============================================================================

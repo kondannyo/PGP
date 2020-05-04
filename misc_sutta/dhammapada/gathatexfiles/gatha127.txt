@@ -1,0 +1,183 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+  ****** na antalikkhe na samuddamajjhe na pabbatanaj vivaraj pavissa ******
+   ****** na vijjati so jagatippadeso yatthatthito mucceyya papakamma ******
+                            ****** (DhP 127) ******
+===============================================================================
+
+
+Sentence Translation:
+Not in the air, not in the middle of the ocean, not entering the hole in the
+mountains.
+There is no place in the world, where being one would be released from the
+[consequences of] evil deeds.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na  antalikkhe na samudda+majjhe  na pabbatanaj vivaraj pavissa
+|           |          |        |              |        |        
+|                 |           |
+neg.   N.n.    neg.  N.m.      Adj.m. neg.   N.m.          N.n.    V.ger.
+|      Loc.Sg.    |         |        Loc.Sg.   |     Gen.Pl.     Acc.Sg.      |
+
+|______|          |         |_______|         |         |_________|           
+|
+                      |_________|               |__________|___________|
+                                                               |_____|
+List of Abbreviations
+na       vijjati        so      jagati+ppadeso   yattha+tthito     mucceyya
+papa+kamma
+|             |              |           |          |             |          
+|               |           |         |
+neg.  V.act.in.   Pron.m.  N.n.    N.m.    Rel.Adv. Adj.m.     V.act.   Adj.   
+N.n.
+|       3.Sg.pres. Nom.Sg.    |     Nom.Sg.      |       Nom.Sg. 3.Sg.opt.   
+|     Abl.Sg.
+|_______|               |           |_____|              |______|              
+|           |_____|
+       |                     |_________|                        
+|                    |_________|
+       |                              |                                
+|________________|
+       |                              |__________________________|
+       |_____________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+antalikkhe: antalikkha-, N.n.: sky, atmosphere. Loc.Sg. = antalikkhe.
+na, neg.: not.
+samuddamajjhe: samuddamajjha-, Adj.: middle of the ocean. It is a compound of:
+    samudda-, N.m.: sea, ocean.
+    majjha-, Adj.: middle.
+Loc.Sg.m. = samuddamajjhe.
+na, neg.: not.
+pabbatanaj: pabbata-, N.m.: mountain. Gen.Pl. = pabbatanaj.
+List of Abbreviations
+vivaraj: vivara-, N.n.: opening, hole. Acc.Sg. = vivaraj.
+pavissa, V.ger.: having entered. The verb root is vis- (to enter) with the
+strengthening prefix pa-.
+na, neg.: not.
+vijjati, V.: exists, is found. The verb root is vid- (to find).
+3.Sg.pas.in.pres. = vijjati. The form vijjati is sometimes used in poetry.
+so:tad-, Pron.n.: it. Nom.Sg.m. = so.
+jagatippadeso: jagatippadesa-, N.m.: a place in the world. It is a compound of:
+
+    jagat-, N.n.: world. Compound form = jagati-.
+    padesa-, N.m.: place, spot, location, district.
+Euphonic combination: jagati-+ padesa- = jagatippadesa-.
+Nom.Sg. = jagatippadeso.
+List of Abbreviations
+yatthatthito: yatthatthita-, Adj.: where being. It is a compound of:
+    yattha, Rel.Adv.: where.
+    thita-, Adj.: being, lit. standing. It is a p.p. of the verb root tha- (to
+stand).
+Euphonic combination: yattha + thita- = yatthatthita-.
+Nom.Sg.m. = yatthatthito.
+mucceyya, V.: can be released, can be freed. The verb is muc-. 3.Sg.act.opt. =
+mucceyya.
+papakamma: papakamma-, N.n.: evil deed. It is a compound of:
+    papa-, Adj.: evil, wrong.
+    kamma-, N.n.: deed, action. It is derived from the verb kar-, to do.
+Abl.Sg. = papakamma.
+List of Abbreviations
+    In the first line of this verse, there are three syntactically isolated
+incomplete sentences. They are:
+    1) na antalikkhe (not in the air). The subject and verb are omitted. The
+verb "to be" is implied and it is negated by the negative particle na(not). It
+has an attribute, the noun antalikkhe (in the air, locative singular).
+    2)na samuddamajjhe (not in the middle of the ocean). The subject and verb
+are omitted. The verb "to be" is implied and it is negated by the negative
+particle na (not). It has an attribute, the compound samuddamajjhe (in the
+middle of the ocean, locative singular).
+    3) na pabbatanaj vivaraj pavissa (not entering the hole in the mountains).
+The subject is omitted. The verb is pavissa (having entered, gerundive). It is
+negated by the negative particle na (not). The object is the noun vivaraj (the
+hole, accusative singular) with its attribute, the noun pabbatanaj (of
+mountains, genitive plural).
+    The second line forms the main sentence. It can be further subdivided into
+two segments:
+    1) na vijjati so jagatippadeso (there is no place in the world). The
+subject is the compound jagatippadeso (a place in the world, nominative
+singular). It has an attribute, the personal pronoun so (that, nominative
+singular). The verb is vijjati (exists, 3rd person, singular, active,
+indicative, present tense). It is negated by the negative particle na (not).
+    2) yatthatthito mucceyya papakamma (where being one would be released from
+the [consequences of] evil deeds). The subject is the compound yatthatthito
+(standing where, nominative singular). The verb is mucceyya (would be released,
+3rd person, singular, active, optative). The object is the compound papakamma
+(from evil deeds, ablative singular).
+===============================================================================
+
+
+Commentary:
+    Three groups of monks were traveling from far away to see the Buddha. On
+the way strange things happened to them.
+    The first group stayed in a village on their way. Some people were cooking
+meal when their hut caught fire and burned. A crow was flying over the place,
+got caught in the fire and died.
+    When they met the Buddha, he told them this story. One farmer had a very
+lazy ox. It would not work, it would only lie down, eat and sleep. The farmer
+once got so angry, that he put a rope around the neck of the animal and set
+fire to it. So the ox died. Because of this, the farmer was reborn as a crow
+and died in the fire himself.
+    The second group took a boat. In the middle of the ocean the ship would not
+suddenly move. They searched for the unlucky person, who is causing this to
+happen. Three times lots were drawn and three times it fell on the captain's
+wife. So at the end they tied a pot of sand to her neck and drowned her. The
+ship then continued to the port safely and the monks got to see the Buddha.
+    He told them, that once there was a woman who had a pet dog. The dog would
+follow her everywhere; it just would not stay away even for a moment. Some
+people were making fun of her. So she felt ashamed, tied a pot of sand around
+the dog's neck and drowned it. Because of this, she was reborn as that unlucky
+woman who was drowned by other people.
+    The third group of seven monks stayed in a cave overnight. In the middle of
+the night a big rock fell from the mountain above and blocked the entrance into
+the cave. People discovered them in the morning and tried to move the rock, but
+they were unable to do it. Only on the seventh day they moved the rock away and
+the monks were free.
+    To them the Buddha related the story of seven cowherds who chased an iguana
+into a mound and for fun closed all the entrances. They let the iguana out only
+after seven days. So in this life they were reborn as the seven monks who were
+trapped in the cave for a week.
+    At the end the Buddha said this verse, saying that one can never escape the
+consequences of evil
+deeds. They will find us anywhere, nobody can hide from them, even in the air,
+ocean or in a cave - the consequences will befall us surely.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+antalikkhe
+samuddamajjhe
+samudda
+majjhe
+pabbatanaj
+vivaraj
+pavissa
+vijjati
+so
+jagatippadeso
+jagati
+padeso
+yatthatthito
+yattha
+thito
+mucceyya
+papakamma
+papa
+kamma
+===============================================================================

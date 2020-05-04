@@ -1,0 +1,122 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+         ****** phandanaṃ capalaṃ cittaṃ dūrakkhaṃ dunnivārayaṃ ******
+             ****** ujuṃ karoti medhāvī usukāro va tejanaṃ ******
+                            ****** (DhP 33) ******
+===============================================================================
+
+Sentence Translation:
+The wavering, unsteady mind, hard to guard, difficult to restrain,
+the wise one straightens, like an arrow-maker an arrow.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+phandanaṃ capalaṃ    cittaṃ dūrakkhaṃ dunnivārayaṃ
+|                       |              |             |                  |
+Adj.n.           Adj.n.      N.n.       Adj.n.          Adj.n.
+Acc.Sg.        Acc.Sg.  Acc.Sg.    Acc.Sg.       Acc.Sg.
+|                       |              |             |                   |
+|_____________|________|_______|__________|
+                               |____|
+                                  
+|_______________________________________________
+List of Abbreviations
+ujuṃ         karoti    medhāvī  usu+kāro        va      tejanaṃ
+|                   |               |          |        |           
+|            |
+Adj.n.     V.act.in.      N.m.   N.m. Adj.m.    part.     N.n.
+Acc.Sg.  3.Sg.pres.  Nom.Sg.   |     Nom.Sg.   |       Acc.Sg.
+|__________|                |          |_____|           |            |
+______|                        |              |_________|_______|
+    |_________________|                       |____|
+                    |_______________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+phandanaṃ: phandana-, Adj.: throbbing, trembling, wavering. Derived from the
+verb root phand- (to tremble). Nom.Sg.n. = phandanaṃ.
+capalaṃ: capala-, Adj.: shaking, unsteady. Nom.Sg.n. = capalaṃ.
+cittaṃ: citta-, N.n.: mind. Nom.Sg. = cittaṃ.
+dūrakkhaṃ: dūrakkha-, Adj.: hard to guard. A compound of:
+    du-, pref.: hard, difficult, bad.
+    rakkha-, Adj.; to be guarded. Derived from the verb root rakkh- (to guard).
+
+The form dūrakkha- is due to the euphonic combination (du + rakkha = dūrakkha).
+
+Acc.Sg.n. = dūrakkhaṃ.
+List of Abbreviations
+dunnivārayaṃ: dunnivāraya-, Adj.: difficult to restrain, difficult to hold
+back. A compound of:
+    du-, pref.: hard, difficult, bad.
+    nivāraya-, Adj.: to be restrained, to be kept back.
+The form dunnivāraya- is due to the euphonic combination (du + nivāraya =
+dunnivāraya). Acc.Sg.n. = dunnivārayaṃ.
+ujuṃ: uju-, Adj.: straight. Acc.Sg.n. = ujuṃ.
+karoti, V,: do. The verb root kar-. 3.Sg.in.act.pres. = karoti.
+medhāvī: medhāvin-, N.m.: intelligent person, wise one. Nom.Sg. = medhāvī.
+List of Abbreviations
+usukāro: usukāra-, N.m.: arrow-maker. A compound of:
+    usu-, N.m.: arrow.
+    kāra-, Adj.: one, who does; one, who makes. Derived from the verb kar-, to
+do.
+Nom.Sg.m. = usukāro.
+va, part.; like, as.
+tejanaṃ: tejana-, N.n: arrow. Acc.Sg. = tejanaṃ.
+List of Abbreviations
+    The subject of this sentence is the word medhāvī (wise one, nominative
+singular) and the verb is karoti (does, 3rd person, singular, active,
+indicative present tense) with an attribute ujuṃ (straight, accusative
+singular). In fact, we can consider the whole phrase ujuṃ + karoti (makes
+straight) as a verbal phrase ujuṃkaroti (straightens), as is quite common in
+Classical Sanskrit.
+    The object is the word cittaṃ (mind, accusative singular). It has four
+attributes: phandanaṃ (wavering), capalaṃ (unsteady), dūrakkhaṃ (hard to guard)
+and dunnivārayaṃ (difficult to restrain). They all agree with the object, so
+they are in accusative singular.
+    There is a clause, usukāro va tejanaṃ (like an arrow-maker an arrow). Here,
+the subject is usukāro (arrow-maker, nominative singular). As verb serves the
+verbal phrase from the main sentence (ujuṃ karoti, straightens). The object is
+tejanaṃ (arrow, accusative singular). The particle va (as, like) connects the
+clause to the main sentence.
+===============================================================================
+
+Commentary:
+    Once the Buddha was staying on Cālika mountain. One of the monks, Meghiya
+Thera was attending upon him. This Thera saw a nice mango grove and asked the
+Buddha for permission to go there for meditation. But there were no other monks
+at that time and the Buddha needed an attendance. So he told Meghiya to wait
+for arrival of somebody else and then he could go.
+    But Meghiya wanted to go really badly, so he asked the Buddha again and
+again, until he got his permission. He went to the grove and started to
+meditate, only to find out that his mind was wandering. He stayed there the
+whole day, but made no progress.
+    In the evening he reported to the Buddha, how he was all the time assailed
+by thoughts associated with senses, ill will and cruelty. The Buddha told him
+the verses 33 and 34 and Meghiya attained Sotāpatti, the first stage on the way
+to awakenment.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+phandanaṃ
+capalaṃ
+cittaṃ
+dūrakkhaṃ
+dunnivārayaṃ
+ujuṃ
+karoti
+medhāvī
+usukāro
+va
+tejanaṃ
+===============================================================================

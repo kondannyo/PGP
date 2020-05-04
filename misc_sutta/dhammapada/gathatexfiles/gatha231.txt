@@ -1,0 +1,122 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** kayappakopaj rakkheyya kayena sajvuto siya ******
+           ****** kayaduccaritaj hitva kayena sucaritaj care ******
+                            ****** (DhP 231) ******
+===============================================================================
+
+
+Sentence Translation:
+Protect yourself from blameworthy conduct; guard your body well.
+Having renounced the wrong bodily deed, practice the right bodily action.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+kaya+ppakopaj rakkheyya kayena sajvuto   siya
+|               |               |              |           |             |
+N.m.     N.m.       V.act.       N.m.   Adj.m.    V.act.
+|          Acc.Sg.   3.Sg.opt.   Ins.Sg. Nom.Sg. 3.Sg.opt.
+|________|                |              |______|             |
+        |_____________|                    |__________|
+List of Abbreviations
+kaya+duccaritaj hitva  kayena sucaritaj  care
+|               |             |          |            |            |
+N.m.     N.n.      V.ger.   N.n.       N.n.    V.act.
+|         Acc.Sg.         |     Ins.Sg.  Acc.Sg. 3.Sg.opt.
+|________|              |          |_______|           |
+        |____________|                |__________|
+                   |_____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+kayappakopaj: kayappakopa-, N.m.: misbehavior, wrong deed, blameworthy conduct.
+It is a compound of:
+    kaya-, N.m.: body.
+    pakopa-, N.m.: anger.
+Euphonic combination: kaya- + pakopa- = kayappakopa-.
+Acc.Sg. = kayappakopaj.
+rakkheyya, V.: should protect. The verb root is rakkh- (to protect).
+3.Sg.act.opt. = rakkheyya.
+kayena: kaya-, N.m.: body. Here as "bodily action". Ins.Sg. = kayena.
+sajvuto: sajvuta-, Adj.: restrained, governed, guarded. It is a p.p. of the
+verb var- (to obstruct) with the prefix saj- (together, completely). Nom.Sg.m.
+= sajvuto.
+siya, V.: would be. The verb root is as-. 3.Sg.act.opt. = siya.
+List of Abbreviations
+kayaduccaritaj: kayaduccarita-, N.n.: wrong bodily deed. It is a compound of:
+    kaya-, N.m.: body.
+    duccarita-, Adj.: wrong-conduct, wrong action. It is the word carita-,
+N.n.: action, conduct (originally it is the p.p. of the verb root car-, to
+walk, to act), with the prefix du- (wrong, bad).
+Acc.Sg. = kayaduccaritaj.
+hitva, V.ger.: having renounced, having left behind. It is a ger. of the verb
+ha- (to abandon, to leave).
+kayena: see above.
+sucaritaj: sucarita-, Adj.: good-conduct, right action. It is the word carita-,
+N.n.: action, conduct (originally it is the p.p. of the verb root car-, to
+walk, to act), with the prefix su- (good, well).
+Acc.Sg.m. = sucaritaj.
+care, V.: should practice. The verb root is car- (to walk). 3.Sg.act.opt. =
+care.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) kayappakopaj rakkheyya (one should protect oneself from blameworthy
+conduct). The subject is omitted; the verb implies the third person singular
+pronoun. The verb is rakkheyya ([one] should protect oneself, 3rd person,
+singular, active, optative). The object is the noun kayappakopaj (from
+blameworthy conduct, accusative singular).
+    2) kayena sajvuto siya (one should be guarded as for the body). The subject
+is omitted; the verb implies the third person singular pronoun. The verb is
+siya ([one] should be, 3rd person, singular, active, optative). The object is
+the past participle sajvuto (guarded, nominative singular) with its attribute,
+the noun kayena (by the body, instrumental singular).
+    3) kayaduccaritaj hitva kayena sucaritaj care (having renounced the wrong
+bodily deed, one should practice the right bodily action). This can be further
+analysed into two segments:
+    a) kayaduccaritaj hitva (having renounced the wrong bodily deed). The verb
+is in gerund, hitva (having renounced). The object is the compound
+kayaduccaritaj (wrong bodily deed, accusative singular).
+    b) kayena sucaritaj care (one should practice the right bodily action). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is care ([one] should practice, 3rd person, singular, active, optative).
+The object is the noun sucaritaj (right action, accusative singular) with its
+attribute, the noun kayena (by the body, instrumental singular).
+===============================================================================
+
+
+Commentary:
+    A group of six monks wearing wooden shoes and each holding a staff, were
+walking on a big stone, making a lot of noise and disturbing the peace of other
+monks. The Buddha asked Venerable Ananda what was going on and having learned
+about the six monks, he admonished them with this verse (and the following
+ones, DhP 232, DhP 233 and DhP 234). He also made a new rule for the monks not
+to wear wooden shoes.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+kayappakopaj
+kaya
+pakopaj
+rakkheyya
+kayena
+sajvuto
+siya
+kayaduccaritaj
+duccaritaj
+hitva
+sucaritaj
+care
+===============================================================================

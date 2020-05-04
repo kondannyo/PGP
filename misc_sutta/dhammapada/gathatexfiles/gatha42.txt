@@ -1,0 +1,134 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+         ****** diso disaṃ yaṃ taṃ kayirā verī vā pana verinaṃ ******
+           ****** micchāpaṇihitaṃ cittaṃ pāpiyo naṃ tato kare ******
+                            ****** (DhP 42) ******
+===============================================================================
+
+Sentence Translation:
+Whatever an enemy might do to an enemy, or a hater to a hated one,
+wrongly directed mind can do one even worse (evil).
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+diso          disaṃ      yaṃ        taṃ     kayirā       verī    vā  pana
+verinaṃ
+|                   |             |             |            |            
+|         |       |         |
+N.m.         N.m.    Rel.Pron.  Pron.    V.act.      N.m.  conj. part.  N.m.
+Nom.Sg. Nom.Sg.  Acc.Sg.  Acc.Sg. 3.Sg.opt. Nom.Sg.  |       |    Acc.Sg.
+|___________|            |_______|            |              |_____|____|_____|
+
+         |_________________|                  |                  |___|
+                        |___________________|____________|
+                                             
+|____________________________________________
+List of Abbreviations
+micchā+paṇihitaṃ    cittaṃ pāpiyo   naṃ   tato     kare
+|                  |               |          |          |         |          |
+
+Adv.        Adj.n.       N.n.     Adj.   Pron.  Adv.   V.act.
+|             Nom.Sg.  Nom.Sg.    |    Acc.Sg.    |     3.Sg.opt.
+|__________|               |          |______|_____|          |
+        |______________|                 |    |___________|
+                     |                              |________|
+                     |_____________________|
+______________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+diso: disa-, N.m.: enemy. Nom.Sg. = diso.
+disaṃ: diso-, N.m.: see above. Acc.Sg. = disaṃ.
+yaṃ: yad-, Rel.Pron.: [that,] what. Acc.Sg.m.n. = yaṃ.
+taṃ: tad-, Pron.: that. Acc.Sg.m.n. = taṃ. yaṃ + taṃ = Adv., whatever.
+kayirā, V.: would do. The verb root kar- (to do). 3.Sg.act.opt. = kayirā.
+verī: verin-, N.m.: "hater", somebody bearing hostility. Derived (by adding the
+possessive suffix -in) from the word vera-, N.n.: hatred. Nom.Sg. = verī.
+List of Abbreviations
+vā, conj.: or.
+pana, part.: indeed.
+verinaṃ: verin-, N.m.: see above. Acc.Sg. = verinaṃ.
+micchāpaṇihitaṃ: micchāpaṇihita-, Adj.: wrongly directed. A compound of:
+    micchā, Adv.: wrongly, badly.
+    paṇihita-, Adj.: directed, applied. It is a p.p. of the verb dhā- (to put)
+with
+    prefixes pa- (strengthening) and ni- (down).
+Nom.Sg.n. = micchāpaṇihitaṃ.
+List of Abbreviations
+cittaṃ: citta-, N.n.: mind. Acc.Sg. = cittaṃ.
+pāpiyo,Adj.Ind.: worse. It is a comparative of the word pāpa-, Adj.: bad.
+naṃ: ena-, Pron.: he. Acc.Sg. = enaṃ or naṃ.
+tato, Adv.: than that.
+kare, V.: would do. The verb rootkar- (to do). 3.Sg.act.opt. = kare. Note, that
+for 3.Sg.act.opt. both kayirā (see above) and kare are possible.
+List of Abbreviations
+    The main sentence is in the second line. Here, the subject of the sentence
+is the word
+cittaṃ(mind, nominative singular). It has an attribute, the compound
+micchāpaṇihitaṃ (wrongly directed, nominative singular). The verb is kare (can
+do, 3rd person, singular, active, optative) with an attribute, the indeclinable
+adverb pāpiyo (worse). The object is naṃ (him, accusative singular). The adverb
+tato (than that) connects the main sentence to the relative clause in the first
+line.
+    The relative clause consists of two parts:
+1) diso disaṃ yaṃ taṃ kayirā (whatever an enemy might do to an enemy). Here,
+the subject is the word diso(enemy, nominative singular) and the verb kayirā
+(would do, 3rd person, singular, active, optative). The object is the noun
+disaṃ (to the enemy, accusative singular). The phrase yaṃ - taṃ (what - that)
+we should rather take as one adverbial phrase (whatever).
+2) verī vā pana verinaṃ (or a hater to a hater). The subject is the noun verī
+(hater, nominative singular) and the object verinaṃ (to a hater, accusative
+singular). The verb is omitted, kayirā (would do) from the previous sentence is
+implied. The particle pana (indeed) is here only for metrical purposes. The
+conjunction vā (or) connects these two parts of the relative clause.
+===============================================================================
+
+Commentary:
+    In the country of Kosala there once lived a herdsman named Nanda. He looked
+after the cows of the famous benefactor Anāthapiṇḍika. Sometimes he would go to
+Anāthapiṇḍika's house and listen to the Buddha's discourses. Once Nanda asked
+the Buddha to come to his house for alms food. The Buddha replied that he would
+come, but the time is not yet right and Nanda should wait.
+    After some time the Buddha was traveling and went off his usual route to
+see Nanda, because he knew that the time for him to do so was ripe. Nanda
+received him, served the Buddha and monks milk and milk products and all kinds
+of food. This lasted for seven days. On the last day after hearing the Buddha's
+discourse, Nanda attained the first stage of awakenment.
+    When the Buddha was leaving, Nanda carried his bowl for him some distance
+and then turned back home. Suddenly a hunter, his old enemy, shot him. The
+monks saw Nanda laying dead on the road. They told the Buddha that because of
+them, because they came to his house and he was accompanying them, Nanda died.
+But the Buddha said that there was no escape from death for him. And he told
+the monks this verse (DhP 42).
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+diso
+disaṃ
+yaṃ
+taṃ
+kayirā
+verī
+vā
+pana
+verinaṃ
+micchāpaṇihitaṃ
+micchā
+paṇihitaṃ
+cittaṃ
+pāpiyo
+naṃ
+tato
+kare
+===============================================================================

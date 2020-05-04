@@ -1,0 +1,140 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** attadatthaj paratthena bahuna pi na hapaye ******
+            ****** attadattham abhibbaya sadatthapasuto siya ******
+                            ****** (DhP 166) ******
+===============================================================================
+
+
+Sentence Translation:
+Let one not neglect one's own spiritual attainment for other's spiritual
+attainment, however great.
+Having fully understood one's own spiritual attainment, let one pursue the true
+attainment.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+atta+d+atthaj para+atthena bahuna  pi    na    hapaye
+|               |        |         |            |        |       |          |
+N.m.     N.n.  Adj.    N.n.     Adj.n. part. neg. V.act.caus.
+|         Acc.Sg.   |     Ins.Sg.   Ins.Sg.   |       |     3.Sg.opt.
+|________|        |_____|            |_____|       |_____|
+       |                     |____________|                 |
+       |                               |________________|
+       |__________________________|
+List of Abbreviations
+atta+d+attham abhibbaya sad+attha+pasuto     siya
+|              |             |           |       |         |             |
+N.m.    N.n.      V.ger.    Adj. N.n.  Adj.m.    V.act.
+|        Acc.Sg.        |           |____|   Nom.Sg. 3.Sg.opt.
+|________|            |               |_______|             |
+       |___________|                      |___________|
+                |________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+attadatthaj: attadattha-, N.n.: one's own spiritual attainment. It is a
+compound of:
+    atta-, N.m.: it is the compound form of the word attan-, N.m.: self,
+oneself.
+    attha-, N.n.: welfare, attainment. Here in the sense of "spiritual
+attainment".
+Euphonic combination: atta- + attha- = attadattha-.
+Acc.Sg. = attadatthaj.
+paratthena: parattha-, N.n.: other's spiritual attainment. It is a compound of:
+
+    para-, Adj.: different, other.
+    attha-, N.n.: see above.
+Euphonic combination: para- + attha- = parattha-.
+Ins.Sg. = paratthena.
+bahuna: bahu-, Adj.: large, much, very. Ins.Sg. = bahuna.
+pi, part.: even, also.
+na, neg.: not.
+List of Abbreviations
+hapaye, V.: to neglect, to omit. The verb root is ha- (to leave).
+3.Sg.act.caus.opt. = hapaye.
+attadattham: see above (attadatthaj).
+abhibbaya, V.ger.: having fully understood. The verb root is ba- (to know) with
+the prefix abhi- (intensifying sense).
+sadatthapasuto: sadatthapasuta-, Adj.: pursuing the true attainment. It is a
+compound of:
+    sat-, Adj.: good, true. Original meaning: existing. The full form (sant-
+) is an a.pr.p. of the verb as- (to be). The compound form of sant- = sat-.
+    attha-, N.n.: see above.
+Euphonic combination: sat- + attha- = sadattha-.
+    pasuta-, Adj.: pursuing, intent upon.
+Nom.Sg.m. = sadatthapasuto.
+siya, V.: would be. The verb root is as-. 3.Sg.act.opt. = siya.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) attadatthaj paratthena bahuna pi na hapaye (let one not neglect one's
+own spiritual attainment for other's spiritual attainment, however great). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is hapaye (let neglect, 3rd person, singular, active, causative,
+optative). It is negated by the negative particle na (not). The verb has an
+attribute, the compound paratthena (for other's spiritual attainment, lit. by
+other's spiritual attainment, instrumental singular). This word has an
+attribute, the adjective bahuna (for great, lit. by great, instrumental
+singular). It is further modified by the particle pi (even). The object is the
+compound attadatthaj (one's own spiritual attainment, accusative singular).
+    2) attadattham abhibbaya sadatthapasuto siya (having fully understood one's
+own spiritual attainment, let one pursue a true attainment). This can be
+further analysed into two segments:
+    a) attadattham abhibbaya (having fully understood one's own spiritual
+attainment). The subject is omitted; the verb implies the third person singular
+pronoun. The verb is in gerund, abhibbaya (having fully understood). The object
+is the compound attadatthaj (one's own spiritual attainment, accusative
+singular).
+    b) sadatthapasuto siya (let one pursue the true attainment). The subject is
+omitted; the verb implies the third person singular pronoun. The verb is siya
+(let one be, 3rd person, singular, active, optative). The object is the
+compound sadatthapasuto (pursuing the true attainment, nominative singular).
+===============================================================================
+
+
+Commentary:
+    Close to the age of eighty, the Buddha declared that he would attain his
+final Parinirvana in four months. There were many monks who have not reached
+the final goal yet and they were very distressed. They wept and kept close to
+the Buddha all the time. There was a monk, named Attadatta who decided to honor
+the Buddha by attaining the Awakenment during his lifetime. So he kept alone
+and practiced diligently. Some other monks did not understand his intention and
+told Buddha, "Attadatta does not love you, he did not come to pay homage to
+you! He is egoistic, indeed!" Attadatta explained his behavior, saying that in
+his opinion the greatest homage to Buddha would be if he attained the
+Arahantship within the remaining four months of the Buddha's life.
+    The Buddha approved of this and replied with this verse, saying that in
+spiritual attainment, one should diligently strive to reach the goal oneself
+and only then do other things.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+attadatthaj
+atta
+atthaj
+paratthena
+para
+atthena
+bahuna
+pi
+na
+hapaye
+abhibbaya
+sadatthapasuto
+sad
+pasuto
+siya
+===============================================================================

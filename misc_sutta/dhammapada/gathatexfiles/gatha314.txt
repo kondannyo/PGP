@@ -1,0 +1,126 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** akataj dukkataj seyyo paccha tappati dukkataj ******
+          ****** kataj ca sukataj seyyo yaj katva nanutappati ******
+                            ****** (DhP 314) ******
+===============================================================================
+
+
+Sentence Translation:
+It is better not to do a bad deed. One is tormented by remorse after a bad
+deed.
+It is better to do a good deed, which one does not regret when it is
+accomplished.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+akataj   dukkataj  seyyo  paccha tappati   dukkataj
+|                   |             |           |           |              |
+Adj.n.        N.n.      Adj.n.   Adv.  V.pas.in.     N.n.
+Nom.Sg. Nom.Sg. Nom.Sg.    |     3.Sg.pres.  Nom.Sg.
+|___________|            |           |______|               |
+           |____________|                 |___________|
+List of Abbreviations
+kataj      ca    sukataj   seyyo        yaj        katva  na   anutappati
+|                |          |             |               |              
+|       |           |
+Adj.n.    conj.    N.n.      Adj.n.   Rel.Pron.n.  V.ger. neg.  V.pas.in.
+Nom.Sg.    |    Nom.Sg. Nom.Sg.   Nom.Sg.        |       |     3.Sg.pres.
+|_________|______|            |               |               |       |______|
+        |__________________|               |               |_______|
+                          |                              |____________|
+                          |_______________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+akataj: akata-, Adj.: not done, undone. It is a negated (by the negative prefix
+a-) word kata- (see below). Nom.Sg.n. = akataj.
+dukkataj: dukkata-, N.n.: bad deed, evil deed. It is the word kata-, Adj (see
+below) with the prefix du- (bad, wrong). Nom.Sg. = dukkataj.
+seyyo: seyya-, Adj.: better. Nom.Sg.n. = seyyo.
+paccha, Adv.: afterwards, after that, later.
+tappati, V.: to be tormented, to be consumed by remorse. Pass. of tap- (to be
+hot, to burn). 3.Sg.pas.in.pres. = tappati.
+dukkataj: see above.
+kataj: kata-, Adj.: done. It is a p.p. of the verb kar- (to do). Nom.Sg.n. =
+kataj.
+List of Abbreviations
+ca, conj.: and.
+sukataj: sukata-, N.n. good deed. It is the word kata-, Adj (see above) with
+the prefix su- (good, well). Nom.Sg. = sukataj.
+seyyo: see above.
+yaj: yat-, Rel.Pron.: that, which. Nom.Sg.n.: yaj.
+katva, V.ger.: having done. The verb root is kar- (to do).
+na, neg.: not.
+anutappati, V.: to regret, to feel remorse. Pass. of tap- (to be hot, to burn)
+with the prefix anu- (following, after). 3.Sg.pas.in.pres. = anutappati.
+Euphonic combination: na + anutappati = nanutappati.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) akataj dukkataj seyyo (it is better not to do a bad deed). The subject
+is the noun dukkataj (bad deed, nominative singular). It has an attribute, the
+adjective akataj (not done, nominative singular). The verb is omitted, implying
+the verb "to be". The object is the adjective seyyo (better, nominative
+singular).
+    2) paccha tappati dukkataj (one is tormented [by remorse] after a bad
+deed). The subject is the noun dukkataj (bad deed, nominative singular). The
+verb is tappati (is tormented, 3rd person, singular, passive, indicative,
+present tense). It has an attribute, the adverb paccha (afterwards).
+    3) kataj ca sukataj seyyo yaj katva nanutappati (it is better to do a good
+deed, which one does not regret when it is accomplished). This can be further
+analysed into the main sentence a) and the subordinate clause b):
+    a) kataj ca sukataj seyyo (it is better to do a good deed). The subject is
+the noun sukataj (god deed, nominative singular). It has an attribute, the
+adjective kataj (done, nominative singular). The verb is omitted, implying the
+verb "to be". The object is the adjective seyyo (better, nominative singular).
+The conjunction ca (and) connects this sentence to the previous one.
+    b) yaj katva nanutappati (which one does not regret when it is
+accomplished). Here, the subject is the relative pronoun yaj (that which,
+nominative singular). It also connects the clause to the main sentence. The
+verbal phrase katva nanutappati (having done - does not regret) serves as the
+verb here. The word katva (having done) is in the gerundive, the verb
+anutappati (regrets, 3rd person, singular, passive, indicative, present tense)
+is negated by the negative particle na (not).
+===============================================================================
+
+
+Commentary:
+    In Savatthi there lived a very jealous woman. She found out that her
+husband was having an affair with her maid. So one day she tied up the maid,
+cut off her ears and nose and locked her up in a room. Then she accompanied her
+husband to the Jetavana monastery.
+    The relatives of the maid immediately found out what happened. They freed
+her and took her to see the Buddha. The maid told the whole congregation (where
+the woman with her husband were also present) what had happened. The Buddha
+admonished the woman with this verse, saying that it is better not to do any
+kind of evil, not even in secret - because everything will be known at the end.
+The woman realized her mistakes and strove to uproot her jealousy.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+akataj
+dukkataj
+seyyo
+paccha
+tappati
+kataj
+ca
+sukataj
+yaj
+katva
+na
+anutappati
+===============================================================================

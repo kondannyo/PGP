@@ -1,0 +1,88 @@
+\documentclass[11pt]{article}
+\usepackage[margin=45pt,ansibpaper, landscape]{geometry}
+\usepackage{titlesec}
+\usepackage{paracol}
+\usepackage{expex}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fontspec}
+\setmainfont {TeXGyrePagella}[BoldFont={TeXGyrePagella-Bold},ItalicFont={TeXGyrePagella-Italic}, SmallCapsFont={TeXGyrePagella-Regular}, SmallCapsFeatures{Letters=SmallCaps},]
+%
+\setcolumnwidth{310pt/60pt,310pt}
+
+
+\sloppy
+\raggedright
+
+\newcommand{\vsp}{\vspace{2mm}}
+
+%defining colors for grammatical highlighting
+
+\newcommand{\NUL}[1]{\textcolor{Black}{#1}}
+%noun
+\newcommand{\NOM}[1]{\textcolor{Mahogony}{#1}}
+\newcommand{\ACC}[1]{\textcolor{Blue}{#1}}
+\newcommand{\ACCSubscript}[1]{\textcolor{Blue}{#1}}
+\newcommand{\INS}[1]{\textcolor{Brown}{#1}}
+\newcommand{\DAT}[1]{\textcolor{Raw Sienna}{#1}}
+\newcommand{\ABL}[1]{\textcolor{Orange}{#1}}
+\newcommand{\GEN}[1]{\textcolor{Turquoise}{#1}}
+\newcommand{\LOC}[1]{\textcolor{Purple}{#1}}
+\newcommand{\VOC}[1]{\textcolor{Red}{#1}}
+
+%verb
+\newcommand{\ABS}[1]{\scshape {#1}}
+\newcommand{\OPT}[1]{\textcolor{green}{#1}}
+\newcommand{\PRSPTCP}[1]{\textcolor{YellowOrange}{#1}}
+\newcommand{\PRSIND}[1]{\textcolor{Melon}{#1}}
+
+
+%Misc
+\newcommand{\ADJ}[1]{\textcolor{Gray}{#1}}
+\newcommand{\INDE}[1]{\textcolor{Thisle}{#1}}
+
+%Glossing Definitions
+\lingset{glstyle=nlevel,%sets the compile method for ExPex to the nlevel style (alternates words with []) as opposed to the wrap style uses gla glb separted lines
+	glhangindent=10pt,% sets the indentation to the entire gloss after the first set of lines
+	glossbreaking=true, %Allows for Glosses to break across pages
+	glwordalign=left, %sets allignment on pairs of words, center is other option
+	glneveryline={,\footnotesize\it}, %sets the font attributes per line {gla,glb...}
+	glnabovelineskip={,-1pt}, %sets the space above the glossing {gla,glb,...}
+	extraglskip=-2pt} %sets additional space between each line of glossing
+
+
+
+\begin{document}
+
+\begin{paracol}{2}
+\begin{column}
+\begingl
+\NOM{If any}[] \NOM{bhikkhu}[bhikkhu] {who}[] \PRSPTCP{has entered upon the training and livelihood}[PP samāpajjati] \DAT{for bhikkhus,}[Dative] \ABS{not having rejected}[Neg+ ABS paccakkhāti] \ACC{the training,}[Accusitive] \ABS{not having disclosed}[ABS-āvikaroti] \NUL{(his)}[] \ACC{incapability,}[ACC] \OPT{should engage in}[ 3-SG-OPT paṭisevati] \ACC{the act} \ADJ{of sexual intercourse,}[] \NUL{even}[pi] \INS{with just a female animal,}[INST] \PRSIND{he is}[3-SG-PRES-IND bhavati] \ADJ{disqualified,}[ADJ qualify bhikkhu] \ADJ{not in communion.}[]
+\endgl
+\vsp
+\switchcolumn
+\begingl
+yo[\NOM{who}] pana[] bhikkhu[\NOM{bhikkhu}] bhikkhūnaṁ[\DAT{bhikkhu}] sikkhāsājīvasamāpanno[\PRSPTCP{training-livelihood-entered upon}] sikkhaṁ[\ACC{training}] apaccakkhāya [\ABS{not reject}] dubbalyaṁ[\ACC{weakness}] anāvīkatvā [not disclosed -\ABS{ABS}] methunaṁ[\ADJ{coitus}] dhammaṁ[\ACC{act}] paṭiseveyya,[\OPT{engage}] antamaso[\IND{even so much as}] tiracchānagatāya[\INS{female animal}] pi[even -] pārājiko[\ADJ{defeated}] hoti,[\PRSIND{he is}] asaṁvāso.[\ADJ{not communion}] 
+\endgl
+\switchcolumn*
+\input{par2engl.tex}
+\vsp
+\switchcolumn
+\input{par2pali.tex}
+\switchcolumn*
+
+\input{par3engl.tex}
+\vsp
+\switchcolumn
+\input{par3pali.tex}
+\switchcolumn*
+
+\input{par4engl.tex}
+\vsp
+\switchcolumn
+\input{par4pali.tex}
+\switchcolumn*
+
+\end{column}
+\end{paracol}
+
+\end{document}

@@ -1,0 +1,130 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+       ****** yaj kibci sithilaj kammaj savkilitthaj ca yaj vataj ******
+        ****** savkassaraj brahmacariyaj na taj hoti mahapphalaj ******
+                            ****** (DhP 312) ******
+===============================================================================
+
+
+Sentence Translation:
+A lax action, an impure vow,
+a doubtful monk's life - all this does not bring much fruit.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yaj             kibci     sithilaj  kammaj savkilitthaj  ca       yaj        
+vataj
+|                      |             |              |               
+|           |           |                |
+Rel.Pron.n. Pron.n.    Adj.n.      N.n.         Adj.n.    conj. Rel.Pron.n.   
+N.n.
+Nom.Sg.    Nom.Sg. Nom.Sg. Nom.Sg.    Nom.Sg.     |      Nom.Sg.    Nom.Sg.
+|____________|              |________|               |______|______|_________|
+           |__________________|                                             
+|____|
+                           |_____________________________________|
+                                                          
+|__________________________________________
+List of Abbreviations
+savkassaraj brahma+cariyaj  na      taj         hoti     maha+phalaj
+|                        |            |         |          |             
+|           |           |
+Adj.n.             Adj.      N.n.    neg.  Pron.n.   V.act.in.  Adj.    Adj.n.
+Nom.Sg.            |      Nom.Sg.   |    Nom.Sg. 3.Sg.pres.    |     Nom.Sg.
+|                        |_______|         |_____|________|           |______|
+|_________________|                         |        |_____________|
+_________|                                        |                     |
+        |___________________________|                     |
+                                |__________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yaj: yat-, Rel.Pron.: that, which. Nom.Sg.n.: yaj.
+kibci: kibci-, Pron.: whatever. Nom.Sg.n. = kibci.
+sithilaj: sithila-, Adj.: loose, lax. Nom.Sg.n. = sithilaj.
+kammaj: kamma-, N.n.: deed, action. Derived from the verb kar- (to do).
+Nom.Sg. = kammaj.
+savkilitthaj: savkilittha-, Adj.: bad, impure, unclean. It is a p.p. of the
+verb kilis- (to go bad, to get stained, to be impure) with the prefix sav-
+(altogether). Nom.Sg.n. = savkilitthaj.
+ca, conj.: and.
+yaj: yat-, Rel.Pron.: that, which. Nom.Sg.n.: yaj.
+vataj: vata-, N.n.: vow, religious observance. Nom.Sg.n. = vataj.
+List of Abbreviations
+savkassaraj: savkassara-, Adj.: doubtful, wicked. Nom.Sg.n. = savkassaraj.
+brahmacariyaj: brahmacariya-, N.n.: holy, pious or pure life. It is a compound
+of:
+    brahma-, Adj.: holy, "Brahmanic", pious.
+    cariya-, Adj.: living, acting. It is derived from the verb car- (to walk,
+to act).
+Nom.Sg. = brahmacariyaj.
+na, neg.: not.
+taj: tad-, Pron.: that. Nom.Sg.n.: taj.
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+mahapphalaj: mahapphala-, Adj.: bearing much fruit. It is a compound of:
+    mahant-, Adj.: big, great, much. The compound form used here: maha-.
+    phala-, N.n.: fruit.
+Euphonic combination: maha- + phala- = mahapphala-.
+Nom.Sg.n. = mahapphalaj.
+List of Abbreviations
+    The subject of this sentence is the pronoun taj (that, nominative
+singular). It has three attributes:
+    1) the noun kammaj (action, nominative singular), with two attributes: the
+adjective sithilaj (lax, nominative singular) and the phrase yaj kibci
+(whatever). It consists of the relative pronoun yaj (what, nominative singular)
+and the pronoun kibci (whatever, nominative singular).
+    2) the noun vataj (vow, nominative singular), with two attributes: the past
+participle savkilitthaj (impure, nominative singular) and the relative pronoun
+yaj (whatever, nominative singular). The conjunction ca (and) connects this
+subject to the previous one.
+    3) the compound brahmacariyaj (holy life, monk's life; nominative singular)
+with its attribute, the adjective savkassaraj (doubtful, nominative singular).
+    The verb is hoti (is, 3rd person, singular, active, indicative, present
+tense). It is negated by the negative particle na (not). The object is the
+adjective compound mahapphalaj (having much fruit, nominative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 311) and the following one (DhP 313).
+    Again, we are reminded, that the life of a monk is not easy. We should not
+think it to be very undemanding. This life is very difficult and full of
+hardships. A monk must endure them all, without trying to bend the rules of
+monastic conduct. Only then will the monastic life bear the ultimate fruit -
+the attainment of Arahantship.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yaj
+kibci
+sithilaj
+kammaj
+savkilitthaj
+ca
+vataj
+savkassaraj
+brahmacariyaj
+brahma
+cariyaj
+na
+taj
+hoti
+mahapphalaj
+maha
+phalaj
+===============================================================================

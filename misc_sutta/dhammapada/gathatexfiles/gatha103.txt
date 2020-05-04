@@ -1,0 +1,131 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** yo sahassaj sahassena savgame manuse jine ******
+          ****** ekaj ca jeyyaj attanaj sa ve savgamaj'uttamo ******
+                            ****** (DhP 103) ******
+===============================================================================
+
+
+Sentence Translation:
+If one should conquer thousands of people in the battle,
+and if one should conquer just one thing - himself, he indeed is the victor of
+the highest battle.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yo          sahassaj sahassena savgame manuse  jine
+|                   |               |             |            |           |
+Rel.Pron. Num.n.    Num.n.     N.m.     N.m.    V.act.
+Nom.Sg.  Acc.Sg.    Ins.Sg.    Loc.Sg. Acc.Pl. 3.Sg.opt.
+|                   |________|              |            |           |
+|                          |____________|_______|           |
+|                                      |          |_____________|
+|                                      |____________|
+|____________________________|
+                      |_______________________________________________
+List of Abbreviations
+ekaj      ca    jeyyaj  attanaj      sa       ve   savgama+ji+uttamo
+|               |          |             |            |          |        
+|         |        |
+Num.m. conj.  V.act.      N.m.    Pron.m. part.  N.m.  Suf.  Adj.m.
+Acc.Sg.    |     3.Sg.opt. Acc.Sg.  Nom.Sg.  |         |_____|   Nom.Sg.
+|________|______|_______|            |          |              |_______|
+               |           |___|                   |______|___________|
+               |________|                                 |____|
+____________|                                             |
+          |_______________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+sahassaj: sahassa-, Num.n.: thousand. Acc.Sg. = sahassaj.
+sahassena: sahassa-, Num.n.: thousand. Ins.Sg. = sahassena.
+savgame: savgama-, N.m.: battle, fight. Loc.Sg. = savgame.
+manuse: manusa-, N.m.: person, man. Acc.Pl. = manuse.
+jine, V.: should conquer. The verb root is ji- (to conquer, to win).
+3.Sg.act.opt. = jine. (Note that this word has two possible forms: jine and
+jeyyaj).
+ekaj: eka-, Num.: one. Acc.Sg.m. = ekaj.
+ca, conj.: and.
+List of Abbreviations
+jeyyaj, V.: should conquer. The verb root isji- (to conquer, to win).
+3.Sg.act.opt. = jeyyaj. (Note that this word has two possible forms: jine and
+jeyyaj).
+attanaj: attan-, N.m.: self. Acc.Sg. = attanaj.
+sa: tad-, Pron.n.: it. Nom.Sg.m. = sa (the more usual form is so).
+ve, part.: indeed.
+savgamaj'uttamo: savgamaj'uttama-, Adj.: victor in the highest battle. It is a
+compound of:
+    savgama-, N.m.: battle, fight.
+    ji-, Suf.: victor, victorious. It is derived from the verb root ji- (to
+win, to conquer).
+    uttama-, Adj.: highest, noble.
+Euphonic combination savgamaji- + uttama- = savgamaj'uttama-.
+Nom.Sg.m. = savgamaj'uttamo.
+List of Abbreviations
+    This sentence consists of two related sentences. They are:
+    1) yo sahassaj sahassena savgame manuse jine ekaj ca jeyyaj attanaj (if one
+should conquer thousands of people in the battle, and if one should conquer
+just one thing - himself). This can be further subdivided into two parts:
+    a) yo sahassaj sahassena savgame manuse jine (if one should conquer
+thousands of people in the battle). The subject is the relative pronoun yo
+(who, nominative singular). The verb is jine (should conquer, 3rd person,
+singular, active, optative). It has an attribute, the noun savgame (in the
+battle, locative singular). The object is the noun manuse (people, accusative
+plural). The numeral sahassaj sahassena (thousand by thousand; first number is
+in accusative singular, second in instrumental singular) is an attribute to the
+object.
+    b) ekaj ca jeyyaj attanaj (and if one should conquer just one thing -
+himself). The subject is still the relative pronoun yo from the previous part
+of the sentence. The verb is jeyyaj (should conquer, 3rd person, singular,
+active, optative). The object is the noun attanaj (oneself, accusative
+singular) with its attribute, the numeral ekaj (one, accusative singular). The
+conjunction ca (and) connects this sentence to the previous one.
+    2) sa ve savgamaj'uttamo (he indeed is the victor of the highest battle).
+The subject is the pronoun sa (he, nominative singular). The verb is omitted,
+implying the verb "to be". The object is the compound savgamaj'uttamo ( victor
+of the highest battle, nominative singular). The particle ve (indeed)
+strengthens this sentence.
+===============================================================================
+
+
+Commentary:
+    The story for this verse is the same as for the previous one.
+    The highest battle does not take place on the battlefield, or in the
+political or academic arena, but only in our own minds. The victor of the
+highest battle is not somebody who conquers millions of enemies, who wins over
+his opponents, but a person who conquers the most difficult thing - his own
+mind. In other words, only an Arahant can be truly called a victor, because he
+won the final battle and he does not have to "fight" any more.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yo
+sahassam
+sahassena
+savgame
+manuse
+jine
+ekaj
+ca
+jeyyaj
+attanaj
+sa
+ve
+savgamaj'uttamo
+savgamaji
+uttamo
+===============================================================================

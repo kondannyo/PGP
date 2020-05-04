@@ -1,0 +1,128 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** sukhakamani bhutani yo dandena na vihijsati ******
+           ****** attano sukham esano pecca so labhate sukhaj ******
+                            ****** (DhP 132) ******
+===============================================================================
+
+
+Sentence Translation:
+Who does not hurt with a stick beings that desire happiness,
+searching for happiness himself, he will reach happiness after death.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sukha+kamani  bhutani       yo       dandena  na  vihijsati
+|               |            |              |              |         |         
+|
+N.n.     Adj.n.     N.n.   Rel.Pron.m.  N.m.   neg.  V.act.in.
+|          Acc.Pl.  Acc.Pl.    Nom.Sg.   Ins.Sg.   |     3.Sg.pres.
+|_________|           |              |              |        |______|
+        |___________|              |              |________|
+                 |______________|____________|
+                              |           
+|_________________________________________I.
+                              |_____________________|
+                                               
+|______________________________________II.
+List of Abbreviations
+attano   sukham   esano  pecca      so        labhate   sukhaj
+|                 |            |          |           |              
+|             |
+N.m.       N.n.     Adj.m. V.ger.  Pron.m.  V.med.in.   N.n.
+Gen.sg. Acc.Sg. Nom.Sg.    |      Nom.Sg. 3.Sg.pres. Acc.Sg.
+|__________|           |          |           |               |________|
+          |___________|          |______|_____________|
+I.__________|                                |_____|
+II.______________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sukhakamani: sukhakama-, Adj.: desiring happiness. It is a compound of:
+    sukha-, N.n.: happiness.
+    kama-, N.m.: wish, desire.
+Acc.Pl.n. = sukhakamani.
+bhutani: bhuta-, N.n.: being, creature. Acc.Pl. = bhutani.
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+dandena: danda-, N.m.: stick, club, punishment. Ins.Sg. = dandena.
+na, neg.: not.
+vihijsati, V.: hurts. The verb root is hijs- (to hurt) with the prefix vi-
+(intensifying sense). 3.Sg.act.in.pres. = vihijsati.
+List of Abbreviations
+attano: attan-, N.m./Pron.: self, oneself. Gen.Sg. = attano.
+sukham: sukha-, N.n.: happiness. Acc.Sg. = sukham.
+esano: asana-, Adj.: searching, striving for. It is an med.pr.p. of the verb
+esati (to search, to strive for). The verb root is is- (to wish) with the
+prefix a- (towards). Nom.Sg.m. = esano.
+pecca, V.ger.: after death. It is a ger. of the verb i- (to go) with the prefix
+pa- (directional prefix of forward motion). This verb means literally "to go
+over", it is used as an euphemism for "to die".
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+labhate, V.: obtains, gets. The verb root is labh-. 3.Sg.med.in.pres. =
+labhate.
+sukhaj: see above (sukham).
+List of Abbreviations
+    This verse consists of two connected sentences. They are:
+    1) sukhakamani bhutani yo dandena na vihijsati attano sukham esano (who
+does not hurt with a stick beings that desire happiness, searching for
+happiness himself). The subject is the relative pronoun yo (who, nominative
+singular). It has an attribute, the medium present participle esano (searching,
+nominative singular). This word has its own attribute, the noun sukham
+(happiness, accusative singular) with the noun/pronoun attano (one's own,
+genitive singular) as an attribute. The noun is vihijsati (hurts, 3rd person,
+singular, active, indicative, present tense). It is negated by the negative
+particle na (not). The verb has an attribute, the noun dandena (with a stick,
+instrumental singular). The object is the noun bhutani (beings, accusative
+plural) with its attribute, the compound sukhakamani (desiring happiness,
+accusative plural).
+    2) pecca so labhate sukhaj (he will reach happiness after death). The
+subject is the personal pronoun so (he, nominative singular). The verb is
+labhate (obtains, reaches, 3rd person, singular, active, indicative, present
+tense). It has an attribute, the gerund pecca (having gone over, after death).
+The object is the noun sukhaj (happiness, accusative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with that to the previous one (DhP
+131).
+    To abstain from violence is one of the basic principles of the Buddha's
+teaching. Especially in the case of the young men hurting the snake it can be
+seen that to hurt somebody first to stop him from hurting me is not a good
+idea.
+    We should practice the universal loving kindness, known as metta and try to
+radiate it to all the directions. When faced with danger, we should radiate
+thismetta towards the being that intends or might intend to hurt us.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sukhakamani
+sukha
+kamani
+bhutani
+yo
+dandena
+na
+vihijsati
+attano
+sukham
+esano
+pecca
+so
+labhate
+===============================================================================
+
+ 

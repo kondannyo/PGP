@@ -1,0 +1,133 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** na silabbatamattena bahusaccena va pana ******
+            ****** atha va samadhilabhena vivittasayanena va ******
+                            ****** (DhP 271) ******
+===============================================================================
+
+
+Sentence Translation:
+Not by mere rules and rituals, nor by great knowledge,
+nor by attaining concentration, nor by having a solitary dwelling,
+[continued in DhP 272]
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na    sila+bbata+mattena bahu+saccena  va   pana
+|         |         |          |         |           |         |       |
+neg. N.n.  N.m.  Adj.n.   Adj.    Adj.n.  conj. part.
+|         |_____|    Ins.Sg.      |      Ins.Sg.    |____|
+|              |________|          |______|            |
+|                      |_____________|                 |
+|                                  |________________|
+|                                                 
+|____________________________________
+|__________________________________________|
+                                 |__________________________________[continued
+in DhP 272]
+List of Abbreviations
+atha    va samadhi+labhena vivitta+sayanena va
+|           |        |            |           |             |         |
+Adv. conj.  N.m.     N.m.    Adj.        N.n.   conj.
+|______|        |        Ins.Sg.      |         Ins.Sg.    |
+      |             |_______|           |_______|          |
+      |___________|                        |_________|
+                |________________________|
+_____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+silabbatamattena: silabbatamatta-, Adj.: only rules and rituals. It is a
+compound of:
+    sila-, N.n.: rule, virtue.
+    bata-, N.m.: religious duty, ritual, precept.
+    matta-, Adj.: measure, just only, mere.
+Euphonic combination: sila- + bata- = silabbata-.
+Ins.Sg.n. = silabbatamattena.
+bahusaccena: bahusacca-, N.n.: great learning, profound knowledge. It is
+derived from the word bahusacca-, Adj.: of great learning. This word is derived
+from:
+    bahu-, Adj.: large, much, very.
+    sacca- or suta-, Adj.: heard. It is a p.p. of the verb root su- (to hear).
+Ins.Sg. = bahusaccena.
+List of Abbreviations
+va, conj.: or.
+pana, part.: indeed.
+atha, Adv.: and also, and then.
+va: see above.
+samadhilabhena: samadhilabha-, N.m.: attaining of concentration of mind. It is
+a compound of:
+    samadhi-, N.m.: concentration, firmness of mind. It is derived from the
+verb root dha-, to put, with the prefixes saj-, together and a-, towards.
+    labha-, N.m.: gain, possession.
+Ins.Sg. = samadhilabhena.
+List of Abbreviations
+vivittasayanena: vivittasayana-, N.n.: solitary dwelling. It is a compound of:
+    vivitta-, Adj.: separate, solitary, secluded. It is a p.p. of the verb root
+vic- (to separate) with the prefix vi- (away, from).
+    sayana-, N.n.: bed, couch.
+Ins.Sg. = vivittasayanena.
+va: see above.
+List of Abbreviations
+    This verse contains only attributes to the verb of the following sentence
+(see DhP 272). This verb is negated by the negative particle na (not) in this
+sentence. The attributes are:
+    1) silabbatamattena (by mere rules and rituals, instrumental singular).
+    2) bahusaccena va pana (or by great knowledge). The attribute is the
+compound bahusaccena (by great knowledge, instrumental singular). It is
+connected to the other attributes by the conjunction va (or) and the particle
+pana (indeed).
+    3) atha va samadhilabhena (or by attaining concentration). The attribute is
+the compound samadhilabhena (by attaining concentration, instrumental
+singular). It is connected to the other attributes by the conjunction va (or)
+and the adverb atha (and then).
+    4) vivittasayanena va (or by having a solitary dwelling). The attribute is
+the compound vivittasayanena (by having a solitary dwelling, instrumental
+singular). It is connected to the other attributes by the conjunction va (or).
+===============================================================================
+
+
+Commentary:
+    There were many monks who were practicing the Dharma. Not all of them had
+reached the Awakenment quickly. Once a group of monks came to see the Buddha.
+Some of them had observed the rules perfectly and were very virtuous. Others
+studied a lot of the Buddha's discourses and yet others were good in
+meditation.
+    The Buddha asked them if they had attained the Awakenment. They replied
+that they did not but that it should be easy, since they had achieved so much
+already. The Buddha replied with this verse (and the following one, DhP 272).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+silabbatamattena
+sila
+bata
+mattena
+bahusaccena
+bahu
+saccena
+va
+pana
+atha
+samadhilabhena
+samadhi
+labhena
+vivittasayanena
+vivitta
+sayanena
+===============================================================================

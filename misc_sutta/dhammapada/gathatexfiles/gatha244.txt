@@ -1,0 +1,103 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+              ****** sujivaj ahirikena kakasurena dhajsina ******
+          ****** pakkhandina pagabbhena sajkilitthena jivitaj ******
+                            ****** (DhP 244) ******
+===============================================================================
+
+
+Sentence Translation:
+Easy is life for somebody who is shameless, unconscientious,
+offensive, braggart, reckless and impure.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sujivaj ahirikena kaka+surena  dhajsina
+|                 |           |          |             |
+Adj.n.    Adj.m.   N.m. Adj.m.    Adj.m.
+Nom.Sg. Ins.Sg.     |     Ins.Sg.    Ins.Sg.
+|                 |           |______|            |
+|                 |_________|__________|__________________I.
+|________________________________________________II.
+List of Abbreviations
+pakkhandina pagabbhena sajkilitthena jivitaj
+      |                     |                  |               |
+Adj.m.             Adj.m.         Adj.m.       N.n.
+Ins.Sg.             Ins.Sg.         Ins.Sg.    Nom.Sg.
+I.__|____________|__________|               |
+                 |_________________________|
+II.___________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sujivaj: sujiva-, Adj.: easy to live. It is derived from the verb root jiv- (to
+live) with the prefix su- (easy, good). Nom.Sg.n. = sujivaj.
+ahirikena: ahirika-, Adj.: shameless, unscrupulous. It is derived from the word
+hiri-, N.f.: sense of shame, conscience. There is added a negative prefix a-
+and an adjective suffix -ka.
+Ins.Sg.m. = ahirikena.
+kakasurena: kakasura-, N.m.: unconscientious man, somebody without shame. Lit.
+"a crow hero". It is a compound of:
+    kaka-, N.m.: crow.
+    sura-, N.m.: hero.
+Ins.Sg. = kakasurena.
+List of Abbreviations
+dhajsina: dhajsin-, Adj.: obtrusive, offensive. Ins.Sg.m. = dhajsina.
+pakkhandina: pakkhandin-, Adj.: bold, braggart. Lit. "jumping forth". It is
+derived from the verb root khand- (to jump) with the prefix pa- (forth).
+Ins.Sg.m. = pakkhandina.
+pagabbhena: pagabbha-, Adj.: reckless, daring. Ins.Sg.m. = pagabbhena.
+sajkilitthena: sajkilittha-, Adj.: bad, impure, unclean. It is a p.p. of the
+verb kilis- (to go bad, to get stained, to be impure) with the prefix saj-
+(altogether). Ins.Sg.m. = sajkilitthena.
+jivitaj: jivita-, N.n.: life. Originally it is a p.p. of the verb root jiv- (to
+live). Nom.Sg. = jivitaj.
+List of Abbreviations
+    The subject of this sentence is the noun jivitaj (life, nominative
+singular). It has six attributes: 1) the adjective ahirikena (by a shameless
+one, instrumental singular), 2) the noun kakasurena (by an unconscientious one,
+instrumental singular), 3) dhajsina (by an offensive one, instrumental
+singular), 4) pakkhandina (by a braggart one, instrumental singular), 5)
+pagabbhena (by a reckless one, instrumental singular) and 6) sajkilitthena (by
+an impure one, instrumental singular). The verb is omitted, implying the verb
+"to be". The object is the adjective sujivaj (easy to live, nominative
+singular).
+===============================================================================
+
+
+Commentary:
+    There was a monk named Cula Sari. He was a physician and he often went to
+see patients. Once he was returning from a patient and he met Venerable
+Sariputta. Cula Sari told him his patient gave him delicious food as a payment.
+He offered some food to Sariputta, who did not say anything and just continued
+on his way.
+    Later Sariputta reported the matter to the Buddha. The Buddha told Cula
+Sari not to practice medicine for personal gain and told him this verse (and
+the following one, DhP 245).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sujivaj
+ahirikena
+kakasurena
+kaka
+surena
+dhajsina
+pakkhandina
+pagabbhena
+sajkilitthena
+jivitaj
+===============================================================================

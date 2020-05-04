@@ -1,0 +1,126 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** yassa kayena vacaya manasa natthi dukkataj ******
+         ****** sajvutaj tihi thanehi tam ahaj brumi brahmanaj ******
+                            ****** (DhP 391) ******
+===============================================================================
+
+
+Sentence Translation:
+Who does not perform any evil deeds by body, speech or mind,
+who is restrained in three ways - him do I call a Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yassa           kayena vacaya manasa na     atthi      dukkataj
+|                       |           |           |        |         
+|              |
+Rel.Pron.m.   N.m.    N.f.     N.n.   neg.  V.act.in.     N.n.
+Gen.Sg.        Ins.Sg. Ins.Sg. Ins.Sg.    |   3.Sg.pres.  Nom.Sg.
+|                       |______|______|         |_____|               |
+|                                        |___________|___________|
+|                                                 |______|
+|_______________________________|
+                          |________________________________________________
+List of Abbreviations
+sajvutaj tihi    thanehi  tam       ahaj       brumi brahmanaj
+|                  |           |         |             |              
+|             |
+Adj.m.    Num.n.  N.n.  Pron.m.   Pron.     V.act.in.    N.m.
+Acc.Sg.    Ins.Pl. Ins.Pl. Acc.Sg. Nom.Sg.  1.Sg.pres. Acc.Sg.
+|                  |______|         |             |              
+|              |
+|_____________|               |             |               |              |
+            |_______________|             |               |              |
+                          |_______________|________|________|
+                                                      |      |____|
+                                                      |______|
+_________________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yassa: yat-, Rel.Pron.: that, which. Gen.Sg.m. = yassa (whose).
+kayena: kaya-, N.m.: body. Ins.Sg. = kayena.
+vacaya: vaca-, N.f.: speech, voice. Ins.Sg. = vacaya.
+manasa: manas-, N.n.: mind. Inst.Sg. = manasa.
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = natthi.
+dukkataj: dukkata-, N.n.: bad deed, evil deed. It is the word kata-, Adj.
+(done, it is a p.p. of the verb kar-, to do) with the prefix du- (bad, wrong).
+Nom.Sg. = dukkataj.
+List of Abbreviations
+sajvutaj: sajvuta-, Adj.: restrained, governed, guarded. It is a p.p. of the
+verb var- (to obstruct) with the prefix saj- (together, completely). Acc.Sg.m.
+= sajvutaj.
+tihi: ti-, Num.: three. Ins.Pl. = tihi.
+thanehi.: thana-, N.n.: place, condition, state. It is derived from the verb
+root tha- (to stay, to stand). Ins.Pl. = thanehi.
+tam: tad-, Pron.: it. Masculine form: so-, he. Acc.Sg. = tam (him).
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+brahmanaj: brahmana-, N.m.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) yassa kayena vacaya manasa natthi dukkataj (who does not perform any
+evil deeds by body, speech or mind). The subject is the noun dukkataj (evil
+deed, nominative singular). It has three attributes, the nouns kayena (by body,
+instrumental singular), vacaya (by speech, instrumental singular) and manasa
+(by mind, instrumental singular). The verb is atthi (is, 3rd person, singular,
+active, indicative, present tense). It is negated by the negative particle na
+(not). The relative pronoun yassa (whose, genitive singular) connects this
+sentence to the following one.
+    2) sajvutaj tihi thanehi tam ahaj brumi brahmanaj (who is restrained in
+three ways - him do I call a Brahmin). The subject is the pronoun ahaj (I,
+nominative singular). The verb is brumi ([I] say, 1st person, singular, active,
+indicative, present tense). The object is the noun brahmanaj (Brahmin,
+accusative singular). It has two attributes, the pronoun tam (him, accusative
+singular) and the past participle sajvutaj (restrained). This word has its own
+attribute, the noun thanehi (by things, instrumental plural) with its
+attribute, the numeral tihi (by three, instrumental plural).
+===============================================================================
+
+
+Commentary:
+    Pajapati Gotami was the Buddha's stepmother. When Maya, his own mother,
+died, Gotami raised the young prince Siddhattha, the future Buddha, herself.
+Later, when her husband, the Buddha's father, died, she became the first nun
+and established the Sangha of the nuns (bhikkhuni).
+    Because she was the first nun, she was not ordained by the Sangha of the
+nuns, as was the rule. Therefore some nuns began to say that she was actually
+not nun at all and started to avoid her.
+    When the Buddha heard about this, he told them that he himself gave
+Pajapati Gotami her ordination and therefore she was a properly ordained nun.
+He further said, that Pajapati Gotami was an Arahant and added this verse to
+praise her qualities.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yassa
+kayena
+vacaya
+manasa
+na
+atthi
+dukkataj
+sajvutaj
+tihi
+thanehi
+tam
+ahaj
+brumi
+brahmanaj
+===============================================================================

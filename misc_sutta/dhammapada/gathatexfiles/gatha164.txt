@@ -1,0 +1,169 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** yo sasanaj arahataj ariyanaj dhammajivinaj ******
+          ****** patikkosati dummedho ditthij nissaya papikaj ******
+           ****** phalani katthakasseva attaghabbaya phallati ******
+                            ****** (DhP 164) ******
+===============================================================================
+
+
+Sentence Translation:
+Who scorns thee teaching of the Arahants, the Noble Ones, living righteously,
+the fool, who is relying on wrong beliefs,
+produces fruit just like a bamboo - for his own destruction.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yo              sasanaj  arahataj ariyanaj dhamma+jivinaj
+|                      |              |              |             
+|            |
+Rel.Pron.m.  N.n.        N.m.      Adj.m.      N.m.     Adj.m.
+Nom.Sg.     Acc.Sg.   Gen.PL.  Gen.PL.        |        Gen.Pl.
+|                      |              |              |              |_______|
+|                      |              |________|___________|
+|                      |____________|
+|                                |________________________________________I.
+|__________________________________________________________II.
+List of Abbreviations
+patikkosati dummedho  ditthij nissaya papikaj
+       |                |               |           |           |
+V.act.in.        Adj.m.      N.f.    V.ger.    Adj.f.
+3.Sg.pres.    Nom.Sg.   Acc.Sg.      |     Acc.Sg.
+I.___|                |               |______|______|
+     |                   |                    |___|
+II._|__________|                        |
+     |_____|                                 |
+          |_____________________|
+                              |________________________________________
+List of Abbreviations
+phalani katthakassa iva   atta+ghabbaya phallati
+|                 |             |       |           |             |
+N.n.        N.m.      part. N.m.    N.m.    V.act.in.
+Acc.Sg. Gen.Sg.       |       |      Dat.Sg.  3.Sg.pres.
+|                 |_______|       |______|              |
+|_____________|                   |___________|
+           |________________________|
+__________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+sasanaj: sasana-, N.n.: teaching, message, the teaching of the Buddha. Acc.Sg.
+= sasanaj.
+arahataj: arahant-, Adj.: literally: deserving, worthy. It is derived (a.pr.p.)
+from the verb root arah-, to deserve. As an N.m.: one, who has attained
+Nirvana. Usually not translated or explained as Perfected One. Gen.Pl. =
+arahataj.
+ariyanaj: ariya-, Adj.: noble, distinguished, good. Gen.Pl.m. = ariyanaj.
+dhammajivinaj: dhammajivin-, N.m.: living righteously. A compound of:
+    dhamma-, N.m.: Law, Buddha's teaching, righteousness. Derived from the verb
+dha-, to hold.
+    jivin-, Adj.m.: living. Derived from the verb jiv- (to live).
+Gen.Pl. = dhammajivinaj.
+List of Abbreviations
+patikkosati, V.: blames, scorns. The verb root is kus- (to be angry) with the
+prefix pati- (towards, against). 3.Sg.act.in.pres. = patikkosati.
+dummedho: dummedha-, Adj.: stupid. Derived from the word medha-, N.f.: wisdom,
+intelligence, by adding the prefix du- (lacking something, away from). The
+double m is due to the euphonic combination (du- + medha- = dummedha-).
+Nom.Sg.m. = dummedho.
+ditthij: ditthi-, N.f.: view, belief, theory, idea. It is derived from the verb
+root dis- (to see).
+Acc.Sg.f. = ditthij.
+nissaya, V.ger.: leaning on, relying on. The verb root is si- (to cling to)
+with the prefix ni- (on to).
+List of Abbreviations
+papikaj: papika-, Adj.: wrong, bad. It is the word papa-, N.n.: evil, wrong
+doing with the adjective suffix -ka. Acc.Sg.f. = papikaj.
+phalani: phala-, N.n.: fruit, outcome. Acc.Pl. = phalani.
+katthakassa: katthaka-, N.m.: a kind of reed, bamboo. Gen.Sg. = katthakassa.
+iva, part.: like, as (another, more often used form of this word is va).
+Euphonic combination: katthakassa + iva = katthakasseva.
+attaghabbaya: attaghabba-, N.m.: selfdestruction. It is a compound of:
+    atta-, N.m.: it is the compound form of the word attan-, N.m.: self,
+oneself.
+    ghabba-, Adj.: destroying, killing. It is derived from the verb root han-
+(to strike).
+Dat.Sg. = attaghabbaya.
+phallati, V.: to bear fruits, to become ripe. The verb root is phal-.
+3.Sg.act.in.pres. = phallati.
+List of Abbreviations
+    This verse consists of two connected sentences. They are:
+    1) yo sasanaj arahataj ariyanaj dhammajivinaj patikkosati dummedho ditthij
+nissaya papikaj (who scorns thee teaching of the Arahants, the Noble Ones,
+living righteously, the fool, who is relying on wrong beliefs). This can be
+further analysed into two segments:
+    a) yo sasanaj arahataj ariyanaj dhammajivinaj patikkosati dummedho (the
+fool, who scorns thee teaching of the Arahants, the Noble Ones, living
+righteously). The subject of this sentence is the relative pronoun yo (who,
+nominative singular) with its attribute, the adjective dummedho (foolish,
+nominative singular). The verb is patikkosati (scorns, 3rd person, singular,
+active, indicative, present tense). The object is the noun sasanaj (teaching,
+accusative singular). It has three attributes, arahataj (of the Arahants,
+genitive plural), ariyanaj (of the Noble Ones, genitive plural) and
+dhammajivinaj (of those living righteously, genitive plural).
+    b) ditthij nissaya papikaj (who is relying on wrong beliefs). The subject
+is omitted, implying the subject yo from the previous segment. The verb is in
+gerund, nissaya (having relied). The object is the noun ditthij (belief,
+accusative singular) with its attribute, the adjective papikaj (wrong,
+accusative singular).
+    2) phalani katthakassa iva attaghabbaya phallati (produces fruit just like
+a bamboo - for his own destruction). The subject is omitted; the verb implies
+the third person singular pronoun. The object is the noun phalani (fruits,
+accusative plural). There is a clause dependent on the object, katthakassa iva
+(like a bamboo's). Here the noun katthakassa (bamboo's, genitive singular)
+forms an attribute to the object phalani and the particle iva (like) connects
+it to the subject. The verb is phallati (bears fruits, 3rd person, singular,
+active, indicative, present tense). The verb has an attribute, the compound
+attaghabbaya (for [his] own destruction, dative singular).
+===============================================================================
+
+
+Commentary:
+    In Savatthi there lived an old woman who was looking after a monk named
+Kala. She often expressed her wish to go to the Jetavana monastery to hear the
+teaching from the Buddha’s own mouth. Three times she told Kala about her wish
+and three times he advised her not to go.
+    However, one day she went to the monastery in spite of his objections. Kala
+thought that she would have no more use for him, if she hears the Buddha to
+speak. So he went to the Buddha and told him not to teach the woman anything
+deep, because she was very stupid.
+    The Buddha knew the real reason for Kala's words and he admonished him with
+this verse, saying that one who abuses the Teaching, is only destroying
+himself.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yo
+sasanaj
+arahataj
+ariyanaj
+dhammajivinaj
+dhamma
+jivinaj
+patikkosati
+dummedho
+ditthij
+nissaya
+papikaj
+phalani
+katthakassa
+iva
+attaghabbaya
+atta
+ghabbaya
+phallati
+===============================================================================

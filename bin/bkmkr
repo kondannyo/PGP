@@ -1,0 +1,9 @@
+#!/bin/bash
+
+sourcefile="$1"
+
+set -x
+
+pdfjam --twoside $sourcefile --papersize '{395pt,612pt}' --offset '10pt 0pt' --suffix 'offset'
+pdfbook "${sourcefile%.pdf}-offset.pdf" --paper 'letterpaper' --no-tidy
+# pdfbook $sourcefile--paperwidth '395pt' --paperheight '612pt'

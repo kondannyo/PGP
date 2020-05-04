@@ -1,0 +1,129 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** api dibbesu kamesu ratij so nadhigacchati ******
+            ****** tanhakkhayarato hoti sammasambuddhasavako ******
+                            ****** (DhP 187) ******
+===============================================================================
+
+
+Sentence Translation:
+[continued from DhP 186]
+he does not find liking even for divine pleasures.
+A student of the truly and completely Awakened One is devoted to destruction of
+cravings.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+api  dibbesu kamesu   ratij      so       na  adhigacchati
+|           |           |            |           |          |          |
+part. Adj.m.   N.m.     N.f.    Pron.m. neg.  V.act.in.
+|       Loc.Pl. Loc.Pl. Acc.Sg. Nom.Sg.  |     3.Sg.pres.
+|           |______|            |           |          |______|
+|_________|                  |           |                |
+        |_______________|           |                |
+                     |______________|_________|
+                                  |_______|
+List of Abbreviations
+tanha+kkhaya+rato        hoti    samma+sambuddha+savako
+|             |           |             |           |             
+|               |
+N.f.     N.m.  Adj.m.   V.act.in.  Adv.       Adj.          N.m.
+|_______|     Nom.Sg. 3.Sg.pres.   |________|          Nom.Sg.
+      |__________|              |                 |_____________|
+               |_____________|                             |
+                           |_______________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+api, part.: also, as well, even (often spelled pi).
+dibbesu: dibba-, Adj.: divine, heavenly. Loc.Sg.m. = dibbesu.
+kamesu: kama-, N.m.: sense-pleasure, sense desire. Loc.Pl. = kamesu.
+ratij: rati-, N.f.: love, attachment, liking for. Acc.Sg. = ratij.
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+na, neg.: not.
+adhigacchati, V.: find, obtain. The verb root is gam- (to go) with the prefix
+adhi- (above, towards). 3.Sg.act.pres.in. = adhigacchati.
+Euphonic combination: na + adhigacchati = nadhigacchati.
+List of Abbreviations
+tanhakkhayarato: tanhakkhayarata-, Adj.: devoted to destruction of cravings. It
+is a compound of:
+    tanha-, N.f.: thirst, craving.
+    khaya-, N.m.: destruction, dissolution, end.
+    rata-, Adj.: devoted. It is a p.p. of the verb ram- (to delight in, to be
+devoted to).
+Euphonic combination: tanha- + khaya- = tanhakkhaya-.
+Nom.Sg.m. = tanhakkhayarato.
+hoti, V. is. The verb root is bhu- (to be). 3.Sg.act.in.pres. = bhavati or
+hoti.
+sammasambuddhasavako: sammasambuddhasavaka-, N.m.: student of the truly and
+completely Awakened One. It is a compound of:
+    sammasambuddha-, N.m.: truly and completely Awakened One. This denotes the
+Buddha Shakyamuni. It can be further analyzed as:
+        samma, Adv.: properly, rightly, as it should be, truly.
+        sambuddha-, Adj.: completely awakened. It is a p.p. of the verb
+sam+budh-, to awaken completely. Prefix sam- denotes the completeness of the
+action, "together", "wholy". The verb budh- means to wake up.
+    savaka-, N.m.: , "listener", student, pupil. It is derived from the verb
+root su- (to hear, to listen).
+Nom.Sg. = sammasambuddhasavako.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) api dibbesu kamesu ratij so nadhigacchati (he does not find liking even
+for divine pleasures). The subject of this sentence is the pronoun so (he,
+nominative singular). The verb is adhigacchati (finds, 3rd person, singular,
+active, indicative, present tense). It is negated by the negative particle na
+(not). The object is the noun ratij (pleasure, accusative singular). It has an
+attribute, the noun kamesu (in pleasures, locative plural). This word has
+itself an attribute, the adjective dibbesu (in divine, locative plural). It is
+further modified by the particle api (even).
+    2) tanhakkhayarato hoti sammasambuddhasavako (a student of the truly and
+completely Awakened One is devoted to destruction of cravings). The subject is
+the compound sammasambuddhasavako (a student of the truly and completely
+Awakened One, nominative singular). The verb is hoti (is, 3rd person, singular,
+active, indicative, present tense). The object is the adjective compound
+tanhakkhayarato (devoted to destruction of cravings, nominative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 187).
+    It is a well-known fact that people are never satisfied with what they
+have. Even millionaires want to become billionaires; even kings want to become
+emperors. So the Buddha's message is rather simple: be satisfied with little
+and rather strive for the spiritual perfection, do not wish for worldly
+possessions.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+api
+dibbesu
+kamesu
+ratij
+so
+na
+adhigacchati
+tanhakkhayarato
+tanha
+khaya
+rato
+hoti
+sammasambuddhasavako
+sammasambuddha
+samma
+sambuddha
+savako
+===============================================================================

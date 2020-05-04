@@ -1,0 +1,129 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** kayena sajvaro sadhu sadhu vacaya sajvaro ******
+          ****** manasa sajvaro sadhu sadhu sabbattha sajvaro ******
+         ****** sabbattha sajvuto bhikkhu sabbadukkha pamuccati ******
+                            ****** (DhP 361) ******
+===============================================================================
+
+
+Sentence Translation:
+Restraint over the body is good. Good is restraint over the speech.
+Restraint over the mind is good. Good is restraint everywhere.
+The monk who is restrained everywhere will be freed from all suffering.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+kayena sajvaro sadhu sadhu vacaya sajvaro
+|                |            |         |          |           |
+N.m.      N.m.     Adv.  Adv.     N.f.     N.m.
+Ins.Sg. Nom.Sg.     |         |      Ins.Sg. Nom.Sg.
+|_________|           |         |           |______|
+        |___________|         |_________|
+List of Abbreviations
+manasa sajvaro sadhu sadhu sabbattha sajvaro
+|                 |           |         |           |             |
+N.n.        N.m.    Adv.  Adv.     Adv.       N.m.
+Ins.Sg.  Nom.Sg.    |         |           |        Nom.Sg.
+|__________|          |         |           |_______|
+         |___________|         |__________|
+List of Abbreviations
+sabbattha sajvuto bhikkhu sabba+dukkha pamuccati
+|                    |            |           |          |              |
+Adv.         Adj.m.    N.m.    Adj.     N.n.     V.pas.in.
+|              Nom.Sg. Nom.Sg.   |      Abl.Sg.   3.Sg.pres.
+|___________|            |           |______|              |
+           |____________|                |___________|
+                      |______________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+kayena: kaya-, N.m.: body. Here as "bodily action". Ins.Sg. = kayena.
+sajvaro: sajvara-, N.m.: restraint. It is derived from the verb root var- (to
+cover) with the prefix saj- (together). Nom.Sg. = sajvaro.
+sadhu, Adv.: well, good.
+vacaya: vaca-, N.f.: speech, voice. Ins.Sg. = vacaya.
+sajvaro: see above.
+manasa: manas-, N.n.: mind. Inst.Sg. = manasa.
+sajvaro: see above.
+sadhu: see above.
+List of Abbreviations
+sabbattha, Adv.: everywhere, in every place.
+sajvaro: see above.
+sabbattha: see above.
+sajvuto: sajvuta-, Adj.: restrained, governed, guarded. It is a p.p. of the
+verb var- (to obstruct) with the prefix saj- (together, completely). Nom.Sg.m.
+= sajvuto.
+bhikkhu: bhikkhu-, N.m.: a (Buddhist) monk. Nom.Sg. = bhikkhu.
+sabbadukkha: sabbadukkha-, N.n.: all suffering. It is a compound of:
+    sabba-, Adj.: all.
+    dukkha-, N.n.: sorrow, pain, suffering.
+Abl.Sg. = sabbadukkha.
+pamuccati, V.: to be released, to be freed. The verb root is muc- (to be
+released) woth the strengthening prefix pa-. 3.Sg.pas.in.pres. = pamuccati.
+List of Abbreviations
+    This verse consists of five syntactically separate sentences. They are:
+    1) kayena sajvaro sadhu (restraint over the body is good). The subject is
+the noun sajvaro (restraint, nominative singular). It has an attribute, the
+noun kayena (by body, instrumental singular). The verb is omitted, implying the
+verb "to be". The object is the adverb sadhu (good, well).
+    2) sadhu vacaya sajvaro (good is restraint over the speech). The subject is
+the noun sajvaro (restraint, nominative singular). It has an attribute, the
+noun vacaya (by speech, instrumental singular). The verb is omitted, implying
+the verb "to be". The object is the adverb sadhu (good, well).
+    3) manasa sajvaro sadhu (restraint over the mind is good). The subject is
+the noun sajvaro (restraint, nominative singular). It has an attribute, the
+noun manasa (by mind, instrumental singular). The verb is omitted, implying the
+verb "to be". The object is the adverb sadhu (good, well).
+    4) sadhu sabbattha sajvaro (good is restraint everywhere). The subject is
+the noun sajvaro (restraint, nominative singular). It has an attribute, the
+adverb sabbattha (everywhere). The verb is omitted, implying the verb "to be".
+The object is the adverb sadhu (good, well).
+    5) sabbattha sajvuto bhikkhu sabbadukkha pamuccati (the monk who is
+restrained everywhere will be freed from all suffering). The subject is the
+noun bhikkhu (monk, nominative singular). It has an attribute, the past
+participle sajvuto (restrained, nominative singular) with its own attribute,
+the adverb sabbattha (everywhere). The verb is pamuccati (is freed, 3rd person,
+singular, passive, indicative, present tense). It has an attribute, the
+compound sabbadukkha (from all suffering, ablative singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 360).
+    Restraint over the six senses (in Buddhist psychology, the mind is counted
+as the sixths sense) is one of the basic requirements for really beneficial
+meditation practice. Without this control, the meditation cannot progress,
+because we will always be distracted from it by input from these very six
+senses. Therefore we must practice concentration and mindfulness in our daily
+lives and then apply this tool in our meditation practice.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+kayena
+sajvaro
+sadhu
+vacaya
+manasa
+sabbattha
+sajvuto
+bhikkhu
+sabbadukkha
+sabba
+dukkha
+pamuccati
+===============================================================================

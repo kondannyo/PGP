@@ -1,0 +1,111 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** ratiya jayati soko ratiya jayati bhayaj ******
+          ****** ratiya vippamuttassa natthi soko kuto bhayaj ******
+                            ****** (DhP 214) ******
+===============================================================================
+
+
+Sentence Translation:
+From attachment, grief is born. From attachment, fear is born.
+One freed from attachment has no grief, whence fear?
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+ratiya      jayati       soko      ratiya     jayati     bhayaj
+|                  |              |             |            |               |
+N.f.      V.med.in.    N.m.      N.f.   V.med.in.     N.n.
+Abl.Sg.  3.Sg.pres. Nom.Sg. Abl.Sg. 3.Sg.pres.  Nom.Sg.
+|__________|              |             |_______|               |
+         |_____________|                    |____________|
+List of Abbreviations
+ratiya  vippamuttassa   na    atthi         soko    kuto  bhayaj
+|                    |            |         |              |         
+|          |
+N.f.         Adj.m.     neg. V.act.in.     N.m.   Adv.    N.n.
+Abl.Sg.    Gen.Sg.       |   3.Sg.pres. Nom.Sg.   |     Nom.Sg.
+|___________|            |_____|               |         |______|
+          |_______________|                    |________|
+                       |________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+ratiya: rati-, N.f.: love, attachment. Abl.Sg. = ratiya.
+jayati, V.: is born. The verb root is jan- (to be born). 3.Sg.med.in.pres. =
+jayati. The form jayati is sometimes used in poetry.
+soko: soka-, N.m.: grief, sorrow. Nom.Sg. = soko.
+ratiya: see above.
+jayati: see above.
+bhayaj: bhaya-, N.n.: fear. Nom.Sg. = bhayaj.
+List of Abbreviations
+ratiya: see above.
+vippamuttassa: vippamutta-, Adj.: emancipated, freed, released. It is a p.p. of
+the verb muc- (to release) with the prefixes vi- (meaning separation) and pa-
+(strengthening). Gen.Sg.m. = vippamuttassa.
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = natthi.
+soko: see above.
+kuto, Adv.: Whence? Where from?
+bhayaj: see above.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) ratiya jayati soko (from attachment, grief is born). The subject is the
+noun soko (grief, nominative singular). The verb is jayati (is born, 3rd
+person, singular, medium, indicative, present tense). It has an attribute, the
+noun ratiya (from attachment, ablative singular).
+    2) ratiya jayati bhayaj (from attachment, fear is born). The subject is the
+noun bhayaj (fear, nominative singular). The verb is jayati (is born, 3rd
+person, singular, medium, indicative, present tense). It has an attribute, the
+noun ratiya (from attachment, ablative singular).
+    3) ratiya vippamuttassa natthi soko kuto bhayaj (one freed from attachment
+has no grief, whence fear?). This can be further analysed into two segments:
+    a) ratiya vippamuttassa natthi soko (one freed from attachment has no
+grief). The subject is the noun soko (grief, nominative singular). The verb is
+atthi (is, 3rd person, singular, active, indicative, present tense). It is
+negated by the negative particle na (not). The verb has an attribute, the past
+participle vippamuttassa (of the one who is freed, genitive singular). This
+word has also an attribute, the noun ratiya (from attachment, ablative
+singular).
+    b) kuto bhayaj (whence fear?). The subject is the noun bhayaj (fear,
+nominative singular). The verb is omitted, implying the verb "to be". The
+adverb kuto (whence?) can be seen as an attribute to this verb.
+===============================================================================
+
+
+Commentary:
+    Once the Buddha with some monks entered the city of Vesali during a
+festival day. On their way they met some local princes, all dressed up in
+beautiful clothes. The Buddha told the monks to look at the princes, because
+they resemble the gods from Tavatimsa heaven.
+    On their way to the garden, the ptrinces met a beautiful courtesan. They
+invited her to join them. But they started to quarrel over her and soon they
+were fighting. At the end some of them had to be carried home bleeding.
+    The Buddha told the monks this verse, saying that grief and sorrow are born
+from affection and sensual pleasures.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+ 
+ratiya
+jayati
+soko
+bhayaj
+vippamuttassa
+na
+atthi
+kuto
+===============================================================================

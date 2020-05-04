@@ -1,0 +1,109 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+            ****** pamādaṃ anuyuñjanti bālā dummedhino janā ******
+         ****** appamādaṃ ca medhāvī dhanaṃ seṭṭhaṃ va rakkhati ******
+                            ****** (DhP 26) ******
+===============================================================================
+
+Translation:
+The fools, the ignorant people give themselves up to negligence.
+And the wise one protects conscientiousness as the greatest treasure.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+pamādaṃ anuyuñjanti  bālā  dummedhino   janā
+|                      |              |             |               |
+N.m.          V.act.in.    N.m.      Adj.m.      N.m.
+Acc.Sg.     3.Sg.pres. Nom.Sg. Nom.Sg.  Nom.Sg.
+|____________|              |             |_________|
+          |                          |____________|
+          |_____________________|
+List of Abbreviations
+a+ppamādaṃ ca    medhāvī   dhanaṃ  seṭṭhaṃ   va    rakkhati
+|          |           |           |               |             |        
+|           |
+neg.  N.m.    conj.    N.m.         N.n.     Adj.n.   part.   V.act.in.
+|      Acc.Sg.    |      Nom.Sg.   Acc.Sg.  Acc.Sg.    |      3.Sg.pres.
+|_____|            |            |               |_______|         |           |
+
+     |                |_______|                       |________|           |
+     |                       |____________________|___________|
+     |_________________________________|        |
+                                   |_____________________|
+ 
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+pamādaṃ: pamāda-, N.m.: negligence. Acc.Sg. = pamādaṃ.
+anuyuñjanti, V.: to practice, to give oneself up to, to pursue. The verb yuñj-
+(to join, to unite) with the prefix anu- (along, at, to). 3.Pl.act.in.pres. =
+anuyuñjanti.
+bālā: bāla-, N.m.: fool. Nom.Pl. = bālā.
+dummedhino: dummedhin-, Adj.m.: foolish, ignorant. Derived from the word
+medhā-, N.f.: wisdom, intelligence, by adding the possessive suffix -in and
+then the prefix du- (lacking something, away from). The double m is due to the
+euphonic combination (du + medhin = dummedhin). Nom.Pl. = dummedhino.
+janā: jana-, N.m.: person, man. Nom.Pl. = janā.
+List of Abbreviations
+appamādaṃ: appamāda-, N.m.: conscientiousness, non-negligence. A negated (by
+the negative prefix a-) word pamāda-, N.m.: negligence. Doubled p is due to the
+euphonic combination (a + pamāda = appamāda). Acc.Sg. = appamādaṃ.
+ca, conj.: and.
+medhāvī: medhāvin-, N.m.: intelligent person, wise one. Nom.Sg. = medhāvī.
+dhanaṃ: dhana-, N.n.: wealth, riches. Acc.Sg. = dhanaṃ.
+seṭṭhaṃ: seṭṭha-, Adj.: best. Acc.Sg.n. = seṭṭhaṃ.
+va, part.: as, like.
+rakkhati, V.: protects. The verb root rakkh-. 3.Sg.act.in.pres. = rakkhati.
+List of Abbreviations
+    The subject of the first sentence is bālā (fools, nominative plural). It
+has an attribute, the word janā (people, nominative plural) which has its own
+attribute dummedhino (ignorant, nominative singular). The verb is anuyuñjanti
+(pursue, 3rd person, plural, active, indicative, present tense). The object is
+pamādaṃ (negligence, accusative singular).
+    In the second sentence, the subject is medhāvī (wise one, nominative
+singular). The verb is rakkhati (protects, 3rd person, singular, active,
+indicative, present tense). The object is appamādaṃ (conscientiousness,
+accusative singular). There is a subordinate clause to the object, introduced
+by the particle va (like, as): dhanaṃ seṭṭhaṃ. The main object here is dhanaṃ
+(treasure, accusative singular) and the adjective seṭṭhaṃ (best, accusative
+singular) is its attribute.
+===============================================================================
+
+Commentary:
+    The story associated with this verse and the following one (DhP 27) speaks
+about a festival that was celebrated in the city of Sāvatthī while the Buddha
+was residing there.
+    Many young men were practicing some sort of religious rituals, roaming
+about the city, shouting and begging for money at every door in the city.
+    Buddha's lay disciples in that city warned him not to enter the city and
+they themselves did not leave their houses. After one week of the festival
+ended, the Buddha again entered Sāvatthī and then spoke these two verses (DhP
+26 and 27).
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+pamādaṃ
+anuyuñjanti
+bālā
+dummedhino
+janā
+appamādaṃ
+ca
+medhāvī
+dhanaṃ
+seṭṭhaṃ
+va
+rakkhati
+===============================================================================

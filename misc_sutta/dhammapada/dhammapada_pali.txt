@@ -1,0 +1,4553 @@
+khuddaka nikāya
+dhammapadapāḷi
+
+I. yamakavaggo
+
+@ pali-dhp-1.tex
+
+manopubbaṅgamā dhammā,
+
+manoseṭṭhā manomayā.
+
+manasā ce paduṭṭhena,
+
+bhāsati vā karoti vā.
+
+tato naṁ dukkhamanveti,
+
+cakkaṁva vahato padaṁ.
+
+@ pali-dhp-2.tex
+
+manopubbaṅgamā dhammā,
+
+manoseṭṭhā manomayā.
+
+manasā ce pasannena,
+
+bhāsati vā karoti vā.
+
+tato naṁ sukhamanveti,
+
+chāyāva anapāyinī.
+
+@ pali-dhp-3.tex
+
+akkocchi maṁ avadhi maṁ,
+
+ajini maṁ ahāsi me.
+
+ye ca taṁ upanayhanti,
+
+veraṁ tesaṁ na sammati.
+
+@ pali-dhp-4.tex
+
+akkocchi maṁ avadhi maṁ,
+
+ajini maṁ ahāsi me.
+
+ye ca taṁ nupanayhanti,
+
+veraṁ tesūpasammati.
+
+@ pali-dhp-5.tex
+
+na hi verena verāni,
+
+sammantīdha kudācanaṁ.
+
+averena ca sammanti,
+
+esa dhammo sanantano.
+
+@ pali-dhp-6.tex
+
+pare ca na vijānanti,
+
+mayamettha yamāmase.
+
+ye ca tattha vijānanti,
+
+tato sammanti medhagā.
+
+@ pali-dhp-7.tex
+
+subhānupassiṁ viharantaṁ,
+
+indriyesu asaṁvutaṁ.
+
+bhojanamhi cāmattaññuṁ,
+
+kusītaṁ hīnavīriyaṁ.
+
+taṁ ve pasahati māro,
+
+vāto rukkhaṁva dubbalaṁ.
+
+@ pali-dhp-8.tex
+
+asubhānupassiṁ viharantaṁ,
+
+indriyesu susaṁvutaṁ.
+
+bhojanamhi ca mattaññuṁ,
+
+saddhaṁ āraddhavīriyaṁ.
+
+taṁ ve nappasahati māro,
+
+vāto selaṁva pabbataṁ.
+
+@ pali-dhp-9.tex
+
+anikkasāvo kāsāvaṁ,
+
+yo vatthaṁ paridahissati.
+
+apeto damasaccena,
+
+na so kāsāvamarahati.
+
+@ pali-dhp-10.tex
+
+yo ca vantakasāvassa,
+
+sīlesu susamāhito.
+
+upeto damasaccena,
+
+sa ve kāsāvamarahati.
+
+@ pali-dhp-11.tex
+
+asāre sāramatino,
+
+sāre cāsāradassino.
+
+te sāraṁ nādhigacchanti,
+
+micchāsaṅkappagocarā.
+
+@ pali-dhp-12.tex
+
+sārañca sārato ñatvā,
+
+asārañca asārato.
+
+te sāraṁ adhigacchanti,
+
+sammāsaṅkappagocarā.
+
+@ pali-dhp-13.tex
+
+yathā agāraṁ ducchannaṁ,
+
+vuṭṭhī samativijjhati.
+
+evaṁ abhāvitaṁ cittaṁ,
+
+rāgo samativijjhati.
+
+@ pali-dhp-14.tex
+
+yathā agāraṁ suchannaṁ,
+
+vuṭṭhī na samativijjhati.
+
+evaṁ subhāvitaṁ cittaṁ,
+
+rāgo na samativijjhati.
+
+
+@ pali-dhp-15.tex
+
+idha socati pecca socati,
+
+pāpakārī ubhayattha socati.
+
+so socati so vihaññati,
+
+disvā kammakiliṭṭhamattano.
+
+@ pali-dhp-16.tex
+
+idha modati pecca modati,
+
+katapuñño ubhayattha modati.
+
+so modati so pamodati,
+
+disvā kammavisuddhimattano.
+
+@ pali-dhp-17.tex
+
+idha tappati pecca tappati,
+
+pāpakārī ubhayattha tappati.
+
+“pāpaṁ me katan”ti tappati,
+
+bhiyyo tappati duggatiṁ gato.
+
+@ pali-dhp-18.tex
+
+idha nandati pecca nandati,
+
+katapuñño ubhayattha nandati.
+
+“puññaṁ me katan”ti nandati,
+
+bhiyyo nandati suggatiṁ gato.
+
+@ pali-dhp-19.tex
+
+bahumpi ce saṁhita bhāsamāno,
+
+na takkaro hoti naro pamatto.
+
+gopova gāvo gaṇayaṁ paresaṁ,
+
+na bhāgavā sāmaññassa hoti.
+
+@ pali-dhp-20.tex
+
+appampi ce saṁhita bhāsamāno,
+
+dhammassa hoti anudhammacārī.
+
+rāgañca dosañca pahāya mohaṁ,
+
+sammappajāno suvimuttacitto.
+
+anupādiyāno idha vā huraṁ vā,
+
+sa bhāgavā sāmaññassa hoti.
+
+yamakavaggo paṭhamo niṭṭhito.
+
+  @ pali-dhp-2.tex appamādavaggo
+
+@ pali-dhp-21.tex
+
+appamādo amatapadaṁ,
+
+pamādo maccuno padaṁ.
+
+appamattā na mīyanti,
+
+ye pamattā yathā matā.
+
+@ pali-dhp-22.tex
+
+evaṁ visesato ñatvā,
+
+appamādamhi paṇḍitā.
+
+appamāde pamodanti,
+
+ariyānaṁ gocare ratā.
+
+@ pali-dhp-23.tex
+
+te jhāyino sātatikā,
+
+niccaṁ daḷhaparakkamā.
+
+phusanti dhīrā nibbānaṁ,
+
+yogakkhemaṁ anuttaraṁ.
+
+@ pali-dhp-24.tex
+
+uṭṭhānavato satīmato,
+
+sucikammassa nisammakārino.
+
+saññatassa dhammajīvino,
+
+appamattassa yasobhivaḍḍhati.
+
+@ pali-dhp-25.tex
+
+uṭṭhānenappamādena,
+
+saṁyamena damena ca.
+
+dīpaṁ kayirātha medhāvī,
+
+yaṁ ogho nābhikīrati.
+
+@ pali-dhp-26.tex
+
+pamādamanuyuñjanti,
+
+bālā dummedhino janā.
+
+appamādañca medhāvī,
+
+dhanaṁ seṭṭhaṁva rakkhati.
+
+@ pali-dhp-27.tex
+
+mā pamādamanuyuñjetha,
+
+mā kāmaratisanthavaṁ.
+
+appamatto hi jhāyanto,
+
+pappoti vipulaṁ sukhaṁ.
+
+@ pali-dhp-28.tex
+
+pamādaṁ appamādena,
+
+yadā nudati paṇḍito.
+
+paññāpāsādamāruyha,
+
+asoko sokiniṁ pajaṁ.
+
+pabbataṭṭhova bhūmaṭṭhe,
+
+dhīro bāle avekkhati.
+
+@ pali-dhp-29.tex
+
+appamatto pamattesu,
+
+suttesu bahujāgaro.
+
+abalassaṁva sīghasso,
+
+hitvā yāti sumedhaso.
+
+@ pali-dhp-30.tex
+
+appamādena maghavā,
+
+devānaṁ seṭṭhataṁ gato.
+
+appamādaṁ pasaṁsanti,
+
+pamādo garahito sadā.
+
+@ pali-dhp-31.tex
+
+appamādarato bhikkhu,
+
+pamāde bhayadassi vā.
+
+saṁyojanaṁ aṇuṁ thūlaṁ,
+
+ḍahaṁ aggīva gacchati.
+
+@ pali-dhp-32.tex
+
+appamādarato bhikkhu,
+
+pamāde bhayadassi vā.
+
+abhabbo parihānāya,
+
+nibbānasseva santike.
+
+appamādavaggo dutiyo niṭṭhito.
+
+  @ pali-dhp-3.tex cittavaggo
+
+@ pali-dhp-33.tex
+
+phandanaṁ capalaṁ cittaṁ,
+
+dūrakkhaṁ dunnivārayaṁ.
+
+ujuṁ karoti medhāvī,
+
+usukārova tejanaṁ.
+
+@ pali-dhp-34.tex
+
+vārijova thale khitto,
+
+okamokataubbhato.
+
+pariphandatidaṁ cittaṁ,
+
+māradheyyaṁ pahātave.
+
+@ pali-dhp-35.tex
+
+dunniggahassa lahuno, yatthakāmanipātino.
+
+cittassa damatho sādhu,
+
+cittaṁ dantaṁ sukhāvahaṁ.
+
+@ pali-dhp-36.tex
+
+sududdasaṁ sunipuṇaṁ,
+
+yatthakāmanipātinaṁ.
+
+cittaṁ rakkhetha medhāvī,
+
+cittaṁ guttaṁ sukhāvahaṁ.
+
+@ pali-dhp-37.tex
+
+dūraṅgamaṁ ekacaraṁ,
+
+asarīraṁ guhāsayaṁ.
+
+ye cittaṁ saṁyamessanti,
+
+mokkhanti mārabandhanā.
+
+@ pali-dhp-38.tex
+
+anavaṭṭhitacittassa,
+
+saddhammaṁ avijānato.
+
+pariplavapasādassa,
+
+paññā na paripūrati.
+
+@ pali-dhp-39.tex
+
+anavassutacittassa,
+
+ananvāhatacetaso.
+
+puññapāpapahīnassa,
+
+natthi jāgarato bhayaṁ.
+
+@ pali-dhp-40.tex
+
+kumbhūpamaṁ kāyamimaṁ viditvā,
+
+nagarūpamaṁ cittamidaṁ ṭhapetvā.
+
+yodhetha māraṁ paññāvudhena,
+
+jitañca rakkhe anivesano siyā.
+
+@ pali-dhp-41.tex
+
+aciraṁ vatayaṁ kāyo,
+
+pathaviṁ adhisessati.
+
+chuddho apetaviññāṇo,
+
+niratthaṁva kaliṅgaraṁ.
+
+@ pali-dhp-42.tex
+
+diso disaṁ yaṁ taṁ kayirā,
+
+verī vā pana verinaṁ.
+
+micchāpaṇihitaṁ cittaṁ,
+
+pāpiyo naṁ tato kare.
+
+@ pali-dhp-43.tex
+
+na taṁ mātā pitā kayirā,
+
+aññe vāpi ca ñātakā.
+
+sammāpaṇihitaṁ cittaṁ,
+
+seyyaso naṁ tato kare.
+
+cittavaggo tatiyo niṭṭhito.
+
+  @ pali-dhp-4.tex pupphavaggo
+
+@ pali-dhp-44.tex
+
+ko imaṁ pathaviṁ vicessati,
+
+yamalokañca imaṁ sadevakaṁ.
+
+ko dhammapadaṁ sudesitaṁ,
+
+kusalo pupphamiva pacessati.
+
+@ pali-dhp-45.tex
+
+sekho pathaviṁ vicessati,
+
+yamalokañca imaṁ sadevakaṁ.
+
+sekho dhammapadaṁ sudesitaṁ,
+
+kusalo pupphamiva pacessati.
+
+@ pali-dhp-46.tex
+
+pheṇūpamaṁ kāyamimaṁ viditvā,
+
+marīcidhammaṁ abhisambudhāno.
+
+chetvāna mārassa papupphakāni,
+
+adassanaṁ maccurājassa gacche.
+
+@ pali-dhp-47.tex
+
+pupphāni heva pacinantaṁ,
+
+byāsattamanasaṁ naraṁ.
+
+suttaṁ gāmaṁ mahoghova,
+
+maccu ādāya gacchati.
+
+@ pali-dhp-48.tex
+
+pupphāni heva pacinantaṁ,
+
+byāsattamanasaṁ naraṁ.
+
+atittaññeva kāmesu,
+
+antako kurute vasaṁ.
+
+@ pali-dhp-49.tex
+
+yathāpi bhamaro pupphaṁ,
+
+vaṇṇagandhamaheṭhayaṁ.
+
+paleti rasamādāya,
+
+evaṁ gāme munī care.
+
+@ pali-dhp-50.tex
+
+na paresaṁ vilomāni,
+
+na paresaṁ katākataṁ.
+
+attanova avekkheyya,
+
+katāni akatāni ca.
+
+@ pali-dhp-51.tex
+
+yathāpi ruciraṁ pupphaṁ,
+
+vaṇṇavantaṁ agandhakaṁ.
+
+evaṁ subhāsitā vācā,
+
+aphalā hoti akubbato.
+
+@ pali-dhp-52.tex
+
+yathāpi ruciraṁ pupphaṁ,
+
+vaṇṇavantaṁ sugandhakaṁ.
+
+evaṁ subhāsitā vācā,
+
+saphalā hoti kubbato.
+
+@ pali-dhp-53.tex
+
+yathāpi puppharāsimhā,
+
+kayirā mālāguṇe bahū.
+
+evaṁ jātena maccena,
+
+kattabbaṁ kusalaṁ bahuṁ.
+
+@ pali-dhp-54.tex
+
+na pupphagandho paṭivātameti,
+
+na candanaṁ tagaramallikā.
+
+satañca gandho paṭivātameti,
+
+sabbā disā sappuriso pavāyati.
+
+@ pali-dhp-55.tex
+
+candanaṁ tagaraṁ vāpi,
+
+uppalaṁ atha vassikī.
+
+etesaṁ gandhajātānaṁ,
+
+sīlagandho anuttaro.
+
+@ pali-dhp-56.tex
+
+appamatto ayaṁ gandho,
+
+yvāyaṁ tagaracandanaṁ.
+
+yo ca sīlavataṁ gandho,
+
+vāti devesu uttamo.
+
+@ pali-dhp-57.tex
+
+tesaṁ sampannasīlānaṁ,
+
+appamādavihārinaṁ.
+
+sammadaññā vimuttānaṁ,
+
+māro maggaṁ na vindati.
+
+@ pali-dhp-58.tex
+
+yathā saṅkāraṭhānasmiṁ,
+
+ujjhitasmiṁ mahāpathe.
+
+padumaṁ tattha jāyetha,
+
+sucigandhaṁ manoramaṁ.
+
+@ pali-dhp-59.tex
+
+evaṁ saṅkārabhūtesu,
+
+andhabhūte puthujjane.
+
+atirocati paññāya,
+
+sammāsambuddhasāvako.
+
+pupphavaggo catuttho niṭṭhito.
+
+  @ pali-dhp-5.tex bālavaggo
+
+@ pali-dhp-60.tex
+
+dīghā jāgarato ratti,
+
+dīghaṁ santassa yojanaṁ.
+
+dīgho bālānaṁ saṁsāro,
+
+saddhammaṁ avijānataṁ.
+
+@ pali-dhp-61.tex
+
+carañce nādhigaccheyya,
+
+seyyaṁ sadisamattano.
+
+ekacariyaṁ daḷhaṁ kayirā,
+
+natthi bāle sahāyatā.
+
+@ pali-dhp-62.tex
+
+puttā matthi dhanammatthi,
+
+iti bālo vihaññati.
+
+attā hi attano natthi,
+
+kuto puttā kuto dhanaṁ.
+
+@ pali-dhp-63.tex
+
+yo bālo maññati bālyaṁ,
+
+paṇḍito vāpi tena so.
+
+bālo ca paṇḍitamānī,
+
+sa ve “bālo”ti vuccati.
+
+@ pali-dhp-64.tex
+
+yāvajīvampi ce bālo,
+
+paṇḍitaṁ payirupāsati.
+
+na so dhammaṁ vijānāti,
+
+dabbī sūparasaṁ yathā.
+
+@ pali-dhp-65.tex
+
+muhuttamapi ce viññū,
+
+paṇḍitaṁ payirupāsati.
+
+khippaṁ dhammaṁ vijānāti,
+
+jivhā sūparasaṁ yathā.
+
+@ pali-dhp-66.tex
+
+caranti bālā dummedhā,
+
+amitteneva attanā.
+
+karontā pāpakaṁ kammaṁ,
+
+yaṁ hoti kaṭukapphalaṁ.
+
+@ pali-dhp-67.tex
+
+na taṁ kammaṁ kataṁ sādhu,
+
+yaṁ katvā anutappati.
+
+yassa assumukho rodaṁ,
+
+vipākaṁ paṭisevati.
+
+@ pali-dhp-68.tex
+
+tañca kammaṁ kataṁ sādhu,
+
+yaṁ katvā nānutappati.
+
+yassa patīto sumano,
+
+vipākaṁ paṭisevati.
+
+@ pali-dhp-69.tex
+
+madhuvā maññati bālo,
+
+yāva pāpaṁ na paccati.
+
+yadā ca paccati pāpaṁ,
+
+bālo dukkhaṁ nigacchati.
+
+@ pali-dhp-70.tex
+
+māse māse kusaggena,
+
+bālo bhuñjeyya bhojanaṁ.
+
+na so saṅkhātadhammānaṁ,
+
+kalaṁ agghati soḷasiṁ.
+
+@ pali-dhp-71.tex
+
+na hi pāpaṁ kataṁ kammaṁ,
+
+sajju khīraṁva muccati.
+
+ḍahantaṁ bālamanveti,
+
+bhasmacchannova pāvako.
+
+@ pali-dhp-72.tex
+
+yāvadeva anatthāya,
+
+ñattaṁ bālassa jāyati.
+
+hanti bālassa sukkaṁsaṁ,
+
+muddhamassa vipātayaṁ.
+
+@ pali-dhp-73.tex
+
+asantaṁ bhāvanamiccheyya,
+
+purekkhārañca bhikkhusu.
+
+āvāsesu ca issariyaṁ,
+
+pūjā parakulesu ca.
+
+@ pali-dhp-74.tex
+
+mameva kata maññantu,
+
+gihīpabbajitā ubho.
+
+mamevātivasā assu,
+
+kiccākiccesu kismici.
+
+iti bālassa saṅkappo,
+
+icchā māno ca vaḍḍhati.
+
+@ pali-dhp-75.tex
+
+aññā hi lābhūpanisā,
+
+aññā nibbānagāminī.
+
+evametaṁ abhiññāya,
+
+bhikkhu buddhassa sāvako.
+
+sakkāraṁ nābhinandeyya,
+
+vivekamanubrūhaye.
+
+bālavaggo pañcamo niṭṭhito.
+
+  @ pali-dhp-6.tex paṇḍitavaggo
+
+@ pali-dhp-76.tex
+
+nidhīnaṁva pavattāraṁ,
+
+yaṁ passe vajjadassinaṁ.
+
+niggayhavādiṁ medhāviṁ,
+
+tādisaṁ paṇḍitaṁ bhaje.
+
+tādisaṁ bhajamānassa,
+
+seyyo hoti na pāpiyo.
+
+@ pali-dhp-77.tex
+
+ovadeyyānusāseyya,
+
+asabbhā ca nivāraye.
+
+satañhi so piyo hoti,
+
+asataṁ hoti appiyo.
+
+@ pali-dhp-78.tex
+
+na bhaje pāpake mitte,
+
+na bhaje purisādhame.
+
+bhajetha mitte kalyāṇe,
+
+bhajetha purisuttame.
+
+@ pali-dhp-79.tex
+
+dhammapīti sukhaṁ seti,
+
+vippasannena cetasā.
+
+ariyappavedite dhamme,
+
+sadā ramati paṇḍito.
+
+@ pali-dhp-80.tex
+
+udakañhi nayanti nettikā,
+
+usukārā namayanti tejanaṁ.
+
+dāruṁ namayanti tacchakā,
+
+attānaṁ damayanti paṇḍitā.
+
+@ pali-dhp-81.tex
+
+selo yathā ekaghano,
+
+vātena na samīrati.
+
+evaṁ nindāpasaṁsāsu,
+
+na samiñjanti paṇḍitā.
+
+@ pali-dhp-82.tex
+
+yathāpi rahado gambhīro,
+
+vippasanno anāvilo.
+
+evaṁ dhammāni sutvāna,
+
+vippasīdanti paṇḍitā.
+
+@ pali-dhp-83.tex
+
+sabbattha ve sappurisā cajanti,
+
+na kāmakāmā lapayanti santo.
+
+sukhena phuṭṭhā atha vā dukhena,
+
+na uccāvacaṁ paṇḍitā dassayanti.
+
+@ pali-dhp-84.tex
+
+na attahetu na parassa hetu,
+
+na puttamicche na dhanaṁ na raṭṭhaṁ.
+
+na iccheyya adhammena samiddhimattano,
+
+sa sīlavā paññavā dhammiko siyā.
+
+@ pali-dhp-85.tex
+
+appakā te manussesu,
+
+ye janā pāragāmino.
+
+athāyaṁ itarā pajā,
+
+tīramevānudhāvati.
+
+@ pali-dhp-86.tex
+
+ye ca kho sammadakkhāte,
+
+dhamme dhammānuvattino.
+
+te janā pāramessanti,
+
+maccudheyyaṁ suduttaraṁ.
+
+@ pali-dhp-87.tex
+
+kaṇhaṁ dhammaṁ vippahāya,
+
+sukkaṁ bhāvetha paṇḍito.
+
+okā anokamāgamma,
+
+viveke yattha dūramaṁ.
+
+@ pali-dhp-88.tex
+
+tatrābhiratimiccheyya,
+
+hitvā kāme akiñcano.
+
+pariyodapeyya attānaṁ,
+
+cittaklesehi paṇḍito.
+
+@ pali-dhp-89.tex
+
+yesaṁ sambodhiyaṅgesu,
+
+sammā cittaṁ subhāvitaṁ.
+
+ādānapaṭinissagge,
+
+anupādāya ye ratā.
+
+khīṇāsavā jutimanto,
+
+te loke parinibbutā.
+
+paṇḍitavaggo chaṭṭho niṭṭhito.
+
+  @ pali-dhp-7.tex arahantavaggo
+
+@ pali-dhp-90.tex
+
+gataddhino visokassa,
+
+vippamuttassa sabbadhi.
+
+sabbaganthappahīnassa,
+
+pariḷāho na vijjati.
+
+@ pali-dhp-91.tex
+
+uyyuñjanti satīmanto,
+
+na nikete ramanti te.
+
+haṁsāva pallalaṁ hitvā,
+
+okamokaṁ jahanti te.
+
+@ pali-dhp-92.tex
+
+yesaṁ sannicayo natthi,
+
+ye pariññātabhojanā.
+
+suññato animitto ca,
+
+vimokkho yesaṁ gocaro.
+
+ākāse va sakuntānaṁ,
+
+gati tesaṁ durannayā.
+
+@ pali-dhp-93.tex
+
+yassāsavā parikkhīṇā,
+
+āhāre ca anissito.
+
+suññato animitto ca,
+
+vimokkho yassa gocaro.
+
+ākāse va sakuntānaṁ,
+
+padaṁ tassa durannayaṁ.
+
+@ pali-dhp-94.tex
+
+yassindriyāni samathaṅgatāni,
+
+assā yathā sārathinā sudantā.
+
+pahīnamānassa anāsavassa,
+
+devāpi tassa pihayanti tādino.
+
+@ pali-dhp-95.tex
+
+pathavisamo no virujjhati,
+
+indakhilupamo tādi subbato.
+
+rahadova apetakaddamo,
+
+saṁsārā na bhavanti tādino.
+
+@ pali-dhp-96.tex
+
+santaṁ tassa manaṁ hoti,
+
+santā vācā ca kamma ca.
+
+sammadaññā vimuttassa,
+
+upasantassa tādino.
+
+@ pali-dhp-97.tex
+
+assaddho akataññū ca,
+
+sandhicchedo ca yo naro.
+
+hatāvakāso vantāso,
+
+sa ve uttamaporiso.
+
+@ pali-dhp-98.tex
+
+gāme vā yadi vāraññe,
+
+ninne vā yadi vā thale.
+
+yattha arahanto viharanti,
+
+taṁ bhūmirāmaṇeyyakaṁ.
+
+@ pali-dhp-99.tex
+
+ramaṇīyāni araññāni,
+
+yattha na ramatī jano.
+
+vītarāgā ramissanti,
+
+na te kāmagavesino.
+
+arahantavaggo sattamo niṭṭhito.
+
+  @ pali-dhp-8.tex sahassavaggo
+
+@ pali-dhp-100.tex
+
+sahassamapi ce vācā,
+
+anatthapadasaṁhitā.
+
+ekaṁ atthapadaṁ seyyo,
+
+yaṁ sutvā upasammati.
+
+@ pali-dhp-101.tex
+
+sahassamapi ce gāthā,
+
+anatthapadasaṁhitā.
+
+ekaṁ gāthāpadaṁ seyyo,
+
+yaṁ sutvā upasammati.
+
+@ pali-dhp-102.tex
+
+yo ca gāthā sataṁ bhāse,
+
+anatthapadasaṁhitā.
+
+ekaṁ dhammapadaṁ seyyo,
+
+yaṁ sutvā upasammati.
+
+@ pali-dhp-103.tex
+
+yo sahassaṁ sahassena,
+
+saṅgāme mānuse jine.
+
+ekañca jeyyamattānaṁ,
+
+sa ve saṅgāmajuttamo.
+
+@ pali-dhp-104.tex
+
+attā have jitaṁ seyyo,
+
+yā cāyaṁ itarā pajā.
+
+attadantassa posassa,
+
+niccaṁ saññatacārino.
+
+@ pali-dhp-105.tex
+
+neva devo na gandhabbo,
+
+na māro saha brahmunā.
+
+jitaṁ apajitaṁ kayirā,
+
+tathārūpassa jantuno.
+
+@ pali-dhp-106.tex
+
+māse māse sahassena,
+
+yo yajetha sataṁ samaṁ.
+
+ekañca bhāvitattānaṁ,
+
+muhuttamapi pūjaye.
+
+sāyeva pūjanā seyyo,
+
+yañce vassasataṁ hutaṁ.
+
+@ pali-dhp-107.tex
+
+yo ca vassasataṁ jantu,
+
+aggiṁ paricare vane.
+
+ekañca bhāvitattānaṁ,
+
+muhuttamapi pūjaye.
+
+sāyeva pūjanā seyyo,
+
+yañce vassasataṁ hutaṁ.
+
+@ pali-dhp-108.tex
+
+yaṁ kiñci yiṭṭhaṁ va hutaṁ va loke,
+
+saṁvaccharaṁ yajetha puññapekkho.
+
+sabbampi taṁ na catubhāgameti,
+
+abhivādanā ujjugatesu seyyo.
+
+@ pali-dhp-109.tex
+
+abhivādanasīlissa,
+
+niccaṁ vuḍḍhāpacāyino.
+
+cattāro dhammā vaḍḍhanti,
+
+āyu vaṇṇo sukhaṁ balaṁ.
+
+@ pali-dhp-110.tex
+
+yo ca vassasataṁ jīve,
+
+dussīlo asamāhito.
+
+ekāhaṁ jīvitaṁ seyyo,
+
+sīlavantassa jhāyino.
+
+@ pali-dhp-111.tex
+
+yo ca vassasataṁ jīve,
+
+duppañño asamāhito.
+
+ekāhaṁ jīvitaṁ seyyo,
+
+paññavantassa jhāyino.
+
+@ pali-dhp-112.tex
+
+yo ca vassasataṁ jīve,
+
+kusīto hīnavīriyo.
+
+ekāhaṁ jīvitaṁ seyyo,
+
+vīriyamārabhato daḷhaṁ.
+
+@ pali-dhp-113.tex
+
+yo ca vassasataṁ jīve,
+
+apassaṁ udayabbayaṁ.
+
+ekāhaṁ jīvitaṁ seyyo,
+
+passato udayabbayaṁ.
+
+@ pali-dhp-114.tex
+
+yo ca vassasataṁ jīve,
+
+apassaṁ amataṁ padaṁ.
+
+ekāhaṁ jīvitaṁ seyyo,
+
+passato amataṁ padaṁ.
+
+@ pali-dhp-115.tex
+
+yo ca vassasataṁ jīve,
+
+apassaṁ dhammamuttamaṁ.
+
+ekāhaṁ jīvitaṁ seyyo,
+
+passato dhammamuttamaṁ.
+
+sahassavaggo aṭṭhamo niṭṭhito.
+
+  @ pali-dhp-9.tex pāpavaggo
+
+@ pali-dhp-116.tex
+
+abhittharetha kalyāṇe,
+
+pāpā cittaṁ nivāraye.
+
+dandhañhi karoto puññaṁ,
+
+pāpasmiṁ ramatī mano.
+
+@ pali-dhp-117.tex
+
+pāpañce puriso kayirā,
+
+na naṁ kayirā punappunaṁ.
+
+na tamhi chandaṁ kayirātha,
+
+dukkho pāpassa uccayo.
+
+@ pali-dhp-118.tex
+
+puññañce puriso kayirā,
+
+kayirā naṁ punappunaṁ.
+
+tamhi chandaṁ kayirātha,
+
+sukho puññassa uccayo.
+
+@ pali-dhp-119.tex
+
+pāpopi passati bhadraṁ,
+
+yāva pāpaṁ na paccati.
+
+yadā ca paccati pāpaṁ,
+
+atha pāpo pāpāni passati.
+
+@ pali-dhp-120.tex
+
+bhadropi passati pāpaṁ,
+
+yāva bhadraṁ na paccati.
+
+yadā ca paccati bhadraṁ,
+
+atha bhadro bhadrāni passati.
+
+@ pali-dhp-121.tex
+
+māvamaññetha pāpassa,
+
+na mantaṁ āgamissati.
+
+udabindunipātena,
+
+udakumbhopi pūrati.
+
+bālo pūrati pāpassa,
+
+thokaṁ thokampi ācinaṁ.
+
+@ pali-dhp-122.tex
+
+māvamaññetha puññassa,
+
+na mantaṁ āgamissati.
+
+udabindunipātena,
+
+udakumbhopi pūrati.
+
+dhīro pūrati puññassa,
+
+thokaṁ thokampi ācinaṁ.
+
+@ pali-dhp-123.tex
+
+vāṇijova bhayaṁ maggaṁ,
+
+appasattho mahaddhano.
+
+visaṁ jīvitukāmova,
+
+pāpāni parivajjaye.
+
+@ pali-dhp-124.tex
+
+pāṇimhi ce vaṇo nāssa,
+
+hareyya pāṇinā visaṁ.
+
+nābbaṇaṁ visamanveti,
+
+natthi pāpaṁ akubbato.
+
+@ pali-dhp-125.tex
+
+yo appaduṭṭhassa narassa dussati,
+
+suddhassa posassa anaṅgaṇassa.
+
+tameva bālaṁ pacceti pāpaṁ,
+
+sukhumo rajo paṭivātaṁva khitto.
+
+@ pali-dhp-126.tex
+
+gabbhameke uppajjanti,
+
+nirayaṁ pāpakammino.
+
+saggaṁ sugatino yanti,
+
+parinibbanti anāsavā.
+
+@ pali-dhp-127.tex
+
+na antalikkhe na samuddamajjhe,
+
+na pabbatānaṁ vivaraṁ pavissa.
+
+na vijjatī so jagatippadeso,
+
+yatthaṭṭhito mucceyya pāpakammā.
+
+@ pali-dhp-128.tex
+
+na antalikkhe na samuddamajjhe,
+
+na pabbatānaṁ vivaraṁ pavissa.
+
+na vijjatī so jagatippadeso,
+
+yatthaṭṭhitaṁ nappasaheyya maccu.
+
+pāpavaggo navamo niṭṭhito.
+
+  @ pali-dhp-10.tex daṇḍavaggo
+
+@ pali-dhp-129.tex
+
+sabbe tasanti daṇḍassa,
+
+sabbe bhāyanti maccuno.
+
+attānaṁ upamaṁ katvā,
+
+na haneyya na ghātaye.
+
+@ pali-dhp-130.tex
+
+sabbe tasanti daṇḍassa,
+
+sabbesaṁ jīvitaṁ piyaṁ.
+
+attānaṁ upamaṁ katvā,
+
+na haneyya na ghātaye.
+
+@ pali-dhp-131.tex
+
+sukhakāmāni bhūtāni,
+
+yo daṇḍena vihiṁsati.
+
+attano sukhamesāno,
+
+pecca so na labhate sukhaṁ.
+
+@ pali-dhp-132.tex
+
+sukhakāmāni bhūtāni,
+
+yo daṇḍena na hiṁsati.
+
+attano sukhamesāno,
+
+pecca so labhate sukhaṁ.
+
+@ pali-dhp-133.tex
+
+māvoca pharusaṁ kañci,
+
+vuttā paṭivadeyyu taṁ.
+
+dukkhā hi sārambhakathā,
+
+paṭidaṇḍā phuseyyu taṁ.
+
+@ pali-dhp-134.tex
+
+sace neresi attānaṁ,
+
+kaṁso upahato yathā.
+
+esa pattosi nibbānaṁ,
+
+sārambho te na vijjati.
+
+@ pali-dhp-135.tex
+
+yathā daṇḍena gopālo,
+
+gāvo pājeti gocaraṁ.
+
+evaṁ jarā ca maccu ca,
+
+āyuṁ pājenti pāṇinaṁ.
+
+@ pali-dhp-136.tex
+
+atha pāpāni kammāni,
+
+karaṁ bālo na bujjhati.
+
+sehi kammehi dummedho,
+
+aggidaḍḍhova tappati.
+
+@ pali-dhp-137.tex
+
+yo daṇḍena adaṇḍesu,
+
+appaduṭṭhesu dussati.
+
+dasannamaññataraṁ ṭhānaṁ,
+
+khippameva nigacchati.
+
+@ pali-dhp-138.tex
+
+vedanaṁ pharusaṁ jāniṁ,
+
+sarīrassa ca bhedanaṁ.
+
+garukaṁ vāpi ābādhaṁ,
+
+cittakkhepañca pāpuṇe.
+
+@ pali-dhp-139.tex
+
+rājato vā upasaggaṁ,
+
+abbhakkhānañca dāruṇaṁ.
+
+parikkhayañca ñātīnaṁ,
+
+bhogānañca pabhaṅguraṁ.
+
+@ pali-dhp-140.tex
+
+atha vāssa agārāni,
+
+aggi ḍahati pāvako.
+
+kāyassa bhedā duppañño,
+
+nirayaṁ sopapajjati.
+
+@ pali-dhp-141.tex
+
+na naggacariyā na jaṭā na paṅkā,
+
+nānāsakā thaṇḍilasāyikā vā.
+
+rajojallaṁ ukkuṭikappadhānaṁ,
+
+sodhenti maccaṁ avitiṇṇakaṅkhaṁ.
+
+@ pali-dhp-142.tex
+
+alaṅkato cepi samaṁ careyya,
+
+santo danto niyato brahmacārī.
+
+sabbesu bhūtesu nidhāya daṇḍaṁ,
+
+so brāhmaṇo so samaṇo sa bhikkhu.
+
+@ pali-dhp-143.tex
+
+hirīnisedho puriso,
+
+koci lokasmi vijjati.
+
+yo niddaṁ apabodheti,
+
+asso bhadro kasāmiva.
+
+@ pali-dhp-144.tex
+
+asso yathā bhadro kasāniviṭṭho,
+
+ātāpino saṁvegino bhavātha.
+
+saddhāya sīlena ca vīriyena ca,
+
+samādhinā dhammavinicchayena ca.
+
+sampannavijjācaraṇā patissatā,
+
+jahissatha dukkhamidaṁ anappakaṁ.
+
+@ pali-dhp-145.tex
+
+udakañhi nayanti nettikā,
+
+usukārā namayanti tejanaṁ.
+
+dāruṁ namayanti tacchakā,
+
+attānaṁ damayanti subbatā.
+
+daṇḍavaggo dasamo niṭṭhito.
+
+  @ pali-dhp-11.tex jarāvaggo
+
+@ pali-dhp-146.tex
+
+ko nu hāso kimānando,
+
+niccaṁ pajjalite sati.
+
+andhakārena onaddhā,
+
+padīpaṁ na gavesatha.
+
+@ pali-dhp-147.tex
+
+passa cittakataṁ bimbaṁ,
+
+arukāyaṁ samussitaṁ.
+
+āturaṁ bahusaṅkappaṁ,
+
+yassa natthi dhuvaṁ ṭhiti.
+
+@ pali-dhp-148.tex
+
+parijiṇṇamidaṁ rūpaṁ,
+
+roganīḷaṁ pabhaṅguraṁ.
+
+bhijjati pūtisandeho,
+
+maraṇantañhi jīvitaṁ.
+
+@ pali-dhp-149.tex
+
+yānimāni apatthāni,
+
+alābūneva sārade.
+
+kāpotakāni aṭṭhīni,
+
+tāni disvāna kā rati.
+
+@ pali-dhp-150.tex
+
+aṭṭhīnaṁ nagaraṁ kataṁ,
+
+maṁsalohitalepanaṁ.
+
+yattha jarā ca maccu ca,
+
+māno makkho ca ohito.
+
+@ pali-dhp-151.tex
+
+jīranti ve rājarathā sucittā,
+
+atho sarīrampi jaraṁ upeti.
+
+satañca dhammo na jaraṁ upeti,
+
+santo have sabbhi pavedayanti.
+
+@ pali-dhp-152.tex
+
+appassutāyaṁ puriso,
+
+balibaddhova jīrati.
+
+maṁsāni tassa vaḍḍhanti,
+
+paññā tassa na vaḍḍhati.
+
+@ pali-dhp-153.tex
+
+anekajātisaṁsāraṁ,
+
+sandhāvissaṁ anibbisaṁ.
+
+gahakāraṁ gavesanto,
+
+dukkhā jāti punappunaṁ.
+
+@ pali-dhp-154.tex
+
+gahakāraka diṭṭhosi,
+
+puna gehaṁ na kāhasi.
+
+sabbā te phāsukā bhaggā,
+
+gahakūṭaṁ visaṅkhataṁ.
+
+visaṅkhāragataṁ cittaṁ,
+
+taṇhānaṁ khayamajjhagā.
+
+@ pali-dhp-155.tex
+
+acaritvā brahmacariyaṁ,
+
+aladdhā yobbane dhanaṁ.
+
+jiṇṇakoñcāva jhāyanti,
+
+khīṇamaccheva pallale.
+
+@ pali-dhp-156.tex
+
+acaritvā brahmacariyaṁ,
+
+aladdhā yobbane dhanaṁ.
+
+senti cāpātikhīṇāva,
+
+purāṇāni anutthunaṁ.
+
+jarāvaggo ekādasamo niṭṭhito.
+
+  @ pali-dhp-12.tex attavaggo
+
+@ pali-dhp-157.tex
+
+attānañce piyaṁ jaññā,
+
+rakkheyya naṁ surakkhitaṁ.
+
+tiṇṇaṁ aññataraṁ yāmaṁ,
+
+paṭijaggeyya paṇḍito.
+
+@ pali-dhp-158.tex
+
+attānameva paṭhamaṁ,
+
+patirūpe nivesaye.
+
+athaññamanusāseyya,
+
+na kilisseyya paṇḍito.
+
+@ pali-dhp-159.tex
+
+attānaṁ ce tathā kayirā,
+
+yathāññamanusāsati.
+
+sudanto vata dametha,
+
+attā hi kira duddamo.
+
+@ pali-dhp-160.tex
+
+attā hi attano nātho,
+
+ko hi nātho paro siyā.
+
+attanā hi sudantena,
+
+nāthaṁ labhati dullabhaṁ.
+
+@ pali-dhp-161.tex
+
+attanā hi kataṁ pāpaṁ,
+
+attajaṁ attasambhavaṁ.
+
+abhimatthati dummedhaṁ,
+
+vajiraṁ vasmamayaṁ maṇiṁ.
+
+@ pali-dhp-162.tex
+
+yassa accantadussīlyaṁ,
+
+māluvā sālamivotthataṁ.
+
+karoti so tathattānaṁ,
+
+yathā naṁ icchatī diso.
+
+@ pali-dhp-163.tex
+
+sukarāni asādhūni,
+
+attano ahitāni ca.
+
+yaṁ ve hitañca sādhuñca,
+
+taṁ ve paramadukkaraṁ.
+
+@ pali-dhp-164.tex
+
+yo sāsanaṁ arahataṁ,
+
+ariyānaṁ dhammajīvinaṁ.
+
+paṭikkosati dummedho,
+
+diṭṭhiṁ nissāya pāpikaṁ.
+
+phalāni kaṭṭhakasseva,
+
+attaghātāya phallati.
+
+@ pali-dhp-165.tex
+
+attanā hi kataṁ pāpaṁ,
+
+attanā saṁkilissati.
+
+attanā akataṁ pāpaṁ,
+
+attanāva visujjhati.
+
+suddhī asuddhi paccattaṁ,
+
+nāñño aññaṁ visodhaye.
+
+@ pali-dhp-166.tex
+
+attadatthaṁ paratthena,
+
+bahunāpi na hāpaye.
+
+attadatthamabhiññāya,
+
+sadatthapasuto siyā.
+
+attavaggo dvādasamo niṭṭhito.
+
+  @ pali-dhp-13.tex lokavaggo
+
+@ pali-dhp-167.tex
+
+hīnaṁ dhammaṁ na seveyya,
+
+pamādena na saṁvase.
+
+micchādiṭṭhiṁ na seveyya,
+
+na siyā lokavaḍḍhano.
+
+@ pali-dhp-168.tex
+
+uttiṭṭhe nappamajjeyya,
+
+dhammaṁ sucaritaṁ care.
+
+dhammacārī sukhaṁ seti,
+
+asmiṁ loke paramhi ca.
+
+@ pali-dhp-169.tex
+
+dhammaṁ care sucaritaṁ,
+
+na naṁ duccaritaṁ care.
+
+dhammacārī sukhaṁ seti,
+
+asmiṁ loke paramhi ca.
+
+@ pali-dhp-170.tex
+
+yathā pubbuḷakaṁ passe,
+
+yathā passe marīcikaṁ.
+
+evaṁ lokaṁ avekkhantaṁ,
+
+maccurājā na passati.
+
+@ pali-dhp-171.tex
+
+etha passathimaṁ lokaṁ,
+
+cittaṁ rājarathūpamaṁ.
+
+yattha bālā visīdanti,
+
+natthi saṅgo vijānataṁ.
+
+@ pali-dhp-172.tex
+
+yo ca pubbe pamajjitvā,
+
+pacchā so nappamajjati.
+
+somaṁ lokaṁ pabhāseti,
+
+abbhā muttova candimā.
+
+@ pali-dhp-173.tex
+
+yassa pāpaṁ kataṁ kammaṁ,
+
+kusalena pidhīyati.
+
+somaṁ lokaṁ pabhāseti,
+
+abbhā muttova candimā.
+
+@ pali-dhp-174.tex
+
+andhabhūto ayaṁ loko,
+
+tanukettha vipassati.
+
+sakuṇo jālamuttova,
+
+appo saggāya gacchati.
+
+@ pali-dhp-175.tex
+
+haṁsādiccapathe yanti,
+
+ākāse yanti iddhiyā.
+
+nīyanti dhīrā lokamhā,
+
+jetvā māraṁ savāhiniṁ.
+
+@ pali-dhp-176.tex
+
+ekaṁ dhammaṁ atītassa,
+
+musāvādissa jantuno.
+
+vitiṇṇaparalokassa,
+
+natthi pāpaṁ akāriyaṁ.
+
+@ pali-dhp-177.tex
+
+na ve kadariyā devalokaṁ vajanti,
+
+bālā have nappasaṁsanti dānaṁ.
+
+dhīro ca dānaṁ anumodamāno,
+
+teneva so hoti sukhī parattha.
+
+@ pali-dhp-178.tex
+
+pathabyā ekarajjena,
+
+saggassa gamanena vā.
+
+sabbalokādhipaccena,
+
+sotāpattiphalaṁ varaṁ.
+
+lokavaggo terasamo niṭṭhito.
+
+  @ pali-dhp-14.tex buddhavaggo
+
+@ pali-dhp-179.tex
+
+yassa jitaṁ nāvajīyati,
+
+jitaṁ yassa no yāti koci loke.
+
+taṁ buddhamanantagocaraṁ,
+
+apadaṁ kena padena nessatha.
+
+@ pali-dhp-180.tex
+
+yassa jālinī visattikā,
+
+taṇhā natthi kuhiñci netave.
+
+taṁ buddhamanantagocaraṁ,
+
+apadaṁ kena padena nessatha.
+
+@ pali-dhp-181.tex
+
+ye jhānapasutā dhīrā,
+
+nekkhammūpasame ratā.
+
+devāpi tesaṁ pihayanti,
+
+sambuddhānaṁ satīmataṁ.
+
+@ pali-dhp-182.tex
+
+kiccho manussapaṭilābho,
+
+kicchaṁ maccāna jīvitaṁ.
+
+kicchaṁ saddhammassavanaṁ,
+
+kiccho buddhānamuppādo.
+
+@ pali-dhp-183.tex
+
+sabbapāpassa akaraṇaṁ,
+
+kusalassa upasampadā.
+
+sacittapariyodapanaṁ,
+
+etaṁ buddhāna sāsanaṁ.
+
+@ pali-dhp-184.tex
+
+khantī paramaṁ tapo titikkhā,
+
+nibbānaṁ paramaṁ vadanti buddhā.
+
+na hi pabbajito parūpaghātī,
+
+na samaṇo hoti paraṁ viheṭhayanto.
+
+@ pali-dhp-185.tex
+
+anūpavādo anūpaghāto,
+
+pātimokkhe ca saṁvaro.
+
+mattaññutā ca bhattasmiṁ,
+
+pantañca sayanāsanaṁ.
+
+adhicitte ca āyogo,
+
+etaṁ buddhāna sāsanaṁ.
+
+@ pali-dhp-186.tex
+
+na kahāpaṇavassena,
+
+titti kāmesu vijjati.
+
+appassādā dukhā kāmā,
+
+iti viññāya paṇḍito.
+
+@ pali-dhp-187.tex
+
+api dibbesu kāmesu,
+
+ratiṁ so nādhigacchati.
+
+taṇhakkhayarato hoti,
+
+sammāsambuddhasāvako.
+
+@ pali-dhp-188.tex
+
+bahuṁ ve saraṇaṁ yanti,
+
+pabbatāni vanāni ca.
+
+ārāmarukkhacetyāni,
+
+manussā bhayatajjitā.
+
+@ pali-dhp-189.tex
+
+netaṁ kho saraṇaṁ khemaṁ,
+
+netaṁ saraṇamuttamaṁ.
+
+netaṁ saraṇamāgamma,
+
+sabbadukkhā pamuccati.
+
+@ pali-dhp-190.tex
+
+yo ca buddhañca dhammañca,
+
+saṅghañca saraṇaṁ gato.
+
+cattāri ariyasaccāni,
+
+sammappaññāya passati.
+
+@ pali-dhp-191.tex
+
+dukkhaṁ dukkhasamuppādaṁ,
+
+dukkhassa ca atikkamaṁ.
+
+ariyaṁ caṭṭhaṅgikaṁ maggaṁ,
+
+dukkhūpasamagāminaṁ.
+
+@ pali-dhp-192.tex
+
+etaṁ kho saraṇaṁ khemaṁ,
+
+etaṁ saraṇamuttamaṁ.
+
+etaṁ saraṇamāgamma,
+
+sabbadukkhā pamuccati.
+
+@ pali-dhp-193.tex
+
+dullabho purisājañño,
+
+na so sabbattha jāyati.
+
+yattha so jāyati dhīro,
+
+taṁ kulaṁ sukhamedhati.
+
+@ pali-dhp-194.tex
+
+sukho buddhānamuppādo,
+
+sukhā saddhammadesanā.
+
+sukhā saṅghassa sāmaggī,
+
+samaggānaṁ tapo sukho.
+
+@ pali-dhp-195.tex
+
+pūjārahe pūjayato,
+
+buddhe yadi va sāvake.
+
+papañcasamatikkante,
+
+tiṇṇasokapariddave.
+
+@ pali-dhp-196.tex
+
+te tādise pūjayato,
+
+nibbute akutobhaye.
+
+na sakkā puññaṁ saṅkhātuṁ,
+
+imettamapi kenaci.
+
+buddhavaggo cuddasamo niṭṭhito.
+
+  @ pali-dhp-15.tex sukhavaggo
+
+@ pali-dhp-197.tex
+
+susukhaṁ vata jīvāma,
+
+verinesu averino.
+
+verinesu manussesu,
+
+viharāma averino.
+
+@ pali-dhp-198.tex
+
+susukhaṁ vata jīvāma,
+
+āturesu anāturā.
+
+āturesu manussesu,
+
+viharāma anāturā.
+
+@ pali-dhp-199.tex
+
+susukhaṁ vata jīvāma,
+
+ussukesu anussukā.
+
+ussukesu manassesu,
+
+viharāma anussukā.
+
+@ pali-dhp-200.tex
+
+susukhaṁ vata jīvāma,
+
+yesaṁ no natthi kiñcanaṁ.
+
+pītibhakkhā bhavissāma,
+
+devā ābhassarā yathā.
+
+@ pali-dhp-201.tex
+
+jayaṁ veraṁ pasavati,
+
+dukkhaṁ seti parājito.
+
+upasanto sukhaṁ seti,
+
+hitvā jayaparājayaṁ.
+
+@ pali-dhp-202.tex
+
+natthi rāgasamo aggi,
+
+natthi dosasamo kali.
+
+natthi khandhasamā dukkhā,
+
+natthi santiparaṁ sukhaṁ.
+
+@ pali-dhp-203.tex
+
+jighacchāparamā rogā,
+
+saṅkhāraparamā dukhā.
+
+etaṁ ñatvā yathābhūtaṁ,
+
+nibbānaṁ paramaṁ sukhaṁ.
+
+@ pali-dhp-204.tex
+
+ārogyaparamā lābhā,
+
+santuṭṭhiparamaṁ dhanaṁ.
+
+vissāsaparamā ñāti,
+
+nibbānaṁ paramaṁ sukhaṁ.
+
+@ pali-dhp-205.tex
+
+pavivekarasaṁ pitvā,
+
+rasaṁ upasamassa ca.
+
+niddaro hoti nippāpo,
+
+dhammapītirasaṁ pivaṁ.
+
+@ pali-dhp-206.tex
+
+sāhu dassanamariyānaṁ,
+
+sannivāso sadā sukho.
+
+adassanena bālānaṁ,
+
+niccameva sukhī siyā.
+
+@ pali-dhp-207.tex
+
+bālasaṅgatacārī hi,
+
+dīghamaddhāna socati.
+
+dukkho bālehi saṁvāso,
+
+amitteneva sabbadā.
+
+dhīro ca sukhasaṁvāso,
+
+ñātīnaṁva samāgamo.
+
+@ pali-dhp-208.tex
+
+tasmā hi —
+
+dhīrañca paññañca bahussutañca,
+
+dhorayhasīlaṁ vatavantamariyaṁ.
+
+taṁ tādisaṁ sappurisaṁ sumedhaṁ,
+
+bhajetha nakkhattapathaṁva candimā.
+
+sukhavaggo pannarasamo niṭṭhito.
+
+  @ pali-dhp-16.tex piyavaggo
+
+@ pali-dhp-209.tex
+
+ayoge yuñjamattānaṁ,
+
+yogasmiñca ayojayaṁ.
+
+atthaṁ hitvā piyaggāhī,
+
+pihetattānuyoginaṁ.
+
+@ pali-dhp-210.tex
+
+mā piyehi samāgañchi,
+
+appiyehi kudācanaṁ.
+
+piyānaṁ adassanaṁ dukkhaṁ,
+
+appiyānañca dassanaṁ.
+
+@ pali-dhp-211.tex
+
+tasmā piyaṁ na kayirātha,
+
+piyāpāyo hi pāpako.
+
+ganthā tesaṁ na vijjanti,
+
+yesaṁ natthi piyāppiyaṁ.
+
+@ pali-dhp-212.tex
+
+piyato jāyatī soko,
+
+piyato jāyatī bhayaṁ.
+
+piyato vippamuttassa,
+
+natthi soko kuto bhayaṁ.
+
+@ pali-dhp-213.tex
+
+pemato jāyatī soko,
+
+pemato jāyatī bhayaṁ.
+
+pemato vippamuttassa,
+
+natthi soko kuto bhayaṁ.
+
+@ pali-dhp-214.tex
+
+ratiyā jāyatī soko,
+
+ratiyā jāyatī bhayaṁ.
+
+ratiyā vippamuttassa,
+
+natthi soko kuto bhayaṁ.
+
+@ pali-dhp-215.tex
+
+kāmato jāyatī soko,
+
+kāmato jāyatī bhayaṁ.
+
+kāmato vippamuttassa,
+
+natthi soko kuto bhayaṁ.
+
+@ pali-dhp-216.tex
+
+taṇhāya jāyatī soko,
+
+taṇhāya jāyatī bhayaṁ.
+
+taṇhāya vippamuttassa,
+
+natthi soko kuto bhayaṁ.
+
+@ pali-dhp-217.tex
+
+sīladassanasampannaṁ,
+
+dhammaṭṭhaṁ saccavedinaṁ.
+
+attano kamma kubbānaṁ,
+
+taṁ jano kurute piyaṁ.
+
+@ pali-dhp-218.tex
+
+chandajāto anakkhāte,
+
+manasā ca phuṭo siyā.
+
+kāmesu ca appaṭibaddhacitto,
+
+uddhaṁsototi vuccati.
+
+@ pali-dhp-219.tex
+
+cirappavāsiṁ purisaṁ,
+
+dūrato sotthimāgataṁ.
+
+ñātimittā suhajjā ca,
+
+abhinandanti āgataṁ.
+
+@ pali-dhp-220.tex
+
+tatheva katapuññampi,
+
+asmā lokā paraṁ gataṁ.
+
+puññāni paṭigaṇhanti,
+
+piyaṁ ñātīva āgataṁ.
+
+piyavaggo soḷasamo niṭṭhito.
+
+  @ pali-dhp-17.tex kodhavaggo
+
+@ pali-dhp-221.tex
+
+kodhaṁ jahe vippajaheyya mānaṁ,
+
+saṁyojanaṁ sabbamatikkameyya.
+
+taṁ nāmarūpasmimasajjamānaṁ,
+
+akiñcanaṁ nānupatanti dukkhā.
+
+@ pali-dhp-222.tex
+
+yo ve uppatitaṁ kodhaṁ,
+
+rathaṁ bhantaṁva vāraye.
+
+tamahaṁ sārathiṁ brūmi,
+
+rasmiggāho itaro jano.
+
+@ pali-dhp-223.tex
+
+akkodhena jine kodhaṁ,
+
+asādhuṁ sādhunā jine.
+
+jine kadariyaṁ dānena,
+
+saccenālikavādinaṁ.
+
+@ pali-dhp-224.tex
+
+saccaṁ bhaṇe na kujjheyya,
+
+dajjā appampi yācito.
+
+etehi tīhi ṭhānehi,
+
+gacche devāna santike.
+
+@ pali-dhp-225.tex
+
+ahiṁsakā ye munayo,
+
+niccaṁ kāyena saṁvutā.
+
+te yanti accutaṁ ṭhānaṁ,
+
+yattha gantvā na socare.
+
+@ pali-dhp-226.tex
+
+sadā jāgaramānānaṁ,
+
+ahorattānusikkhinaṁ.
+
+nibbānaṁ adhimuttānaṁ,
+
+atthaṁ gacchanti āsavā.
+
+@ pali-dhp-227.tex
+
+porāṇametaṁ atula,
+
+netaṁ ajjatanāmiva.
+
+nindanti tuṇhimāsīnaṁ,
+
+nindanti bahubhāṇinaṁ.
+
+mitabhāṇimpi nindanti,
+
+natthi loke anindito.
+
+@ pali-dhp-228.tex
+
+na cāhu na ca bhavissati,
+
+na cetarahi vijjati.
+
+ekantaṁ nindito poso,
+
+ekantaṁ vā pasaṁsito.
+
+@ pali-dhp-229.tex
+
+yaṁ ce viññū pasaṁsanti,
+
+anuvicca suve suve.
+
+acchiddavuttiṁ medhāviṁ,
+
+paññāsīlasamāhitaṁ.
+
+@ pali-dhp-230.tex
+
+nikkhaṁ jambonadasseva,
+
+ko taṁ ninditumarahati.
+
+devāpi naṁ pasaṁsanti,
+
+brahmunāpi pasaṁsito.
+
+@ pali-dhp-231.tex
+
+kāyappakopaṁ rakkheyya,
+
+kāyena saṁvuto siyā.
+
+kāyaduccaritaṁ hitvā,
+
+kāyena sucaritaṁ care.
+
+@ pali-dhp-232.tex
+
+vacīpakopaṁ rakkheyya,
+
+vācāya saṁvuto siyā.
+
+vacīduccaritaṁ hitvā,
+
+vācāya sucaritaṁ care.
+
+@ pali-dhp-233.tex
+
+manopakopaṁ rakkheyya,
+
+manasā saṁvuto siyā.
+
+manoduccaritaṁ hitvā,
+
+manasā sucaritaṁ care.
+
+@ pali-dhp-234.tex
+
+kāyena saṁvutā dhīrā,
+
+atho vācāya saṁvutā.
+
+manasā saṁvutā dhīrā,
+
+te ve suparisaṁvutā.
+
+kodhavaggo sattarasamo niṭṭhito.
+
+  @ pali-dhp-18.tex malavaggo
+
+@ pali-dhp-235.tex
+
+paṇḍupalāsova dānisi,
+
+yamapurisāpi ca te upaṭṭhitā.
+
+uyyogamukhe ca tiṭṭhasi,
+
+pātheyyampi ca te na vijjati.
+
+@ pali-dhp-236.tex
+
+so karohi dīpamattano,
+
+khippaṁ vāyama paṇḍito bhava.
+
+niddhantamalo anaṅgaṇo,
+
+dibbaṁ ariyabhūmiṁ upehisi.
+
+@ pali-dhp-237.tex
+
+upanītavayo ca dānisi,
+
+sampayātosi yamassa santike.
+
+vāso te natthi antarā,
+
+pātheyyampi ca te na vijjati.
+
+@ pali-dhp-238.tex
+
+so karohi dīpamattano,
+
+khippaṁ vāyama paṇḍito bhava.
+
+niddhantamalo anaṅgaṇo,
+
+na punaṁ jātijaraṁ upehisi.
+
+@ pali-dhp-239.tex
+
+anupubbena medhāvī,
+
+thokaṁ thokaṁ khaṇe khaṇe.
+
+kammāro rajatasseva,
+
+niddhame malamattano.
+
+@ pali-dhp-240.tex
+
+ayasāva malaṁ samuṭṭhitaṁ,
+
+tatuṭṭhāya tameva khādati.
+
+evaṁ atidhonacārinaṁ,
+
+sāni kammāni nayanti duggatiṁ.
+
+@ pali-dhp-241.tex
+
+asajjhāyamalā mantā,
+
+anuṭṭhānamalā gharā.
+
+malaṁ vaṇṇassa kosajjaṁ,
+
+pamādo rakkhato malaṁ.
+
+@ pali-dhp-242.tex
+
+malitthiyā duccaritaṁ,
+
+maccheraṁ dadato malaṁ.
+
+malā ve pāpakā dhammā,
+
+asmiṁ loke paramhi ca.
+
+@ pali-dhp-243.tex
+
+tato malā malataraṁ,
+
+avijjā paramaṁ malaṁ.
+
+etaṁ malaṁ pahantvāna,
+
+nimmalā hotha bhikkhavo.
+
+@ pali-dhp-244.tex
+
+sujīvaṁ ahirikena,
+
+kākasūrena dhaṁsinā.
+
+pakkhandinā pagabbhena,
+
+saṁkiliṭṭhena jīvitaṁ.
+
+@ pali-dhp-245.tex
+
+hirīmatā ca dujjīvaṁ,
+
+niccaṁ sucigavesinā.
+
+alīnenāppagabbhena,
+
+suddhājīvena passatā.
+
+@ pali-dhp-246.tex
+
+yo pāṇamatipāteti,
+
+musāvādañca bhāsati.
+
+loke adinnamādiyati,
+
+paradārañca gacchati.
+
+@ pali-dhp-247.tex
+
+surāmerayapānañca,
+
+yo naro anuyuñjati.
+
+idhevameso lokasmiṁ,
+
+mūlaṁ khaṇati attano.
+
+@ pali-dhp-248.tex
+
+evaṁ bho purisa jānāhi,
+
+pāpadhammā asaññatā.
+
+mā taṁ lobho adhammo ca,
+
+ciraṁ dukkhāya randhayuṁ.
+
+@ pali-dhp-249.tex
+
+dadāti ve yathāsaddhaṁ,
+
+yathāpasādanaṁ jano.
+
+tattha yo maṅku bhavati,
+
+paresaṁ pānabhojane.
+
+na so divā vā rattiṁ vā,
+
+samādhimadhigacchati.
+
+@ pali-dhp-250.tex
+
+yassa cetaṁ samucchinnaṁ,
+
+mūlaghaccaṁ samūhataṁ.
+
+sa ve divā vā rattiṁ vā,
+
+samādhimadhigacchati.
+
+@ pali-dhp-251.tex
+
+natthi rāgasamo aggi,
+
+natthi dosasamo gaho.
+
+natthi mohasamaṁ jālaṁ,
+
+natthi taṇhāsamā nadī.
+
+@ pali-dhp-252.tex
+
+sudassaṁ vajjamaññesaṁ,
+
+attano pana duddasaṁ.
+
+paresaṁ hi so vajjāni,
+
+opunāti yathā bhusaṁ.
+
+attano pana chādeti,
+
+kaliṁva kitavā saṭho.
+
+@ pali-dhp-253.tex
+
+paravajjānupassissa,
+
+niccaṁ ujjhānasaññino.
+
+āsavā tassa vaḍḍhanti,
+
+ārā so āsavakkhayā.
+
+@ pali-dhp-254.tex
+
+ākāseva padaṁ natthi,
+
+samaṇo natthi bāhire.
+
+papañcābhiratā pajā,
+
+nippapañcā tathāgatā.
+
+@ pali-dhp-255.tex
+
+ākāseva padaṁ natthi,
+
+samaṇo natthi bāhire.
+
+saṅkhārā sassatā natthi,
+
+natthi buddhānamiñjitaṁ.
+
+malavaggo aṭṭhārasamo niṭṭhito.
+
+  @ pali-dhp-19.tex dhammaṭṭhavaggo
+
+@ pali-dhp-256.tex
+
+na tena hoti dhammaṭṭho,
+
+yenatthaṁ sāhasā naye.
+
+yo ca atthaṁ anatthañca,
+
+ubho niccheyya paṇḍito.
+
+@ pali-dhp-257.tex
+
+asāhasena dhammena,
+
+samena nayatī pare.
+
+dhammassa gutto medhāvī,
+
+“dhammaṭṭho”ti pavuccati.
+
+@ pali-dhp-258.tex
+
+na tena paṇḍito hoti,
+
+yāvatā bahu bhāsati.
+
+khemī averī abhayo,
+
+“paṇḍito”ti pavuccati.
+
+@ pali-dhp-259.tex
+
+na tāvatā dhammadharo,
+
+yāvatā bahu bhāsati.
+
+yo ca appampi sutvāna,
+
+dhammaṁ kāyena passati.
+
+sa ve dhammadharo hoti,
+
+yo dhammaṁ nappamajjati.
+
+@ pali-dhp-260.tex
+
+na tena thero so hoti,
+
+yenassa palitaṁ siro.
+
+paripakko vayo tassa,
+
+“moghajiṇṇo”ti vuccati.
+
+@ pali-dhp-261.tex
+
+yamhi saccañca dhammo ca,
+
+ahiṁsā saṁyamo damo.
+
+sa ve vantamalo dhīro,
+
+“thero” iti pavuccati.
+
+@ pali-dhp-262.tex
+
+na vākkaraṇamattena,
+
+vaṇṇapokkharatāya vā.
+
+sādhurūpo naro hoti,
+
+issukī maccharī saṭho.
+
+@ pali-dhp-263.tex
+
+yassa cetaṁ samucchinnaṁ,
+
+mūlaghaccaṁ samūhataṁ.
+
+sa vantadoso medhāvī,
+
+“sādhurūpo”ti vuccati.
+
+@ pali-dhp-264.tex
+
+na muṇḍakena samaṇo,
+
+abbato alikaṁ bhaṇaṁ.
+
+icchālobhasamāpanno,
+
+samaṇo kiṁ bhavissati.
+
+@ pali-dhp-265.tex
+
+yo ca sameti pāpāni,
+
+aṇuṁ thūlāni sabbaso.
+
+samitattā hi pāpānaṁ,
+
+“samaṇo”ti pavuccati.
+
+@ pali-dhp-266.tex
+
+na tena bhikkhu so hoti,
+
+yāvatā bhikkhate pare.
+
+vissaṁ dhammaṁ samādāya,
+
+bhikkhu hoti na tāvatā.
+
+@ pali-dhp-267.tex
+
+yodha puññañca pāpañca,
+
+bāhetvā brahmacariyavā.
+
+saṅkhāya loke carati,
+
+sa ve “bhikkhū”ti vuccati.
+
+@ pali-dhp-268.tex
+
+na monena munī hoti,
+
+mūḷharūpo aviddasu.
+
+yo ca tulaṁva paggayha,
+
+varamādāya paṇḍito.
+
+@ pali-dhp-269.tex
+
+pāpāni parivajjeti,
+
+sa munī tena so muni.
+
+yo munāti ubho loke,
+
+“muni” tena pavuccati.
+
+@ pali-dhp-270.tex
+
+na tena ariyo hoti,
+
+yena pāṇāni hiṁsati.
+
+ahiṁsā sabbapāṇānaṁ,
+
+“ariyo”ti pavuccati.
+
+@ pali-dhp-271.tex
+
+na sīlabbatamattena,
+
+bāhusaccena vā pana.
+
+atha vā samādhilābhena,
+
+vivittasayanena vā.
+
+@ pali-dhp-272.tex
+
+phusāmi nekkhammasukhaṁ,
+
+aputhujjanasevitaṁ.
+
+bhikkhu vissāsamāpādi,
+
+appatto āsavakkhayaṁ.
+
+dhammaṭṭhavaggo ekūnavīsatimo niṭṭhito.
+
+  @ pali-dhp-20.tex maggavaggo
+
+@ pali-dhp-273.tex
+
+maggānaṭṭhaṅgiko seṭṭho,
+
+saccānaṁ caturo padā.
+
+virāgo seṭṭho dhammānaṁ,
+
+dvipadānañca cakkhumā.
+
+@ pali-dhp-274.tex
+
+eseva maggo natthañño,
+
+dassanassa visuddhiyā.
+
+etañhi tumhe paṭipajjatha,
+
+mārassetaṁ pamohanaṁ.
+
+@ pali-dhp-275.tex
+
+etañhi tumhe paṭipannā,
+
+dukkhassantaṁ karissatha.
+
+akkhāto vo mayā maggo,
+
+aññāya sallakantanaṁ.
+
+@ pali-dhp-276.tex
+
+tumhehi kiccamātappaṁ,
+
+akkhātāro tathāgatā.
+
+paṭipannā pamokkhanti,
+
+jhāyino mārabandhanā.
+
+@ pali-dhp-277.tex
+
+“sabbe saṅkhārā aniccā”ti,
+
+yadā paññāya passati.
+
+atha nibbindati dukkhe,
+
+esa maggo visuddhiyā.
+
+@ pali-dhp-278.tex
+
+“sabbe saṅkhārā dukkhā”ti,
+
+yadā paññāya passati.
+
+atha nibbindati dukkhe,
+
+esa maggo visuddhiyā.
+
+@ pali-dhp-279.tex
+
+“sabbe dhammā anattā”ti,
+
+yadā paññāya passati.
+
+atha nibbindati dukkhe,
+
+esa maggo visuddhiyā.
+
+@ pali-dhp-280.tex
+
+uṭṭhānakālamhi anuṭṭhahāno,
+
+yuvā balī ālasiyaṁ upeto.
+
+saṁsannasaṅkappamano kusīto,
+
+paññāya maggaṁ alaso na vindati.
+
+@ pali-dhp-281.tex
+
+vācānurakkhī manasā susaṁvuto,
+
+kāyena ca nākusalaṁ kayirā.
+
+ete tayo kammapathe visodhaye,
+
+ārādhaye maggamisippaveditaṁ.
+
+@ pali-dhp-282.tex
+
+yogā ve jāyatī bhūri,
+
+ayogā bhūrisaṅkhayo.
+
+etaṁ dvedhāpathaṁ ñatvā,
+
+bhavāya vibhavāya ca.
+
+tathāttānaṁ niveseyya,
+
+yathā bhūri pavaḍḍhati.
+
+@ pali-dhp-283.tex
+
+vanaṁ chindatha mā rukkhaṁ,
+
+vanato jāyate bhayaṁ.
+
+chetvā vanañca vanathañca,
+
+nibbanā hotha bhikkhavo.
+
+@ pali-dhp-284.tex
+
+yāva hi vanatho na chijjati,
+
+aṇumattopi narassa nārisu.
+
+paṭibaddhamanova tāva so,
+
+vaccho khīrapakova mātari.
+
+@ pali-dhp-285.tex
+
+ucchinda sinehamattano kumudaṁ sāradikaṁva.
+
+santimaggameva brūhaya,
+
+nibbānaṁ sugatena desitaṁ.
+
+@ pali-dhp-286.tex
+
+idha vassaṁ vasissāmi,
+
+idha hemantagimhisu.
+
+iti bālo vicinteti,
+
+antarāyaṁ na bujjhati.
+
+@ pali-dhp-287.tex
+
+taṁ puttapasusammattaṁ,
+
+byāsattamanasaṁ naraṁ.
+
+suttaṁ gāmaṁ mahoghova,
+
+maccu ādāya gacchati.
+
+@ pali-dhp-288.tex
+
+na santi puttā tāṇāya,
+
+na pitā nāpi bandhavā.
+
+antakenādhipannassa,
+
+natthi ñātīsu tāṇatā.
+
+@ pali-dhp-289.tex
+
+etamatthavasaṁ ñatvā,
+
+paṇḍito sīlasaṁvuto.
+
+nibbānagamanaṁ maggaṁ,
+
+khippameva visodhaye.
+
+maggavaggo vīsatimo niṭṭhito.
+
+  @ pali-dhp-21.tex pakiṇṇakavaggo
+
+@ pali-dhp-290.tex
+
+mattāsukhapariccāgā,
+
+passe ce vipulaṁ sukhaṁ.
+
+caje mattāsukhaṁ dhīro,
+
+sampassaṁ vipulaṁ sukhaṁ.
+
+@ pali-dhp-291.tex
+
+paradukkhūpadhānena,
+
+attano sukhamicchati.
+
+verasaṁsaggasaṁsaṭṭho,
+
+verā so na parimuccati.
+
+@ pali-dhp-292.tex
+
+yañhi kiccaṁ apaviddhaṁ,
+
+akiccaṁ pana kayirati.
+
+unnaḷānaṁ pamattānaṁ,
+
+tesaṁ vaḍḍhanti āsavā.
+
+@ pali-dhp-293.tex
+
+yesañca susamāraddhā,
+
+niccaṁ kāyagatā sati.
+
+akiccaṁ te na sevanti,
+
+kicce sātaccakārino.
+
+satānaṁ sampajānānaṁ,
+
+atthaṁ gacchanti āsavā.
+
+@ pali-dhp-294.tex
+
+mātaraṁ pitaraṁ hantvā,
+
+rājāno dve ca khattiye.
+
+raṭṭhaṁ sānucaraṁ hantvā,
+
+anīgho yāti brāhmaṇo.
+
+@ pali-dhp-295.tex
+
+mātaraṁ pitaraṁ hantvā,
+
+rājāno dve ca sotthiye.
+
+veyagghapañcamaṁ hantvā,
+
+anīgho yāti brāhmaṇo.
+
+@ pali-dhp-296.tex
+
+suppabuddhaṁ pabujjhanti,
+
+sadā gotamasāvakā.
+
+yesaṁ divā ca ratto ca,
+
+niccaṁ buddhagatā sati.
+
+@ pali-dhp-297.tex
+
+suppabuddhaṁ pabujjhanti,
+
+sadā gotamasāvakā.
+
+yesaṁ divā ca ratto ca,
+
+niccaṁ dhammagatā sati.
+
+@ pali-dhp-298.tex
+
+suppabuddhaṁ pabujjhanti,
+
+sadā gotamasāvakā.
+
+yesaṁ divā ca ratto ca,
+
+niccaṁ saṅghagatā sati.
+
+@ pali-dhp-299.tex
+
+suppabuddhaṁ pabujjhanti,
+
+sadā gotamasāvakā.
+
+yesaṁ divā ca ratto ca,
+
+niccaṁ kāyagatā sati.
+
+@ pali-dhp-300.tex
+
+suppabuddhaṁ pabujjhanti,
+
+sadā gotamasāvakā.
+
+yesaṁ divā ca ratto ca,
+
+ahiṁsāya rato mano.
+
+@ pali-dhp-301.tex
+
+suppabuddhaṁ pabujjhanti,
+
+sadā gotamasāvakā.
+
+yesaṁ divā ca ratto ca,
+
+bhāvanāya rato mano.
+
+@ pali-dhp-302.tex
+
+duppabbajjaṁ durabhiramaṁ,
+
+durāvāsā gharā dukhā.
+
+dukkhosamānasaṁvāso,
+
+dukkhānupatitaddhagū.
+
+tasmā na caddhagū siyā,
+
+na ca dukkhānupatito siyā.
+
+@ pali-dhp-303.tex
+
+saddho sīlena sampanno,
+
+yasobhogasamappito.
+
+yaṁ yaṁ padesaṁ bhajati,
+
+tattha tattheva pūjito.
+
+@ pali-dhp-304.tex
+
+dūre santo pakāsenti,
+
+himavantova pabbato.
+
+asantettha na dissanti,
+
+rattiṁ khittā yathā sarā.
+
+@ pali-dhp-305.tex
+
+ekāsanaṁ ekaseyyaṁ,
+
+eko caramatandito.
+
+eko damayamattānaṁ,
+
+vanante ramito siyā.
+
+pakiṇṇakavaggo ekavīsatimo niṭṭhito.
+
+  @ pali-dhp-22.tex nirayavaggo
+
+@ pali-dhp-306.tex
+
+abhūtavādī nirayaṁ upeti,
+
+yo vāpi katvā na karomi cāha.
+
+ubhopi te pecca samā bhavanti,
+
+nihīnakammā manujā parattha.
+
+@ pali-dhp-307.tex
+
+kāsāvakaṇṭhā bahavo,
+
+pāpadhammā asaññatā.
+
+pāpā pāpehi kammehi,
+
+nirayaṁ te upapajjare.
+
+@ pali-dhp-308.tex
+
+seyyo ayoguḷo bhutto,
+
+tatto aggisikhūpamo.
+
+yañce bhuñjeyya dussīlo,
+
+raṭṭhapiṇḍamasaññato.
+
+@ pali-dhp-309.tex
+
+cattāri ṭhānāni naro pamatto,
+
+āpajjati paradārūpasevī.
+
+apuññalābhaṁ na nikāmaseyyaṁ,
+
+nindaṁ tatīyaṁ nirayaṁ catutthaṁ.
+
+@ pali-dhp-310.tex
+
+apuññalābho ca gatī ca pāpikā,
+
+bhītassa bhītāya ratī ca thokikā.
+
+rājā ca daṇḍaṁ garukaṁ paṇeti,
+
+tasmā naro paradāraṁ na seve.
+
+@ pali-dhp-311.tex
+
+kuso yathā duggahito,
+
+hatthamevānukantati.
+
+sāmaññaṁ dupparāmaṭṭhaṁ,
+
+nirayāyupakaḍḍhati.
+
+@ pali-dhp-312.tex
+
+yaṁ kiñci sithilaṁ kammaṁ,
+
+saṁkiliṭṭhañca yaṁ vataṁ.
+
+saṅkassaraṁ brahmacariyaṁ,
+
+na taṁ hoti mahapphalaṁ.
+
+@ pali-dhp-313.tex
+
+kayirā ce kayirāthenaṁ,
+
+daḷhamenaṁ parakkame.
+
+sithilo hi paribbājo,
+
+bhiyyo ākirate rajaṁ.
+
+@ pali-dhp-314.tex
+
+akataṁ dukkaṭaṁ seyyo,
+
+pacchā tappati dukkaṭaṁ.
+
+katañca sukataṁ seyyo,
+
+yaṁ katvā nānutappati.
+
+@ pali-dhp-315.tex
+
+nagaraṁ yathā paccantaṁ,
+
+guttaṁ santarabāhiraṁ.
+
+evaṁ gopetha attānaṁ,
+
+khaṇo vo mā upaccagā.
+
+khaṇātītā hi socanti,
+
+nirayamhi samappitā.
+
+@ pali-dhp-316.tex
+
+alajjitāye lajjanti,
+
+lajjitāye na lajjare.
+
+micchādiṭṭhisamādānā,
+
+sattā gacchanti duggatiṁ.
+
+@ pali-dhp-317.tex
+
+abhaye bhayadassino,
+
+bhaye cābhayadassino.
+
+micchādiṭṭhisamādānā,
+
+sattā gacchanti duggatiṁ.
+
+@ pali-dhp-318.tex
+
+avajje vajjamatino,
+
+vajje cāvajjadassino.
+
+micchādiṭṭhisamādānā,
+
+sattā gacchanti duggatiṁ.
+
+@ pali-dhp-319.tex
+
+vajjañca vajjato ñatvā,
+
+avajjañca avajjato.
+
+sammādiṭṭhisamādānā,
+
+sattā gacchanti suggatiṁ.
+
+nirayavaggo dvāvīsatimo niṭṭhito.
+
+  @ pali-dhp-23.tex nāgavaggo
+
+@ pali-dhp-320.tex
+
+ahaṁ nāgova saṅgāme,
+
+cāpato patitaṁ saraṁ.
+
+ativākyaṁ titikkhissaṁ,
+
+dussīlo hi bahujjano.
+
+@ pali-dhp-321.tex
+
+dantaṁ nayanti samitiṁ,
+
+dantaṁ rājābhirūhati.
+
+danto seṭṭho manussesu,
+
+yotivākyaṁ titikkhati.
+
+@ pali-dhp-322.tex
+
+varamassatarā dantā,
+
+ājānīyā ca sindhavā.
+
+kuñjarā ca mahānāgā,
+
+attadanto tato varaṁ.
+
+@ pali-dhp-323.tex
+
+na hi etehi yānehi,
+
+gaccheyya agataṁ disaṁ.
+
+yathāttanā sudantena,
+
+danto dantena gacchati.
+
+@ pali-dhp-324.tex
+
+dhanapālo nāma kuñjaro,
+
+kaṭukabhedano dunnivārayo.
+
+baddho kabaḷaṁ na bhuñjati,
+
+sumarati nāgavanassa kuñjaro.
+
+@ pali-dhp-325.tex
+
+middhī yadā hoti mahagghaso ca,
+
+niddāyitā samparivattasāyī.
+
+mahāvarāhova nivāpapuṭṭho,
+
+punappunaṁ gabbhamupeti mando.
+
+@ pali-dhp-326.tex
+
+idaṁ pure cittamacāri cārikaṁ,
+
+yenicchakaṁ yatthakāmaṁ yathāsukhaṁ.
+
+tadajjahaṁ niggahessāmi yoniso,
+
+hatthippabhinnaṁ viya aṅkusaggaho.
+
+@ pali-dhp-327.tex
+
+appamādaratā hotha,
+
+sacittamanurakkhatha.
+
+duggā uddharathattānaṁ,
+
+paṅke sannova kuñjaro.
+
+@ pali-dhp-328.tex
+
+sace labhetha nipakaṁ sahāyaṁ,
+
+saddhiṁ caraṁ sādhuvihāridhīraṁ.
+
+abhibhuyya sabbāni parissayāni,
+
+careyya tenattamano satīmā.
+
+@ pali-dhp-329.tex
+
+no ce labhetha nipakaṁ sahāyaṁ,
+
+saddhiṁ caraṁ sādhuvihāridhīraṁ.
+
+rājāva raṭṭhaṁ vijitaṁ pahāya,
+
+eko care mātaṅgaraññeva nāgo.
+
+@ pali-dhp-330.tex
+
+ekassa caritaṁ seyyo,
+
+natthi bāle sahāyatā.
+
+eko care na ca pāpāni kayirā,
+
+appossukko mātaṅgaraññeva nāgo.
+
+@ pali-dhp-331.tex
+
+atthamhi jātamhi sukhā sahāyā,
+
+tuṭṭhī sukhā yā itarītarena.
+
+puññaṁ sukhaṁ jīvitasaṅkhayamhi,
+
+sabbassa dukkhassa sukhaṁ pahānaṁ.
+
+@ pali-dhp-332.tex
+
+sukhā matteyyatā loke,
+
+atho petteyyatā sukhā.
+
+sukhā sāmaññatā loke,
+
+atho brahmaññatā sukhā.
+
+@ pali-dhp-333.tex
+
+sukhaṁ yāva jarā sīlaṁ,
+
+sukhā saddhā patiṭṭhitā.
+
+sukho paññāya paṭilābho,
+
+pāpānaṁ akaraṇaṁ sukhaṁ.
+
+nāgavaggo tevīsatimo niṭṭhito.
+
+  @ pali-dhp-24.tex taṇhāvaggo
+
+@ pali-dhp-334.tex
+
+manujassa pamattacārino,
+
+taṇhā vaḍḍhati māluvā viya.
+
+so plavatī hurā huraṁ,
+
+phalamicchaṁva vanasmi vānaro.
+
+@ pali-dhp-335.tex
+
+yaṁ esā sahate jammī,
+
+taṇhā loke visattikā.
+
+sokā tassa pavaḍḍhanti,
+
+abhivaṭṭhaṁva bīraṇaṁ.
+
+@ pali-dhp-336.tex
+
+yo cetaṁ sahate jammiṁ,
+
+taṇhaṁ loke duraccayaṁ.
+
+sokā tamhā papatanti,
+
+udabinduva pokkharā.
+
+@ pali-dhp-337.tex
+
+taṁ vo vadāmi bhaddaṁ vo,
+
+yāvantettha samāgatā.
+
+taṇhāya mūlaṁ khaṇatha,
+
+usīratthova bīraṇaṁ.
+
+mā vo naḷaṁva sotova,
+
+māro bhañji punappunaṁ.
+
+@ pali-dhp-338.tex
+
+yathāpi mūle anupaddave daḷhe,
+
+chinnopi rukkho punareva rūhati.
+
+evampi taṇhānusaye anūhate,
+
+nibbattatī dukkhamidaṁ punappunaṁ.
+
+@ pali-dhp-339.tex
+
+yassa chattiṁsati sotā,
+
+manāpasavanā bhusā.
+
+māhā vahanti duddiṭṭhiṁ,
+
+saṅkappā rāganissitā.
+
+@ pali-dhp-340.tex
+
+savanti sabbadhi sotā,
+
+latā uppajja tiṭṭhati.
+
+tañca disvā lataṁ jātaṁ,
+
+mūlaṁ paññāya chindatha.
+
+@ pali-dhp-341.tex
+
+saritāni sinehitāni ca,
+
+somanassāni bhavanti jantuno.
+
+te sātasitā sukhesino,
+
+te ve jātijarūpagā narā.
+
+@ pali-dhp-342.tex
+
+tasiṇāya purakkhatā pajā,
+
+parisappanti sasova bandhito.
+
+saṁyojanasaṅgasattakā,
+
+dukkhamupenti punappunaṁ cirāya.
+
+@ pali-dhp-343.tex
+
+tasiṇāya purakkhatā pajā,
+
+parisappanti sasova bandhito.
+
+tasmā tasiṇaṁ vinodaye,
+
+ākaṅkhanta virāgamattano.
+
+@ pali-dhp-344.tex
+
+yo nibbanatho vanādhimutto,
+
+vanamutto vanameva dhāvati.
+
+taṁ puggalametha passatha,
+
+mutto bandhanameva dhāvati.
+
+@ pali-dhp-345.tex
+
+na taṁ daḷhaṁ bandhanamāhu dhīrā,
+
+yadāyasaṁ dārujapabbajañca.
+
+sārattarattā maṇikuṇḍalesu,
+
+puttesu dāresu ca yā apekkhā.
+
+@ pali-dhp-346.tex
+
+etaṁ daḷhaṁ bandhanamāhu dhīrā,
+
+ohārinaṁ sithilaṁ duppamuñcaṁ.
+
+etampi chetvāna paribbajanti,
+
+anapekkhino kāmasukhaṁ pahāya.
+
+@ pali-dhp-347.tex
+
+ye rāgarattānupatanti sotaṁ,
+
+sayaṁkataṁ makkaṭakova jālaṁ.
+
+etampi chetvāna vajanti dhīrā,
+
+anapekkhino sabbadukkhaṁ pahāya.
+
+@ pali-dhp-348.tex
+
+muñca pure muñca pacchato,
+
+majjhe muñca bhavassa pāragū.
+
+sabbattha vimuttamānaso,
+
+na punaṁ jātijaraṁ upehisi.
+
+@ pali-dhp-349.tex
+
+vitakkamathitassa jantuno,
+
+tibbarāgassa subhānupassino.
+
+bhiyyo taṇhā pavaḍḍhati,
+
+esa kho daḷhaṁ karoti bandhanaṁ.
+
+@ pali-dhp-350.tex
+
+vitakkūpasame ca yo rato,
+
+asubhaṁ bhāvayate sadā sato.
+
+esa kho byanti kāhiti,
+
+esa checchati mārabandhanaṁ.
+
+@ pali-dhp-351.tex
+
+niṭṭhaṅgato asantāsī,
+
+vītataṇho anaṅgaṇo.
+
+acchindi bhavasallāni,
+
+antimoyaṁ samussayo.
+
+@ pali-dhp-352.tex
+
+vītataṇho anādāno,
+
+niruttipadakovido.
+
+akkharānaṁ sannipātaṁ,
+
+jaññā pubbāparāni ca.
+
+sa ve “antimasārīro,
+
+mahāpañño mahāpuriso”ti vuccati.
+
+@ pali-dhp-353.tex
+
+sabbābhibhū sabbavidūhamasmi,
+
+sabbesu dhammesu anūpalitto.
+
+sabbañjaho taṇhakkhaye vimutto,
+
+sayaṁ abhiññāya kamuddiseyyaṁ.
+
+@ pali-dhp-354.tex
+
+sabbadānaṁ dhammadānaṁ jināti,
+
+sabbarasaṁ dhammaraso jināti.
+
+sabbaratiṁ dhammarati jināti,
+
+taṇhakkhayo sabbadukkhaṁ jināti.
+
+@ pali-dhp-355.tex
+
+hananti bhogā dummedhaṁ,
+
+no ca pāragavesino.
+
+bhogataṇhāya dummedho,
+
+hanti aññeva attanaṁ.
+
+@ pali-dhp-356.tex
+
+tiṇadosāni khettāni,
+
+rāgadosā ayaṁ pajā.
+
+tasmā hi vītarāgesu,
+
+dinnaṁ hoti mahapphalaṁ.
+
+@ pali-dhp-357.tex
+
+tiṇadosāni khettāni,
+
+dosadosā ayaṁ pajā.
+
+tasmā hi vītadosesu,
+
+dinnaṁ hoti mahapphalaṁ.
+
+@ pali-dhp-358.tex
+
+tiṇadosāni khettāni,
+
+mohadosā ayaṁ pajā.
+
+tasmā hi vītamohesu,
+
+dinnaṁ hoti mahapphalaṁ.
+
+@ pali-dhp-359.tex
+
+(tiṇadosāni khettāni,
+
+icchādosā ayaṁ pajā.
+
+tasmā hi vigaticchesu,
+
+dinnaṁ hoti mahapphalaṁ.)
+
+tiṇadosāni khettāni,
+
+taṇhādosā ayaṁ pajā.
+
+tasmā hi vītataṇhesu,
+
+dinnaṁ hoti mahapphalaṁ.
+
+taṇhāvaggo catuvīsatimo niṭṭhito.
+
+  @ pali-dhp-25.tex bhikkhuvaggo
+
+@ pali-dhp-360.tex
+
+cakkhunā saṁvaro sādhu,
+
+sādhu sotena saṁvaro.
+
+ghānena saṁvaro sādhu,
+
+sādhu jivhāya saṁvaro.
+
+@ pali-dhp-361.tex
+
+kāyena saṁvaro sādhu,
+
+sādhu vācāya saṁvaro.
+
+manasā saṁvaro sādhu,
+
+sādhu sabbattha saṁvaro.
+
+sabbattha saṁvuto bhikkhu,
+
+sabbadukkhā pamuccati.
+
+@ pali-dhp-362.tex
+
+hatthasaṁyato pādasaṁyato,
+
+vācāsaṁyato saṁyatuttamo.
+
+ajjhattarato samāhito,
+
+eko santusito tamāhu bhikkhuṁ.
+
+@ pali-dhp-363.tex
+
+yo mukhasaṁyato bhikkhu,
+
+mantabhāṇī anuddhato.
+
+atthaṁ dhammañca dīpeti,
+
+madhuraṁ tassa bhāsitaṁ.
+
+@ pali-dhp-364.tex
+
+dhammārāmo dhammarato,
+
+dhammaṁ anuvicintayaṁ.
+
+dhammaṁ anussaraṁ bhikkhu,
+
+saddhammā na parihāyati.
+
+@ pali-dhp-365.tex
+
+salābhaṁ nātimaññeyya,
+
+nāññesaṁ pihayaṁ care.
+
+aññesaṁ pihayaṁ bhikkhu,
+
+samādhiṁ nādhigacchati.
+
+@ pali-dhp-366.tex
+
+appalābhopi ce bhikkhu,
+
+salābhaṁ nātimaññati.
+
+taṁ ve devā pasaṁsanti,
+
+suddhājīviṁ atanditaṁ.
+
+@ pali-dhp-367.tex
+
+sabbaso nāmarūpasmiṁ,
+
+yassa natthi mamāyitaṁ.
+
+asatā ca na socati,
+
+sa ve “bhikkhū”ti vuccati.
+
+@ pali-dhp-368.tex
+
+mettāvihārī yo bhikkhu,
+
+pasanno buddhasāsane.
+
+adhigacche padaṁ santaṁ,
+
+saṅkhārūpasamaṁ sukhaṁ.
+
+@ pali-dhp-369.tex
+
+siñca bhikkhu imaṁ nāvaṁ,
+
+sittā te lahumessati.
+
+chetvā rāgañca dosañca,
+
+tato nibbānamehisi.
+
+@ pali-dhp-370.tex
+
+pañca chinde pañca jahe,
+
+pañca cuttari bhāvaye.
+
+pañca saṅgātigo bhikkhu,
+
+“oghatiṇṇo”ti vuccati.
+
+@ pali-dhp-371.tex
+
+jhāya bhikkhu mā pamādo,
+
+mā te kāmaguṇe ramessu cittaṁ.
+
+mā lohaguḷaṁ gilī pamatto,
+
+mā kandi “dukkhamidan”ti ḍayhamāno.
+
+@ pali-dhp-372.tex
+
+natthi jhānaṁ apaññassa,
+
+paññā natthi ajhāyato.
+
+yamhi jhānañca paññā ca,
+
+sa ve nibbānasantike.
+
+@ pali-dhp-373.tex
+
+suññāgāraṁ paviṭṭhassa,
+
+santacittassa bhikkhuno.
+
+amānusī rati hoti,
+
+sammā dhammaṁ vipassato.
+
+@ pali-dhp-374.tex
+
+yato yato sammasati,
+
+khandhānaṁ udayabbayaṁ.
+
+labhatī pītipāmojjaṁ,
+
+amataṁ taṁ vijānataṁ.
+
+@ pali-dhp-375.tex
+
+tatrāyamādi bhavati,
+
+idha paññassa bhikkhuno.
+
+indriyagutti santuṭṭhi,
+
+pātimokkhe ca saṁvaro.
+
+@ pali-dhp-376.tex
+
+mitte bhajassu kalyāṇe,
+
+suddhājīve atandite.
+
+paṭisanthāravutyassa,
+
+ācārakusalo siyā.
+
+tato pāmojjabahulo,
+
+dukkhassantaṁ karissati.
+
+@ pali-dhp-377.tex
+
+vassikā viya pupphāni,
+
+maddavāni pamuñcati.
+
+evaṁ rāgañca dosañca,
+
+vippamuñcetha bhikkhavo.
+
+@ pali-dhp-378.tex
+
+santakāyo santavāco,
+
+santavā susamāhito.
+
+vantalokāmiso bhikkhu,
+
+“upasanto”ti vuccati.
+
+@ pali-dhp-379.tex
+
+attanā codayattānaṁ,
+
+paṭimaṁsetha attanā.
+
+so attagutto satimā,
+
+sukhaṁ bhikkhu vihāhisi.
+
+@ pali-dhp-380.tex
+
+attā hi attano nātho,
+
+(ko hi nātho paro siyā)
+
+attā hi attano gati.
+
+tasmā saṁyamamattānaṁ,
+
+assaṁ bhadraṁva vāṇijo.
+
+@ pali-dhp-381.tex
+
+pāmojjabahulo bhikkhu,
+
+pasanno buddhasāsane.
+
+adhigacche padaṁ santaṁ,
+
+saṅkhārūpasamaṁ sukhaṁ.
+
+@ pali-dhp-382.tex
+
+yo have daharo bhikkhu,
+
+yuñjati buddhasāsane.
+
+somaṁ lokaṁ pabhāseti,
+
+abbhā muttova candimā.
+
+bhikkhuvaggo pañcavīsatimo niṭṭhito.
+
+  @ pali-dhp-26.tex brāhmaṇavaggo
+
+@ pali-dhp-383.tex
+
+chinda sotaṁ parakkamma,
+
+kāme panuda brāhmaṇa.
+
+saṅkhārānaṁ khayaṁ ñatvā,
+
+akataññūsi brāhmaṇa.
+
+@ pali-dhp-384.tex
+
+yadā dvayesu dhammesu,
+
+pāragū hoti brāhmaṇo.
+
+athassa sabbe saṁyogā,
+
+atthaṁ gacchanti jānato.
+
+@ pali-dhp-385.tex
+
+yassa pāraṁ apāraṁ vā,
+
+pārāpāraṁ na vijjati.
+
+vītaddaraṁ visaṁyuttaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-386.tex
+
+jhāyiṁ virajamāsīnaṁ,
+
+katakiccamanāsavaṁ.
+
+uttamatthamanuppattaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-387.tex
+
+divā tapati ādicco,
+
+rattimābhāti candimā.
+
+sannaddho khattiyo tapati,
+
+jhāyī tapati brāhmaṇo.
+
+atha sabbamahorattiṁ,
+
+buddho tapati tejasā.
+
+@ pali-dhp-388.tex
+
+bāhitapāpoti brāhmaṇo,
+
+samacariyā samaṇoti vuccati.
+
+pabbājayamattano malaṁ,
+
+tasmā “pabbajito”ti vuccati.
+
+@ pali-dhp-389.tex
+
+na brāhmaṇassa pahareyya,
+
+nāssa muñcetha brāhmaṇo.
+
+dhī brāhmaṇassa hantāraṁ,
+
+tato dhī yassa muñcati.
+
+@ pali-dhp-390.tex
+
+na brāhmaṇassetadakiñci seyyo,
+
+yadā nisedho manaso piyehi.
+
+yato yato hiṁsamano nivattati,
+
+tato tato sammatimeva dukkhaṁ.
+
+@ pali-dhp-391.tex
+
+yassa kāyena vācāya,
+
+manasā natthi dukkaṭaṁ.
+
+saṁvutaṁ tīhi ṭhānehi,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-392.tex
+
+yamhā dhammaṁ vijāneyya,
+
+sammāsambuddhadesitaṁ.
+
+sakkaccaṁ taṁ namasseyya,
+
+aggihuttaṁva brāhmaṇo.
+
+@ pali-dhp-393.tex
+
+na jaṭāhi na gottena,
+
+na jaccā hoti brāhmaṇo.
+
+yamhi saccañca dhammo ca,
+
+so sucī so ca brāhmaṇo.
+
+@ pali-dhp-394.tex
+
+kiṁ te jaṭāhi dummedha,
+
+kiṁ te ajinasāṭiyā.
+
+abbhantaraṁ te gahanaṁ,
+
+bāhiraṁ parimajjasi.
+
+@ pali-dhp-395.tex
+
+paṁsukūladharaṁ jantuṁ,
+
+kisaṁ dhamanisanthataṁ.
+
+ekaṁ vanasmiṁ jhāyantaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-396.tex
+
+na cāhaṁ brāhmaṇaṁ brūmi,
+
+yonijaṁ mattisambhavaṁ.
+
+bhovādi nāma so hoti,
+
+sace hoti sakiñcano.
+
+akiñcanaṁ anādānaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-397.tex
+
+sabbasaṁyojanaṁ chetvā,
+
+yo ve na paritassati.
+
+saṅgātigaṁ visaṁyuttaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-398.tex
+
+chetvā naddhiṁ varattañca,
+
+sandānaṁ sahanukkamaṁ.
+
+ukkhittapalighaṁ buddhaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-399.tex
+
+akkosaṁ vadhabandhañca,
+
+aduṭṭho yo titikkhati.
+
+khantībalaṁ balānīkaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-400.tex
+
+akkodhanaṁ vatavantaṁ,
+
+sīlavantaṁ anussadaṁ.
+
+dantaṁ antimasārīraṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-401.tex
+
+vāri pokkharapatteva,
+
+āraggeriva sāsapo.
+
+yo na limpati kāmesu,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-402.tex
+
+yo dukkhassa pajānāti,
+
+idheva khayamattano.
+
+pannabhāraṁ visaṁyuttaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-403.tex
+
+gambhīrapaññaṁ medhāviṁ,
+
+maggāmaggassa kovidaṁ.
+
+uttamatthamanuppattaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-404.tex
+
+asaṁsaṭṭhaṁ gahaṭṭhehi,
+
+anāgārehi cūbhayaṁ.
+
+anokasārimappicchaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-405.tex
+
+nidhāya daṇḍaṁ bhūtesu,
+
+tasesu thāvaresu ca.
+
+yo na hanti na ghāteti,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-406.tex
+
+aviruddhaṁ viruddhesu,
+
+attadaṇḍesu nibbutaṁ.
+
+sādānesu anādānaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-407.tex
+
+yassa rāgo ca doso ca,
+
+māno makkho ca pātito.
+
+sāsaporiva āraggā,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-408.tex
+
+akakkasaṁ viññāpaniṁ,
+
+giraṁ saccamudīraye.
+
+yāya nābhisaje kañci,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-409.tex
+
+yodha dīghaṁ va rassaṁ vā,
+
+aṇuṁ thūlaṁ subhāsubhaṁ.
+
+loke adinnaṁ nādiyati,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-410.tex
+
+āsā yassa na vijjanti,
+
+asmiṁ loke paramhi ca.
+
+nirāsāsaṁ visaṁyuttaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-411.tex
+
+yassālayā na vijjanti,
+
+aññāya akathaṁkathī.
+
+amatogadhamanuppattaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-412.tex
+
+yodha puññañca pāpañca,
+
+ubho saṅgamupaccagā.
+
+asokaṁ virajaṁ suddhaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-413.tex
+
+candaṁva vimalaṁ suddhaṁ,
+
+vippasannamanāvilaṁ.
+
+nandībhavaparikkhīṇaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-414.tex
+
+yomaṁ palipathaṁ duggaṁ,
+
+saṁsāraṁ mohamaccagā.
+
+tiṇṇo pāragato jhāyī,
+
+anejo akathaṁkathī.
+
+anupādāya nibbuto,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-415.tex
+
+yodha kāme pahantvāna,
+
+anāgāro paribbaje.
+
+kāmabhavaparikkhīṇaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-416.tex
+
+yodha taṇhaṁ pahantvāna,
+
+anāgāro paribbaje.
+
+taṇhābhavaparikkhīṇaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-417.tex
+
+hitvā mānusakaṁ yogaṁ,
+
+dibbaṁ yogaṁ upaccagā.
+
+sabbayogavisaṁyuttaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-418.tex
+
+hitvā ratiñca aratiñca,
+
+sītibhūtaṁ nirūpadhiṁ.
+
+sabbalokābhibhuṁ vīraṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-419.tex
+
+cutiṁ yo vedi sattānaṁ,
+
+upapattiñca sabbaso.
+
+asattaṁ sugataṁ buddhaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-420.tex
+
+yassa gatiṁ na jānanti,
+
+devā gandhabbamānusā.
+
+khīṇāsavaṁ arahantaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-421.tex
+
+yassa pure ca pacchā ca,
+
+majjhe ca natthi kiñcanaṁ.
+
+akiñcanaṁ anādānaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-422.tex
+
+usabhaṁ pavaraṁ vīraṁ,
+
+mahesiṁ vijitāvinaṁ.
+
+anejaṁ nhātakaṁ buddhaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+@ pali-dhp-423.tex
+
+pubbenivāsaṁ yo vedi,
+
+saggāpāyañca passati,
+
+atho jātikkhayaṁ patto,
+
+abhiññāvosito muni.
+
+sabbavositavosānaṁ,
+
+tamahaṁ brūmi brāhmaṇaṁ.
+
+brāhmaṇavaggo chabbīsatimo niṭṭhito.
+
+(ettāvatā sabbapaṭhame yamakavagge cuddasa vatthūni, appamādavagge nava, cittavagge nava, pupphavagge dvādasa, bālavagge pannarasa, paṇḍitavagge ekādasa, arahantavagge dasa, sahassavagge cuddasa, pāpavagge dvādasa, daṇḍavagge ekādasa, jarāvagge nava, attavagge dasa, lokavagge ekādasa, buddhavagge nava, sukhavagge aṭṭha, piyavagge nava, kodhavagge aṭṭha, malavagge dvādasa, dhammaṭṭhavagge dasa, maggavagge dvādasa, pakiṇṇakavagge nava, nirayavagge nava, nāgavagge aṭṭha, taṇhāvagge dvādasa, bhikkhuvagge dvādasa, brāhmaṇavagge cattālīsāti pañcādhikāni tīṇi vatthusatāni.
+
+satevīsacatussatā, catusaccavibhāvinā.
+
+satattayañca vatthūnaṁ, pañcādhikaṁ samuṭṭhitāti).
+
+dhammapade vaggānamuddānaṁ —
+
+yamakappamādo cittaṁ, pupphaṁ bālena paṇḍito.
+
+arahanto sahassañca, pāpaṁ daṇḍena te dasa.
+
+jarā attā ca loko ca, buddho sukhaṁ piyena ca.
+
+kodho malañca dhammaṭṭho, maggavaggena vīsati.
+
+pakiṇṇaṁ nirayo nāgo, taṇhā bhikkhu ca brāhmaṇo.
+
+ete chabbīsati vaggā, desitādiccabandhunā.
+
+gāthānamuddānaṁ —
+
+yamake vīsati gāthā, appamādamhi dvādasa.
+
+ekādasa cittavagge, pupphavaggamhi soḷasa.
+
+bāle ca soḷasa gāthā, paṇḍitamhi catuddasa.
+
+arahante dasa gāthā, sahasse honti soḷasa.
+
+terasa pāpavaggamhi, daṇḍamhi dasa satta ca.
+
+ekādasa jarā vagge, attavaggamhi tā dasa.
+
+dvādasa lokavaggamhi, buddhavaggamhi ṭhārasa.
+
+sukhe ca piyavagge ca, gāthāyo honti dvādasa.
+
+cuddasa kodhavaggamhi, malavaggekavīsati.
+
+sattarasa ca dhammaṭṭhe, maggavagge sattarasa.
+
+pakiṇṇe soḷasa gāthā, niraye nāge ca cuddasa.
+
+chabbīsa taṇhāvaggamhi, tevīsa bhikkhuvaggikā.
+
+ekatālīsagāthāyo, brāhmaṇe vaggamuttame.
+
+gāthāsatāni cattāri, tevīsa ca punāpare.
+
+dhammapade nipātamhi, desitādiccabandhunāti.
+
+dhammapadapāḷi niṭṭhitā.
+
+

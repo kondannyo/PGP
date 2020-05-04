@@ -1,0 +1,168 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** yo imaj palipathaj duggaj sajsaraj moham accaga ******
+             ****** tinno paragato jhayi anejo akathavkathi ******
+           ****** anupadaya nibbuto tam ahaj brumi brahmanaj ******
+                            ****** (DhP 414) ******
+===============================================================================
+
+
+Sentence Translation:
+Who has overcome this danger, bad place, round of rebirth and delusion,
+who has crossed, gone over to the opposite shore, is meditating, free from
+craving and doubts,
+who is emancipated and without clinging - him do I call a Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yo                imaj palipathaj duggaj sajsaraj moham accaga
+|                       |            |              |             |            
+|            |
+Rel.Pron.m. Pron.m.  N.m.       N.m.       N.m.      N.m.     V.act.
+Nom.Sg.      Acc.Sg. Acc.Sg.   Acc.Sg.   Acc.Sg.   Acc.Sg. 3.Sg.aor.
+|                       |            |________|_______|________|           |
+|                       |___________________|                                |
+|                                      |_____________________________|
+|____________________________________|_________________________I.
+                                  |_________________|
+                                                
+|__________________________________III.
+List of Abbreviations
+tinno      para+gato         jhayi     anejo akathavkathi
+|                |       |               |            |              |
+Adj.m.    N.n. Adj.m.    Adj.m.   Adj.m.    Adj.m.
+Nom.Sg.    |   Nom.Sg. Nom.Sg. Nom.Sg. Nom.Sg.
+|                |____|               |            |              |
+|___________|___________|______|________|
+                              |_____________________________________________II.
+
+I._________________________________|
+List of Abbreviations
+anupadaya nibbuto   tam       ahaj      brumi  brahmanaj
+|                     |           |             |              |             |
+V.ger.       Adj.m.  Pron.m.    Pron.    V.act.in.    N.m.
+|              Nom.Sg. Acc.Sg.  Nom.Sg. 1.Sg.pres. Acc.Sg.
+|____________|           |             |              |             |
+II._____|                     |_______|________|_______|
+                                               |               |____|
+                                               |___________|
+III._____________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+imaj: idaj, Pron.: this. Acc.Sg.m. = imaj.
+palipathaj: palipatha-, N.m.: danger, obstacle. Acc.Sg. = palipathaj.
+duggaj: dugga-, N.m.: bad place, difficult road. It is derived from the verb
+root gam- (to go) and the prefix du- (bad, difficult). Acc.Sg. = duggaj.
+sajsaraj: sajsara-, N.m.: perpetual wandering, round of rebirth. It is derived
+from the verb root sar- (to flow, to move along) with the prefix saj-
+(together). Thus sajsarati = to move about continuously. Acc.Sg. = sajsaraj.
+List of Abbreviations
+moham: moha-, N.m.: delusion, bewilderment. Derived from the verb muh- (to get
+bevildered).
+Acc.Sg. = moham.
+accaga, V.: escape, pass, go by. The verb root is gam- (to go) with the prefix
+ati- (by, beyond). 3.Sg.act.aor. = accaga.
+tinno: tinna-, Adj.: overcome, crossed. It is a p.p. of the verb root tar- (to
+cross). Nom.Sg.m. = tinno.
+List of Abbreviations
+paragato: paragata-, Adj.: gone to the opposite shore. It is a compound of:
+    para-, N.n.: the opposite shore, the other side.
+    gata-, Adj.: gone. It is a p.p. of the verb gam- (to go).
+Nom.Sg.m. = paragato.
+jhayi: jhayin-, Adj.m.: meditating. Derived from the verb jhe- (to meditate).
+Nom.Sg.m. = jhayi.
+anejo: aneja-, Adj.: free from craving. It is the word eja-, N.f.: craving,
+negated by the negative prefix -an. Nom.Sg.m. = anejo.
+akathavkathi: akathavkathin-, Adj.: without doubts. It is the word
+kathavkathin- (having doubts, a compound of: kathaj, Adv.: how? and katha,
+Adv.: how?, with the possessive suffix -in) negated by the negative prefix a-.
+Nom.Sg.m. = akathavkathi.
+List of Abbreviations
+anupadaya, V.ger.: not clinging, not attached. It is a negated (by the negative
+prefix an-) ger. of the verb upadiyati (to cling, to be attached). This verb
+can be analyzed as the root da- (to give) with the prefix a- (towards). Thus
+adiyati means take up, seize, grasp. Further, the prefix upa- (nearness, close
+touch) is also added.
+nibbuto: nibbuta-, Adj.: emancipated, free, reached the Nirvana. It is a p.p.
+of the verb root va- (to blow) with the prefix ni- (off, out). Nom.Sg.m. =
+nibbuto.
+tam: tad-, Pron.: it. Masculine form: so-, he. Acc.Sg. = tam (him).
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+brahmanaj: brahmana-, N.m.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) yo imaj palipathaj duggaj sajsaraj moham accaga tinno paragato jhayi
+anejo akathavkathi (who has overcome this danger, bad place, round of rebirth
+and delusion, who has crossed, gone over to the opposite shore, is meditating,
+free from craving and doubts). The subject is the relative pronoun yo (who,
+nominative singular). It has five attributes, the adjectives tinno (crossed,
+nominative singular), paragato (gone over to the opposite shore, nominative
+singular), jhayi (meditating, nominative singular), anejo (free from craving,
+nominative singular) and akathavkathi (free from doubts, nominative singular).
+The verb is accaga (overcame, 3rd person, singular, active, aorist). There are
+five objects, the pronoun imaj (this, accusative singular) and the nouns
+palipathaj (danger, accusative singular), duggaj (bad place, accusative
+singular), sajsaraj (round of rebirth, accusative singular) and moham
+(delusion, accusative singular).
+    2) tam ahaj brumi brahmanaj (him do I call a Brahmin). The subject is the
+pronoun ahaj (I, nominative singular). The verb is brumi ([I] say, 1st person,
+singular, active, indicative, present tense). The object is the noun brahmanaj
+(Brahmin, accusative singular). It has an attribute, the pronoun tam (him,
+accusative singular).
+===============================================================================
+
+
+Commentary:
+    A princess named Suppavasa was pregnant for an unusually long time. She
+contemplated on the Three Jewels and then sent for the Buddha asking him for
+help. The Buddha recited, "May Suppavasa be free from danger, may she give
+birth to a healthy son." Just as these words were said, Suppavasa gave birth to
+a son.
+    When he grew up, he became a monk named Sivali. Very quickly he attaind the
+Arahantship and was then famous for being able to receive offerings without
+difficulty.
+    Once some monks asked why was his mother pregnant for such a long time. The
+Buddha said that in one of his previous life, Sivali was a prince who lost his
+kingdom and on an advice from his mother he besieged the city of his rival. As
+a result, the people of that city were hungry for several days. For this deed,
+Sivali and his mother had to suffer during the pregnancy and delivery.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yo
+imaj
+palipathaj
+duggaj
+sajsaraj
+moham
+accaga
+tinno
+paragato
+para
+gato
+jhayi
+anejo
+akathavkathi
+anupadaya
+nibbuto
+tam
+ahaj
+brumi
+brahmanaj
+===============================================================================

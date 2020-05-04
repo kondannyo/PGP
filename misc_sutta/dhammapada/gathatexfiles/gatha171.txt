@@ -1,0 +1,133 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** etha passath'imaj lokaj cittaj rajarath'upamaj ******
+          ****** yattha bala visidanti n'atthi savgo vijanataj ******
+                            ****** (DhP 171) ******
+===============================================================================
+
+
+Sentence Translation:
+Come and look at this world, similar to a beautiful king's chariot.
+Where the fools sink down, for those, who understand, there is no attachment.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+etha        passatha   imaj    lokaj   cittaj   raja+ratha+upamaj
+|                    |            |           |            |         |       
+|           |
+V.act.        V.act.   Pron.m.  N.m.    Adj.m. N.m. N.m.   Adj.m.
+2.Pl.imp. 2.Pl.imp. Acc.Sg. Acc.Sg. Acc.Sg.   |____|       Acc.Sg.
+|___________|            |______|             |            |_________|
+         |                             |                   |___________|
+         |                             |________________|
+         |________________________|
+List of Abbreviations
+yattha       bala      visidanti  na       atthi       savgo  vijanataj
+|                  |               |         |            |            
+|             |
+Rel.Adv.   N.m.     V.act.in.  neg.  V.act.in.     N.m.    Adj.m.
+|             Nom.Sg. 3.Pl.pres.   |     3.Sg.pres. Nom.Sg. Gen.Pl.
+|                  |________|          |_______|            |             |
+|______________|                         |__________|_______|
+            |                                                |_____|
+            |_____________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+etha, V.: come. The verb root is i- (to go) with the prefix a- (towards).
+3.Pl.act.imp. = etha.
+passatha, V.: see, look at. The verb root is dis- (to see). 2.Pl.act.imp. =
+passatha.
+imaj: idaj, Pron.: this. Acc.Sg.m. = imaj.
+Euphonic combination: passatha + imaj = passath'imaj.
+lokaj: loka-, N.m.; world.
+cittaj: citta-, Adj.: bright, beautiful. Acc.Sg.m. = cittaj.
+rajarath'upamaj: rajarath'upama-, Adj.: similar to the king's chariot. It is a
+compound of:
+    rajaratha-, N.m.: king's chariots. It is a compound of:
+        rajan-, N.m.: king. The compound form of rajan- is raja-.
+        ratha-, N.m.: chariot.
+upama-, Adj.: similar, -like.
+Euphonic combination: rajaratha- + upama- = rajarath'upama-.
+Acc.Sg.m. = rajarath'upamaj.
+List of Abbreviations
+yattha, Rel.Adv.: where.
+bala: bala-, Adj.: childish, young. As an N.m.: "like a child", fool, ignorant
+person. Nom.Pl. = bala.
+visidanti, V.: sink down, be sad, be dejected. The verb root is sad- (to sink)
+with the prefix vi- (intensifying sense). 3.Pl.act.in.pres. = visidanti.
+na, neg.: not. 158
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = n'atthi.
+savgo: savga-, N.m.: clinging, attachment, bond. Nom.Sg. = savgo.
+vijanataj: vijanant-, Adj.: knowing, understanding. It is an a.pr.p. of the
+verb ba- (to know) with the prefix vi- (intensifying sense). Gen.Pl.m. =
+vijanataj.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) etha passath'imaj lokaj cittaj rajarath'upamaj (come and look at this
+world, similar to a beautiful king's chariot). The subject is omitted; the verb
+implies the second person plural pronoun. There are two verbs, etha (come, 2nd
+person, plural, active, imperative) and passatha (look at, 2nd person, plural,
+active, imperative). The object is the noun lokaj (world, accusative singular).
+It has two attributes, the pronoun imaj (this, accusative singular) and the
+compound rajarath'upamaj (similar to the king's chariot, accusative singular).
+This last word has the adjective cittaj (beautiful, accusative singular) as an
+attribute.
+    2) yattha bala visidanti n'atthi savgo vijanataj (where the fools sink
+down, for those, who understand, there is no attachment). This can be further
+analysed into two segments:
+    a) yattha bala visidanti (where the fools sink down). The subject is the
+noun bala (fools, nominative plural). The verb is visidanti (sink down, 3rd
+person, singular, active, indicative, present tense). The relative adverb
+yattha (where) connects this segment to the following one.
+    b) n'atthi savgo vijanataj (for those, who understand, there is no
+attachment). The subject is the noun savgo (attachment, nominative singular).
+The verb is atthi (is, 3rd person, singular, active, indicative, present
+tense). It is negated by the negative particle na (not). It has an attribute,
+the active present participle vijanataj (for those, who understand, genitive
+plural).
+===============================================================================
+
+
+Commentary:
+    Prince Abhaya was sent to repress some rebellion at the frontier. He did
+this job very successfully and so king Bimbisara gave him the honor of a ruler
+for seven days. He was also given a young dancing girl for entertainment. But
+on the seventh day the girl died from exhaustion. The prince was very shocked
+and sad.
+    He went to see the Buddha, who consoled him with this verse, saying that we
+should not be attached to worldly things.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+etha
+passatha
+imaj
+lokaj
+cittaj
+rajarath'upamaj
+raja
+ratha
+upamaj
+yattha
+bala
+visidanti
+na
+atthi
+savgo
+vijanataj
+===============================================================================

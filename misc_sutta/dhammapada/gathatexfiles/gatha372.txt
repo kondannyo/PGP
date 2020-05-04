@@ -1,0 +1,134 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** natthi jhanaj apabbassa pabba natthi ajhayato ******
+          ****** yamhi jhanaj ca pabba ca sa ve nibbanasantike ******
+                            ****** (DhP 372) ******
+===============================================================================
+
+
+Sentence Translation:
+There is no meditation for the ignorant one. There is no wisdom for someone,
+who does not meditate.
+Who has both wisdom and meditation, he is indeed close to the Nirvana.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na      atthi      jhanaj apabbassa pabba    na      atthi      ajhayato
+|            |              |             |            |          |         
+|              |
+neg. V.act.in.     N.n.      Adj.m.    N.f.     neg.  V.act.in.   Adj.m.
+|      3.Sg.pres. Nom.Sg. Gen.Sg. Nom.Sg.   |    3.Sg.pres. Gen.Sg.
+|_______|              |             |            |         
+|______|             |
+      |____________|_______|            |                |__________|
+                   |_____|                         |______________|
+List of Abbreviations
+yamhi          jhanaj    ca   pabba      ca        sa      ve nibbana+santike
+|                       |           |         |           |          |        
+|       |            |
+Rel.Pron.m.   N.n.     conj.   N.f.     conj. Pron.m. part. N.n.      N.n.
+Loc.Sg.       Nom.Sg.    |    Nom.Sg.    |    Nom.Sg.   |       |       Loc.Sg.
+
+|                       |______|         |______|           |_____|      
+|_______|
+|                             |___________|                       |__________|
+|______________________|                                          |
+                 |____________________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = natthi.
+jhanaj: jhana-, N.n.: meditation, concentration. It is derived from the verb
+root jhe- (to meditate, to concentrate). Nom.Sg. = jhanaj.
+apabbassa: apabba-, Adj.: ignorant, without wisdom. It is derived from the word
+pabba-, N.f. (see below) and the negative prefix a-. Gen.Sg.m. = apabbassa.
+pabba: pabba-, N.f.: wisdom. Nom.Sg. = pabba.
+na: see above.
+atthi: see above.
+ajhayato: ajhayant-, Adj.: not meditating. It is derived from the verb root
+jhe- (to meditate) and the prefix a-. Gen.Sg.m. = ajhayato.
+yamhi: yat-, Rel.Pron.: that, which. Loc.Sg.m. = yamhi.
+List of Abbreviations
+jhanaj: see above.
+ca, conj.: and.
+pabba: see above.
+ca, conj.: and.
+sa: tad-, Pron.n.: it. Nom.Sg.m. = sa (the more usual form is so).
+ve, part.: indeed.
+nibbanasantike: nibbanasantika-, N.n.: close to the Nirvana, the presence of
+the Nirvana. It is a compound of:
+    nibbana-, N.n.: Nirvana, the goal of Buddhism.
+    santika-, N.n.: presence, vicinity.
+Loc.Sg. = nibbanasantike.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) natthi jhanaj apabbassa (there is no meditation for the ignorant one).
+The subject is the noun jhanaj (meditation, nominative singular). The verb is
+atthi (is, 3rd person, singular, active, indicative, present tense). It is
+negated by the negative particle na (not). The verb has an attribute, the
+adjective apabbassa (for the one who is not wise, genitive singular).
+    2) pabba natthi ajhayato (there is no wisdom for someone, who does not
+meditate). The subject is the noun pabba (wisdom, nominative singular). The
+verb is atthi (is, 3rd person, singular, active, indicative, present tense). It
+is negated by the negative particle na (not). The verb has an attribute, the
+adjective ajhayato (for the one who does not meditate, genitive singular).
+    3) yamhi jhanaj ca pabba ca sa ve nibbanasantike (who has both wisdom and
+meditation, he is indeed close to the Nirvana). This can be further analysed
+into two sentences:
+    a) yamhi jhanaj ca pabba ca (who has both wisdom and meditation). There are
+two subjects, the nouns jhanaj (meditation, nominative singular) and pabba
+(wisdom, nominative singular). They are connected by two conjunctions ca (and).
+The verb is omitted, implying the verb "to be". It has an attribute, the
+relative pronoun yamhi (in whom, locative singular). It also connects this
+sentence to the following one.
+    b) sa ve nibbanasantike (he is indeed close to the Nirvana). The subject is
+the pronoun sa (he, nominative singular). It is stressed by the particle ve
+(indeed). The verb is omitted, implying the verb "to be". It has an attribute,
+the compound nibbanasantike (in the presence of the Nirvana, locative
+singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the four previous
+verses (DhP 368 - DhP 371) and for the following four verses (DhP 373 -
+DhP376).
+    Wisdom comes as a product of long and diligent meditation. There is no
+other way to obtain wisdom. On the other hand, one must possess an initial
+small portion of wisdom in order to understand the necessity of meditation. As
+a result, most people never start to meditate or if they do, they tire quickly
+and give up.
+    Only one, who is wise and uses the wisdom in meditation in order to achieve
+even more wisdom, is able to reach the goal of Nirvana.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+atthi
+jhanaj
+apabbassa
+pabba
+ajhayato
+yamhi
+ca
+sa
+ve
+nibbanasantike
+nibbana
+santike
+===============================================================================

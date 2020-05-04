@@ -1,0 +1,142 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+       ****** saritani sinehitani ca somanassani bhavanti jantuno ******
+          ****** te satasita sukhesino te ve jatijarupaga nara ******
+                            ****** (DhP 341) ******
+===============================================================================
+
+
+Sentence Translation:
+People experience joy that is flowing in from the senses and is full of
+desires.
+Those people attached to pleasure and desiring happiness, will undergo birth
+and old age.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+saritani sinehitani   ca somanassani bhavanti   jantuno
+|                  |          |           |                |             |
+Adj.n.     Adj.n.   conj.    N.n.        V.act.in.    N.m.
+Nom.Pl. Nom.Pl.    |     Nom.Pl.    3.Pl.pres. Gen.Sg.
+|__________|          |           |                |_______|
+         |___________|           |                       |
+                   |____________|                       |
+                                |__________________|
+List of Abbreviations
+te          sata+sita     sukha+esino        te       ve   jati+jara+upaga    
+nara
+|               |       |           |         |            |          |      
+|      |        |            |
+Pron.m. N.n. Adj.m. N.n.  Adj.m.  Pron.m. part. N.f. N.f. Adj.m.    N.m.
+Nom.Pl.   |   Nom.Pl.    |   Nom.Pl. Nom.Pl.    |       |___|  Nom.Pl. Nom.Pl.
+|               |____|           |_____|            |______|         
+|______|            |
+|                   |___________|                       |                    
+|                 |
+|________________|___________________|___________|__________|
+                |_______|                                                      
+|
+                       |__________________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+saritani: sarita-, Adj. flowing, set into motion. It is a p.p. of the verb root
+sar- (to flow).
+Nom.Pl.n. = saritani.
+sinehitani: sinehita-, Adj.: lustful, full of desire. It is a p.p. of the verb
+root sineh-, to lust, to desire. Nom.Pl.n. = sinehitani.
+ca, conj.: and.
+somanassani: somanassa-, N.n.: happiness, joy, delight. Nom.Pl. = somanassani.
+bhavanti, V.: are. The verb root is bhu- (to be). 3.Pl.act.in.pres. = bhavanti.
+jantuno: jantu-, N.m.: being, person, man. Gen.Sg. = jantuno.
+te: tat-, Pron.: that. Masculine form sa. Nom.Pl. = te.
+List of Abbreviations
+satasita: satasita-, Adj.: attached to pleasure. It is a compound of:
+    sata-, N.n.: pleasure, joy.
+    sita-, Adj.: attached to, clinging to. It is a p.p. of the verb root si-
+(to lay)
+Nom.Pl. = satasita.
+sukhesino: sukhesin-, Adj.: desiring happiness. It is a compound of:
+    sukha-, N.n.: happiness.
+    esin-, Adj.: seeking, wishing, desiring. It is an a.pr.p. of the verb root
+is- (to desire, to want).
+Euphonic combination: sukha- + esin- = sukhesin-.
+Nom.Pl.m. = sukhesino.
+List of Abbreviations
+te: see above.
+ve, part.: indeed.
+jatijarupaga: jatijarupaga-, Adj.: undergoing birth and old age. It is a
+compound of:
+    jati-, N.f.: birth, rebirth.
+    jara-, N.f.: old age.
+    upaga-, Adj.: experiencing, coming to, undergoing. It is derived from the
+verb root gam- (to go) with the prefix upa- (near, close).
+Euphonic combination: jara- + upaga- = jarupaga-.
+Nom.Pl.m. = jatijarupaga.
+nara: nara-, N.m.: man, person. Nom.Pl. = nara.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) saritani sinehitani ca somanassani bhavanti jantuno (people experience
+joy that is flowing in from the senses and is full of desires). The subject is
+the noun somanassani (joys, nominative plural). It has two attributes, the
+adjectives saritani (flowing, nominative plural) and sinehitani (full of
+desires, nominative plural). They are connected by the conjunction ca (and).
+The verb is bhavanti (are, 3rd person, plural, active, indicative, present
+tense). The object is the noun jantuno (of a person, genitive singular).
+    2) te satasita sukhesino te ve jatijarupaga nara (those people attached to
+pleasure and desiring happiness, will undergo birth and old age). The subject
+is the noun nara (people, nominative plural). It has three attributes: a) the
+pronoun te (they, nominative plural), b) the compound satasita (attached to
+pleasure, nominative plural), c) the compound sukhesino (desiring happiness,
+nominative plural) and d) the second pronoun te (they, nominative plural). This
+last word is stressed by the particle ve (indeed). The verb is omitted,
+implying the verb "to be". The object is the compound jatijarupaga (undergoing
+birth and old age, nominative plural).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the three previous
+verses (DhP 338, Dhp 339 and Dhp 340) and for the two following verses (DhP 342
+and DhP 343).
+    Our senses bring in all kinds of data. We are attached to the pleasures
+coming from these senses. Because of that, we create positive and negative
+karma and this karma will come into fruition in the future as more births and
+deaths for us. The solution is to cut off the attachment to this pleasure and
+with equanimity concentrate on the highest goal, the Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+saritani
+sinehitani
+ca
+somanassani
+bhavanti
+jantuno
+te
+satasita
+sata
+sita
+sukhesino
+sukha
+esino
+ve
+jatijarupaga
+jati
+jara
+upaga
+nara
+===============================================================================

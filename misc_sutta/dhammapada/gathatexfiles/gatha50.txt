@@ -1,0 +1,119 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+            ****** na paresaṃ vilomāni na paresaṃ katākataṃ ******
+             ****** attano va avekkheyya katāni akatāni ca ******
+                            ****** (DhP 50) ******
+===============================================================================
+
+Sentence Translation:
+One should not look at others' wrong deeds, what the others have done or not.
+One should look only at what one oneself has and has not done.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+na   paresaṃ vilomāni  na paresaṃ  kata+akataṃ
+|            |             |        |         |          |         |
+neg.  Adj.m.     N.n.   neg.  Adj.m.  N.n.   N.n.
+|       Gen.Pl.  Acc.Sg.   |     Gen.Pl.   |     Acc.Sg.
+|            |_______|        |         |          |_____|
+|__________|               |         |________|
+         |                         |_________|
+         |__________________|
+                       |______________________________________________________
+List of Abbreviations
+attano     va   avekkheyya katāni   akatāni    ca
+|               |            |              |            |          |
+Pron.m. part.   V.med.       N.n.      N.n.    conj.
+Gen.Sg.    |     3.Sg.opt.    Acc.Pl.  Acc.Pl.     |
+|________|            |              |_______|______|
+       |___________|                        |
+                 |___________________|
+___________________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+na, neg.: not.
+paresaṃ: para-, Adj.m.: other. Gen.Pl. = paresaṃ.
+vilomāni: viloma-, Adj.: wrong, bad. As an N.n.: wrong thing, wrong behavior.
+Acc.Pl. = vilomāni.
+na: see above.
+paresaṃ: see above.
+List of Abbreviations
+katākataṃ: katākata-, N.n.: what is done and undone. A compound of:
+    kata-, Adj.: done. It is a p.p. of the verb root kar- (to do).
+    As an N.n.: done thing, accomplished thing.
+    akata-, Adj.: undone. It is a negated (by the negative prefix a-) word
+kata- (see above).
+    As an N.n.: undone thing, unaccomplished thing.
+Acc.Sg. = katākataṃ.
+attano: attan-, N.m./Pron.: self, oneself. Gen.Sg. = attano.
+va: a contracted form of eva, part.: just, only.
+List of Abbreviations
+avekkheyya, V.: should observe, should look at. The verb ikkh- (to see) with
+the prefix ava- (down, over). 3.Sg.med.opt. = avekkheyya.
+katāni: kata-, N.n.: see above. Acc.Pl. = katāni.
+akatāni: akata-, N.n.: see above. Acc.Pl. = akatāni.
+ca, conj.: and.
+ 
+List of Abbreviations
+    The two lines of this verse form two parenthetic sentences. There is no
+subject in any of them. The third person singular pronoun is implied.
+    In the first sentence, the verb is omitted. The verb avekkheyya from the
+second sentence serves also as the verb for this sentence, but it is negated by
+two negative particles na (not). There are two objects, vilomāni (wrong deeds,
+accusative plural) and katākataṃ (what is done and undone, accusative
+singular). They both have an attribute, the adjective paresaṃ (others',
+genitive plural).
+    In the second sentence, the verb is avekkheyya (one should look at, 3rd
+person, singular, medium, optative). There are two objects, katāni (what is
+done, accusative plural) and akatāni(what is undone, accusative plural). They
+are connected by the conjunctionca (and). The objects have an attribute, the
+pronoun attano (oneself's, genitive singular) which is strengthened by the
+particle va (more often as eva; just, only).
+
+===============================================================================
+
+Commentary:
+    In Sāvatthi once lived a lady who was a disciple of the ascetic Pāthika.
+All her friends and neighbors were the disciples of the Buddha and she often
+wanted to go to the monastery herself, to hear the Buddha's teachings. But
+Pāthika always prevented her from going there.
+    So she invited the Buddha to her house for almsgiving instead. He came
+together with many monks and after the meal he delivered a teaching. She was
+very impressed and happy and exclaimed, "Well said!"
+    Pāthika heard this from the next room and became very angry. He left the
+house, cursing the woman and the Buddha.
+    The lady was very embarrassed by this. But the Buddha advised her not to be
+concerned about others' curses, but to be only mindful of her own good and bad
+deeds. At the end she attained the first stage of Awakenment.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+paresaṃ
+vilomāni
+katākataṃ
+kata
+akataṃ
+attano
+va
+avekkheyya
+katāni
+akatāni
+ca
+
+===============================================================================

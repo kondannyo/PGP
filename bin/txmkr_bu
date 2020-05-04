@@ -1,0 +1,219 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Oct 29 13:44:17 2017
+
+@author: kondanno
+"""
+
+import argparse
+import unicodedata
+import os
+import re
+import sys
+import itertools
+from subprocess import call
+from colorama import init, Fore
+from glosstext import make_dictionary, split_words, basic_gloss_word
+
+# personal files
+import glconvention as gc
+import txmakerwrapper
+
+error_free = True
+
+def reader(path):
+        file = open(str(path), 'r', encoding='utf-8')
+        text = file.read()
+        # Remove any decomposed characters
+        text_file = unicodedata.normalize('NFC', text)
+        return text_file
+
+
+def writer(path, output):
+        file = open(str(path), 'w', encoding='utf-8')
+        for i in output:
+            print(i)
+            strg = str(i) + '\n'
+            file.write(strg)
+
+
+def filecheck(path):
+        file = open(str(path), 'r', encoding='utf-8')
+        text = file.read()
+        # Remove any decomposed characters
+        text_file = unicodedata.normalize('NFC', text)
+        for line in text_file:
+            print(line)
+
+
+def pathcheck(desc, os_object, quite):
+    global error_free
+    if not quite:
+        print(Fore.LIGHTYELLOW_EX + 'Target: ', desc)
+        print('    ', Fore.CYAN + os_object, end="")
+        if os.path.exists(os_object):
+            print(Fore.GREEN + ' Found')
+        else:
+            error_free = False
+            print(Fore.RED + ' NOT Found')
+
+
+def parse_args(master_path):
+    parser = argparse.ArgumentParser(description="Gloss Maker - Generate Latex\
+                                     Markup for 'Expex' glossing package.")
+    parser.add_argument('project', type=str, help='The primary text file to be\
+                        glossed', metavar="'string'")
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument(
+        '-g', '--gloss', action="store_true", help='gloss primary text')
+    group.add_argument(
+        '-n', '--nogloss', action="store_true", help='NO glossing')
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument(
+        '-d', '--dual', action="store_true", help='2 language, 2 page output')
+    group.add_argument(
+        '-a', '--alt', action="store_true", help='2 language, alternate line output')
+    group.add_argument(
+        "-s", "--single", action="store_true", help='Single language gloss')
+    parser.add_argument(
+        '-o', '--output', type=str,
+        help='Output file: default = project + "_gloss.tex"')
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument(
+        '-v', '--verbose', help='Verbose output - default', action="store_true")
+    group.add_argument(
+        '-q', '--quite', help='Quite output', action="store_true")
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument(
+        '-ad', '--add_dash', help='Add a dash for blank lines', action="store_true")
+    group.add_argument(
+        '-nd', '--no_dash', help='Leave blank lines', action="store_true")
+    try:
+        args = parser.parse_args()
+    except:
+        parser.print_help()
+        sys.exit(0)
+    # if no glossing option selected, default to gloss
+    if (not args.gloss and
+        not args.nogloss):
+        args.gloss = True
+    # if no option set for files/print layout, default to 2 lang/2 page
+    if (not args.alt and
+        not args.dual and
+        not args.single):
+        args.dual = True
+    # if no verbosity set, set default as verbose
+    if not args.verbose and not args.quite:
+        args.verbose = True
+    # if set dash as default if not no_dash
+    if not args.add_dash and not args.no_dash:
+        args.dash = True
+    else:
+        args.dash = False
+    print('Dash: ', args.dash)
+    # set files based upon conventions
+    if args.alt or args.dual:
+        args.pali = args.project + gc.pali_ext
+        args.pali = os.path.join(master_path, args.project, args.pali)
+        pathcheck('pali file', args.pali, args.quite)
+        args.eng = args.project + gc.eng_ext
+        args.eng = os.path.join(master_path, args.project, args.eng)
+        pathcheck('english file', args.eng, args.quite)
+    else:
+        args.pali = args.project + gc.pali_ext
+        args.pali = os.path.join(master_path, args.project, args.pali)
+        pathcheck('pali file', args.pali, args.quite)
+        args.eng = ''
+    if args.gloss:
+        args.pali_dict = args.project + gc.pali_gl
+        args.pali_dict = os.path.join(master_path, args.project, args.pali_dict)
+        pathcheck('dictionary file', args.pali_dict, args.quite)
+
+    return args
+
+
+def main():
+    # Initialize Colorama to reset after each color print
+    init(autoreset=True)
+    home = os.environ['HOME']
+    master_path = os.path.join(home, gc.glpath)
+    pathcheck('master_path', master_path, False)
+    args = parse_args(master_path)
+    if not error_free:
+        print(Fore.RED + 'Exit with Error')
+        sys.exit()
+    if args.gloss:
+        outpath = args.project + gc.gloss
+        pali_dict = make_dictionary(args.pali_dict, 'Pali')
+        eng_dict = {}
+    else:
+        if args.dual:
+            outpath = args.project + gc.paracol
+        else:
+            if args.alt:
+                outpath = args.project + gc.alternating
+            else:
+                print("Single Language")
+                outpath = args.project + gc.alternating
+    outpath = os.path.join(master_path, args.project, outpath)
+    output = []
+    out_file = open(outpath, 'w', encoding='utf-8')
+    if args.single:
+        with open(args.pali) as pali_file:
+            for pali_line in pali_file:
+                pali_line = pali_line.rstrip()
+                output = []
+                for word in split_words(pali_line):
+                    output.append(basic_gloss_word(pali_dict, word, 'English'))
+                glossed_text = ' '.join(output)
+                out_file.write(glossed_text)
+    else:
+        with open(args.pali) as pali_file:
+            with open(args.eng) as eng_file:
+                for pali_line, eng_line in zip(pali_file, eng_file):
+                    pali_line = pali_line.rstrip()
+                    eng_line = eng_line.rstrip()
+                    pali_output, glossed_pali = [], ''
+                    eng_output = []
+#                    print("pali_line: '" + pali_line + "'\n")
+#                    print("eng_line: '" + eng_line + "'\n")
+                    if not pali_line and not eng_line:
+                        out_file.write('\n\\vskip 0.1in')
+                        continue
+                    if args.gloss:
+                        for word in split_words(pali_line):
+                            pali_output.append(basic_gloss_word(pali_dict, word, 'English'))
+                            glossed_pali = ' '.join(pali_output)
+                        if args.dual:
+                            for word in split_words(eng_line):
+                                eng_output.append(basic_gloss_word(eng_dict, word, 'English'))
+                                glossed_eng = ' '.join(eng_output)
+                        else:  # i.e. alt
+                            glossed = txmakerwrapper.alt.format(glossed_pali, eng_line)
+                            out_file.write(glossed)
+                    else:
+                        if args.dual:
+                            glossed = txmakerwrapper.paracol.format(pali_line, eng_line)
+                        else:
+                            if eng_line:
+                                glossed = txmakerwrapper.alternating.format(pali_line, eng_line)
+                            else:
+                                if args.dash:
+                                    eng_line = "    -"
+                                    glossed = txmakerwrapper.alternating.format(pali_line, eng_line)
+                                else:
+                                    glossed = txmakerwrapper.alternating_noenglish.format(pali_line)
+                        out_file.write(glossed)
+    out_file.close()
+    call(["head", "-30", "{}".format(outpath)])
+
+#    for word in split_words(text):
+#        output.append(gloss_word(dictionary, word, 'English'))
+#    glossed_text = ' '.join(output)
+#
+#    write_text(output_path, glossed_text)
+
+if __name__ == '__main__':
+    main()
+

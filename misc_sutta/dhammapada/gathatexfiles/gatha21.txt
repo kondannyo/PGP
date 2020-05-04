@@ -1,0 +1,123 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+            ****** appamādo amatapadaṃ pamādo maccuno padaṃ ******
+           ****** appamattā na mīyanti ye pamattā yathā matā ******
+                            ****** (DhP 21) ******
+===============================================================================
+
+Translation:
+Conscientiousness is the state of deathlessness. Negligence is the state of
+death.
+The conscientious ones do not die. Those, who are negligent, are as if dead.
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+a+ppamādo    a+mata+padaṃ    pamādo  maccuno    padaṃ
+|          |          |      |         |              |              
+|              |
+neg. N.m.    neg. N.n.   N.n.        N.m.        N.m.        N.n.
+|     Nom.Sg.   |     |    Nom.Sg.  Nom.Sg.   Gen.Sg.   Nom.Sg.
+|_____|           |___|          |              |               |________|
+     |                   |_______|              |____________|
+     |______________|
+List of Abbreviations
+a+ppamattā    na    mīyanti        ye         pamattā    yathā       matā
+|           |          |          |                |              
+|             |              |
+neg.  Adj.m.  neg.  V.med.in.  Rel.Pron.  Adj.m.   Rel.Adv.   Adj.m.
+|      Nom.Pl.   |      3.Pl.pres.   Nom.Pl.  Nom.Pl.       |         Nom.Pl.
+|______|          |______|               |________|              |________|
+     |____________|                             |________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+appamādo: appamāda-, N.m.: conscientiousness, non-negligence. A negated (by the
+negative prefixa-) word pamāda-, N.m.: negligence. Doubled p is due to the
+euphonic combination (a + pamāda = appamāda). Nom.Sg. = appamādo.
+amatapadaṃ: amatapada-, N.n.: state of deathlessness. A compound of:
+    amata-, N.n.: deathlessness. A negated (by the negative prefix a-) word
+mata-, Adj.: dead. A p.p. of mar- (to die).
+    pada-, N.n.: state, place.
+Nom.Sg. = amatapadaṃ.
+pamādo: pamāda-, N.m.: negligence. Nom.Sg. = pamādo.
+List of Abbreviations
+maccuno: maccu-, N.m.: death. Gen.Sg. = maccuno.
+padaṃ: pada-, N.n.: state, place. Nom.Sg. = padaṃ.
+appamattā: appamatta-, Adj.: conscientious, non-negligent. A negated (by the
+negative prefixa-) word pamatta-, Adj.: negligent. It is a p.p. of the verb
+mad-(to be intoxicated) with the strengthening prefixpa- (thus pamajjati = to
+be careless, to neglect).
+Doubledp is due to the euphonic combination (a + pamatta = appamatta).
+Nom.Pl. = appamattā.
+List of Abbreviations
+na, neg.: not.
+mīyanti, V.: die. The verb mar- (to die). 3.pl.in.med.pres. = mīyanti.
+ye: yat-, Rel.Pron.: those, who. Nom.Pl.m. = ye.
+pamattā: pamatta-, Adj.: negligent. It is a p.p. of the verb mad- (to be
+intoxicated) with the strengthening prefix pa- (thus pamajjati = to be
+careless, to neglect).
+Nom.Pl. = pamattā.
+yathā, Rel.Adv.: as if, like.
+matā: mata-, Adj.: dead. A p.p. of the verbmar- (to die). Nom.Pl.m. = matā.
+List of Abbreviations
+    This verse consists of four practically separated sentences. First of them
+is appamādo amatapadaṃ (conscientiousness is the state of deathlessness). The
+subject is the word appamādo (conscientiousness, nominative singular). The verb
+to be is omitted. The object is the word amatapadaṃ (state of deathlessness,
+nominative singular).
+    Second sentence is pamādo maccuno padaṃ (negligence is the state of death).
+The subject is the word pamādo(negligence, nominative singular). Again, the
+verb to be is omitted. The object is the word padaṃ(state, nominative singular)
+with the attribute maccuno (death's, genitive singular).
+    Third sentence is appamattā na mīyanti(the conscientious ones do not die).
+Here the subject is appamattā (the conscientious ones, nominative plural). The
+verb here is mīyanti (die, 3rd person, plural, medium, indicative, present
+tense) and it is negated by the negative particle na (not).
+    Last sentence is ye pamattā yathā matā (those, who are negligent, are as if
+dead). This is actually a compound sentence. The first half is ye pamattā
+(those, who are negligent). The subject isye (those, who, nominative plural).
+The verb to be is omitted. The object is pamattā (negligent, nominative
+plural). The second part is yathā matā(as if dead). Here the subject should be
+te (they) but it is omitted, as is the verb to be. The object is the word matā
+(dead, nominative plural). The relative adverb yathā(as, like) connects the two
+halves of this sentence.
+===============================================================================
+
+Commentary:
+    Conscientiousness is one of the most important characteristics to be
+developed. Without it, we can not proceed on our path towards awakenment. If we
+are negligent, how can we find energy to purify our minds?
+    So, the conscientiousness is the path to deathlessness. Only with it we can
+find our way to the final goal, Nirvana, which is the deathless state.
+Negligence on the other hand is the way to the repeated cycle of birth and
+death.
+    Conscientious people are able to reach the Nirvana, thus escaping the cycle
+of rebirths, whereas those, who are negligent, can not escape. They might as
+well be dead already.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+appamādo
+amatapadaṃ
+pamādo
+maccuno
+padaṃ
+appamattā
+na
+mīyanti
+ye
+pamattā
+yathā
+matā
+===============================================================================

@@ -1,0 +1,120 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** alajjitaye lajjanti lajjitaye na lajjare ******
+          ****** micchaditthisamadana satta gacchanti duggatij ******
+                            ****** (DhP 316) ******
+===============================================================================
+
+
+Sentence Translation:
+They are ashamed of what is not shameful. They are not ashamed of what is
+shameful.
+Believing in wrong theories, the beings go to a miserable existence.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+alajjitaye  lajjanti  lajjitaye  na      lajjare
+|                   |           |          |           |
+Adj.m.   V.act.in.  Adj.m.  neg. V.med.in.
+Loc.Sg. 3.Pl.pres. Loc.Sg.    |    3.Pl.pres.
+|__________|            |          |______|
+                               |_________|
+List of Abbreviations
+miccha+ditthi+samadana  satta    gacchanti duggatij
+|               |             |            |              |             |
+Adv.      N.f.      Adj.m.    N.m.    V.act.in.     N.f.
+|________|        Nom.Pl. Nom.Pl. 3.Pl.pres. Acc.Sg.
+       |____________|            |              |________|
+                  |_____________|                     |
+                               |__________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+alajjitaye: alajjitaya-, Adj: what one should not be ashamed of, what is not
+shameful. It is the word lajjitaya-, Adj. (what one should be ashamed of, what
+is shameful; it is a grd. of the verb root lajj-, see below) negated by the
+negative prefix a-. Loc.Sg.m. = alajjitaye.
+lajjanti, V.: are ashamed, are abashed. The verb root is lajj-.
+3.Pl.act.in.pres. = lajjanti.
+lajjitaye: lajjitaya-, Adj.: what one should be ashamed of, what is shameful.
+See above under alajjitaya-. Loc.Sg.m. = lajjitaye.
+na, neg.: not.
+lajjare, V.: are ashamed, are abashed. The verb root is lajj-.
+3.Pl.med.in.pres. = lajjare.
+List of Abbreviations
+micchaditthisamadana: micchaditthisamadana-, Adj.: believing in a wrong theory.
+It is a compound of:
+    miccha, Adv.: wrongly, badly.
+    ditthi-, N.f.: view, belief, theory, idea. It is derived from the verb root
+dis- (to see).
+    samadana-, N.m.: undertaking, taking upon oneself. The verb root is da- (to
+give) with the prefixes sam- (completely) and a- (towards).
+Nom.Pl.m. = micchaditthisamadana.
+satta: satta-, N.m.: being. Nom.Pl. = satta.
+gacchanti, V.: goes. The verb root is gam-. 3.Pl.in.act.pres. = gacchanti.
+duggatij: duggati-, N.f.: a miserable existence, a realm of misery, undesirable
+rebirth. Composed of:
+    du-, pref.: bad, difficult.
+    gati-, N.f.: existence, rebirth. Derived from the verb gam- (to go).
+Acc.Sg. = duggatij.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) alajjitaye lajjanti (they are ashamed of what is not shameful). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is lajjanti (are ashamed, 3rd person, plural, active, indicative, present
+tense). The object is the gerund alajjitaye (of what is not shameful, locative
+singular).
+    2) lajjitaye na lajjare (they are not ashamed of what is shameful). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is lajjare (are ashamed, 3rd person, plural, medium, indicative, present
+tense). It is negated by the negative particle na (not). The object is the
+gerund lajjitaye (of what is shameful, locative singular).
+    3) micchaditthisamadana satta gacchanti duggatij (believing in wrong
+theories, the beings go to a miserable existence). The subject is the noun
+satta (beings, nominative plural). It has an attribute, the adjective compound
+micchaditthisamadana (believing in wrong theories, nominative plural). The verb
+is gacchanti (go, 3rd person, plural, active, indicative, present tense). The
+object is the noun duggatij (to a miserable existence, accusative singular).
+===============================================================================
+
+
+Commentary:
+    A group of monks once saw some naked ascetics on their almsround. They were
+naked but they had their bowls covered with a piece of cloth. The monks
+remarked that perhaps they should put the cloth on the front part of the body.
+The naked ascetics retorted that they cover their bowls because they do not
+want insect and miniature life-form to enter the bowl and be killed by them
+later.
+    The monks returned to the monastery and told the story to the Buddha. The
+Buddha reacted with this verse (and the following one, DhP 317), saying that
+one who is ashamed of what is not shameful, but not ashamed of a shameful
+thing, surely will undergo a bad rebirth.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+alajjitaye
+lajjanti
+lajjitaye
+na
+lajjare
+micchaditthisamadana
+miccha
+ditthi
+samadana
+satta
+gacchanti
+duggatij
+===============================================================================

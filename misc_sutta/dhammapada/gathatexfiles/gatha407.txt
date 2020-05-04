@@ -1,0 +1,131 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** yassa rago ca doso ca mano makkho ca patito ******
+           ****** sasaporiva aragga tam ahaj brumi brahmanaj ******
+                            ****** (DhP 407) ******
+===============================================================================
+
+
+Sentence Translation:
+Who has destroyed passion, hatred, conceit and hypocrisy,
+as if a mustard seed falls down from the head of an arrow - him do I call a
+Brahmin.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yassa            rago     ca     doso     ca     mano    makkho    ca    patito
+
+|                      |          |         |          |         |            
+|            |         |
+Rel.Pron.m.  N.m.   conj.   N.m.   conj.   N.m.      N.m.    conj.  Adj.m.
+Gen.Sg.      Nom.Sg.   |    Nom.Sg.   |    Nom.Sg. Nom.Sg.    |    Nom.Sg.
+|                      |______|        |______|         |_______|           
+|          |
+|                            |                    |                    
+|__________|          |
+|                            |___________|_________________|                  
+|
+|                                                              
+|____________________|
+|_____________________________________________|
+                                    
+|_____________________________________________
+List of Abbreviations
+sasapo+r+iva  aragga    tam      ahaj      brumi   brahmanaj
+|                |         |           |            |             
+|             |
+N.m.      part.   N.n.   Pron.m.   Pron.    V.act.in.    N.m.
+Nom.Sg.    |    Abl.Sg. Acc.Sg. Nom.Sg. 1.Sg.pres. Acc.Sg.
+|_________|_____|           |            |              |             |
+_____|                             |            |              |            |
+    |___________________|            |              |            |
+                       |_______________|________|_______|
+                                                   |      |____|
+                                                   |______|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yassa: yat-, Rel.Pron.: that, which. Gen.Sg.m. = yassa (whose).
+rago: raga-, N.m.: passion. Nom.Sg. = rago.
+ca, conj.: and.
+doso: dosa-, N.m.: ill-will, hatred, anger. Nom.Sg. = doso.
+mano: mana-, N.m.: , N.m.: pride, conceit. Nom.Sg. = mano.
+makkho: makkha-, N.m.: hypocrisy. Nom.Sg. = makkho.
+patito: patita-, Adj.: made to fall down, destroyed, killed. It is a p.p. of
+the causative of the verb root pat- (to fall). Nom.Sg.m. = patito.
+List of Abbreviations
+sasapo: sasapa-, N.m.: mustard seed. Nom.Sg. = sasapo.
+iva, part.: like, as (another, more often used form of this word is va).
+Euphonic combination: sasapo + iva = sasaporiva.
+aragga: aragga-, N.n.: the head of an arrow. Abl.Sg. = aragga.
+tam: tad-, Pron.: it. Masculine form: so-, he. Acc.Sg. = tam (him).
+ahaj, Pron.: I. Nom.Sg. = ahaj.
+brumi, V.: [I] say, proclaim. The verb root is bru-. 1.Sg.act.in.pres. = brumi.
+brahmanaj: brahmana-, N.m.: Brahmin, a holy man. Acc.Sg. = brahmanaj.
+List of Abbreviations
+    This verse consists of two related sentences. They are:
+    1) yassa rago ca doso ca mano makkho ca patito sasaporiva aragga (who has
+destroyed passion, hatred, pride and hypocrisy, as if a mustard seed falls down
+from the head of an arrow). This can be further analyzed into the main sentence
+a) and the clause b):
+    a) yassa rago ca doso ca mano makkho ca patito (who has destroyed passion,
+hatred, conceit and hypocrisy). There are four subjects, the nouns rago
+(passion, nominative singular), doso (hatred, nominative singular), mano
+(conceit, nominative singular) and makkho (hypocrisy, nominative singular).
+They are connected by several conjunctions ca (and). The verb is omitted,
+implying the verb "to be". It has an attribute, the adjective patito (made to
+fall down, nominative singular). The relative pronoun yassa (whose, genitive
+singular) connects the sentence to the following one.
+    b) sasaporiva aragga (as if a mustard seed falls down from the head of an
+arrow). The subject is the noun sasapo (mustard seed, nominative singular). It
+has an attribute, the noun aragga (from the head of an arrow, ablative
+singular). The particle iva (as, like) connects the clause to the main
+sentence.
+    2) tam ahaj brumi brahmanaj (him do I call a Brahmin). The subject is the
+pronoun ahaj (I, nominative singular). The verb is brumi ([I] say, 1st person,
+singular, active, indicative, present tense). The object is the noun brahmanaj
+(Brahmin, accusative singular). It has an attribute, the pronoun tam (him,
+accusative singular).
+===============================================================================
+
+
+Commentary:
+    Two brothers, Mahapanthaka and Culapanthaka became monks. But whereas
+Mahapanthaka soon became an Arahant, Culapanthaka was quite dull and could not
+make any progress. His brother then suggested that maybe it would be better for
+him to return to the lay life.
+    The monks thought that he spoke out of anger and asked the Buddha if
+Arahants still have any anger left in them. The Buddha said that Mahapanthaka
+acted as he thought was the best for his brother - there was no anger at all.
+    See also the story for gatha 25.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yassa
+rago
+ca
+doso
+mano
+makkho
+patito
+sasapo
+iva
+aragga
+tam
+ahaj
+brumi
+brahmanaj
+===============================================================================

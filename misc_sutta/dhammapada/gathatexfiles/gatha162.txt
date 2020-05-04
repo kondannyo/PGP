@@ -1,0 +1,138 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** yassa accantadussilyaj maluva salam iv'otthataj ******
+          ****** karoti so tath'attanaj yatha naj icchati diso ******
+                            ****** (DhP 162) ******
+===============================================================================
+
+
+Sentence Translation:
+Who is of extremely bad morality, like a creeper spread over a Sala tree,
+he will do unto himself, what an enemy wishes to do unto him.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yassa     accanta+dussilyaj maluva   salam    iva  otthataj
+|                 |              |             |            |         
+|          |
+Rel.Pron. Adj.         N.n.       N.f.       N.m.   part.   Adj.n.
+Gen.Sg.      |         Nom.Sg. Nom.Sg. Acc.Sg.   |     Nom.Sg.
+|                 |________|             |            |_____|______|
+|_____________|                      |_________|     |
+            |                                         |________|
+            |___________________________|________________________________
+List of Abbreviations
+karoti           so      tatha attanaj yatha       naj      icchati       diso
+|                    |           |         |           |            
+|             |              |
+V.act.in.    Pron.m. Adv.   N.m.  Rel.Adv. Pron.m. V.act.in.     N.m.
+3.Sg.pres. Nom.Sg.    |    Acc.Sg.     |         Acc.Sg. 3.Sg.pres. Nom.Sg.
+|___________|______|_____|           |              |_______|              |
+            |____|           |                     |                    
+|___________|
+                |________|                     |__________________|
+                       |________________________|
+________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yassa: yat-, Rel.Pron.: that, which. Gen.Sg.m. = yassa (whose).
+accantadussilyaj: accantadussilya-, N.n.: extremely bad morality. It is a
+compound of:
+    accanta-, Adj.: extreme, complete, thorough, absolute.
+    dussilya-, N.n.: bad conduct, behavior, character. It is the word silya-,
+N.n.: conduct, behavior, character, with a prefix du- (bad). Euphonic
+combination: du- + silya- = dussilya-.
+Nom.Sg. = accantadussilyaj.
+maluva: maluva-, N.f.: creper. Nom.Sg. = maluva.
+salam: sala-, N.m.: a Sala tree, a kind of tree. Acc.Sg. = salam.
+iva, part.: like, as (another, more often used form of this word is va).
+otthataj: otthata-, Adj.: spread over, strewn over. It is a p.p. of the verb
+root thar- (or thar-; to spread) with the prefix ava- (over). We would expect
+the Nom.Sg.f. (otthata) here, but the Nom.Sg.n. (otthataj) is used instead,
+because of metrical reasons.
+Euphonic combination: iva + otthataj = iv'otthataj.
+List of Abbreviations
+karoti, V,: do. The verb root kar-. 3.Sg.in.act.pres. = karoti.
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+tatha, Adv. thus, in such way.
+attanaj: attan-, N.m.: self, oneself. Acc.Sg. = attanaj.
+Euphonic combination: tatha + attanaj = tath'attanaj.
+yatha, Rel.Adv.: as, just like.
+naj: ena-, Pron. In Pali used only in Acc.Sg.m.: naj (him).
+icchati, V.: wants. The verb root is is-. 3.Sg.act.in.pres. = icchati.
+diso: disa-, N.m.: enemy. Nom.Sg. = diso.
+List of Abbreviations
+    The main sentence is in the second line. It runs:
+    karoti so tath'attanaj yatha naj icchati diso (he will do to himself, what
+an enemy wishes [to do unto] him). This can be further analysed into two
+segments:
+    1) karoti so tath'attanaj (he will do to himself). The subject is the
+pronoun so (he, nominative singular). The verb is karoti (does, 3rd person,
+singular, active, indicative, present tense). The object is the noun attanaj
+(to himself, accusative singular). The adverb tatha (thus, in such way)
+introduces the sentence and connects it to the following segment.
+    2) yatha naj icchati diso (what an enemy wishes [to do unto] him). The
+subject is the noun diso (enemy, nominative singular). The verb is icchati
+(wants, 3rd person, singular, active, indicative, present tense). The object is
+the pronoun naj (him, accusative singular). The relative adverb yatha (as, in
+what way) introduces the sentence and connects it to the preceding segment.
+    In the first line, there are two clauses. They are:
+    a) yassa accantadussilyaj (who is of extremely bad morality). The subject
+is the compound noun accantadussilyaj (extreme bad morality, nominative
+singular). The relative pronoun yassa (whose, genitive singular) connects the
+clause to the main sentence.
+    b) maluva salam iv'otthataj (like a creeper spread over a Sala tree). The
+subject is the noun maluva (creeper, nominative singular). It has an attribute,
+the past participle otthataj (spread over, nominative singular; as we said, the
+feminine form otthata would be expected here). This past participle also
+fulfills the role of a verb. The object is the noun salam (on a Sala tree,
+accusative singular). The particle iva (like, as) connects the clause to the
+main sentence.
+===============================================================================
+
+
+Commentary:
+    Some monks were discussing the subject of Devadatta, the Buddha's cousin,
+amongst themselves. They summed up all his bad actions: he got the confidence
+of prince Ajatasattu by unfair means, thus trying to gain fame. He instigated
+the prince to kill his own father, king Bimbisara and to become the king
+himself. Devadatta even tried to kill the Buddha for three times.
+    The monks reported the matter to the Buddha and added that Devadatta was a
+man without shame and morality. The Buddha then said that Devadatta was trying
+to kill him in many if the past lives. The Buddha spoke this verse, saying that
+immoral people will destroy themselves - just like a creeper strangles the tree
+on which it is spread.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yassa
+accantadussilyaj
+accanta
+dussilyaj
+maluva
+salam
+iva
+otthataj
+karoti
+so
+tatha
+attanaj
+yatha
+naj
+icchati
+diso
+===============================================================================

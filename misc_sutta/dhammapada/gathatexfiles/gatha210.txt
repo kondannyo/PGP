@@ -1,0 +1,119 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** ma piyehi samagabchi appiyehi kudacanaj ******
+         ****** piyanaj adassanaj dukkhaj appiyanaj ca dassanaj ******
+                            ****** (DhP 210) ******
+===============================================================================
+
+
+Sentence Translation:
+Don't associate with the dear ones, and never with those who are unloved.
+Not seeing the dear ones is suffering - and seeing the unloved ones.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+ma   piyehi samagabchi appiyehi kudacanaj
+|           |             |               |              |
+neg. Adj.m.    V.act.      Adj.m.      Adv.
+|       Ins.Pl.  2.Sg.aor.    Ins.Pl.          |
+|______|_______|               |________|
+     |___|                                    |
+         |_____________________|
+List of Abbreviations
+piyanaj adassanaj dukkhaj appiyanaj ca  dassanaj
+|                    |              |                |          |          |
+Adj.m.     Nom.n.      N.n.         Adj.m.  conj.    N.n.
+Gen.Pl.   Nom.Sg.  Nom.Sg.     Gen.Pl.     |     Nom.Sg.
+|___________|              |                |______|_____|
+         |______________|                      |___|
+                     |______________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+ma, neg.: not, do not. Used with verbs in imperative and aorist instead of the
+more usual negative particle na.
+piyehi: piya-, Adj.: dear, agreeable. Ins.Pl.m. = piyehi.
+samagabchi, V.: meet, come together, associate with. The verb root is gam- (to
+go) with the prefixes a- (towards) and sam- (together). 2.Sg.act.aor. =
+samagabchi.
+appiyehi: appiya-, Adj.: unpleasant, not agreeable. It is the word piya- (see
+above) negated by the negative prefix a-. Euphonic combination: a- + piya- =
+appiya-. Ins.Pl.m. = appiyehi.
+kudacanaj, Adv.: at any time (ma kudacanaj, as in this verse: never).
+List of Abbreviations
+piyanaj: piya-, Adj.: see above. Gen.Pl. = piyanaj.
+adassanaj adassana-, N.n.: invisibility, not seeing. It is a negated (by the
+negative prefix a-) word dassana-, N.n.: seeing, which is derived from the verb
+root das- (to see). Nom.Sg. = adassanaj.
+dukkhaj: dukkha-, N.n.: suffering. Nom.Sg. = dukkhaj.
+appiyanaj: appiya-, Adj.: see above. Gen.Pl.m. = appiyanaj.
+ca, conj.: and.
+dassanaj: dassana-, N.n.: seeing. It is derived from the verb root das- (to
+see). Nom.Sg. = dassanaj.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) ma piyehi samagabchi appiyehi kudacanaj(don't associate with the dear
+ones, and never with those who are unloved). This can be further analysed into
+two parts:
+    a) ma piyehi samagabchi(don't associate with the dear ones). The subject is
+omitted; the verb implies the second person singular pronoun. The verb is
+samagabchi (associate, 2nd person, singular, active, aorist). It is negated by
+the negative particle ma (do not). The object is the adjective piyehi (with the
+dear ones, instrumental plural).
+    b) appiyehi kudacanaj(and never with those who are unloved). The subject
+and verb are omitted, the verb from the first part of the sentence (samagabchi)
+is also the verb of this segment. It has an attribute, the adverb kudacanaj
+(always), which is negated by the negative particle ma (not) from the first
+part of the sentence. The object is the adjective appiyehi (with unloved ones,
+instrumental plural).
+    2)piyanaj adassanaj dukkhaj appiyanaj ca dassanaj (not seeing the dear ones
+is suffering - and seeing the unloved ones). This can be further analysed into
+two segments:
+    a) piyanaj adassanaj dukkhaj (not seeing the dear ones is suffering). The
+subject is the noun adassanaj (not seeing, nominative singular). It has an
+attribute, the adjective piyanaj (of dear ones, genitive plural). The verb is
+omitted, implying the verb "to be". The object is the noun dukkhaj (suffering,
+nominative singular).
+    b) appiyanaj ca dassanaj (and seeing the unloved ones). The subject is the
+noun dassanaj (seeing, nominative singular). It has an attribute, the adjective
+appiyanaj (of the unloved ones, genitive plural). The verb is omitted; the verb
+"to be" is implied. The object is the noun dukkhaj from the previous part of
+the sentence.
+===============================================================================
+
+
+Commentary:
+    The story of this verse is identical with the one for the previous (DhP
+209) and the following (DhP 211) verses.
+    Meeting people one does not like is truly suffering. Therefore we should
+avoid seeing them at all. But what about the ones we love? We suffer when they
+are away or when they die. So, it is best to avoid meeting them too and rather
+concentrate on the goal and meditate with strong effort.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+ma
+piyehi
+samagabchi
+appiyehi
+kudacanaj
+piyanaj
+adassanaj
+dukkhaj
+appiyanaj
+ca
+dassanaj
+===============================================================================

@@ -1,0 +1,113 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** arogyaparama labha santutthiparamaj dhanaj ******
+           ****** vissasaparama bati nibbanaj paramaj sukhaj ******
+                            ****** (DhP 204) ******
+===============================================================================
+
+
+Sentence Translation:
+Health is the highest gain. Contentment is the highest wealth.
+Trusted people are the best relatives. Nirvana is the highest happiness.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+arogya+parama    labha santutthi+paramaj  dhanaj
+|                |             |           |             |               |
+N.n.      Adj.m.     N.m.    N.f.       Adj.n.       N.n.
+|           Nom.Pl.  Nom.Pl.    |       Nom.Sg.  Nom.Sg.
+|_________|             |           |_______|               |
+        |____________|                  |____________|
+List of Abbreviations
+vissasa+parama    bati   nibbanaj paramaj  sukhaj
+|                |            |             |              |              |
+N.m.    Adj.m.     N.m.      N.n.       Adj.n        N.n.
+|          Nom.Pl. Nom.Pl. Nom.Sg.  Nom.Sg.  Nom.Sg.
+|_________|            |             |              |________|
+         |___________|             |____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+arogyaparama: arogyaparama-, Adj.: having health as the highest. It is a
+compound of:
+   arogya-, N.n.: health, absence of illness.
+     parama-, Adj.: most, highest, absolute.
+Nom.Pl.m. = arogyaparama.
+labha: labha-, N.m.: gain, possession. Nom.Pl. = labha.
+santutthiparamaj: santutthiparama-, Adj.: having contentment as the highest. It
+is a compound of:
+    santutthi-, N.f.: satisfaction, contentment.
+    parama-, Adj.: see above.
+Nom.Sg.n. = santutthiparamaj.
+dhanaj: dhana-, N.n.: wealth. Nom.Sg. = dhanaj.
+List of Abbreviations
+vissasaparama: vissasaparama-, Adj.: having trusted people as the highest. It
+is a compound of:
+    vissasa-, N.m.: trust, confidence. Here as "a trusted person".
+    parama-, Adj: see above.
+Nom.Pl.m. = vissasaparama.
+bati: bati-, N.m.: relative. Nom.Pl. = bati.
+nibbanaj: nibbana-, N.n.: Nirvana, the goal of Buddhism. Nom.Sg. = nibbanaj.
+paramaj: parama-, Adj.: see above. Nom.Sg.n. = paramaj.
+sukhaj: sukha-, N.n.: happiness. Nom.Sg. = sukhaj.
+List of Abbreviations
+    This verse consists of four syntactically independent sentences. They are:
+    1) arogyaparama labha(health is the highest gain). The subject is the noun
+labha (gains, nominative plural). The verb is omitted, implying the verb "to
+be". The object is the compound arogyaparama (having health as the highest,
+nominative plural).
+    2) santutthiparamaj dhanaj(contentment is the highest wealth). The subject
+is the noun dhanaj (wealth, nominative singular). The verb is omitted, implying
+the verb "to be". The object is the compound santutthiparamaj (having
+contentment as the highest, nominative singular).
+    3) vissasaparama bati (trusted people are the best relatives). The subject
+is the noun bati (relatives, nominative plural). The verb is omitted, implying
+the verb "to be". The object is the compound vissasaparama (having trusted
+people as the highest, nominative plural).
+    4) nibbanaj paramaj sukhaj (Nirvana is the highest happiness). The subject
+is the noun nibbanaj (Nirvana, nominative singular). The verb is omitted,
+implying the verb "to be". The object is the noun sukhaj (happiness, nominative
+singular) with its attribute, the adjective paramaj (highest, nominative
+singular).
+===============================================================================
+
+
+Commentary:
+    The King Pasenadi of Kosala once came to the monastery to hear the Dharma.
+But on that day he ate too much and as a result he was sleepy, did not pay much
+attention and was only sitting there and nodding.
+    Seeing him, the Buddha advised him not to overeat, because moderation in
+food brings comfort to the body. Pasenadi did as he was told and after a time
+he lost some weight, was more fit and began to feel much better.
+    The Buddha then told him this verse, saying that health is the greatest
+gain and we should do everything to attain it.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+arogyaparama
+arogya
+parama
+labha
+santutthiparamaj
+santutthi
+paramaj
+dhanaj
+vissasaparama
+vissasa
+bati
+nibbanaj
+sukhaj
+===============================================================================

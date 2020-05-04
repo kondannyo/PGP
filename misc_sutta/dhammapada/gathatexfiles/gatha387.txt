@@ -1,0 +1,147 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** diva tapati adicco rattim abhati candima ******
+         ****** sannaddho khattiyo tapati jhayi tapati brahmano ******
+           ****** atha sabbam ahorattij buddho tapati tejasa ******
+                            ****** (DhP 387) ******
+===============================================================================
+
+
+Sentence Translation:
+During the day shines the sun, at night shines the moon.
+The Kshatriya shines when armed, the Brahmin shines when meditating.
+And the Buddha shines with splendor all day and night.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+diva     tapati      adicco  rattim   abhati     candima
+|              |               |          |           |               |
+Adv.  V.act.in.     N.m.    Adv.  V.act.in.      N.m.
+|        3.Sg.pres. Nom.Sg.    |     3.Sg.pres.  Nom.Sg.
+|________|               |          |______|               |
+       |_____________|                |___________|
+List of Abbreviations
+sannaddho khattiyo     tapati      jhayi       tapati    brahmano
+|                      |              |             |             
+|              |
+Adj.m.         N.m.     V.act.in.   Adj.m.   V.act.in.     N.m.
+Nom.Sg.    Nom.Sg. 3.Sg.pres. Nom.Sg. 3.Sg.pres. Nom.Sg.
+|____________|________|             |________|              |
+           |______|                                   |____________|
+List of Abbreviations
+atha  sabbam aho+rattij  buddho      tapati     tejasa
+|             |        |        |           |               |             |
+Adv.  Adj.f.  N.n.  N.f.      N.m.     V.act.in.    N.n.
+|       Acc.Sg.   |   Acc.Sg. Nom.Sg. 3.Sg.pres. Ins.Sg.
+|             |        |_____|          |               |________|
+|             |_______|               |                      |
+|                    |____________|____________|
+|                               |______|
+|____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+diva, Adv.: by day, during day. It is derived from the word diva-, N.n.: day.
+tapati, V.: radiates, shines. The verb root is tap- (to be hot, to burn).
+3.Sg.act.in.pres. = tapati.
+adicco: adicca-, N.m.: sun. Nom.Sg. = adicco.
+rattim, Adv.: at night, by night. It is derived from the word ratti-, N.f.:
+night.
+abhati, V.: shines. The verb root is bha- (to shine) with the prefix a- (on).
+3.Sg.act.pres.in. = abhati.
+candima: candima-, N.m.: moon. Nom.Sg. = candima.
+List of Abbreviations
+sannaddho: sannaddha-, Adj.: armed. It is a p.p. of the verb root nandh- (to
+bind) with the prefix sam- (together). Nom.Sg.m. = sannaddho.
+khattiyo: khattiya-, N.m.: Kshatriya, warior, ruler; the member of the
+Kshatriya clan.
+Nom.Sg. = khattiyo.
+tapati: see above.
+jhayi: jhayin-, Adj.m.: meditating. Derived from the verb jhe- (to meditate).
+Nom.Sg.m. = jhayi.
+tapati: see above.
+brahmano: brahmana-, N.m.: Brahmin, a holy man. Nom.Sg. = brahmano.
+List of Abbreviations
+atha, Adv.: then.
+sabbam: sabba-, Adj.: all, every. Acc.Sg.f. = sabbam.
+ahorattij: ahoratti-, N.f.: day and night. It is a compound of:
+    aho-, N.n.: day.
+    ratti-, N.f.: night.
+Acc.Sg. = ahorattij.
+buddho: buddha-, Adj.: awakened. Here as a title: The Buddha, Awakened One. It
+is a p.p. of the verb root budh- (to awaken). Nom.Sg.m. = buddho.
+tapati: see above.
+tejasa: tejo-, N.n.: splendor, energy. Ins.Sg. = tejasa.
+List of Abbreviations
+    This verse consists of five syntactically separate sentences. They are:
+    1) diva tapati adicco (during the day shines the sun). The subject is the
+noun adicco (sun, nominative singular). The verb is tapati (shines, 3rd person,
+singular, active, indicative, present tense). It has an attribute, the adverb
+diva (by day).
+    2) rattim abhati candima (at night shines the moon). The subject is the
+noun candima (moon, nominative singular). The verb is abhati (shines, 3rd
+person, singular, active, indicative, present tense). It has an attribute, the
+adverb rattim (at night).
+    3) sannaddho khattiyo tapati (the Kshatriya shines when armed). The subject
+is the noun khattiyo (Kshatriya, nominative singular). The verb is tapati
+(shines, 3rd person, singular, active, indicative, present tense). It has an
+attribute, the adjective sannaddho (armed, nominative singular).
+    4) jhayi tapati brahmano (the Brahmin shines when meditating). The subject
+is the noun brahmano (Brahmin, nominative singular). The verb is tapati
+(shines, 3rd person, singular, active, indicative, present tense). It has an
+attribute, the adjective jhayi (meditating, nominative singular).
+    5) atha sabbam ahorattij buddho tapati tejasa (and the Buddha shines with
+splendor all day and night). The subject is the noun buddho (Buddha, nominative
+singular). The verb is tapati (shines, 3rd person, singular, active,
+indicative, present tense). It has two attributes, the noun tejasa (by
+splendor, instrumental singular) and the compound ahorattij (day and night,
+accusative singular). This word has its own attribute, the adjective sabbam
+(all, accusative singular). The sentence is introduced by the adverb atha (and,
+then).
+===============================================================================
+
+
+Commentary:
+    The king Pasenadi once came to see the Buddha. He was dressed in royal
+clothes, with all the regalia. He was very resplendent. In the congregation sat
+Venerable Kaludayi, who was in deep meditation and his body was bright, as if
+emitting light. In the sky, the sun was setting and the moon was just rising,
+both of them radiating beautiful rays of light.
+    Venerable Ananda observed all this and then he realized that the splendor
+of the Buddha is surpassing all others. He mentioned this and the Buddha
+replied with this verse, saying that the Buddha always shines by the power of
+morality, virtue, merit, wisdom and righteousness.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+diva
+tapati
+adicco
+rattim
+abhati
+candima
+sannaddho
+khattiyo
+jhayi
+brahmano
+atha
+sabbam
+ahorattij
+aho
+rattij
+buddho
+tejasa
+===============================================================================

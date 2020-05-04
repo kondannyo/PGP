@@ -1,0 +1,979 @@
+% !TeX encoding = UTF-8
+% !TeX root = PatimokkhaCOMBINED.tex
+\documentclass[10pt]{article}
+% note - paracol package definitions are found in page shape(i.e. AnsiA) files as the column layouts are unique to the page definition
+% AnsiA definition letter, landscape
+\input{PM_AnsiADefinition.tex}
+% AnsiB is equivalent to 2 page letter in landscape
+%\input{PM_AnsiBDefinition.tex}
+\usepackage{titlesec}
+\usepackage{expex}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fontspec}
+%\usepackage{microtype}
+\usepackage{calc}
+\setlength{\tabcolsep}{6pt}
+
+\usepackage{xunicode}
+\usepackage{ulem} %underline for \em package
+\setlength{\ULdepth}{0.1em}
+
+%\usepackage{tgpagella}
+\usepackage{cinzel} %All caps font for cover page
+%\newfontfamily\TitleFont{Cinzel}
+%\usepackage{setspace} only necessary for \begin{doublespace}...\end{doublespace} (in combine.py)
+\usepackage{xfrac}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}  %  clear  all  header  and  footer  fields
+\fancyfoot{}
+\fancyfoot[RE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+%\sloppy
+\raggedbottom
+
+% Font Definitions
+%\input{PM_Font_TGP.tex}%TexGyrePagella
+\input{PM_Font_TGT.tex}%TexGyreTermes
+
+%\slshape
+\newcommand{\EnglishColumn}[1] {\footnotesize{#1}}
+\newcommand{\PaliColumn}[1] {\footnotesize{#1}}
+%\addfontfeature{ItalicFeatures={Style=Swash}}
+
+
+%Color Definitions for grammatical highlighting
+\input{PM_ColorDefintions.tex}
+%\input{PM_BWDefintions.tex}
+%\input{PM_ColorYellowTest.tex} %all defined as 'Apricot', that which is black is undefined. 
+
+%Glossing Definitions
+\newcommand{\PaliGlossA}[1]{\small{#1}}
+\newcommand{\PaliGlossB}[1]{\scriptsize{#1}}
+\newcommand{\EnglishGlossA}[1]{\footnotesize{#1}}
+\newcommand{\EnglishGlossB}[1]{\itshape\scriptsize{#1}}
+\newcommand{\GrMU}[1]{{\textsc{#1}}} %Grammar markup
+\newcommand{\GlMU}[1]{{\textit{#1}}} %Gloss markup
+\input{PM_GlossingDefintions.tex}
+
+%TexGyre fonts do not properly render ?, this code fixes all standard pali diacritics as most fonts are much worse
+\input{PM_UnicodeCharacterFix}
+
+\input{PM_Cover} %Defines Cover Page called with PMTitlePage
+
+%spacing between paragraphs (i.e. rules, in this case)
+%\setlength{\parskip}{-.2 em}
+\setlength{\parindent}{0cm}  %  Default  is  15pt
+
+\usepackage{enumitem} % Rule numbers
+
+
+
+\begin{document}
+
+\begin{paracol}{2}
+\begin{rightcolumn}
+\PMTitlePage
+\end{rightcolumn}
+\input{PM_DocumentNotes.tex}
+
+
+% Please NOTE: Input files are normally automatically generated (to Prep/) by workspace/compile.py. Files which required subseqent special markup (\em and superscript, for example)  are placed and re-named "Prep_Modified/'generatedfilename'MAN.tex"
+
+% Pubbakiccam
+\input{Prep/eng-center-pk-0.tex}
+\input{Prep/pali-center-pk-0.tex}
+\input{Prep/eng-pk-nava.tex}
+\input{Prep/pali-pk-nava.tex}
+\begin{itemize}[leftmargin=12pt, label={-}, nosep, font=\scriptsize]
+\input{Prep/eng-pk-01.tex}
+\input{Prep/pali-pk-01.tex}
+\input{Prep/eng-pk-02.tex}
+\input{Prep/pali-pk-02.tex}
+\input{Prep/eng-pk-03.tex}
+\input{Prep/pali-pk-03.tex}
+\input{Prep/eng-pk-04.tex}
+\input{Prep/pali-pk-04.tex}
+\input{Prep/eng-pk-05.tex}
+\input{Prep_Modified/pali-pk-05MAN.tex}
+\input{Prep/eng-pk-06.tex}
+\input{Prep/pali-pk-06.tex}
+\input{Prep/eng-pk-07.tex}
+\input{Prep/pali-pk-07.tex}
+\input{Prep/eng-pk-08.tex}
+\input{Prep/pali-pk-08.tex}
+\input{Prep/eng-pk-09.tex}
+\input{Prep/pali-pk-09.tex}
+\end{itemize}
+\input{Prep/eng-pk-tattha.tex}
+\input{Prep_Modified/pali-pk-tatthaMAN.tex}
+\input{Prep/eng-pk-aharana.tex}
+\input{Prep_Modified/pali-pk-aharanaMAN.tex}
+\input{Prep/eng-pk-utukkhanam.tex}
+\input{Prep_Modified/pali-pk-utukkhanamMAN.tex}
+\input{Prep/eng-pk-utunidha.tex}
+\input{Prep_Modified/pali-pk-utunidhaMAN.tex}
+\input{Prep_Modified/eng-pk-evambhanteMAN.tex}
+\input{Prep_Modified/pali-pk-evambhanteMAN.tex}
+\input{Prep/eng-pk-ganana.tex}
+\input{Prep_Modified/pali-pk-gananaMAN.tex}
+\input{Prep_Modified/eng-pk-evambhanteMAN.tex}
+\input{Prep_Modified/pali-pk-evambhanteMAN.tex}
+\input{Prep/eng-pk-ovado.tex}
+\input{Prep/pali-pk-ovado.tex}
+\input{Prep/eng-pk-iti.tex}
+\input{Prep/pali-pk-iti.tex}
+\input{Prep/eng-pk-nitthite.tex}
+\input{Prep/pali-pk-nitthite.tex}
+\input{Prep/eng-pk-nitthite0.tex}
+\input{Prep_Modified/pali-pk-nitthite0MAN.tex}
+\begin{enumerate}[leftmargin=12pt, nosep, start=1, font=\small]
+\input{Prep/eng-pk-11.tex}
+\input{Prep_Modified/pali-pk-11MAN.tex}
+\input{Prep/eng-pk-12.tex}
+\input{Prep_Modified/pali-pk-12MAN.tex}
+\input{Prep/eng-pk-13.tex}
+\input{Prep/pali-pk-13.tex}
+\input{Prep/eng-pk-14.tex}
+\input{Prep/pali-pk-14.tex}
+\end{enumerate}
+\input{Prep/eng-pk-evantam.tex}
+\input{Prep_Modified/pali-pk-evantamMAN.tex}
+\input{Prep/eng-pk-uposathakammassa.tex}
+\input{Prep/pali-pk-uposathakammassa.tex}
+\input{Prep_Modified/eng-pk-evambhanteMAN.tex}
+\input{Prep_Modified/pali-pk-evambhanteMAN.tex}
+\input{Prep/eng-pk-senior.tex}
+\input{Prep/pali-pk-senior.tex}
+
+\flushpage
+\footnotesize
+\input{Prep_Modified/pali-pk-notesMAN.tex}
+\switchcolumn
+\scriptsize
+\input{Prep_Modified/pali-SeasonsAllFourMAN.tex}
+\switchcolumn*
+% \input{Prep/pali-8seasons.tex} %automated with gloss
+% \input{Prep/pali-10seasons.tex} %automated with gloss
+% \input{Prep/pali-7seasonswithPavarana.tex} %automated with gloss
+% \input{Prep/pali-9seasonswithPavarana.tex} %automated with gloss
+\footnotesize
+\flushpage
+
+\end{paracol}
+\input{PM_PaliNumberQT.tex}
+\begin{paracol}{2}
+\flushpage
+% Nidana
+
+\input{Prep/eng-center-nid-a.tex}
+\input{Prep/pali-center-nid-a.tex}
+\vspace*{3ex}
+\input{Prep/eng-nid-b.tex}
+\input{Prep/pali-nid-b.tex}
+\vspace*{3ex}
+\input{Prep/eng-nid-c.tex}
+\input{Prep/pali-nid-c.tex}
+\input{Prep/eng-nid-d.tex}
+\input{Prep/pali-nid-d.tex}
+\input{Prep/eng-nid-e.tex}
+\input{Prep/pali-nid-e.tex}
+\input{Prep/eng-nid-f.tex}
+\input{Prep/pali-nid-f.tex}
+\input{Prep/eng-nid-g.tex}
+\input{Prep/pali-nid-g.tex}
+\input{Prep/eng-nid-h.tex}
+\input{Prep/pali-nid-h.tex}
+\input{Prep/eng-center-nid-b.tex}
+\input{Prep/pali-center-nid-b.tex}
+\flushpage
+\end{paracol}
+
+% Parajika
+\begin{paracol}{2}
+
+\input{Prep/eng-par-intro.tex}
+\input{Prep/pali-par-intro.tex}
+\begin{enumerate}[leftmargin=12pt, nosep, start=1, font=\small]
+\synccounter{enumi}
+\input{Prep/eng-par-01.tex}
+\input{Prep/pali-par-01.tex}
+\input{Prep/eng-par-02.tex}
+\input{Prep/pali-par-02.tex}
+	\input{Prep/eng-par-02a.tex}
+	\input{Prep/pali-par-02a.tex}
+\input{Prep/eng-par-03.tex}
+\input{Prep/pali-par-03.tex}
+	\input{Prep/eng-par-03a.tex}
+	\input{Prep/pali-par-03a.tex}
+\input{Prep/eng-par-04.tex}
+\input{Prep/pali-par-04.tex}
+	\input{Prep/eng-par-04a.tex}
+	\input{Prep/pali-par-04a.tex}
+	\input{Prep/eng-par-04b.tex}
+	\input{Prep/pali-par-04b.tex}
+\end{enumerate}
+%\begin{samepage}
+\input{Prep/eng-par-uddittha.tex}
+\input{Prep/pali-par-uddittha.tex}
+\input{Prep/eng-par-parisuddha.tex}
+\input{Prep/pali-par-parisuddha.tex}
+\input{Prep/eng-center-par-nitthito.tex}
+\input{Prep/pali-center-par-nitthito.tex}
+%end{samepage}
+
+% Sanghadisesa
+
+\input{Prep/eng-sd-intro.tex}
+\input{Prep/pali-sd-intro.tex}
+\begin{enumerate}[leftmargin=12pt, nosep, start=1, font=\small]
+\synccounter{enumi}
+\input{Prep/eng-sd-01.tex}
+\input{Prep/pali-sd-01.tex}
+\input{Prep/eng-sd-02.tex}
+\input{Prep/pali-sd-02.tex}
+\input{Prep/eng-sd-03.tex}
+\input{Prep/pali-sd-03.tex}
+\input{Prep/eng-sd-04.tex}
+\input{Prep/pali-sd-04.tex}
+	\input{Prep/eng-sd-04a.tex}
+	\input{Prep/pali-sd-04a.tex}
+\input{Prep/eng-sd-05.tex}
+\input{Prep/pali-sd-05.tex}
+\input{Prep/eng-sd-06.tex}
+\input{Prep/pali-sd-06.tex}
+	\input{Prep/eng-sd-06a.tex}
+	\input{Prep/pali-sd-06a.tex}
+	\input{Prep/eng-sd-06b.tex}
+	\input{Prep/pali-sd-06b.tex}
+\input{Prep/eng-sd-07.tex}
+\input{Prep/pali-sd-07.tex}
+	\input{Prep/eng-sd-07a.tex}
+	\input{Prep/pali-sd-07a.tex}
+\input{Prep/eng-sd-08.tex}
+\input{Prep/pali-sd-08.tex}
+	\input{Prep/eng-sd-08a.tex}
+	\input{Prep/pali-sd-08a.tex}
+\input{Prep/eng-sd-09.tex}
+\input{Prep/pali-sd-09.tex}
+	\input{Prep/eng-sd-09a.tex}
+	\input{Prep/pali-sd-09a.tex}
+\input{Prep/eng-sd-10.tex}
+\input{Prep/pali-sd-10.tex}
+	\input{Prep/eng-sd-10a.tex}
+	\input{Prep/pali-sd-10a.tex}
+	\input{Prep/eng-sd-10b.tex}
+	\input{Prep/pali-sd-10b.tex}
+\input{Prep/eng-sd-11.tex}
+\input{Prep/pali-sd-11.tex}
+	\input{Prep/eng-sd-11a.tex}
+	\input{Prep/pali-sd-11a.tex}
+	\input{Prep/eng-sd-11b.tex}
+	\input{Prep/pali-sd-11b.tex}
+	\input{Prep/eng-sd-11c.tex}
+	\input{Prep/pali-sd-11c.tex}
+\input{Prep/eng-sd-12.tex}
+\input{Prep/pali-sd-12.tex}
+	\input{Prep/eng-sd-12a.tex}
+	\input{Prep/pali-sd-12a.tex}
+	\input{Prep/eng-sd-12b.tex}
+	\input{Prep/pali-sd-12b.tex}
+	\input{Prep/eng-sd-12c.tex}
+	\input{Prep/pali-sd-12c.tex}
+\input{Prep/eng-sd-13.tex}
+\input{Prep/pali-sd-13.tex}
+	\input{Prep/eng-sd-13a.tex}
+	\input{Prep/pali-sd-13a.tex}
+	\input{Prep/eng-sd-13b.tex}
+	\input{Prep/pali-sd-13b.tex}
+	\input{Prep/eng-sd-13c.tex}
+	\input{Prep/pali-sd-13c.tex}
+	\input{Prep/eng-sd-13d.tex}
+	\input{Prep/pali-sd-13d.tex}
+	\input{Prep/eng-sd-13e.tex}
+	\input{Prep/pali-sd-13e.tex}
+\end{enumerate}
+%\begin{samepage}
+\input{Prep/eng-sd-uddittha.tex}
+\input{Prep/pali-sd-uddittha.tex}
+\input{Prep/eng-sd-udditthaa.tex}
+\input{Prep/pali-sd-udditthaa.tex}
+\input{Prep/eng-sd-udditthab.tex}
+\input{Prep/pali-sd-udditthab.tex}
+\input{Prep/eng-sd-parisuddha.tex}
+\input{Prep/pali-sd-parisuddha.tex}
+\input{Prep/eng-center-sd-nitthito.tex}
+\input{Prep/pali-center-sd-nitthito.tex}
+%end{samepage}
+
+
+% Aniyata
+
+\input{Prep/eng-an-intro.tex}
+\input{Prep/pali-an-intro.tex}
+\begin{enumerate}[leftmargin=12pt, nosep, start=1, font=\small]
+\synccounter{enumi}
+\input{Prep/eng-an-01.tex}
+\input{Prep/pali-an-01.tex}
+	\input{Prep/eng-an-01a.tex}
+	\input{Prep/pali-an-01a.tex}
+\input{Prep/eng-an-02.tex}
+\input{Prep/pali-an-02.tex}
+	\input{Prep/eng-an-02a.tex}
+	\input{Prep/pali-an-02a.tex}
+	\input{Prep/eng-an-02b.tex}
+	\input{Prep/pali-an-02b.tex}
+\end{enumerate}
+\input{Prep/eng-an-uddittha.tex}
+\input{Prep/pali-an-uddittha.tex}
+\input{Prep/eng-an-parisuddha.tex}
+\input{Prep/pali-an-parisuddha.tex}
+\input{Prep/eng-center-an-nitthito.tex}
+\input{Prep/pali-center-an-nitthito.tex}
+
+% NissaggiyaPacittiya
+
+\input{Prep/eng-npac-intro.tex}
+\input{Prep/pali-npac-intro.tex}
+\begin{enumerate}[leftmargin=12pt, nosep, start=1, font=\small]
+\synccounter{enumi}
+\input{Prep/eng-npac-01.tex}
+\input{Prep/pali-npac-01.tex}
+\input{Prep/eng-npac-02.tex}
+\input{Prep/pali-npac-02.tex}
+\input{Prep/eng-npac-03.tex}
+\input{Prep/pali-npac-03.tex}
+	\input{Prep/eng-npac-03a.tex}
+	\input{Prep/pali-npac-03a.tex}
+\input{Prep/eng-npac-04.tex}
+\input{Prep/pali-npac-04.tex}
+\input{Prep/eng-npac-05.tex}
+\input{Prep/pali-npac-05.tex}
+\input{Prep/eng-npac-06.tex}
+\input{Prep/pali-npac-06.tex}
+\input{Prep/eng-npac-06a.tex}
+\input{Prep/pali-npac-06a.tex}
+\input{Prep/eng-npac-07.tex}
+\input{Prep/pali-npac-07.tex}
+\input{Prep/eng-npac-08.tex}
+\input{Prep/pali-npac-08.tex}
+	\input{Prep/eng-npac-08a.tex}
+	\input{Prep/pali-npac-08a.tex}
+\input{Prep/eng-npac-09.tex}
+\input{Prep/pali-npac-09.tex}
+	\input{Prep/eng-npac-09a.tex}
+	\input{Prep/pali-npac-09a.tex}
+\input{Prep/eng-npac-10.tex}
+\input{Prep/pali-npac-10.tex}
+	\input{Prep/eng-npac-10a.tex}
+	\input{Prep/pali-npac-10a.tex}
+	\input{Prep/eng-npac-10b.tex}
+	\input{Prep/pali-npac-10b.tex}
+	\input{Prep/eng-npac-10c.tex}
+	\input{Prep/pali-npac-10c.tex}
+	\input{Prep/eng-npac-10d.tex}
+	\input{Prep/pali-npac-10d.tex}
+	\input{Prep/eng-npac-10e.tex}
+	\input{Prep/pali-npac-10e.tex}
+	\input{Prep/eng-npac-10f.tex}
+	\input{Prep/pali-npac-10f.tex}
+	\input{Prep/eng-npac-10g.tex}
+	\input{Prep/pali-npac-10g.tex}
+	\input{Prep/eng-npac-10h.tex}
+	\input{Prep/pali-npac-10h.tex}
+	\input{Prep/eng-npac-10i.tex}
+	\input{Prep/pali-npac-10i.tex}
+\input{Prep/eng-center-npac-civaravaggo.tex}
+\input{Prep/pali-center-npac-civaravaggo.tex}
+\input{Prep/eng-npac-11.tex}
+\input{Prep/pali-npac-11.tex}
+\input{Prep/eng-npac-12.tex}
+\input{Prep/pali-npac-12.tex}
+\input{Prep/eng-npac-13.tex}
+\input{Prep/pali-npac-13.tex}
+\input{Prep/eng-npac-13a.tex}
+\input{Prep/pali-npac-13a.tex}
+\input{Prep/eng-npac-14.tex}
+\input{Prep/pali-npac-14.tex}
+\input{Prep/eng-npac-15.tex}
+\input{Prep/pali-npac-15.tex}
+\input{Prep/eng-npac-16.tex}
+\input{Prep/pali-npac-16.tex}
+\input{Prep/eng-npac-17.tex}
+\input{Prep/pali-npac-17.tex}
+\input{Prep/eng-npac-18.tex}
+\input{Prep/pali-npac-18.tex}
+\input{Prep/eng-npac-19.tex}
+\input{Prep/pali-npac-19.tex}
+\input{Prep/eng-npac-20.tex}
+\input{Prep/pali-npac-20.tex}
+\input{Prep/eng-center-npac-kosiyavaggo.tex}
+\input{Prep/pali-center-npac-kosiyavaggo.tex}
+\input{Prep/eng-npac-21.tex}
+\input{Prep/pali-npac-21.tex}
+\input{Prep/eng-npac-22.tex}
+\input{Prep/pali-npac-22.tex}
+\input{Prep/eng-npac-22a.tex}
+\input{Prep/pali-npac-22a.tex}
+\input{Prep/eng-npac-23.tex}
+\input{Prep/pali-npac-23.tex}
+\input{Prep/eng-npac-24.tex}
+\input{Prep/pali-npac-24.tex}
+\input{Prep/eng-npac-25.tex}
+\input{Prep/pali-npac-25.tex}
+\input{Prep/eng-npac-26.tex}
+\input{Prep/pali-npac-26.tex}
+\input{Prep/eng-npac-27.tex}
+\input{Prep/pali-npac-27.tex}
+\input{Prep/eng-npac-27a.tex}
+\input{Prep/pali-npac-27a.tex}
+\input{Prep/eng-npac-27b.tex}
+\input{Prep/pali-npac-27b.tex}
+\input{Prep/eng-npac-28.tex}
+\input{Prep/pali-npac-28.tex}
+\input{Prep/eng-npac-29.tex}
+\input{Prep/pali-npac-29.tex}
+\input{Prep/eng-npac-29a.tex}
+\input{Prep/pali-npac-29a.tex}
+\input{Prep/eng-npac-30.tex}
+\input{Prep/pali-npac-30.tex}
+\end{enumerate}
+\input{Prep/eng-center-npac-pattavaggo.tex}
+\input{Prep/pali-center-npac-pattavaggo.tex}
+\input{Prep/eng-npac-uddittha.tex}
+\input{Prep/pali-npac-uddittha.tex}
+\input{Prep/eng-npac-parisuddha.tex}
+\input{Prep/pali-npac-parisuddha.tex}
+\input{Prep/eng-center-npac-nitthito.tex}
+\input{Prep/pali-center-npac-nitthito.tex}
+
+% Pacittiya
+
+
+\input{Prep/eng-pac-intro.tex}
+\input{Prep/pali-pac-intro.tex}
+\begin{enumerate}[leftmargin=12pt, nosep, start=1, font=\small]
+\synccounter{enumi}
+\input{Prep/eng-pac-01.tex}
+\input{Prep/pali-pac-01.tex}
+\input{Prep/eng-pac-02.tex}
+\input{Prep/pali-pac-02.tex}
+\input{Prep/eng-pac-03.tex}
+\input{Prep/pali-pac-03.tex}
+\input{Prep/eng-pac-04.tex}
+\input{Prep/pali-pac-04.tex}
+\input{Prep/eng-pac-05.tex}
+\input{Prep/pali-pac-05.tex}
+\input{Prep/eng-pac-06.tex}
+\input{Prep/pali-pac-06.tex}
+\input{Prep/eng-pac-07.tex}
+\input{Prep/pali-pac-07.tex}
+\input{Prep/eng-pac-08.tex}
+\input{Prep/pali-pac-08.tex}
+\input{Prep/eng-pac-09.tex}
+\input{Prep/pali-pac-09.tex}
+\input{Prep/eng-pac-10.tex}
+\input{Prep/pali-pac-10.tex}
+\input{Prep/eng-center-pac-musavadavaggo.tex}
+\input{Prep/pali-center-pac-musavadavaggo.tex}
+\input{Prep/eng-pac-11.tex}
+\input{Prep/pali-pac-11.tex}
+\input{Prep/eng-pac-12.tex}
+\input{Prep/pali-pac-12.tex}
+\input{Prep/eng-pac-13.tex}
+\input{Prep/pali-pac-13.tex}
+\input{Prep/eng-pac-14.tex}
+\input{Prep/pali-pac-14.tex}
+\input{Prep/eng-pac-15.tex}
+\input{Prep/pali-pac-15.tex}
+\input{Prep/eng-pac-16.tex}
+\input{Prep/pali-pac-16.tex}
+\input{Prep/eng-pac-17.tex}
+\input{Prep/pali-pac-17.tex}
+\input{Prep/eng-pac-18.tex}
+\input{Prep/pali-pac-18.tex}
+\input{Prep/eng-pac-19.tex}
+\input{Prep/pali-pac-19.tex}
+\input{Prep/eng-pac-20.tex}
+\input{Prep/pali-pac-20.tex}
+\input{Prep/eng-center-pac-bhutagamavaggo.tex}
+\input{Prep/pali-center-pac-bhutagamavaggo.tex}
+\input{Prep/eng-pac-21.tex}
+\input{Prep/pali-pac-21.tex}
+\input{Prep/eng-pac-22.tex}
+\input{Prep/pali-pac-22.tex}
+\input{Prep/eng-pac-23.tex}
+\input{Prep/pali-pac-23.tex}
+\input{Prep/eng-pac-24.tex}
+\input{Prep/pali-pac-24.tex}
+\input{Prep/eng-pac-25.tex}
+\input{Prep/pali-pac-25.tex}
+\input{Prep/eng-pac-26.tex}
+\input{Prep/pali-pac-26.tex}
+\input{Prep/eng-pac-27.tex}
+\input{Prep/pali-pac-27.tex}
+\input{Prep/eng-pac-27a.tex}
+\input{Prep/pali-pac-27a.tex}
+\input{Prep/eng-pac-28.tex}
+\input{Prep/pali-pac-28.tex}
+\input{Prep/eng-pac-29.tex}
+\input{Prep/pali-pac-29.tex}
+\input{Prep/eng-pac-30.tex}
+\input{Prep/pali-pac-30.tex}
+\input{Prep/eng-center-pac-ovadavaggo.tex}
+\input{Prep/pali-center-pac-ovadavaggo.tex}
+\input{Prep/eng-pac-31.tex}
+\input{Prep/pali-pac-31.tex}
+\input{Prep/eng-pac-32.tex}
+\input{Prep/pali-pac-32.tex}
+\input{Prep/eng-pac-32a.tex}
+\input{Prep/pali-pac-32a.tex}
+\input{Prep/eng-pac-33.tex}
+\input{Prep/pali-pac-33.tex}
+\input{Prep/eng-pac-34.tex}
+\input{Prep/pali-pac-34.tex}
+\input{Prep/eng-pac-34a.tex}
+\input{Prep/pali-pac-34a.tex}
+\input{Prep/eng-pac-35.tex}
+\input{Prep/pali-pac-35.tex}
+\input{Prep/eng-pac-36.tex}
+\input{Prep/pali-pac-36.tex}
+\input{Prep/eng-pac-37.tex}
+\input{Prep/pali-pac-37.tex}
+\input{Prep/eng-pac-38.tex}
+\input{Prep/pali-pac-38.tex}
+\input{Prep/eng-pac-39.tex}
+\input{Prep/pali-pac-39.tex}
+\input{Prep/eng-pac-40.tex}
+\input{Prep/pali-pac-40.tex}
+\input{Prep/eng-center-pac-bhojanavaggo.tex}
+\input{Prep/pali-center-pac-bhojanavaggo.tex}
+\input{Prep/eng-pac-41.tex}
+\input{Prep/pali-pac-41.tex}
+\input{Prep/eng-pac-42.tex}
+\input{Prep/pali-pac-42.tex}
+	\input{Prep/eng-pac-42a.tex}
+	\input{Prep/pali-pac-42a.tex}
+\input{Prep/eng-pac-43.tex}
+\input{Prep/pali-pac-43.tex}
+\input{Prep/eng-pac-44.tex}
+\input{Prep/pali-pac-44.tex}
+\input{Prep/eng-pac-45.tex}
+\input{Prep/pali-pac-45.tex}
+\input{Prep/eng-pac-46.tex}
+\input{Prep/pali-pac-46.tex}
+\input{Prep/eng-pac-46a.tex}
+\input{Prep/pali-pac-46a.tex}
+\input{Prep/eng-pac-47.tex}
+\input{Prep/pali-pac-47.tex}
+\input{Prep/eng-pac-48.tex}
+\input{Prep/pali-pac-48.tex}
+\input{Prep/eng-pac-49.tex}
+\input{Prep/pali-pac-49.tex}
+\input{Prep/eng-pac-50.tex}
+\input{Prep/pali-pac-50.tex}
+\input{Prep/eng-center-pac-acelakavaggo.tex}
+\input{Prep/pali-center-pac-acelakavaggo.tex}
+\input{Prep/eng-pac-51.tex}
+\input{Prep/pali-pac-51.tex}
+\input{Prep/eng-pac-52.tex}
+\input{Prep/pali-pac-52.tex}
+\input{Prep/eng-pac-53.tex}
+\input{Prep/pali-pac-53.tex}
+\input{Prep/eng-pac-54.tex}
+\input{Prep/pali-pac-54.tex}
+\input{Prep/eng-pac-55.tex}
+\input{Prep/pali-pac-55.tex}
+\input{Prep/eng-pac-56.tex}
+\input{Prep/pali-pac-56.tex}
+\input{Prep/eng-pac-57.tex}
+\input{Prep/pali-pac-57.tex}
+	\input{Prep/eng-pac-57a.tex}
+	\input{Prep/pali-pac-57a.tex}
+\input{Prep/eng-pac-58.tex}
+\input{Prep/pali-pac-58.tex}
+\input{Prep/eng-pac-59.tex}
+\input{Prep/pali-pac-59.tex}
+\input{Prep/eng-pac-60.tex}
+\input{Prep/pali-pac-60.tex}
+\input{Prep/eng-center-pac-surapanavaggo.tex}
+\input{Prep/pali-center-pac-surapanavaggo.tex}
+\input{Prep/eng-pac-61.tex}
+\input{Prep/pali-pac-61.tex}
+\input{Prep/eng-pac-62.tex}
+\input{Prep/pali-pac-62.tex}
+\input{Prep/eng-pac-63.tex}
+\input{Prep/pali-pac-63.tex}
+\input{Prep/eng-pac-64.tex}
+\input{Prep/pali-pac-64.tex}
+\input{Prep/eng-pac-65.tex}
+\input{Prep/pali-pac-65.tex}
+\input{Prep/eng-pac-66.tex}
+\input{Prep/pali-pac-66.tex}
+\input{Prep/eng-pac-67.tex}
+\input{Prep/pali-pac-67.tex}
+\input{Prep/eng-pac-68.tex}
+\input{Prep/pali-pac-68.tex}
+	\input{Prep/eng-pac-68a.tex}
+	\input{Prep/pali-pac-68a.tex}
+	\input{Prep/eng-pac-68b.tex}
+	\input{Prep/pali-pac-68b.tex}
+\input{Prep/eng-pac-69.tex}
+\input{Prep/pali-pac-69.tex}
+\input{Prep/eng-pac-70.tex}
+\input{Prep/pali-pac-70.tex}
+	\input{Prep/eng-pac-70a.tex}
+	\input{Prep/pali-pac-70a.tex}
+	\input{Prep/eng-pac-70b.tex}
+	\input{Prep/pali-pac-70b.tex}
+	\input{Prep/eng-pac-70c.tex}
+	\input{Prep/pali-pac-70c.tex}
+\input{Prep/eng-center-pac-sappanavaggo.tex}
+\input{Prep/pali-center-pac-sappanavaggo.tex}
+\input{Prep/eng-pac-71.tex}
+\input{Prep/pali-pac-71.tex}
+	\input{Prep/eng-pac-71a.tex}
+	\input{Prep/pali-pac-71a.tex}
+\input{Prep/eng-pac-72.tex}
+\input{Prep/pali-pac-72.tex}
+\input{Prep/eng-pac-73.tex}
+\input{Prep/pali-pac-73.tex}
+	\input{Prep/eng-pac-73a.tex}
+	\input{Prep/pali-pac-73a.tex}
+	\input{Prep/eng-pac-73b.tex}
+	\input{Prep/pali-pac-73b.tex}
+	\input{Prep/eng-pac-73c.tex}
+	\input{Prep/pali-pac-73c.tex}
+\input{Prep/eng-pac-74.tex}
+\input{Prep/pali-pac-74.tex}
+\input{Prep/eng-pac-75.tex}
+\input{Prep/pali-pac-75.tex}
+\input{Prep/eng-pac-76.tex}
+\input{Prep/pali-pac-76.tex}
+\input{Prep/eng-pac-77.tex}
+\input{Prep/pali-pac-77.tex}
+\input{Prep/eng-pac-78.tex}
+\input{Prep/pali-pac-78.tex}
+\input{Prep/eng-pac-79.tex}
+\input{Prep/pali-pac-79.tex}
+\input{Prep/eng-pac-80.tex}
+\input{Prep/pali-pac-80.tex}
+\input{Prep/eng-pac-81.tex}
+\input{Prep/pali-pac-81.tex}
+\input{Prep/eng-pac-82.tex}
+\input{Prep/pali-pac-82.tex}
+\input{Prep/eng-center-pac-sahadhammikavaggo.tex}
+\input{Prep/pali-center-pac-sahadhammikavaggo.tex}
+\input{Prep/eng-pac-83.tex}
+\input{Prep/pali-pac-83.tex}
+\input{Prep/eng-pac-84.tex}
+\input{Prep/pali-pac-84.tex}
+	\input{Prep/eng-pac-84a.tex}
+	\input{Prep/pali-pac-84a.tex}
+\input{Prep/eng-pac-85.tex}
+\input{Prep/pali-pac-85.tex}
+\input{Prep/eng-pac-86.tex}
+\input{Prep/pali-pac-86.tex}
+\input{Prep/eng-pac-87.tex}
+\input{Prep/pali-pac-87.tex}
+\input{Prep/eng-pac-88.tex}
+\input{Prep/pali-pac-88.tex}
+\input{Prep/eng-pac-89.tex}
+\input{Prep/pali-pac-89.tex}
+\input{Prep/eng-pac-90.tex}
+\input{Prep/pali-pac-90.tex}
+\input{Prep/eng-pac-91.tex}
+\input{Prep/pali-pac-91.tex}
+\input{Prep/eng-pac-92.tex}
+\input{Prep/pali-pac-92.tex}
+	\input{Prep/eng-pac-92a.tex}
+	\input{Prep/pali-pac-92a.tex}
+\end{enumerate}
+\input{Prep/eng-center-pac-ratanavaggo.tex}
+\input{Prep/pali-center-pac-ratanavaggo.tex}
+\input{Prep/eng-pac-uddittha.tex}
+\input{Prep/pali-pac-uddittha.tex}
+\input{Prep/eng-pac-parisuddha.tex}
+\input{Prep/pali-pac-parisuddha.tex}
+\input{Prep/eng-center-pac-nitthito.tex}
+\input{Prep/pali-center-pac-nitthito.tex}
+
+% Patidesaniya
+
+{\input{Prep/eng-pat-intro.tex}
+\input{Prep/pali-pat-intro.tex}}
+\begin{enumerate}[leftmargin=12pt, nosep, start=1, font=\small]
+\synccounter{enumi}
+\input{Prep/eng-pat-01.tex}
+\input{Prep/pali-pat-01.tex}
+	\input{Prep/eng-pat-01a.tex}
+	\input{Prep/pali-pat-01a.tex}
+\input{Prep/eng-pat-02.tex}
+\input{Prep/pali-pat-02.tex}
+	\input{Prep/eng-pat-02a.tex}
+	\input{Prep/pali-pat-02a.tex}
+	\input{Prep/eng-pat-02b.tex}
+	\input{Prep/pali-pat-02b.tex}
+	\input{Prep/eng-pat-02c.tex}
+	\input{Prep/pali-pat-02c.tex}
+\input{Prep/eng-pat-03.tex}
+\input{Prep/pali-pat-03.tex}
+	\input{Prep/eng-pat-03a.tex}
+	\input{Prep/pali-pat-03a.tex}
+\input{Prep/eng-pat-04.tex}
+\input{Prep/pali-pat-04.tex}
+	\input{Prep/eng-pat-04a.tex}
+	\input{Prep/pali-pat-04a.tex}
+\end{enumerate}
+\input{Prep/eng-pat-uddittha.tex}
+\input{Prep/pali-pat-uddittha.tex}
+\input{Prep/eng-pat-parisuddha.tex}
+\input{Prep/pali-pat-parisuddha.tex}
+\input{Prep/eng-center-pat-nitthito.tex}
+\input{Prep/pali-center-pat-nitthito.tex}
+
+% Sekhiya
+
+\input{Prep/eng-sk-intro.tex}
+\input{Prep/pali-sk-intro.tex}
+\begin{enumerate}[leftmargin=12pt, nosep, start=1, font=\small]
+\synccounter{enumi}
+\input{Prep/eng-sk-01.tex}
+\input{Prep/pali-sk-01.tex}
+\input{Prep/eng-sk-02.tex}
+\input{Prep/pali-sk-02.tex}
+\input{Prep/eng-sk-03.tex}
+\input{Prep/pali-sk-03.tex}
+\input{Prep/eng-sk-04.tex}
+\input{Prep/pali-sk-04.tex}
+\input{Prep/eng-sk-05.tex}
+\input{Prep/pali-sk-05.tex}
+\input{Prep/eng-sk-06.tex}
+\input{Prep/pali-sk-06.tex}
+\input{Prep/eng-sk-07.tex}
+\input{Prep/pali-sk-07.tex}
+\input{Prep/eng-sk-08.tex}
+\input{Prep/pali-sk-08.tex}
+\input{Prep/eng-sk-09.tex}
+\input{Prep/pali-sk-09.tex}
+\input{Prep/eng-sk-10.tex}
+\input{Prep/pali-sk-10.tex}
+\input{Prep/eng-sk-11.tex}
+\input{Prep/pali-sk-11.tex}
+\input{Prep/eng-sk-12.tex}
+\input{Prep/pali-sk-12.tex}
+\input{Prep/eng-sk-13.tex}
+\input{Prep/pali-sk-13.tex}
+\input{Prep/eng-sk-14.tex}
+\input{Prep/pali-sk-14.tex}
+\input{Prep/eng-sk-15.tex}
+\input{Prep/pali-sk-15.tex}
+\input{Prep/eng-sk-16.tex}
+\input{Prep/pali-sk-16.tex}
+\input{Prep/eng-sk-17.tex}
+\input{Prep/pali-sk-17.tex}
+\input{Prep/eng-sk-18.tex}
+\input{Prep/pali-sk-18.tex}
+\input{Prep/eng-sk-19.tex}
+\input{Prep/pali-sk-19.tex}
+\input{Prep/eng-sk-20.tex}
+\input{Prep/pali-sk-20.tex}
+\input{Prep/eng-sk-21.tex}
+\input{Prep/pali-sk-21.tex}
+\input{Prep/eng-sk-22.tex}
+\input{Prep/pali-sk-22.tex}
+\input{Prep/eng-sk-23.tex}
+\input{Prep/pali-sk-23.tex}
+\input{Prep/eng-sk-24.tex}
+\input{Prep/pali-sk-24.tex}
+\input{Prep/eng-sk-25.tex}
+\input{Prep/pali-sk-25.tex}
+\input{Prep/eng-sk-26.tex}
+\input{Prep/pali-sk-26.tex}
+
+\input{Prep/eng-center-sk-chabbisati.tex}
+\input{Prep/pali-center-sk-chabbisati.tex}
+
+\input{Prep/eng-sk-27.tex}
+\input{Prep/pali-sk-27.tex}
+\input{Prep/eng-sk-28.tex}
+\input{Prep/pali-sk-28.tex}
+\input{Prep/eng-sk-29.tex}
+\input{Prep/pali-sk-29.tex}
+\input{Prep/eng-sk-30.tex}
+\input{Prep/pali-sk-30.tex}
+\input{Prep/eng-sk-31.tex}
+\input{Prep/pali-sk-31.tex}
+\input{Prep/eng-sk-32.tex}
+\input{Prep/pali-sk-32.tex}
+\input{Prep/eng-sk-33.tex}
+\input{Prep/pali-sk-33.tex}
+\input{Prep/eng-sk-34.tex}
+\input{Prep/pali-sk-34.tex}
+\input{Prep/eng-sk-35.tex}
+\input{Prep/pali-sk-35.tex}
+\input{Prep/eng-sk-36.tex}
+\input{Prep/pali-sk-36.tex}
+\input{Prep/eng-sk-37.tex}
+\input{Prep/pali-sk-37.tex}
+\input{Prep/eng-sk-38.tex}
+\input{Prep/pali-sk-38.tex}
+\input{Prep/eng-sk-39.tex}
+\input{Prep/pali-sk-39.tex}
+\input{Prep/eng-sk-40.tex}
+\input{Prep/pali-sk-40.tex}
+\input{Prep/eng-sk-41.tex}
+\input{Prep/pali-sk-41.tex}
+\input{Prep/eng-sk-42.tex}
+\input{Prep/pali-sk-42.tex}
+\input{Prep/eng-sk-43.tex}
+\input{Prep/pali-sk-43.tex}
+\input{Prep/eng-sk-44.tex}
+\input{Prep/pali-sk-44.tex}
+\input{Prep/eng-sk-45.tex}
+\input{Prep/pali-sk-45.tex}
+\input{Prep/eng-sk-46.tex}
+\input{Prep/pali-sk-46.tex}
+\input{Prep/eng-sk-47.tex}
+\input{Prep/pali-sk-47.tex}
+\input{Prep/eng-sk-48.tex}
+\input{Prep/pali-sk-48.tex}
+\input{Prep/eng-sk-49.tex}
+\input{Prep/pali-sk-49.tex}
+\input{Prep/eng-sk-50.tex}
+\input{Prep/pali-sk-50.tex}
+\input{Prep/eng-sk-51.tex}
+\input{Prep/pali-sk-51.tex}
+\input{Prep/eng-sk-52.tex}
+\input{Prep/pali-sk-52.tex}
+\input{Prep/eng-sk-53.tex}
+\input{Prep/pali-sk-53.tex}
+\input{Prep/eng-sk-54.tex}
+\input{Prep/pali-sk-54.tex}
+\input{Prep/eng-sk-55.tex}
+\input{Prep/pali-sk-55.tex}
+\input{Prep/eng-sk-56.tex}
+\input{Prep/pali-sk-56.tex}
+
+\input{Prep/eng-center-sk-bhojana.tex}
+\input{Prep/pali-center-sk-bhojana.tex}
+
+\input{Prep/eng-sk-57.tex}
+\input{Prep/pali-sk-57.tex}
+\input{Prep/eng-sk-58.tex}
+\input{Prep/pali-sk-58.tex}
+\input{Prep/eng-sk-59.tex}
+\input{Prep/pali-sk-59.tex}
+\input{Prep/eng-sk-60.tex}
+\input{Prep/pali-sk-60.tex}
+\input{Prep/eng-sk-61.tex}
+\input{Prep/pali-sk-61.tex}
+\input{Prep/eng-sk-62.tex}
+\input{Prep/pali-sk-62.tex}
+\input{Prep/eng-sk-63.tex}
+\input{Prep/pali-sk-63.tex}
+\input{Prep/eng-sk-64.tex}
+\input{Prep/pali-sk-64.tex}
+\input{Prep/eng-sk-65.tex}
+\input{Prep/pali-sk-65.tex}
+\input{Prep/eng-sk-66.tex}
+\input{Prep/pali-sk-66.tex}
+\input{Prep/eng-sk-67.tex}
+\input{Prep/pali-sk-67.tex}
+\input{Prep/eng-sk-68.tex}
+\input{Prep/pali-sk-68.tex}
+\input{Prep/eng-sk-69.tex}
+\input{Prep/pali-sk-69.tex}
+\input{Prep/eng-sk-70.tex}
+\input{Prep/pali-sk-70.tex}
+\input{Prep/eng-sk-71.tex}
+\input{Prep/pali-sk-71.tex}
+\input{Prep/eng-sk-72.tex}
+\input{Prep/pali-sk-72.tex}
+
+\input{Prep/eng-center-sk-dhammadesana.tex}
+\input{Prep/pali-center-sk-dhammadesana.tex}
+
+\input{Prep/eng-sk-73.tex}
+\input{Prep/pali-sk-73.tex}
+\input{Prep/eng-sk-74.tex}
+\input{Prep/pali-sk-74.tex}
+\input{Prep/eng-sk-75.tex}
+\input{Prep/pali-sk-75.tex}
+\end{enumerate}
+
+\input{Prep/eng-center-sk-pakinnaka.tex}
+\input{Prep/pali-center-sk-pakinnaka.tex}
+
+\input{Prep/eng-sk-uddittha.tex}
+\input{Prep/pali-sk-uddittha.tex}
+\input{Prep/eng-sk-parisuddha.tex}
+\input{Prep/pali-sk-parisuddha.tex}
+\input{Prep/eng-center-sk-nitthito.tex}
+\input{Prep/pali-center-sk-nitthito.tex}
+% Sattadhikaranasamatha
+
+\input{Prep/eng-sat-intro.tex}
+\input{Prep/pali-sat-intro.tex}
+\input{Prep/eng-sat-main.tex}
+\input{Prep/pali-sat-main.tex}
+\begin{enumerate}[leftmargin=12pt, label={\roman*)}, nosep, font=\scriptsize]
+\synccounter{enumi}
+\input{Prep/eng-sat-01.tex}
+\input{Prep/pali-sat-01.tex}
+\input{Prep/eng-sat-02.tex}
+\input{Prep/pali-sat-02.tex}
+\input{Prep/eng-sat-03.tex}
+\input{Prep/pali-sat-03.tex}
+\input{Prep/eng-sat-04.tex}
+\input{Prep/pali-sat-04.tex}
+\input{Prep/eng-sat-05.tex}
+\input{Prep/pali-sat-05.tex}
+\input{Prep/eng-sat-06.tex}
+\input{Prep/pali-sat-06.tex}
+\input{Prep/eng-sat-07.tex}
+\input{Prep/pali-sat-07.tex}
+\end{enumerate}
+\input{Prep/eng-sat-uddittha.tex}
+\input{Prep/pali-sat-uddittha.tex}
+\input{Prep/eng-sat-parisuddha.tex}
+\input{Prep/pali-sat-parisuddha.tex}
+\input{Prep/eng-center-sat-nitthito.tex}
+\input{Prep/pali-center-sat-nitthito.tex}
+
+% Nitthitam
+
+\begin{itemize}[leftmargin=0pt, label={}, nosep]
+\input{Prep/eng-nit-01.tex}
+\input{Prep/pali-nit-01.tex}
+\input{Prep/eng-nit-02.tex}
+\input{Prep/pali-nit-02.tex}
+\input{Prep/eng-nit-03.tex}
+\input{Prep/pali-nit-03.tex}
+\input{Prep/eng-nit-04.tex}
+\input{Prep/pali-nit-04.tex}
+\input{Prep/eng-nit-05.tex}
+\input{Prep/pali-nit-05.tex}
+\input{Prep/eng-nit-06.tex}
+\input{Prep/pali-nit-06.tex}
+\input{Prep/eng-nit-07.tex}
+\input{Prep/pali-nit-07.tex}
+\input{Prep/eng-nit-08.tex}
+\input{Prep/pali-nit-08.tex}
+\input{Prep/eng-nit-09.tex}
+\input{Prep/pali-nit-09.tex}
+\end{itemize}
+\input{Prep/eng-nit-ettakantassa.tex}
+\input{Prep/pali-nit-ettakantassa.tex}
+\input{Prep/eng-center-nit-nitthito.tex}
+\input{Prep/pali-center-nit-nitthito.tex}
+
+\end{paracol}
+
+\end{document}
+

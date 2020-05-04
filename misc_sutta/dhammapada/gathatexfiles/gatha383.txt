@@ -1,0 +1,127 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** chinda sotaj parakkamma kame panuda brahmana ******
+          ****** savkharanaj khayaj batva akatabbusi brahmana ******
+                            ****** (DhP 383) ******
+===============================================================================
+
+
+Sentence Translation:
+Having undertaken the effort, cut off the stream of suffering. Dispel sense-
+pleasures, Brahmin!
+Having realized the destruction of conditioned things, you know the Nirvana,
+Brahmin!
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+chinda       sotaj parakkamma kame   panuda  brahmana
+|                    |              |              |            |             |
+
+V.act.         N.m.      V.ger.      N.m.     V.act.      N.m.
+2.Sg.impt. Acc.Sg.        |         Acc.Pl. 2.Sg.imp. Voc.Sg.
+|___________|              |              |_______|             |
+         |______________|                     |___________|
+List of Abbreviations
+savkharanaj khayaj batva akata+bbu         asi      brahmana
+|                         |          |         |        |            
+|              |
+N.m.               N.m.   V.ger. Adj. Adj.m.   V.act.in.    N.m.
+Gen.Pl.          Acc.Sg.    |         |  Nom.Sg. 3.Sg.pres. Voc.Sg.
+|______________|          |         |____|              |              |
+            |_____________|             |__________|              |
+                         |                                 |_____________|
+                         |__________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+chinda, V.: cut off, destroy. The verb root is chid-. 2.Sg.act.imp. = chinda.
+sotaj: sota-, N.m.: stream. Acc.Sg. = sotaj.
+parakkamma, V.ger: undertake, show courage. The verb root is kam- (to walk, to
+enter into) with the prefix para- (over, beyond).
+kame: kama-, N.m.: sense-pleasure, sense desire. Acc.Pl. = kame.
+panuda, V.: remove, dispel, drive away, reject. The verb root is nud-, with the
+strengthening prefix pa-. 2.Sg.act.imp. = panuda.
+brahmana: brahmana-, N.m.: Brahmin, a holy man. Voc.Sg. = brahmana.
+savkharanaj: savkhara-, N.m.: conditioned thing, world of phenomena. The
+meaning of this word is very wide, here we will use "conditioned thing". It
+comprises all of the world around us, including ourselves. Gen.Pl. =
+savkharanaj.
+List of Abbreviations
+khayaj: khaya-, N.m.: destruction, dissolution, end. Acc.Sg. = khayaj.
+batva, V.ger.: having known. It is a ger. of the verb ba- (to know).
+akatabbu: akatabbu-, Adj.: who knows the Nirvana. It is a compound of:
+    akata-, Adj.: uncreated, not made. It is the word kata-, Adj: done, made
+(it is a p.p. of the verb root kar-, to do) with the negative prefix a-. It is
+an epithet for the Nirvana.
+    -bbu-, Adj.suf.: knowing. It is derived from the verb root ba- (to know).
+Nom.Sg.m. = akatabbu.
+asi, V.: [you] are. The verb root is as- (to be). 2.Sg.act.in.pres. = asi.
+Euphonic combination: akatabbu + asi = akatabbusi.
+brahmana: see above.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) chinda sotaj parakkamma (having undertaken the effort, cut off the
+stream [of suffering]). The subject is omitted; the verb implies the second
+person singular pronoun. The verb is chinda (cut off, 2nd person, singular,
+active, imperative). It has an attribute, the gerund parakkamma (having
+undertaken). The object is the noun sotaj (stream, accusative singular).
+    2) kame panuda brahmana (dispel sense-pleasures, Brahmin). The subject is
+the noun brahmana (Brahmin, vocative singular). The verb is panuda (dispel, 2nd
+person, singular, active, imperative). The object is the noun kame (sense-
+pleasures, accusative plural).
+    3) savkharanaj khayaj batva akatabbusi brahmana (having realized the
+destruction of conditioned things, you know the Nirvana, Brahmin). This can be
+further analysed into two segments:
+    a) savkharanaj khayaj batva (having realized the destruction of conditioned
+things). The verb is in gerund, batva (having known). The object is the noun
+khayaj (destruction, accusative singular). It has an attribute, the noun
+savkharanaj (of conditioned things, genitive plural).
+    b) akatabbusi brahmana (you know the Nirvana, Brahmin). The subject is the
+noun brahmana (Brahmin, vocative singular). The verb is asi ([you] are,
+2ndperson, singular, active, indicative, present tense). The object is the
+compound akatabbu (knower of the Nirvana, nominative singular).
+===============================================================================
+
+
+Commentary:
+    A certain Brahmin in Savatthi was a follower of the Buddha. Often he
+invited the monks to his house and he would address them as Arahants. Those
+monks, who had not yet attained the Arahantship, were embarrassed and many
+monks started to avoid the Brahmin's house.
+    The Brahmin felt sad and asked the Buddha why so many monks stopped coming
+to his house. The Buddha then questioned the monks and they told him about the
+Brahmin's form of address. The Buddha told them that the Brahmin did not mean
+anything bad; he spoke only out of his respect and devotion to the Arahants.
+Then the Buddha spoke this verse, saying that monks should uproot the stream of
+suffering, realize the destruction of conditioned things and experience the
+Nirvana.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+chinda
+sotaj
+parakkamma
+kame
+panuda
+brahmana
+savkharanaj
+khayaj
+batva
+akatabbu
+akata
+bbu
+asi
+===============================================================================

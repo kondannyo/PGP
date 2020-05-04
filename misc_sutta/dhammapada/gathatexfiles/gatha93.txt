@@ -1,0 +1,166 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** yassasava parikkhina ahare ca anissito ******
+            ****** subbato animitto ca vimokkho yassa gocaro ******
+           ****** akase va sakuntanaj padaj tassa durannayaj ******
+                            ****** (DhP 93) ******
+===============================================================================
+
+
+Sentence Translation:
+Whose taints are completely removed, who is not attached to food,
+whose sphere is the void emancipation without attributes -
+his course is difficult to find out - like the path of the birds in the sky.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yassa            asava  parikkhina   ahare    ca    anissito
+|                        |             |              |         |          |
+Rel.Pron.m.    N.m.     Adj.m.      N.m.  conj.   Adj.m.
+Gen.Sg.        Nom.Pl.  Nom.Pl.  Loc.Sg.   |      Nom.Sg.
+|_____________|              |              |_____|_____|
+           |_______________|                   |__|
+                         |___________________|___________________________
+List of Abbreviations
+subbato  animitto   ca  vimokkho     yassa       gocaro
+|                  |          |          |                 |               |
+Adj.m.     Adj.m.  conj.   N.m.    Rel.Pron.m.    N.m.
+Nom.Sg. Nom.Sg.   |     Nom.Sg.    Gen.Sg.     Nom.Sg.
+|__________|          |          |                 |________|
+         |___________|          |                        |
+                   |___________|                         |
+                              |___________________|
+__________________________|
+                     |____________________________________________________
+List of Abbreviations
+akase    va sakuntanaj padaj     tassa  durannaya
+|              |         |             |               |             |
+N.m.    part.   N.m.       N.n.      Pron.m.   Adj.f.
+Loc.Sg.   |    Gen.Pl.   Nom.Sg.  Gen.Sg.  Nom.Sg.
+|________|_____|             |_______|             |
+         |___|                             |___________|
+            |_______________________|
+__________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yassa: yat-, Rel.Pron.: that, which. Gen.Sg.m. = yassa (whose).
+asava: asava-, N.m.: taint, corruption. Nom.Pl. = asava.
+parikkhina: parikkhina-, Adj.: completely removed, destroyed. It is a p.p. of
+the verb root khi- (to remove, to destroy) with the prefix pari- (all around,
+completely). Nom.Pl.m. = parikkhina.
+ahare: ahara-, N.m.: food, nutriment. Loc.Sg. = ahare.
+ca, conj.: and.
+List of Abbreviations
+anissito: anissita-, Adj.: not attached. It is the word nissita-, Adj.: hanging
+on, attached to (this word is a p.p. of the verb si-, to lean on, with the
+prefix ni-, down), negated by the negative prefix a-. Nom.Sg.m. = anissito.
+subbato: subbata-, Adj.: void, empty. Nom.Sg.m. = subbato.
+animitto: animitta-, Adj.: without attributes. It is the word nimitta-, N.n.:
+mark, attribute, characteristic, negated by the negative prefix a-. Nom.Sg.m. =
+animitto.
+List of Abbreviations
+ca, conj.: and.
+vimokkho: vimokkha-, N.m.: emancipation, freedom, release. It is derived from
+the verb root muc- (to release) with the prefix vi- (separation). Nom.Sg. =
+vimokkho.
+yassa: see above.
+gocaro: gocara-, N.m.: pasture, sphere. A compound of:
+    go-, N.m.: cow
+    cara-, N.m.: going, walking. It is derived from the verb car- (to walk, to
+roam).
+Nom.Sg. = gocaro.
+akase: akasa-, N.m.: air, sky, space. Loc.Sg. = akase.
+List of Abbreviations
+va, part.: as, like.
+sakuntanaj: sakunta-, N.m.: bird. Gen.Pl. = sakuntanaj.
+padaj: pada-, N.n.: track, course. Nom.Sg. = padaj.
+tassa: tad-, Pron.: that. Gen.Sg.m. = tassa.
+durannaya: durannaya-, Adj.: hard to find out. It is the word annaya- (or
+anvaya-), Adj.: logical conclusion, with the prefix dur- (difficult). Nom.Sg.f.
+= durannaya.
+List of Abbreviations
+    This verse consists of two paratactic sentences. They are:
+    1) yassasava parikkhina ahare ca anissito subbato animitto ca vimokkho
+yassa gocaro (whose taints are completely removed, who is not attached to food,
+whose sphere is the void emancipation without attributes). This can be further
+subdivided into three parts:
+    a) yassasava parikkhina (whose taints are completely removed). The subject
+is the word asava(taints, nominative plural). It has an attribute, the relative
+pronoun yassa (whose, genitive singular). The object is the past participle
+parikkhina (completely removed, nominative plural). The verb is omitted,
+implying the verb "to be".
+    b) ahare ca anissito (who is not attached to food). The subject is omitted,
+the relative pronounyo (who) is implied. It has an attribute, the past
+participle anissito (not attached, nominative singular). This word has an
+attribute, the noun ahare(to food, locative singular). The conjunction ca
+connects this sentence to the previous one. The verb is omitted, implying the
+verb "to be".
+    c) subbato animitto ca vimokkho yassa gocaro (whose sphere is the void
+emancipation without attributes). The subject is the noun gocaro (sphere,
+nominative singular). It has an attribute, the relative pronoun yassa (whose,
+genitive singular). The object is the noun vimokkho (emancipation, nominative
+singular). It has two attributes, adjectives subbato (empty, void; nominative
+singular) and animitto (without attributes, nominative singular). They are
+connected by the conjunction ca (and).
+    2) akase va sakuntanaj padaj tassa durannaya (their course is difficult to
+find out - like the course of the birds in the sky). The subject is the noun
+padaj(track, path; nominative singular). It has an attribute, the pronoun tassa
+(their, genitive singular). The object is the adjective durannaya (difficult to
+find, nominative singular). There is a clause, akase va sakuntanaj (like [the
+course] of the birds in the sky). The word sakuntanaj (of the birds, genitive
+plural) forms and attribute to the subject of the main sentence (gati). The
+noun akase (in the sky) is an attribute to the wordsakuntanaj. The particle va
+(as, like) connects the clause to the main sentence).
+===============================================================================
+
+
+Commentary:
+    Venerable Anuruddha was once looking for discarded pieces of cloth in order
+to make himself a new robe. His wife Jalini from a previous existence, who was
+now a god, saw him. She brought three pieces of a very good material and put
+them on the rubbish heap. Venerable Anuruddha found them and took them back to
+the monastery to make his robe.
+    The Buddha and other senior disciples then arrived to the monastery and
+they also helped him to make the robe. Jalini then urged the villagers to bring
+lots of delicious food to the monastery, so there was more than enough for
+everyone. Some monks remarked that Anuruddha wanted to show off that he had
+many devotees, so he made them to bring so much good food. The Buddha overheard
+these conversations and said that Anuruddha did not ask anyone for anything.
+Arahants do not ask for food or clothes. They have removed their taints and are
+free and without attachments. Traditionally, the four taints (asava) are
+mentioned in the texts: sense desire (kama), desiring eternal existence
+(bhava), wrong views (ditthi) and ignorance (avijja).
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yassa
+asava
+parikkhina
+ahare
+ca
+anissito
+subbato
+animitto
+vimokkho
+gocaro
+akase
+va
+sakuntanaj
+padaj
+tassa
+durannayaj
+===============================================================================

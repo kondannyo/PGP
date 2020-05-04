@@ -1,0 +1,148 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                    ****** hatthasajyato padasajyato ******
+                    ****** vacasajyato sajyatuttamo ******
+                      ****** ajjhattarato samahito ******
+                 ****** eko santusito tam ahu bhikkhuj ******
+                            ****** (DhP 362) ******
+===============================================================================
+
+
+Sentence Translation:
+Who has control over his hands, feet
+and speech, who is fully controlled,
+with inward joy and firm,
+in solitude and contented - him do people call a monk.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+hattha+sajyato pada+sajyato
+|               |           |          |
+N.m.    Adj.m.   N.m.  Adj.m.
+|          Nom.Sg.    |     Nom.Sg.
+|________|            |_____|
+       |______________|______________________________
+List of Abbreviations
+vaca+sajyato sajyata+uttamo
+|             |             |            |
+N.f.   Adj.m.     Adj.      Adj.m.
+|       Nom.Sg.       |       Nom.Sg.
+|_______|              |______|
+___|_______________|______________________________
+List of Abbreviations
+ajjhatta+rato     samahito
+|              |             |
+Adj.    Adj.m.    Adj.m.
+|        Nom.Sg.  Nom.Sg.
+|________|            |
+____|___________|__________________________________
+List of Abbreviations
+   eko      santusito    tam         ahu      bhikkhuj
+     |              |             |              |               |
+Num.m.   Adj.m.   Pron.m.    V.act.        N.m.
+Nom.Sg. Nom.Sg. Acc.Sg.   3.Pl.perf.   Acc.Sg.
+___|_______|              |________|________|
+            |                            |____|
+            |__________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+hatthasajyato: hatthasajyata-, Adj.: with control over hands. It is a compound
+of:
+    hattha-, N.m.: hand.
+    sajyata-, Adj.: restrained, controlled. It is derived from the verb yam-
+(to restrain, to become tranquil) with the prefix saj- (together).
+Nom.Sg.m. = hatthasajyato.
+padasajyato: padasajyata-, Adj.: with control over feet. It is a compound of:
+    pada-, N.m.: foot.
+    sajyata-, Adj.: see above.
+Nom.Sg.m. = padasajyato.
+vacasajyato: vacasajyata-, Adj.: with control over speech. It is a compound of:
+
+    vaca-, N.f.: speech (it is derived from the verb root vac-, to speak).
+    sajyata-, Adj.: see above.
+Nom.Sg.m. = vacasajyato.
+List of Abbreviations
+sajyatuttamo: sajyatuttama-, Adj.: with highest control, fully controlled. It
+is a compound of:
+    sajyata-, Adj.: see above.
+    uttama-, Adj.: highest, full.
+Euphonic combination: sajyata- + uttama- = sajyamuttama-.
+Nom.Sg.m. = sajyamuttamo.
+ajjhattarato: ajjhattarata-, Adj.: with inward joy. It is a compound of:
+    ajjhatta-, Adj.: inward, from within.
+    rata-, Adj.: delighting. It is a p.p. of the verb ram- (to delight in, to
+be devoted to).
+Nom.Sg.m. = ajjhattarato.
+samahito: samahita-, Adj.: settled, composed, firm. It is a p.p. of the verb
+dha-, to put, with the prefixes saj- (together) and a- (towards). Nom.Sg.m. =
+samahito.
+List of Abbreviations
+eko: eka-, Num.: one. As an Adj.: alone. Nom.Sg.m. = eko.
+santusito: santusita-, Adj.: contented, pleased, happy. It is a p.p. of the
+verb root tus- (to be glad) with the prefix saj- (completely). Nom.Sg.m. =
+santusito.
+tam: tad-, Pron.: that. Acc.Sg.m. = tam.
+ahu, V.: said, proclaimed. The verb root is ah- (to speak). 3.Pl.act.perf. =
+ahu.
+bhikkhuj: bhikkhu-, N.m.: a (Buddhist) monk. Acc.Sg. = bhikkhuj.
+List of Abbreviations
+    There are eight subjects in this sentence. They are:
+    1) hatthasajyato (with control over hands, nominative singular).
+    2) padasajyato (with control over feet, nominative singular).
+    3) vacasajyato (with control over speech, nominative singular).
+    4) sajyatuttamo (with highest control, nominative singular).
+    5) ajjhattarato (with inward joy, nominative singular).
+    6) samahito (firm, nominative singular).
+    7) eko (alone, nominative singular).
+    8) santusito (contented, nominative singular).
+    The verb is ahu (they said, 3rd person, plural, active, perfect). The
+object is the noun bhikkhuj (monk, accusative singular). It has an attribute,
+the pronoun tam (him, accusative singular).
+===============================================================================
+
+
+Commentary:
+    There was a monk who was very skilled in throwing stones. Once he was
+sitting with his friends and they observed some geese flying over them. The
+monk boasted he could hit the eye of one of the geese. He took a pebble and
+threw it. The pebble hit the bird in the eye and the goose fell down dead.
+    Other monks reported the incident to the Buddha who admonished the monk
+with this verse, telling him not to hurt any living beings and to strive for
+the Awakenment by the way of practicing restraint.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+hatthasajyato
+hattha
+sajyato
+padasajyato
+pada
+vacasajyato
+vaca
+sajyatuttamo
+sajyata
+uttamo
+ajjhattarato
+ajjhatta
+rato
+samahito
+eko
+santusito
+tam
+ahu
+bhikkhuj
+===============================================================================

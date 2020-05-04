@@ -1,0 +1,134 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** dukkhaj dukkhasamuppadaj dukkhassa ca atikkamaj ******
+         ****** ariyaj c'atthavgikaj maggaj dukkhupasamagaminaj ******
+                            ****** (DhP 191) ******
+===============================================================================
+
+
+Sentence Translation:
+Suffering, origin of suffering, overcoming of suffering,
+and the noble eightfold path, leading to appeasement of suffering.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+dukkhaj dukkha+samuppadaj dukkhassa ca atikkamaj
+|                   |               |                  |          |          |
+N.n.          N.n.         N.m.            N.n.    conj.   N.m.
+Acc.Sg.        |          Acc.Sg.        Gen.Sg.    |     Acc.Sg.
+|                   |_________|                 |______|_____|
+|                           |                               |___|
+|_______________|___________________|_______________________________
+List of Abbreviations
+ariyaj   ca    attha+avgikaj maggaj dukkha+upasama+gaminaj
+|              |        |           |            |            |             
+|              |
+Adj.m. conj. Num.   Adj.m.    N.m.     N.n.        N.m.      Adj.m.
+Acc.Sg.   |        |      Acc.Sg.  Acc.Sg.      |________|         Acc.Sg.
+|              |        |______|            |                    |____________|
+
+|              |               |_________|                                |
+|________|_____________|                                        |
+               |           |_____________________________|
+               |____________________|
+__________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+dukkhaj: dukkha-, N.n.: suffering. Acc.Sg. = dukkhaj.
+dukkhasamuppadaj: dukkhasamuppada-, N.m.: origin of suffering. It is a compound
+of:
+    dukkha-, N.n.: suffering.
+    samuppada-, N.m.: appearance, origin, coming into existence. It is derived
+from the verb root pad- (to come) with the prefixes ud- (up) and sam-
+(together).
+Acc.Sg. = dukkhasamuppadaj.
+dukkhassa: dukkha-, N.m.: suffering. Gen.Sg. = dukkhassa.
+ca, conj.: and.
+atikkamaj: atikkama-, N.m.: overcoming, passing beyond. It is derived from the
+verb root kam- (to go, to walk) with the prefix ati- (over, beyond). Acc.Sg. =
+atikkamaj.
+ariyaj: ariya-, Adj.: noble, distinguished, good. Acc.Sg.m. = ariyaj.
+ca: see above.
+List of Abbreviations
+atthavgikaj: atthavgika-, Adj.: eight-fold, having eight parts. It is a
+compound of:
+    attha-, Num. eight.
+    avgika-, Adj.: having a part, having a constituent. It is derived from the
+word avga-, N.n.: limb, part, constituent.
+Euphonic combination: attha- + avgika- = atthavgika-.
+Acc.Sg.m. = atthavgikaj.
+Euphonic combination: ca + atthavgikaj = c'atthavgikaj.
+maggaj: magga-, N.m.: road, path. Acc.Sg. = maggaj.
+dukkhupasamagaminaj: dukkhupasamagamin-, Adj.: leading to appeasement of
+suffering. It is a compound of:
+    dukkha-, N.n.: suffering.
+    upasama-, N.m.: calm, quiet, appeasement. It is derived from the verb root
+sam- (to be appeased) with the prefix upa- (towards, up).
+    gamin-, Adj.: going, leading to. It is derived from the verb gam- (to go).
+Euphonic combination: dukkha- + upasama- = dukkhupasama-.
+Acc.Sg. = dukkhupasamagaminaj.
+List of Abbreviations
+    Syntactically speaking, this verse contains attributes to the object of the
+second sentence of the previous verse (see DhP 190), the word ariyasaccani
+(noble truths). There are four attributes:
+    1) dukkhaj (suffering, accusative singular).
+    2) dukkhasamuppadaj (origin of suffering, accusative singular).
+    3) atikkamaj (overcoming, accusative singular). This word has an attribute,
+the noun dukkhassa (of suffering, genitive singular). It is connected to the
+previous attribute by the conjunction ca (and).
+    4) maggaj (path, accusative singular). This word has two attributes, the
+compound dukkhupasamagaminaj (leading to appeasement of suffering, accusative
+singular) and the compound atthavgikaj (eightfold, accusative singular). This
+last word has its own attribute, the adjective ariyaj (noble, accusative
+singular). The whole attribute is connected to the previous ones by the
+conjunction ca (and).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the preceding verses
+(DhP 188, DhP 189, DhP 190) and the following one (DhP 192).
+    These are so called Four Noble Truths, one of the most important teachings
+of the Buddha. They are:
+    1) The Truth of Suffering: everything in this world is connected with pain
+and suffering.
+    2) The truth of Origin of Suffering: the root of suffering is our craving.
+    3) The truth of Extinction of Suffering: by destroying the craving we also
+destroy all the suffering.
+    4) The truth of the Path, leading to the Extinction of Suffering: this can
+be done by following the Noble Eightfold Path: Right View, Right Thought, Right
+Speech, Right Action, Right Livelihood, Right Effort, Right Mindfulness, Right
+Concentration.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+dukkhaj
+dukkhasamuppadaj
+dukkha
+samuppadaj
+dukkhassa
+ca
+atikkamaj
+ariyaj
+atthavgikaj
+attha
+avgikaj
+maggaj
+dukkhupasamagaminaj
+upasama
+gaminaj
+===============================================================================

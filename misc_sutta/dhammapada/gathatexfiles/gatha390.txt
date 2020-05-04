@@ -1,0 +1,161 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+                 ****** na brahmanassetad akibci seyyo ******
+                   ****** yada nisedho manaso piyehi ******
+                  ****** yato yato hijsamano nivattati ******
+                  ****** tato tato sammatimeva dukkhaj ******
+                            ****** (DhP 390) ******
+===============================================================================
+
+
+Sentence Translation:
+For a Brahmin, there is nothing better
+than when he is holding the mind back from agreeable things.
+When one turns away from a wish to hurt,
+then one just calms down the suffering.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na brahmanassa  etad       akibci      seyyo
+|              |             |             |              |
+neg.     N.m.     Pron.n.   Pron.n.    Adj.n.
+|         Dat.Sg.  Nom.Sg. Nom.Sg.  Nom.Sg.
+|________|             |_______|              |
+        |                           |___________|
+        |_____________________|
+                          |_________________________________________
+List of Abbreviations
+yada       nisedho   manaso  piyehi
+|                   |             |           |
+Rel.Adv.  Adj.m.     N.n.    Adj.m.
+|             Nom.Sg. Gen.Sg.  Ins.Pl.
+|                   |             |______|
+|                   |__________|
+|_______________|
+________|
+List of Abbreviations
+yato          yato    hijsa+mano   nivattati
+|                  |           |          |             |
+Rel.Adv. Rel.Adv. N.f.    N.n.    V.act.in.
+|__________|           |    Gen.Sg. 3.Sg.pres.
+          |                    |_____|              |
+          |                        |___________|
+          |___________________|
+                          |__________________________________________
+List of Abbreviations
+tato    tato   sammati    eva dukkhaj
+|           |            |           |           |
+Adv. Adv.   V.act.in.  part.     N.n.
+|______|     3.Sg.pres.    |      Acc.Sg.
+      |                 |______|            |
+      |                       |__________|
+      |__________________|
+____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+brahmanassa: brahmana-, N.m.: Brahmin, a holy man. Dat.Sg. = brahmanassa.
+etad: etad-, Pron.: this. Nom.Sg.n. = etad.
+Euphonic combination: brahmanassa + etad = brahmanassetad.
+akibci: akibci-, Pron.: nothing. It is the word kibci-, Pron. (something)
+negated by the negative prefix a-. Nom.Sg.n. = akibci.
+seyyo: seyya-, Adj.: better. Nom.Sg.n. = seyyo.
+yada, Rel.Adv.: when.
+List of Abbreviations
+nisedho: nisedha-, Adj.: restraining, holding back. Nom.Sg.m. = nisedho.
+manaso: manas-, N.n.: mind. Gen.Sg. = manaso.
+piyehi: piya-, Adj.: dear, agreeable. Ins.Pl.m. = piyehi.
+yato, Rel.Adv.: whence, since, from which time.
+yato: see above. The repetition yato yato: whenever.
+hijsamano: hijsamano-, N.n.: wish to hurt. It is a compound of:
+    hijsa-, N.f.: hurt, injury, killing. It is derived from the verb root hijs-
+(to hurt). The compound form: hijsa-.
+    mano-, N.n.: mind.
+Gen.Sg.m. = hijsamano.
+List of Abbreviations
+nivattati, V.: turns away from. The verb root is vat- (to turn) with the prefix
+ni- (away).
+3.Sg.act.in.pres. = nivattati.
+tato, Adv.: then.
+tato: see above. The repetition tato tato: just then, thence.
+sammati, V.: calms, is appeased. The verb root is sam- (to be appeased).
+3.Sg.act.in.pres. = sammati.
+eva, part.: just, only.
+Euphonic combination: sammati + eva = sammatimeva.
+dukkhaj: dukkha-, N.n.: suffering. Acc.Sg. = dukkhaj.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) na brahmanassetad akibci seyyo yada nisedho manaso piyehi (for a
+Brahmin, there is nothing better than when he is holding his mind back from
+agreeable things). This van be analysed into two segments:
+    a) na brahmanassetad akibci seyyo (for a Brahmin, there is nothing better).
+The subject is the pronoun akibci (nothing, nominative singular). It has an
+attribute, the pronoun etad (this, nominative singular). The verb is omitted,
+implying the verb "to be". It is negated by the negative particle na (not). The
+verb has an attribute, the noun brahmanassa (for a Brahmin, dative singular).
+    b) yada nisedho manaso piyehi (than when he is holding his mind back from
+agreeable things). The subject is the adjective nisedho (holding back,
+nominative singular). It has an attribute, the adjective piyehi (with agreeable
+[things], instrumental plural). This word has also an attribute, the noun
+manaso (of mind, genitive singular). The relative adverb yada (when) connects
+this segment to the previous one.
+    2) yato yato hijsamano nivattati tato tato sammatimeva dukkhaj (when one
+turns away from a wish to hurt, then one just calms down the suffering). This
+can be analysed into two related sentences:
+    a) yato yato hijsamano nivattati (when one turns away from a wish to hurt).
+The subject is omitted; the verb implies the third person singular pronoun. The
+verb is nivattati (turns away, 3rd person, singular, active, indicative,
+present tense). The object is the compound hijsamano (from a wish to hurt,
+genitive singular). Two relative adverbs yato (whenever) connect this sentence
+to the following one.
+    b) tato tato sammatimeva dukkhaj (then one just calms down the suffering).
+The subject is omitted; the verb implies the third person singular pronoun. The
+verb is sammati (calms down, 3rd person, singular, active, indicative, present
+tense). It is stressed by the particle eva (just). The object is the noun
+dukkhaj (suffering, accusative singular). Two adverbs tato (then) connect this
+sentence to the previous one.
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 389).
+    Whenever we are angry, but manage to turn away from the feelings of hatred
+and wish to hurt the opposite party, then we just won a small victory on the
+road towards the Awakenment and the appeasement of all suffering.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+brahmanassa
+etad
+akibci
+seyyo
+yada
+nisedho
+manaso
+piyehi
+yato
+hijsamano
+hijsa
+mano
+nivattati
+tato
+sammati
+eva
+dukkhaj
+===============================================================================

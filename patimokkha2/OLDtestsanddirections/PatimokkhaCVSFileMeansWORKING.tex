@@ -1,0 +1,87 @@
+% !TEX TS-program = XeLaTeX
+
+\documentclass[11pt]{book}
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{polyglossia}
+\defaultfontfeatures{Ligatures=TeX}
+\setmainlanguage{brazil}
+\setotherlanguage[variant=ancient]{greek}
+\setmainfont{Arial}
+\usepackage{datatool}
+\usepackage{expex}
+
+% Format chapter and verse (\section) headings
+%\titleformat{\chapter}[display]
+%{\normalfont\filcenter}
+ %{\LARGE\MakeUppercase{\chaptertitlename} \thechapter}
+% {1pc}
+% {\vspace{1pc}%
+  % \LARGE}
+%\titlespacing{\chapter}
+%{0pt}{0pt}{10pt}
+
+\titleformat{\section}[leftmargin]
+ {\normalfont
+  \vspace{0pt}%
+   \bfseries\Large\filleft}
+{Par \thesection}{.5em}{} 
+\titlespacing{\section}
+{4pc}{1.5ex plus .1ex minus .2ex}{0pt}
+
+% format section label
+\renewcommand{\thesection}{\arabic{section}}
+
+% multiple gloss lines will align on the left margin
+\lingset{glhangstyle=none}
+
+% initialize some token registers to build up the lines from the database cells
+\newtoks\glosslineA
+\newtoks\glosslineB
+
+% create a command to append a cell to the token register
+% Thanks to Enrico Gregorio for this code
+\long\def\Append#1#2{#1=\expandafter{%
+  \the\expandafter\expandafter\expandafter#1\expandafter\space #2}}
+
+% Define a command to empty the token registers
+\def\emptytoks{\glosslineA{}\glosslineB{}}
+
+% Define a command used to escape * in the input cell
+\def\esc#1{#1} % 
+\def\SecTest{section} % verse delimiter check
+
+\begin{document}
+\DTLsetseparator{   }% literal tab; with UTF8 source, \DTLsettabseparator doesn't work
+\DTLloaddb{text}{Patimokkha.csv}
+\setcounter{chapter}{0}
+%\chapter{pārājika}
+\DTLforeach{text}
+{% assign each cell in a row to a macro
+    \PaliText=pali,
+    \EnglishText=english%
+}
+{% If we're in the first row, start a section; otherwise if we find a section, output
+%  the previous section's lines, and start a new section, then empty the token registers
+    \DTLiffirstrow{\section{}}{
+    \DTLifeq{\PaliText}{\SecTest}{
+    \begingl[everygl=,everygla=\Large,everyglb=\it,
+everyglft=,aboveglftskip=0pt]
+        \expandafter\gla\the\glosslineA//
+        \expandafter\glb\the\glosslineB//
+    \endgl
+    \section{}
+    \emptytoks
+    }
+    {% For each cell, append it to the token register for that line
+    \Append\glosslineA{\PaliText}%
+    \Append\glosslineB{\EnglishText}%
+}}}
+% output the last section's lines.
+\begingl[everygl=,everygla=\Large,everyglb=\it,
+everyglft=,aboveglftskip=0pt]
+    \expandafter\gla\the\glosslineA//
+    \expandafter\glb\the\glosslineB//
+\endgl
+
+\end{document}

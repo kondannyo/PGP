@@ -1,0 +1,134 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** susukhaj vata jivama yesaj no natthi kibcanaj ******
+           ****** pitibhakkha bhavissama deva abhassara yatha ******
+                            ****** (DhP 200) ******
+===============================================================================
+
+
+Sentence Translation:
+Very happily indeed we live, who have nothing whatsoever.
+We will be feeding on joy, just like the Radiant Gods.
+===============================================================================
+
+
+Sentence Structure:
+susukhaj vata   jivama     yesaj           no       na       atthi    kibcanaj
+|                 |           |               |                |         
+|           |             |
+Adv.        part.  V.act.in.  Rel.Pron.m. Pron.m. neg.   V.act.in.   Pron.n.
+|_________|      1.Pl.pres.   Gen.Pl.      Gen.Pl.    |     3.Sg.pres. Nom.Sg.
+        |___________|                |_________|          |______|            
+|
+                  |                                    |                       
+|__________|
+                  |                                    |___________________|
+                  |_____________________________|
+List of Abbreviations
+piti+bhakkha bhavissama  deva  abhassara  yatha
+|             |               |            |             |            |
+N.f.   Adj.m.      V.act.     N.m.     Adj.m.  Rel.Adv.
+|       Nom.Pl.   1.Pl.fut.  Nom.Pl. Nom.Pl.      |
+|_______|               |             |_______|            |
+       |____________|                    |__________|
+                  |_______________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+susukhaj, Adv.: very happily. It is derived from the word sukha-, Adj.: happy,
+with the prefix su- (well, good).
+vata, part.: indeed, certainly.
+jivama, V.: (we) live. The verb root is jiv-. 1.Pl.act.in.pres. = jivama.
+yesaj: yat-, Rel.Pron.: that, which. Gen.Pl.m. = yesaj.
+no: aham, Pron.: I. Gen.Pl. = no.
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = natthi.
+List of Abbreviations
+kibcanaj: kibcana-, Pron.n.: something, anything. Nom.Sg. = kibcanaj.
+pitibhakkha: pitibhakkha-, Adj.: feeding on joy. It is a compound of:
+    piti-, N.f.: joy, delight.
+    bhakkha-, Adj.: eating, feeding. It is derived from the verb root bhakkh-
+(to eat).
+Nom.Pl.m. = pitibhakkha.
+bhavissama, V.: (we) will be. The verb root is bhu-. 1.Pl.act.fut. =
+bhavissama.
+deva: deva-, N.m.: god, celestial being. Nom.Pl. = deva.
+abhassara: abhassara-, Adj.: radiant. Radiant Gods, a special class of gods
+that feed on joy.
+Nom.Pl.m. = abhassara.
+yatha, Rel.Adv.: as, just like.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) susukhaj vata jivama yesaj no natthi kibcanaj (very happily indeed we
+live, who have nothing whatsoever). This can be further analysed into two
+segments:
+    a) susukhaj vata jivama (very happily indeed we live). The subject is
+omitted; the verb implies the first person plural pronoun. The verb is jivama
+(we live, 1st person, plural, active, indicative, present tense). It has an
+attribute, the adverb susukhaj (very happily). The particle vata (indeed)
+serves mainly for metrical purposes.
+    b) yesaj no natthi kibcanaj (who have nothing whatsoever). The subject is
+the pronoun kibcanaj (anything, nominative singular). The verb is atthi (is,
+3rd person, singular, active, indicative, present tense). It is negated by the
+negative particle na (not). The verb has two attributes, the pronoun no (ours,
+genitive plural) and the relative pronoun yesaj (whose, genitive plural).
+    2) pitibhakkha bhavissama deva abhassara yatha (we will be feeding on joy,
+just like the Radiant Gods). This can be further analysed into the main
+sentence a) and the clause b):
+    a) pitibhakkha bhavissama (we will be feeding on joy). The subject is the
+adjective compound pitibhakkha (feeding on joy, nominative plural). The verb is
+bhavissama ([we] will be, 1st person, plural, active, future).
+    b) deva abhassara yatha (just like the Radiant Gods). The subject is the
+noun deva (gods, nominative plural) with its attribute, the adjective abhassara
+(radiant, nominative plural). The relative adverb yatha (just as, like)
+connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    The Buddha once saw that a group of young girls from Pabcasala village was
+very close to attaining the first stage of Awakenment. One day, when the girls
+were returning from the bath at the river, the Buddha entered the village for
+almsfood. However, the villagers were influenced by Mara and gave him nothing.
+    When the Buddha left the village, he met Mara who asked him if he has
+received enough almsfood. The Buddha, knowing that Mara influenced the
+villagers, admonished him for doing such a wrong deed. Mara wanted to make
+further fun of the Buddha and so told him to go back to the village to ask for
+almsfood again.
+    When the Buddha returned to the village, the girls came back from their
+bath and paid their homage to him. Mara appeared again and asked the Buddha if
+he was not quite hungry, not having eaten anything that day. The Buddha replied
+with this verse, saying that even if he did not get any food at all, he would
+sustain himself on joy and satisfaction, like the Radiant Gods, who live in
+constant joy and happiness.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+susukhaj
+vata
+jivama
+yesaj
+no
+na
+atthi
+kibcanaj
+pitibhakkha
+piti
+bhakkha
+bhavissama
+deva
+abhassara
+yatha
+===============================================================================

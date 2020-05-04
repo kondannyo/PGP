@@ -1,0 +1,171 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+            ****** mameva kataṃ maññantu gihī pabbajitā ubho ******
+             ****** mamevātivasā assu kiccākiccesu kismici ******
+           ****** iti bālassa saṅkappo icchā māno ca vaḍḍhati ******
+                            ****** (DhP 74) ******
+===============================================================================
+
+Sentence Translation:
+"Let both householders and monks think that it was done by me,
+let them be under my will, in whatever duties."
+Such are fool's thoughts. His desire and pride grows.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+mama eva   kataṃ  maññantu   gihī   pabbajitā    ubho
+|            |         |             |            |            |              |
+
+Pron.  part.  Adj.n.    V.act.     N.m.      N.m.      Adj.m.
+Gen.Sg. |    Acc.Sg. 3.Pl.imp. Nom.Sg. Nom.Pl. Nom.Du.
+|_______|        |             |            |_______|              |
+       |________|             |                   |___________|
+               |___________|                             |
+                         |______________________|
+                                            
+|______________________________________
+List of Abbreviations
+mama eva  ativasā      assu  kicca+akiccesu kismici
+|            |        |              |        |           |           |
+Pron.  part. Adj.m.    V.act.  N.n.    N.n.    Pron.n.
+Gen.Sg. |    Nom.Pl. 3.Pl.opt.  |     Loc.Pl.  Loc.Sg.
+|_______|       |              |         |______|           |
+      |________|              |               |_________|
+             |____________|_____________|
+                            |____|
+__________________|
+List of Abbreviations
+iti     bālassa saṅkappo   icchā      māno     ca   vaḍḍhati
+    |        |            |              |             |          |          |
+part.   N.m.     N.m.        N.f.       N.m.   conj.  V.act.in.
+    |   Gen.Sg. Nom.Sg. Nom.Sg. Nom.Sg.   |     3.Sg.pres.
+__|        |_______|             |________|_____|          |
+  |_________|                               |_____________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+mama: aham, Pron.: I. Gen.Sg. = mama.
+eva, part.: just, only.
+Euphonic combination: mama + eva = mameva.
+kataṃ: kata-, Adj.: done. It is a p.p. of the verb root kar- (to do). Acc.Sg.n.
+= kataṃ.
+maññantu, V.: let them think. The verb root is man-(to think).
+3.Pl.act.imp. = maññantu.
+gihī: gihin-, N.m.: householder, lay follower. Derived from the word gaha-,
+N.m.: house, by adding the possessive suffix -in. Nom.Sg. = gihī.
+List of Abbreviations
+pabbajitā: pabbajita-, Adj.: One who has "gone forth" from home and became a
+monk. It is a p.p. of the verb pabbajati (to go forth). Nom.Pl.m. =pabbajitā.
+ubho: ubha-, Adj.: both. Nom.Du.m. = ubho. This is a rare remnant of dual in
+Pali.
+mama: see above.
+eva: see above.
+ativasā: ativasa-, Adj.: under one's will, dependent upon. It is the word
+vasa-, N.m: power, control, will, with the prefix ati- (according to, up to).
+Nom.Pl.m. = ativasā.
+Euphonic combination mama + eva + ativasā= mamevātivasā.
+List of Abbreviations
+assu: may they be. The verb root is as- (to be). 3.Pl.act.opt = assu.
+kiccākiccesu: kiccākicca-, Adj. and N.n.: all kinds of duties, various duties.
+It is a compound of:
+    kicca-, N.n.: duty, what ought to be done. It is a grd. of the verbkar- (to
+do).
+    akicca-, N.n.: negated (by the negative prefixa-) word kicca-(see above).
+The meaning of the compound is not "what is duty and what is not", but rather
+"all kinds of duties".
+Loc.Pl. =kiccākiccesu.
+kismici: kiñci-, Pron.: whatever. Loc.Sg.n. = kismici.
+iti, part.: a particle, symbolizing the end of direct speech. In English this
+is expressed by quotation marks. Sometimes it is written as ti.
+bālassa: bāla-, Adj.: childish, young. As an N.m.: "like a child", fool,
+ignorant person.
+Gen.Sg. = bālassa.
+List of Abbreviations
+saṅkappo: saṅkappa-, N.m.: thought, intention. Nom.Sg. = saṅkappo.
+icchā: icchā-, N.f.: desire, longing. Nom.Sg. =icchā.
+māno: māna-, N.m.: pride, conceit. Nom.Sg. =māno.
+ca, conj.: and.
+vaḍḍhati, V.: grows, increases. The verb root is vaḍḍh-. 3.Sg.act.in.pres. =
+vaḍḍhati.
+List of Abbreviations
+    There are basically two main sentences in this verse. The second of them is
+icchā māno ca vaḍḍhati (desire and pride grows). Here, the subject is double,
+the nouns icchā (desire, nominative singular) and māno (pride, nominative
+singular). They are connected by the conjunction ca (and). The verb is vaḍḍhati
+(grows, 3rd person, singular, active, indicative, present tense).
+    The rest of this verse forms the first sentence. It can be further divided
+into the main sentence and the direct speech. The main sentence is iti bālassa
+saṅkappo (such is fool's thought). Here the subject is the noun saṅkappo
+(thought, nominative singular). It has the noun bālassa (fool's, genitive
+singular) as an attribute. The verb is omitted, implying the verb "to be". The
+particle iti(end of the direct speech) introduces the sentence and connects it
+to the direct speech.
+    The direct speech can be subdivided into two sentences. They form the first
+and second lines of the verse respectively.
+    In the first sentence, the subject is double, the nouns gihī(householder,
+nominative singular) and pabbajitā(monks, nominative plural). They are
+connected by the adjective ubho (both, nominative dual). The verb is maññantu
+(let them think, 3rd person, plural, active, imperative). The object is the
+adjective kataṃ (done, accusative singular). It has an attribute, the pronoun
+mama (my, genitive singular) that is strengthened by the particle eva (just,
+only).
+    In the second part of the direct speech, the subject is omitted, implying
+the subject from the previous sentence (gihī, pabbajitā). It has an attribute,
+the adjective ativasā (under [my] will, nominative plural). This word has
+itself two attributes, the pronoun mama(my, genitive singular) that is
+strengthened by the particle eva(just, only). The second attribute is the
+adjective/nounkiccākiccesu (in all duties, locative plural) with its attribute,
+the indefinite pronoun kismici (in whatever, locative singular). The verb is
+assu(may they be, 3rd person, plural, active, optative).
+
+===============================================================================
+
+Commentary:
+    The story for this verse is identical with the story for the previous one,
+as they actually form two parts of one rather long verse (see DhP 73).
+    As with the monk Sudhamma in the story, if we become too attached to our
+surroundings, if we identify ourselves with it, our desires will grow. If we
+feel that only we know how to do things and if we expect everybody to follow
+our leadership in whatever has to be done, our pride will only increase.
+Needles to say, desire and pride are hindrances on the way to Awakenment.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+mameva
+mama
+eva
+kataṃ
+maññantu
+gihī
+pabbajitā
+ubho
+mamevātivasā
+ativasā
+assu
+kiccākiccesu
+kicca
+akiccesu
+kismici
+iti
+bālassa
+saṅkappo
+icchā
+māno
+ca
+vaḍḍhati
+
+===============================================================================

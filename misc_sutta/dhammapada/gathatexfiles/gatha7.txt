@@ -1,0 +1,189 @@
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+          ****** subhānupassiṃ viharantaṃ indriyesu asaṃvutaṃ ******
+           ****** bhojanamhi cāmattaññuṃ kusītaṃ hīnavīriyaṃ ******
+          ****** taṃ ve pasahati māro vāto rukkhaṃ va dubbalaṃ ******
+                             ****** (DhP 7) ******
+===============================================================================
+
+Translation:
+The person, who lives contemplating pleasant things, who is not restrained in
+senses,
+Who does not know moderation in food, who is indolent and of poor effort,
+Mara will overcome him, as wind a weak tree.
+===============================================================================
+
+Sentence structure:
+
+List of Abbreviations
+subha+anupassiṃ viharantaṃ indriyesu a+saṃvutaṃ
+|                |                 |              |        |           |
+Adj.        N.m.          N.m.       N.n.   neg.     N.m.
+|            Acc.Sg.      Acc.Sg.   Loc.Pl.   |       Acc.Sg.
+|________|                   |              |        |______|
+       |_______________|              |________|
+                   |_____________________|__________________________
+List of Abbreviations
+bhojanamhi ca         a+matta+ññuṃ         kusītaṃ hīna+vīriyaṃ
+|                  |           |       |          |                |         
+|          |
+N.n.         conj.     Neg. N.n.  Adj.m.        N.m.    Adj.   Adj.m.
+Loc.Sg.       |           |       |     Acc.Sg.      Acc.Sg.    |      Acc.Sg.
+|                  |           |       |_____|                 |         
+|______|
+|                  |           |_______|                     |                |
+
+|__________|__________|                           |                |
+           |____|                                              |               
+|
+________|____________________________|_________|_____________
+List of Abbreviations
+taṃ             ve     pasahati     māro         vāto         rukkhaṃ    
+va         du+bbalaṃ
+|                   |           |              |               
+|                 |              |            |          |
+Pron.m.     part. V.act.pres.   N.m.         N.m.          N.m.        
+enc.      Pref.   N.m.
+Acc.Sg.        |      3.Sg.in.    Nom.Sg.   Nom.Sg.      Acc.Sg.       
+|            |      Acc.Sg.
+|                  |            |_______|                 |                 
+|             |             |_____|
+|__________|___________|                      |                  
+|_______|__________|
+            |___|                                          
+|                        |____|
+________|                                               |_______________|
+    |________________________________________|
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+subhānupassiṃ: subhānupassin-, N.m.: contemplating the pleasant [things]. A
+compound consisting of:
+    subha-, Adj.: pleasant
+    anupassin-, N.m.: contemplating, viewing, observing. Derived from the verb
+pass-, to see
+    with the prefix anu-, on, at, down on. Anupassanā- N.f.: observation,
+contemplation. The
+    suffix -in is so called possessive suffix (thus literally "having
+contemplation).
+Acc.Sg. of the compound = subhānupassiṃ.
+viharantaṃ: viharant-, pr.p.: staying, dwelling, living. Derived from the verb
+har- (to carry) with the prefix vi- (denoting separation). Viharati: V.: to
+live, to stay, to dwell.
+AccSg.m. of the pr.p. = viharantaṃ.
+List of Abbreviations
+indriyesu:indriya-, N.n.: sense faculty. Loc.Pl. = indriyesu.
+asaṃvutaṃ: asaṃvuta-, Adj.; unrestrained, ungoverned, unguarded. It is p.p. of
+the verb var- (to obstruct) with the prefix saṃ- (together, completely),
+negated by the negative prefix a-. Acc.Sg.m. = asaṃvutaṃ.
+bhojanamhi: bhojana-, N.n.: food. Loc.Sg.= bhojanamhi.
+ca, conj.: and.
+List of Abbreviations
+amattaññuṃ: amattaññū-, N.m.: not knowing the measure. mattaññū-, N.m.: knowing
+the measure. A compound of:
+    matta-, N.n.: measure.
+    -ñū-, Adj. suffix: knowing (derived from the verb ñā-, to know).
+The compound is negated by the prefix a-.
+Acc.Sg.m. of the compound = amattaññuṃ.
+kusītaṃ: kusīta-, Adj.: indolent, inactive. Acc.Sg.m. = kusītaṃ.
+hīnavīriyaṃ: hīnaviriya-, Adj.: having poor strength. A compound of
+    hīna-, Adj.: poor, inferior. It is p.p. of the verb hā- (to reject).
+    viriya-, N.n.: energy, vigor, effort.
+Acc.Sg.m. of the compound = hīnaviriyaṃ.
+List of Abbreviations
+taṃ: tad-, Pron.: it. Masculine form so-, he. Acc.Sg. = taṃ (him).
+ve: affirmative particle, indeed, truly.
+pasahati: to use force, to subdue, to overcome. The verb sah- (to conquer) with
+the emphasizing prefix pa-. 3.Sg.act.in.pres. = pasahati.
+List of Abbreviations
+māro: māra-, N.m.: Mara, personified death, the Evil One, devil. Nom.Sg. =
+māro.
+vāto: vāta-, N.m.: wind. Nom.Sg. = vāto.
+rukkhaṃ: rukkha-, N.m.: tree. Acc.Sg. = rukkhaṃ.
+va: enc.: as if, like.
+dubbalaṃ: dubbala-, Adj.: weak, of bad strength. The word bala- (N.n.:
+strength) with the prefix du- (bad, insufficient). Acc.Sg.m. = dubbalaṃ.
+List of Abbreviations
+    The subject of this sentence is māro (Mara) in the last line. It is in
+nominative singular. The verb is pasahati (overcome) in 3rd person, singular,
+active, indicative, present tense. The main object is the word taṃ (him,
+accusative singular). The first three lines form attributes to the object,
+namely:
+    1) subhānupassiṃ viharantaṃ,
+    2) indriyesu asaṃvutaṃ,
+    3)bhojanamhi cāmattaññuṃ,
+    4) kusītaṃ,
+    5) hīnavīriyaṃ.
+    In the first attribute, both parts (subhānupassiṃ -- contemplating the
+pleasant and viharantaṃ -- living) are in accusative singular, as they must
+agree with the main object.
+    The second attribute is asaṃvutaṃ (unrestrained) and therefore it is in
+accusative singular. The wordindriyesu (in senses) forms an attribute to this
+word. It is in locative plural. Locative is the case, that expresses location.
+It is an answer to the question "Where?".
+    The third attribute is amattaññuṃ (not knowing measure) which is in
+accusative singular. An attribute to this word is bhojanamhi (in food), which
+is in locative singular. There is also a conjunction ca (and) connecting this
+attribute to the other ones.
+    The fourth attribute kusītaṃ (indolent) is in accusative singular.
+    The last attribute hīnavīriyaṃ (of poor effort) is also in accusative
+singular.
+    The particle ve (indeed) in the last line serves just as an affirmative
+particle.
+    The second sentence (subordinate to the main sentence) is vāto rukkhaṃ va
+dubbalaṃ (as wind [overcomes] a weak tree). The subject of this sentence is
+vāto (wind) which is in nominative singular. The verb is omitted (implying here
+the verb pasahati from the main sentence). The object is rukkhaṃ (tree) and it
+is in accusative singular. The word dubbalaṃ (weak) forms an attribute to the
+object and it agrees with it in case and number. The enclitic va (as, like)
+connects this subordinate sentence to the main one.
+===============================================================================
+
+Commentary:
+    What we have described here, is a recipe, how to become a prey of our own
+mind. For Mara, The Evil One, is not some outside force, some "devil" or deity
+of death and destruction, it is only our mind, our bad habits, laziness, evil
+intentions and especially ignorance, the true root of all evil. If we dwell
+with our minds only on the pleasant things, if we indulge in enjoying
+pleasurable things (subhānupassiṃ viharantaṃ), then it is easy for these
+tendencies in our brain ("Mara") to gain strength. The same thing happens, when
+we are unrestrained in six senses (eye, ear, nose, tongue, body and mind),
+taking in without restraint and reflection everything that comes and if we
+never have enough of sense pleasures (indriyesu asaṃvutaṃ). And of course, if
+we do not know moderation in food, we can expect the same result, because
+indulgence in food is actually a part of lack of restraint in senses
+(bhojanamhi cāmattaññuṃ). Laziness (kusītaṃ) and lack of effort to change our
+ways (hīnavīriyaṃ) will not help us to get rid of these bad habits and the
+roots of meditative life will slowly wither and die away. And without strong,
+often cultivated roots, the tree of our practice will not grow higher and
+higher, will never bring fruits in reaching the Nirvana, but our bad tendencies
+will subdue us, our hope for reaching the goal, just as easily, as wind uproots
+a weak tree.
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+subh'ānupassiṃ
+viharantaṃ
+indriyesu
+asaṃvutaṃ
+bhojanamhi
+ca
+amattaññuṃ
+kusītaṃ
+hīnavīriyaṃ
+taṃ
+ve
+pasahati
+māro
+vāto
+rukkhaṃ
+va
+dubbalaṃ
+===============================================================================

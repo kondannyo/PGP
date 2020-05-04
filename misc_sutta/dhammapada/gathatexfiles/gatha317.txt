@@ -1,0 +1,125 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** abhaye bhayadassino bhaye cabhayadassino ******
+          ****** micchaditthisamadana satta gacchanti duggatij ******
+                            ****** (DhP 317) ******
+===============================================================================
+
+
+Sentence Translation:
+Being afraid of what is not frightful and not fearing the frightful thing,
+believing in wrong theories, the beings go to a miserable existence.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+abhaye bhaya+dassino  bhaye    ca abhaya+dassino
+|               |          |            |         |        |           |
+N.n.      N.n.  Adj.m.     N.n.   conj.  N.n.   Adj.m.
+Loc.Sg.    |    Nom.Pl. Loc.Sg.     |       |      Nom.Pl.
+|               |______|            |         |       |_______|
+|____________|                 |_____|________|
+          |                                       |____|
+          |________________________|
+                               
+|_______________________________________________
+List of Abbreviations
+miccha+ditthi+samadana  satta    gacchanti duggatij
+|               |             |            |              |             |
+Adv.      N.f.      Adj.m.    N.m.    V.act.in.     N.f.
+|________|        Nom.Pl. Nom.Pl. 3.Pl.pres. Acc.Sg.
+      |_____________|            |              |_______|
+                 |______________|                     |
+_________________|                                 |
+               |___________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+abhaye: abhaya-, N.n.: absence of fear, absence of fright. It is the word
+bhaya-, N.n.: fear, with the negative prefix a-. Loc.Sg. = abhaye.
+bhayadassino: bhayadassin-, Adj.: seeing fear. It is a compound of:
+    bhaya-, N.n.: fear, fright.
+    dassin-, Adj.: seeing, perceiving. It is derived from the verb root das-
+(to see) by adding the denominative suffix -in.
+Nom.Pl.m. = bhayadassino.
+bhaye: bhaya-, N.n.: fear, fright. Loc.Sg. = bhaye.
+List of Abbreviations
+ca, conj.: and.
+abhayadassino: abhayadassin-, Adj.: not seeing fear. It is a compound of:
+    abhaya-, N.n.: see above.
+    dassin-, see above.
+Nom.Pl.m. = abhayadassino.
+Euphonic combination: ca + abhayadassino = cabhayadassino.
+List of Abbreviations
+micchaditthisamadana: micchaditthisamadana-, Adj.: believing in a wrong theory.
+It is a compound of:
+    miccha, Adv.: wrongly, badly.
+    ditthi-, N.f.: view, belief, theory, idea. It is derived from the verb root
+dis- (to see).
+    samadana-, N.m.: undertaking, taking upon oneself. The verb root is da- (to
+give) with the prefixes sam- (completely) and a- (towards).
+Nom.Pl.m. = micchaditthisamadana.
+satta: satta-, N.m.: being. Nom.Pl. = satta.
+gacchanti, V.: goes. The verb root is gam-. 3.Pl.in.act.pres. = gacchanti.
+duggatij: duggati-, N.f.: a miserable existence, a realm of misery, undesirable
+rebirth. Composed of:
+    du-, pref.: bad, difficult.
+    gati-, N.f.: existence, rebirth. Derived from the verb gam- (to go).
+Acc.Sg. = duggatij.
+List of Abbreviations
+    The subject of this sentence is the noun satta (beings, nominative plural).
+It has three attributes:
+    1) The compound bhayadassino (seeing fear, nominative plural). This word
+has the noun abhaye (in what is not fear, locative singular) as an attribute.
+    2) The compound abhayadassino (not seeing fear, nominative plural). This
+word has the noun bhaye (in what is fear, locative singular) as an attribute.
+This attribute is connected to the previous one by the conjunction ca (and).
+    3) The compound micchaditthisamadana (believing in wrong theories,
+nominative plural).
+    The verb is gacchanti (go, 3rd person, plural, active, indicative, present
+tense). The object is the noun duggatij (to a miserable existence, accusative
+singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the preceding verse
+(DhP 316).
+    We should be ashamed and afraid of things that are truly bad. Causing
+suffering to others in any way is bad and we should be always ashamed and
+afraid of doing so.
+    On the other hand, being afraid and ashamed of something that is not bad at
+all (as for example the naked ascetics from the story) will not help us in any
+way on the road to the Awakenment. Thus we will only accumulate demerit and
+suffer a bad rebirth in the next life.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+abhaye
+bhayadassino
+bhaya
+dassino
+bhaye
+ca
+abhayadassino
+abhaya
+micchaditthisamadana
+miccha
+ditthi
+samadana
+satta
+gacchanti
+duggatij
+===============================================================================

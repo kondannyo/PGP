@@ -1,0 +1,118 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** yatha bubbulakaj passe yatha passe maricikaj ******
+           ****** evaj lokaj avekkhantaj maccuraja na passati ******
+                            ****** (DhP 170) ******
+===============================================================================
+
+
+Sentence Translation:
+As if one would see a bubble, as if one would see a mirage,
+who observes the world like that, the King of Death does not see him.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+yatha   bubbulakaj passe    yatha      passe   maricikaj
+|                  |              |            |             |             |
+Rel.Adv.   N.m.      V.act.   Rel.Adv.  V.act.      N.f.
+|             Acc.Sg.   3.Sg.opt.     |        3.Sg.opt. Acc.Sg.
+|                  |________|            |             |_______|
+|______________|                    |___________|
+            |________________________|
+                                 |__________________________________________
+List of Abbreviations
+evaj  lokaj avekkhantaj maccu+raja    na      passati
+|             |               |               |        |         |           |
+Adv.    N.m.      Adj.m.       N.m.  N.m.   neg.  V.act.in.
+|        Acc.Sg.    Acc.Sg.          |   Nom.Sg.  |     3.Sg.pres.
+|             |________|                |____|          |______|
+|___________|                            |                    |
+         |______________________|___________|
+                             |___________|
+_____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+yatha, Rel.Adv.: as, just like.
+bubbulakaj: bubbulaka-, N.m.: bubble, water bubble. Acc.Sg. = bubbulakaj.
+passe, V.: should see. The verb root is dis- (to see). 3.Sg.act.opt = passe.
+yatha: see above.
+passe: see above.
+maricikaj: maricika-, N.f.: mirage. Acc.Sg. = maricikaj.
+evaj, Adv.: thus, in this way.
+List of Abbreviations
+lokaj: loka-, N.m.; world.
+avekkhantaj: avekkhant-, Adj.: observing, considering, looking at. It is an
+a.prp.p of the verb root ikkh- (to see) with the prefix ava- (down, over).
+Acc.Sg.m. = avekkhantaj.
+maccuraja: maccuraja-, N.m.: the king of death, Mara. The compound of:
+    maccu-, N.m.: death.
+    rajan-, N.m.: king. The compound form of rajan- is raja-.
+Nom.Sg. = maccuraja.
+na, neg.: not.
+passati: sees. The verb root is dis- (to see). 3.Sg.act.in.pres. = passati.
+List of Abbreviations
+    This verse consists of two connected sentences. They are:
+    1) yatha bubbulakaj passe yatha passe maricikaj (as if one would see a
+bubble, as if one would see a mirage). This can be further analysed into two
+segments:
+    a) yatha bubbulakaj passe (as if one would see a bubble). The subject is
+omitted; the verb implies the third person singular pronoun. The verb is passe
+(one would see, 3rd person, singular, active, optative). The object is the noun
+bubbulakaj (a bubble, accusative singular). The relative adverb yatha (as,
+like) connects the sentence to the following one.
+    b) yatha passe maricikaj (as if one would see a mirage). The subject is
+omitted; the verb implies the third person singular pronoun. The verb is passe
+(one would see, 3rd person, singular, active, optative). The object is the noun
+maricikaj (a mirage, accusative singular). The relative adverb yatha (as, like)
+connects the sentence to the following one.
+    2) evaj lokaj avekkhantaj maccuraja na passati (who observes the world like
+that, the King of Death does not see him). The subject is the compound
+maccuraja (the king of death, nominative singular). The verb is passati (sees,
+3rd person, singular, active, indicative, present tense). It is negated by the
+negative particle na (not). The object is the active present participle
+avekkhantaj (one who observes, accusative singular). It has an attribute, the
+noun lokaj (the world, accusative singular), with its attribute, the adverb
+evaj (thus).
+===============================================================================
+
+
+Commentary:
+    A group of monks went to the forest to practice meditation. But they made
+very little progress and decided to return to the Buddha and ask for further
+instructions. On the way to the monastery it was very hot and they saw a
+mirage. Then a storm broke out and the rain made bubbles on the ground, which
+soon disappeared. The monks reflected on the mirage and the bubbles, comparing
+it to their own bodies. Very soon they all attained Arahantship.
+    When they related the matter to the Buddha he uttered this verse, saying
+that this form of meditation was very good and one is able to reach the goal
+quickly.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yatha
+bubbulakaj
+passe
+maricikaj
+evaj
+lokaj
+avekkhantaj
+maccuraja
+maccu
+raja
+na
+passati
+===============================================================================

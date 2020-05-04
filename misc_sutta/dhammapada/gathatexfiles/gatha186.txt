@@ -1,0 +1,137 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+             ****** na kahapanavassena titti kamesu vijjati ******
+            ****** appassada dukkha kama iti vibbaya pandito ******
+                            ****** (DhP 186) ******
+===============================================================================
+
+
+Sentence Translation:
+Even by rain of coins one cannot be satisfied in sensual desires.
+The wise man, having understood that sensual desires give little pleasure and
+are painful,
+[continued in DhP 187]
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na kahapana+vassena    titti     kamesu   vijjati
+|          |              |            |            |            |
+neg. N.m.        N.m.     N.f.       N.m.   V.pas.in.
+|          |          Ins.Sg. Nom.Sg. Loc.Pl. 3.Sg.pres.
+|          |________|            |_______|           |
+|_________|_______________|__________|
+         |____|                           |
+             |_________________|
+List of Abbreviations
+appa+assada  dukkha  kama      iti  vibbaya pandito
+|            |             |           |          |        |            |
+Adj. Adj.m.    Adj.m.    N.m.   part. V.ger.     N.m.
+|      Nom.Pl. Nom.Pl. Nom.Pl.   |        |       Nom.Sg.
+|_______|            |            |         |        |_______|
+       |__________|            |         |               |
+                |____________|         |               |
+                             |__________|               |
+                                       |_____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+kahapanavassena: kahapanavassa-, N.m.: rain of coins. It is a compound of:
+    kahapana-, N.m.: a copper coin, ancient Indian currency.
+    vassa-, N.m.: rain, shower.
+Ins.Sg. = kahapanavassena.
+titti: titti-, N.f.: satisfaction. Nom.Sg. = titti.
+kamesu: kama-, N.m.: sense-pleasure, sense desire. Loc.Pl. = kamesu.
+vijjati, V.: exists, is found. The verb root is vid- (to find).
+3.Sg.pas.in.pres. = vijjati.
+List of Abbreviations
+appassada: appassada-, Adj.: of little enjoyment, giving little pleasure. It is
+a compound of:
+    appa-, Adj.: few, little.
+    assada-, N.m.: taste, sweetness, enjoyment, satisfaction. It is derived
+from the verb root sad- (to taste) with the prefix a- (close relation).
+Euphonic combination: appa- + assada- = appassada-.
+Nom.Pl.m. = appassada.
+dukkha: dukkha-, Adj.: unpleasant, painful, difficult. Nom.Pl.m. = dukkha.
+kama: kama-, N.m.: pleasure, enjoyment, sense-desire. Nom.Pl. = kama.
+iti, part.: a particle, symbolizing the end of direct speech. In English this
+is expressed by quotation marks. Sometimes it is written as ti.
+vibbaya, V.ger.: having understood. The verb root is ba- (to know) with the
+prefix vi- (out).
+pandito: pandita-, N.m.: wise man, learned man. Nom.Sg. = pandito.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) na kahapanavassena titti kamesu vijjati (even by rain of coins one
+cannot be satisfied in sensual desires, lit.: even by rain of coins there
+doesn't exist a satisfaction in sensual desires). The subject of this sentence
+is the noun titti (satisfaction, nominative singular). It has an attribute, the
+noun kamesu (in sensual desires, locative plural). The verb is vijjati (is
+found, 3rd person, singular, passive, indicative, present tense). It is negated
+by the negative particle na (not). The verb has an attribute, the compound
+kahapanavassena (by rain of coins, instrumental singular).
+    2) appassada dukkha kama iti vibbaya pandito (the wise man, having
+understood, that sensual desires give little pleasure and are painful). This
+can be further analysed into the main sentence a) and the direct speech b):
+    a) vibbaya pandito (the wise man, having understood that). The subject is
+the noun pandito (wise man, nominative singular). The verb is in gerund,
+vibbaya (having understood).
+    b) appassada dukkha kama iti (sensual desires give little pleasure and are
+painful). The subject is the noun kama (sensual desires, nominative plural). It
+has two attributes, the compound appassada (giving little pleasure, nominative
+plural) and the adjective dukkha (painful, nominative plural). The verb is
+omitted, implying the verb "to be". The particle iti (symbolizes the end of the
+direct speech) connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    At the Jetavana monastery there was a young monk. His teacher sent him to
+another monastery to practice meditation. While he was away, his father died
+and left some money for him with his brother. When the monk returned, he found
+out about this, but decided to continue living as a monk and told his brother
+to keep the money for himself.
+    Later, however, he began to regret, started to imagine his comfortable life
+as a layman with that amount of money. He became dissatisfied with his life as
+a monk and began loosing weight. Other monks persuaded him to seek help from
+the Buddha.
+    The Buddha told the monk this verse (and the following one, see DhP 187),
+saying that there is simply never enough money to satisfy the hunger. He told
+him the story of a king named Mandhatu, who had been a Universal Monarch a long
+time ago. He was reborn in Tavatimsa heaven and enjoyed immense riches and
+power for a long time. Then he started to wish he were the only ruler of
+Tavatimsa instead of Sakka, the king of the gods. Immediately he died and fell
+down from his heavenly state.
+    The young monk decided to continue his life as a monk and strived
+diligently to attain the Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+kahapanavassena
+kahapana
+vassena
+titti
+kamesu
+vijjati
+appassada
+appa
+assada
+dukkha
+kama
+iti
+vibbaya
+pandito
+===============================================================================

@@ -1,0 +1,124 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+              ****** asahasena dhammena samena nayati pare ******
+         ****** dhammassa gutto medhavi dhammattho ti pavuccati ******
+                            ****** (DhP 257) ******
+===============================================================================
+
+
+Sentence Translation:
+[continued from DhP 256]
+judging others without haste, justly and impartially,
+such a wise person, guardian of law, is called "righteous".
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+asahasena dhammena samena nayati     pare
+|                      |              |           |            |
+Adv.            Adv.        Adv.  V.act.in.  Adj.m.
+|____________|________|    3.Sg.pres. Acc.Pl.
+          |_____________________|             |
+                             |__________________|
+List of Abbreviations
+dhammassa gutto    medhavi dhamma+ttho     ti    pavuccati
+|                     |            |              |          |        
+|           |
+N.m.         Adj.m.     N.m.       N.m.  Adj.m.  part. V.pas.in.
+Gen.Sg.    Nom.Sg. Nom.Sg.       |    Nom.Sg.   |     3.Sg.pres.
+|____________|            |              |_____|          |           |
+           |_____________|                   |________|           |
+                        |                                      |__________|
+                        |___________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+asahasena: Adv.: without haste, with consideration, not arbitrarily. It is
+derived from the word asahasa-, N.n.: absence of hastiness, peacefulness.
+Ins.Sg. = asahasena. Here as an Adv.
+dhammena, Adv.: justly, rightly, with justice, properly. It is derived from the
+word dhamma-, N.m.: here meaning "truth", "reality". Ins.Sg. = dhammena. Here
+as an Adv.
+samena, Adv.: impartially, with justice. It is derived from the word sama-,
+Adj.: same, even.
+Ins.Sg. = samena. Here as an Adv.
+nayati, V.: lit.: to lead. Here: to draw a conclusion, to judge, to take as, to
+understand. The verb root is ni-. 3.Sg.act.in.pres. = nayati. The form nayati
+is used in poetry.
+pare: para-, Adj.: other. Acc.Pl.m. = pare.
+dhammassa: dhamma-, N.m.: Buddha's Teaching. The Law. Derived from the verb
+dha-, to hold. Thus dhamma "holds the world together". Gen.Sg.: dhammassa.
+List of Abbreviations
+gutto: gutta-, Adj.: protected, protector. It is a p.p. of the verb root gup-
+(to protect).
+Nom.Sg.m. = gutto.
+medhavi: medhavin-, N.m.: intelligent person, wise one. Voc.Pl. = medhavi.
+dhammattho: dhammattha-, Adj.: standing in or based on the Dharma, righteous,
+just. It is a compound of:
+    dhamma-, N.m.: Buddha's Teaching. The Law. Derived from the verb dha-, to
+hold. Thus dhamma "holds the world together".
+    -ttha-, Adj. suffix: standing. It is derived from the verb root tha- (to
+stand).
+Nom.Sg.m. = dhammattho.
+ti, part.: a particle, symbolizing the end of direct speech. In English this is
+expressed by quotation marks. Sometimes it is written as iti.
+pavuccati, V,: is called. It is a passive form of the verb root vac- (to say),
+with the strengthening prefix pa-. 3.Sg.pas.in.pres. = pavuccati.
+List of Abbreviations
+    This verse consists of two syntactically separate sentences. They are:
+    1) asahasena dhammena samena nayati pare (judging others without haste,
+justly and impartially). The subject is omitted; the verb implies the third
+person singular. The verb is nayati (judges, 3rd person, singular, active,
+indicative, present tense). It has three attributes, the adverbs asahasena
+(without haste), dhammena (justly), and samena (impartially). The object is the
+adjective pare (others, accusative plural).
+    2) dhammassa gutto medhavi dhammattho ti pavuccati (such a wise person,
+guardian of law, is called "righteous"). There are two subjects, the adjective
+gutto (protector, nominative singular) with its attribute, the noun dhammassa
+(of the law, genitive singular) and the noun medhavi (wise one, nominative
+singular). The verb is pavuccati (is called, 3rd person, singular, passive,
+indicative, present tense). The object is the adjective dhammattho (righteous,
+nominative singular). It is modified by the particle ti (in place of quotation
+mark).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 257).
+    It is very easy to judge others, to point out others' mistakes or bad
+qualities. Therefore we have to be very thorough when we have to judge others.
+We have to listen to every possible point of view; we have to look at the
+problem from all angles. Only then can we be able to judge according to truth
+and we can call ourselves "righteous".
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+asahasena
+dhammena
+samena
+nayati
+pare
+dhammassa
+gutto
+medhavi
+dhammattho
+dhamma
+ttho
+ti
+pavuccati
+===============================================================================
+
+ 

@@ -1,0 +1,131 @@
+\documentclass[11pt]{article}
+\usepackage[margin=45pt,letter, landscape]{geometry}
+\usepackage{titlesec}
+\usepackage{paracol}
+\usepackage{expex}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fontspec}
+\setromanfont[BoldFont={Gentium Basic Bold},ItalicFont={Gentium Italic}]{Gentium}
+\setcolumnwidth{310pt/60pt,310pt}
+
+\sloppy
+\raggedright
+
+\newcommand{\vsp}{\vspace{2mm}}
+
+%defining colors for grammatical highlighting
+
+\newcommand{\NUL}[1]{\textcolor{Black}{#1}}
+%noun
+\newcommand{\NOM}[1]{\colorbox{pink}{#1}}
+\newcommand{\ACC}[1]{\colorbox{Blue!20}{#1}}
+\newcommand{\INS}[1]{\colorbox{yellow!20}{#1}}
+\newcommand{\DAT}[1]{\colorbox{SpringGreen!20}{#1}}
+\newcommand{\ABL}[1]{\colorbox{Orange!20}{#1}}
+\newcommand{\GEN}[1]{\colorbox{Turquoise!20}{#1}}
+\newcommand{\LOC}[1]{\colorbox{Purple!20}{#1}}
+\newcommand{\VOC}[1]{\colorbox{Red!20}{#1}}
+
+%verb
+\newcommand{\ABS}[1]{\fcolorbox{Blue}{white}{#1}}
+\newcommand{\OPT}[1]{\colorbox{green!30}{#1}}
+\newcommand{\PRSPTCP}[1]{\colorbox{Apricot!20}{#1}}
+\newcommand{\PRSIND}[1]{\colorbox{Melon!20}{#1}}
+
+
+%Misc
+\newcommand{\ADJ}[1]{\colorbox{Gray!20}{#1}}
+\newcommand{\INDE}[1]{\colorbox{Thisle!20}{#1}}
+
+%Glossing Definitions
+\lingset{glstyle=nlevel,%sets the compile method for ExPex to the nlevel style (alternates words with []) as opposed to the wrap style uses gla glb separted lines
+	glhangindent=10pt,% sets the indentation to the entire gloss after the first set of lines
+	glossbreaking=true, %Allows for Glosses to break across pages
+	glwordalign=left, %sets allignment on pairs of words, center is other option
+	glneveryline={,\footnotesize\it}, %sets the font attributes per line {gla,glb...}
+	glnabovelineskip={,-4pt}, %sets the space above the glossing {gla,glb,...}
+	extraglskip=-2pt} %sets additional space between each line of glossing
+
+
+
+\begin{document}
+
+\begin{paracol}{2}
+\begin{column}
+{\itshape\footnotesize
+The Disciplinary Code of the Bhikkhu
+}
+\switchcolumn
+
+\begin{flushleft}
+BHIKKHUPĀṬIMOKKHAṀ
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+Homage to the Blessed, Noble, and Perfectly Enlightened One.
+(3 times)
+}
+\switchcolumn
+
+\begin{flushleft}
+Namo tassa bhagavato arahato sammāsambuddhassa.
+(tikkhattuṁ)
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+Venerable Sir, let the Community listen to me! Today is a fifteenth (day) Observance. If it is suitable to the Community , (then) the Community should do the Observance (and) should recite the Disciplinary Code.
+}
+\switchcolumn
+
+\begin{flushleft}
+Suṇātu me bhante [āvuso] saṅgho. Ajj’uposatho paṇṇaraso [cātuddaso]. Yadi saṅghassa pattakallaṁ, saṅgho uposathaṁ kareyya, pāṭimokkhaṁ uddiseyya.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+What is the preliminary for the Community? Venerables, announce the purity, (for) I shall recite the Disciplinary Code. Let us all (who are) present listen to it carefully (and) let us take it to mind.
+}
+\switchcolumn
+
+\begin{flushleft}
+Kiṁ saṅghassa pubbakiccaṁ? Pārisuddhiṁ āyasmanto ārocetha. Pāṭimokkhaṁ uddisissāmi. Taṁ sabbeva santā sādhukaṁ suṇoma manasikaroma.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+Whoever may have an offence, he should disclose (it). When there is no offence, (then it) is to be silent. By the silence I shall know the Venerables (with the thought): “(They are) pure.” As an answer occurs to (a bhikkhu) who is asked individually, just so in such an assembly (as this one) there is the announcement up to the third time. But if any bhikkhu, (who is) remembering (an offence) when the announcement is being made up to the third time, should not disclose the existing offence, there is (a further offence of) deliberate false speech for him.
+}
+\switchcolumn
+
+\begin{flushleft}
+Yassa siyā āpatti, so āvikareyya. Asantiyā āpattiyā tuṇhī bhavitabbaṁ. Tuṇhī bhāvena kho pan’āyasmante parisuddhā ti vedissāmi. Yathā kho pana paccekapuṭṭhassa veyyākaraṇaṁ hoti. Evam’evaṁ evarūpāya parisāya yāvatatiyaṁ anussāvitaṁ hoti. Yo pana bhikkhu yāvatatiyaṁ anussāviyamāne saramāno santiṁ āpattiṁ n’āvikareyya, sampajānamusāvād’assa hoti.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+Now, venerables, deliberate false speech has been called an obstructive act by the Fortunate One. Therefore, by a bhikkhu who is remembering, who has committed (an offence), who is desiring purification, an existing offence is to be disclosed; because, (after) having disclosed (it), there is comfort for him.
+}
+\switchcolumn
+
+\begin{flushleft}
+Sampajānamusāvādo kho pan’āyasmanto antarāyiko dhammo vutto bhagavatā. Tasmā saramānena bhikkhunā āpannena visuddh’āpekkhena santī āpatti āvikātabbā. Āvikatā hi’ssa phāsu hoti.
+\switchcolumn*
+\end{flushleft}
+
+{\itshape\footnotesize
+The recitation of the introduction is finished.
+}
+\switchcolumn
+
+\begin{flushleft}
+Nidān’uddeso niṭṭhito
+\switchcolumn*
+\end{flushleft}
+
+
+\end{column}
+\end{paracol}
+
+\end{document}

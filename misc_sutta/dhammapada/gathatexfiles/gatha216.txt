@@ -1,0 +1,111 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** tanhaya jayati soko tanhaya jayati bhayaj ******
+          ****** tanhaya vippamuttassa natthi soko kuto bhayaj ******
+                            ****** (DhP 216) ******
+===============================================================================
+
+
+Sentence Translation:
+From thirst, grief is born. From thirst, fear is born.
+One freed from thirst has no grief, whence fear?
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+tanhaya  jayati       soko   tanhaya     jayati     bhayaj
+|                 |              |            |              |              |
+N.f.     V.med.in.    N.m.     N.f.     V.med.in.     N.n.
+Abl.Sg. 3.Sg.pres. Nom.Sg. Abl.Sg. 3.Sg.pres.  Nom.Sg.
+|_________|               |            |________|              |
+        |_____________|                    |____________|
+List of Abbreviations
+tanhaya vippamuttassa    na      atthi        soko   kuto bhayaj
+|                      |              |           |             |         
+|         |
+N.f.           Adj.m.       neg.  V.act.in.     N.m.   Adv.   N.n.
+Abl.Sg.      Gen.Sg.         |    3.Sg.pres. Nom.Sg.   |    Nom.Sg.
+|____________|               |______|             |          |_____|
+         |__________________|                    |________|
+                       |_______________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+tanhaya: tanha-, N.f.: thirst. Abl.Sg. = tanhaya.
+jayati, V.: is born. The verb root is jan- (to be born). 3.Sg.med.in.pres. =
+jayati. The form jayati is sometimes used in poetry.
+soko: soka-, N.m.: grief, sorrow. Nom.Sg. = soko.
+tanhaya: see above.
+jayati: see above.
+bhayaj: bhaya-, N.n.: fear.
+tanhaya: see above.
+List of Abbreviations
+vippamuttassa: vippamutta-, Adj.: emancipated, freed, released. It is a p.p. of
+the verb muc- (to release) with the prefixes vi- (meaning separation) and pa-
+(strengthening). Gen.Sg.m. = vippamuttassa.
+na, neg.: not.
+atthi, V.: is. The verb root is as- (to be). 3.Sg.act.in.pres. = atthi.
+Euphonic combination: na + atthi = natthi.
+soko: see above.
+kuto, Adv.: Whence? Where from?
+bhayaj: see above.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) tanhaya jayati soko (from thirst, grief is born). The subject is the
+noun soko (grief, nominative singular). The verb is jayati (is born, 3rd
+person, singular, medium, indicative, present tense). It has an attribute, the
+noun tanhaya (from thirst, ablative singular).
+    2) tanhaya jayati bhayaj (from thirst, fear is born). The subject is the
+noun bhayaj (fear, nominative singular). The verb is jayati (is born, 3rd
+person, singular, medium, indicative, present tense). It has an attribute, the
+noun tanhaya (from thirst, ablative singular).
+    3) tanhaya vippamuttassa natthi soko kuto bhayaj (one freed from thirst has
+no grief, whence fear?). This can be further analysed into two segments:
+    a) tanhaya vippamuttassa natthi soko (one freed from thirst has no grief).
+The subject is the noun soko (grief, nominative singular). The verb is atthi
+(is, 3rd person, singular, active, indicative, present tense). It is negated by
+the negative particle na (not). The verb has an attribute, the past participle
+vippamuttassa (of the one who is freed, genitive singular). This word has also
+an attribute, the noun tanhaya (from thirst, ablative singular).
+    b) kuto bhayaj (whence fear?). The subject is the noun bhayaj (fear,
+nominative singular). The verb is omitted, implying the verb "to be". The
+adverb kuto (whence?) can be seen as an attribute to this verb.
+===============================================================================
+
+
+Commentary:
+    In Savatthi there lived a brahmin. He was not a follower of the Buddha. But
+because the Buddha knew he head the ability to attain the first stage of
+Awakenment, he went to the field where the brahmin was ploughing his field. The
+brahmin was very friendly and they talked many times. Every time the Buddha
+would visit him, the brahmin kept telling him he would offer him some rice
+after the harvest. The Buddha said nothing; because he knew this year the
+brahmin would get no harvest at all.
+    One day there was a heavy rain and all the rice was destroyed. The brahmin
+was sad, because now he could not fulfill his promise. But the Buddha told him
+this verse, saying that only because of thirst and craving there is suffering
+and pain. The brahmin attained the first stage of Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+tanhaya
+jayati
+soko
+bhayaj
+vippamuttassa
+na
+atthi
+kuto
+===============================================================================

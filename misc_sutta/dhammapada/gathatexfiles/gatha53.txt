@@ -1,0 +1,141 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+           ****** yathā pi puppharāsimhā kāyirā mālāguṇe bahū ******
+           ****** evaṃ jātena maccena kattabbaṃ kusalaṃ bahuṃ ******
+                            ****** (DhP 53) ******
+===============================================================================
+
+Sentence Translation:
+Just as from the heap of flowers one can do a lot of garlands,
+so a born mortal should do a lot of meritorious deeds.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+yathā       pi   puppha+rāsimhā  kāyirā  mālā+guṇe      bahū
+|                |        |            |            |           |       
+|            |
+Rel.Adv. conj.  N.n.     N.m.     V.act.    N.f.   N.n.     Adj.n.
+|_________|       |        Abl.Sg.  3.Sg.opt.   |    Acc.Pl.  Acc.Pl.
+        |                |_______|            |           |_____|           |
+        |                       |                  |                |_________|
+
+        |                       |                  |______________|
+        |                       |_________________|
+        |_____________________|
+List of Abbreviations
+evaṃ   jātena maccena kattabbaṃ kusalaṃ     bahuṃ
+|              |           |             |               |                |
+Adv.   Adj.m.   N.m.     Adj.n.         N.n.        Adj.n.
+|         Ins.Sg.  Ins.Sg.  Nom.Sg.     Nom.Sg.  Nom.Sg.
+|              |______|             |               |_________|
+|                    |                  |_____________|
+|                    |_________________|
+|___________________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+yathā, Rel.Adv.: just as.
+pi, conj.: also, too.
+puppharāsimhā: puppharāsi-, N.m.: heap of flowers. A compound of:
+    puppha-, N.n.: flower.
+    rāsi-, N.m.: heap, quantity, mass.
+Abl.Sg. = puppharāsimhā.
+kāyirā, V.: can do. The verb root is kar- (to do). 3.Sg.act.opt. = kayirā. The
+form kāyirā is sometimes used in poetry.
+List of Abbreviations
+mālāguṇe: mālaguṇa-, N.n.: "garland-string", a cluster of garlands. A compound
+of:
+    mālā-, N.f.: garland.
+    guṇa-, N.n.: string, cord.
+Acc.Pl. = mālaguṇe.
+bahū: bahu-, Adj.: many, much, a lot. Acc.Pl.n. = bahū.
+evaṃ, Adv.: thus, so.
+jātena: jāta-, Adj.: born. It is a p.p. of the verb jan- (to be born).
+Ins.Sg.m. = jātena.
+List of Abbreviations
+maccena: macca-, N.m.: mortal man. Originally it is a grd. from the verb root
+mar- (to die). Nom.Sg. = maccena.
+kattabbaṃ: kattabba-, Adj.: should be done. It is a grd. of the verb kar- (to
+do).
+Nom.Sg.n. = kattabbaṃ.
+kusalaṃ: kusala-, Adj.: good, right, meritorious. As an N.n.: meritorious deed,
+merit. Nom.Sg. = kusalaṃ.
+bahuṃ: bahu-, Adj.: see above. Nom.Sg.n. = bahuṃ.
+List of Abbreviations
+    In the first sentence (the first line) the subject is omitted. A third
+person singular pronoun is meant. The verb is the optative kāyirā (can do, 3rd
+person, singular, active, optative). The verb has an attribute, the compound
+puppharāsimhā (from the heap of flowers, ablative singular). The object is the
+noun mālāguṇe (garlands, accusative plural). It has an attribute, the adjective
+bahū (many, accusative plural). The relative adverb yathā (just as), which
+forms quite a common phrase yathā pi(same meaning) with the conjunction pi
+(also), connects this sentence to the next one.
+    The second sentence (second line) is passive. The subject is the word
+maccena (by a mortal, instrumental singular) with an attribute, the past
+participle jātena (by a born, instrumental singular). The verb is in the
+gerund, kattabbaṃ (should be done, nominative singular). The object is the noun
+kusalaṃ (merit, nominative singular) with the adjective bahuṃ (nominative
+singular) as an attribute.
+
+===============================================================================
+
+Commentary:
+    The traditional commentary for this verse contains the famous story of the
+chief Buddha's benefactress Visākhā.
+    She married Punnavaddhana, the son of Migāra, a rich man who lived in the
+city of Sāvatthi. Once, when her father-in-law was eating his lunch, a monk
+came to their house on his alms-round. Migāra ignored him completely. Visākhā
+told the monk: "Sorry, venerable sir, my father-in-law only eats stale food".
+Migāra became very angry with her. She explained, that he was only reaping
+rewards of his good deeds from previous lives, not creating any merit in this
+life. Therefore she spoke about "stale food".
+    Migāra understood and allowed her to invite the Buddha with the monks for
+the alms-food. Migāra listened to Buddha's discourse from behind a curtain
+(because he was a lay disciple of some ascetic teacher and he did not want
+Migāra to show himself in front of the Buddha). After hearing Buddha's speech,
+Migāra attained the first stage of Awakenment. He was very grateful to Visākhā
+and declared that she would be like a mother to him.
+    Once she went to the monastery and carried her gem-entrusted cloak with
+her. She gave it to her maid to carry and she forgot it in the monastery.
+Visākhā then wanted to donate the cloak to the monks but they would not accept.
+So Visākhā tried to sell the cloak and donate the money for the use of the
+Sangha. But the cloak was so expensive that nobody could afford to buy it.
+Visākhā then bought it back herself. With the money she built a monastery for
+the Sangha.
+    Visākhā was very happy - all her desires were fulfilled. The Buddha
+explained that she was strongly inclined to do good deeds, had done much good
+in the past and will do a lot of good deeds in the future - just as one can do
+many garlands from the heap of flowers.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+yathā
+pi
+puppharāsimhā
+puppha
+rāsimhā
+kāyirā
+mālāguṇe
+bahū
+evaṃ
+jātena
+maccena
+kattabbaṃ
+kusalaṃ
+bahuṃ
+
+===============================================================================

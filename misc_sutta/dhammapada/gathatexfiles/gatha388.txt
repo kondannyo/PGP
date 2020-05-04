@@ -1,0 +1,137 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+       ****** bahitapapo ti brahmano samacariya samano ti vuccati ******
+       ****** pabbajayam attano malaj tasma pabbajito ti vuccati ******
+                            ****** (DhP 388) ******
+===============================================================================
+
+
+Sentence Translation:
+One is called "a Brahmin" because he keeps away from evil.
+One is called "a recluse" because he lives in tranquility.
+If one has renounced one's own impurities, then one is called "a monk".
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+bahita+papo      ti brahmano sama+cariya    samano     ti     vuccati
+|              |         |         |            |         |            
+|           |           |
+Adj.   Adj.m.  part.   N.m.     N.m.   N.f.       N.m.    part.  V.pas.in.
+|       Nom.Sg.    |   Nom.Sg.      |   Nom.Sg. Nom.Sg.    |     3.Sg.pres.
+|________|         |_____|            |_____|             |______|           |
+        |____________|                      |                       |_________|
+
+                                                     |__________________|
+List of Abbreviations
+pabbajayam attano  malaj   tasma  pabbajito    ti     vuccati
+|                      |           |           |            |          
+|           |
+Adj.m.         N.m.     N.n.     Pron.   Adj.m.   part.  V.pas.in.
+Nom.Sg.    Gen.Sg. Acc.Sg. Abl.Sg. Nom.Sg.    |     3.Sg.pres.
+|                      |______|            |           |______|            |
+|________________|                 |                |__________|
+               |                               |_______________|
+               |_________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+bahitapapo: bahitapapa-, Adj.: one who has kept away from evil. It is a
+compound of:
+    bahita-, Adj.: kept away, warded off, kept outside. It is a p.p. of the
+verb baheti (to keep away from). This verb is derived from the word bahi, Adv.:
+outside.
+    papa-, N.n.: evil, wrong doing.
+Nom.Sg.m. = bahitapapo.
+ti, part.: a particle, symbolizing the end of direct speech. In English this is
+expressed by quotation marks. Sometimes it is written as iti.
+brahmano: brahmana-, N.m.: Brahmin, a holy man. Nom.Sg. = brahmano.
+List of Abbreviations
+samacariya: samacariya-, N.f.: living in tranquility. It is a compound of:
+    sama-, N.m.: calmness, tranquility. It is derived from the verb root sam-
+(to quiet)
+    cariya-, N.f.: living, wandering. It is derived from the verb car- (to
+move, to wander about).
+Nom.Sg. = samacariya.
+samano: samana-, N.m.: a recluse, a wandering ascetic, a monk (not only a
+Buddhist monk).
+Nom.Sg. = samano.
+ti: see above.
+vuccati, V,: is called. It is a passive form of the verb root vac- (to say).
+3.Sg.pas.in.pres. = vuccati.
+pabbajayam: pabbajayant-, Adj.: renouncing, giving up. It is an a.pr.p. of the
+verb pabbajati (to go forth). Nom.Sg.m. = pabbajayam.
+List of Abbreviations
+attano: attan-, N.m./Pron.: self, oneself. Gen.Sg. = attano.
+malaj: mala-, N.n.: impurity, stain, dirt. Nom.Sg. = malaj.
+tasma: tad-, Pron.: that. Abl.Sg. = tasma (therefore, lit. "from that").
+pabbajito: pabbajita-, Adj.: One who has "gone forth" from home and became a
+monk. It is a p.p. of the verb pabbajati (to go forth). Nom.Sg.m. = pabbajito.
+ti: see above.
+vuccati: see above.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) bahitapapo ti brahmano (one is called a Brahmin because he keeps away
+from evil). The subject is the compound bahitapapo (who is keeping away from
+evil, nominative singular). The verb is omitted, implying the verb "to be". The
+object is the noun brahmano (Brahmin, nominative singular). It is modified by
+the particle ti(end of the direct speech).
+    2) samacariya samano ti vuccati (one is called a recluse because he lives
+in tranquility). The subject is the compound samacariya (living in tranquility,
+nominative singular). The verb is vuccati (is called, 3rd person, singular,
+passive, indicative, present tense). The object is the noun samano (recluse,
+nominative singular). It is modified by the particle ti (end of the direct
+speech).
+    3) pabbajayam attano malaj tasma pabbajito ti vuccati (if one has renounced
+one's own impurities, then one is called a monk). This can be further analysed
+into two segments:
+    a) pabbajayam attano malaj (renouncing one's own impurities). The subject
+is omitted. The verb is in the active present participle, pabbajayam
+(renouncing, nominative singular). The object is the noun malaj (impurity,
+accusative singular). It has an attribute, the noun/pronoun attano (one's own,
+genitive singular).
+    b) tasma pabbajito ti vuccati (then one is called a monk). The verb is
+vuccati (is called, 3rd person, singular, passive, indicative, present tense).
+The object is the past participle pabbajito (one who has gone forth, monk,
+nominative singular). It is modified by the particle ti (end of the direct
+speech). The pronoun tasma (therefore, from that, ablative singular) connects
+this part of the sentence to the previous one.
+===============================================================================
+
+
+Commentary:
+    Once a certain ascetic came to see the Buddha and asked him, if he (the
+Brahmin) could also be called "a monk" (pabbajita). The Buddha replied with
+this verse, saying that in order to be called "a monk" one has to discard all
+evil and impurities of mind.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+bahitapapo
+bahita
+papo
+ti
+brahmano
+samacariya
+sama
+cariya
+samano
+vuccati
+pabbajayam
+attano
+malaj
+tasma
+pabbajito
+===============================================================================

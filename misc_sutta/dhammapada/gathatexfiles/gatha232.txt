@@ -1,0 +1,119 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** vacippakopaj rakkheyya vacaya sajvuto siya ******
+           ****** vaciduccaritaj hitva vacaya sucaritaj care ******
+                            ****** (DhP 232) ******
+===============================================================================
+
+
+Sentence Translation:
+Protect yourself from blameworthy speech; guard your speech well.
+Having renounced the wrong verbal deed, practice the right verbal action.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+vaci+ppakopaj rakkheyya  vacaya sajvuto   siya
+|               |              |               |           |             |
+N.n.     N.m.       V.act.         N.f.   Adj.m.    V.act.
+|          Acc.Sg.   3.Sg.opt.    Ins.Sg. Nom.Sg. 3.Sg.opt.
+|________|               |               |______|             |
+        |____________|                     |__________|
+List of Abbreviations
+vaci+duccaritaj hitva   vacaya sucaritaj    care
+|               |             |           |            |             |
+N.n.     N.n.      V.ger.     N.f.       N.n.      V.act.
+|         Acc.Sg.         |      Ins.Sg.  Acc.Sg. 3.Sg.opt.
+|________|              |          |_______|             |
+        |____________|                |___________|
+                   |_____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+vacippakopaj: vacippakopa-, N.m.: blameworthy speech. It is a compound of:
+    vaci: vaco-, N.n.: speech, words, saying. The compound form = vaci-.
+    pakopa-, N.m.: anger.
+Euphonic combination: vaci- + pakopa- = vacippakopa-.
+Acc.Sg. = vacippakopaj.
+rakkheyya, V.: should protect. The verb root is rakkh- (to protect).
+3.Sg.act.opt. = rakkheyya.
+vacaya: vaca-, N.f.: speech, voice. Ins.Sg. = vacaya.
+sajvuto: sajvuta-, Adj.: restrained, governed, guarded. It is a p.p. of the
+verb var- (to obstruct) with the prefix saj- (together, completely). Nom.Sg.m.
+= sajvuto.
+siya, V.: would be. The verb root is as-. 3.Sg.act.opt. = siya.
+List of Abbreviations
+vaciduccaritaj: wrong verbal deed. It is a compound of:
+    vaci: see above.
+    duccarita-, Adj.: wrong-conduct, wrong action. It is the word carita-,
+N.n.: action, conduct (originally it is the p.p. of the verb root car-, to
+walk, to act), with the prefix du- (wrong, bad).
+Acc.Sg. = vaciduccaritaj.
+hitva, V.ger.: having renounced, having left behind. It is a ger. of the verb
+ha- (to abandon, to leave).
+vacaya: see above.
+sucaritaj: sucarita-, Adj.: good-conduct, right action. It is the word carita-,
+N.n.: action, conduct (originally it is the p.p. of the verb root car-, to
+walk, to act), with the prefix su- (good, well).
+Acc.Sg.m. = sucaritaj.
+care, V.: should practice. The verb root is car- (to walk). 3.Sg.act.opt. =
+care.
+List of Abbreviations
+    This verse consists of three syntactically separate sentences. They are:
+    1) vacippakopaj rakkheyya (one should protect oneself from blameworthy
+speech). The subject is omitted; the verb implies the third person singular
+pronoun. The verb is rakkheyya ([one] should protect oneself, 3rd person,
+singular, active, optative). The object is the noun vacippakopaj (from
+blameworthy speech, accusative singular).
+    2) vacaya sajvuto siya (one should be guarded as for the speech). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is siya ([one] should be, 3rd person, singular, active, optative). The
+object is the past participle sajvuto (guarded, nominative singular) with its
+attribute, the noun vacaya (by the speech, instrumental singular).
+    3) vaciduccaritaj hitva kayena sucaritaj care (having renounced the wrong
+verbal deed, one should practice the right verbal action). This can be further
+analysed into two segments:
+    a) vaciduccaritaj hitva (having renounced the wrong verbal deed). The verb
+is in gerund, hitva (having renounced). The object is the compound
+vaciduccaritaj (wrong verbal deed, accusative singular).
+    b) vacaya sucaritaj care (one should practice the right verbal action). The
+subject is omitted; the verb implies the third person singular pronoun. The
+verb is care ([one] should practice, 3rd person, singular, active, optative).
+The object is the noun sucaritaj (right action, accusative singular) with its
+attribute, the noun vacaya (by the speech, instrumental singular).
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verse
+(DhP 231) and the following ones (DhP 233, DhP 234).
+    By this verse the Buddha stressed that both the right conduct in bodily
+deeds and the right conduct in verbal speech are equally important.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+vacippakopaj
+vaci
+pakopaj
+rakkheyya
+vacaya
+sajvuto
+siya
+vaciduccaritaj
+duccaritaj
+hitva
+sucaritaj
+care
+===============================================================================

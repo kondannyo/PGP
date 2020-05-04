@@ -1,0 +1,121 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+            ****** na hi etehi yanehi gaccheyya agataj disaj ******
+           ****** yathattana sudantena danto dantena gacchati ******
+                            ****** (DhP 323) ******
+===============================================================================
+
+
+Sentence Translation:
+Not by all these vehicles could one go to the land previously not traveled to,
+as would one who is tamed would go by himself being tamed and well controlled.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+na     hi     etehi   yanehi gaccheyya agataj   disaj
+|         |         |           |            |              |           |
+neg. part. Pron.n.   N.n.    V.act.       Adj.f.    N.f.
+|_____|     Ins.Pl.  Ins.Pl. 3.Sg.opt.   Acc.Sg. Acc.Sg.
+     |              |______|            |              |______|
+     |___________|__________|                    |
+                  |____|                                      |
+                       |_______________________|
+                                          
+|____________________________________________
+List of Abbreviations
+yatha      attana sudantena danto   dantena   gacchati
+|                  |            |            |            |             |
+Rel.Adv.  N.m.    Adj.m.   Adj.m.   Adj.m.  V.act.in.
+|             Ins.Sg.  Ins.Sg.  Nom.Sg.  Ins.Sg.  3.Sg.pres.
+|                  |            |_______|______|              |
+|                  |___________|     |                         |
+|                             |________|______________|
+|                                            |_______|
+|____________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+na, neg.: not.
+hi, part.: indeed.
+etehi: etad-, Pron.: this. Ins.Pl.n. = etehi.
+yanehi: yana-, N.n.: carriage, vehicle. Ins.Pl. = yanehi.
+gaccheyya, V.: would go, could go. The verb root is gam- (to go). 3.Sg.act.opt.
+= gaccheyya.
+agataj: agata-, Adj.: not traveled, not gone to. It is the word gata-, Adj.
+(gone, a p.p. of the verb root gam-, to go) negated by the negative prefix a-.
+Acc.Sg.f. = agataj.
+disaj: disa-, N.f: direction. Acc.Sg. = disaj.
+List of Abbreviations
+yatha, Rel.Adv.: as, just like.
+attana: attan-, N.m.: self. Ins.Sg. = attana.
+Euphonic combination: yatha + attana = yathattana.
+sudantena: sudanta-, Adj.: well restrained, tamed, controlled. It is a p.p. of
+the verb dam- (to restrain, to control, to tame) with the prefix su- (well).
+Ins.Sg.m. = sudantena.
+danto: danta-, Adj.: restrained, tamed, controlled. It is a p.p. of the verb
+dam- (to restrain, to control, to tame). Nom.Sg.m. = danto.
+dantena: danta-, Adj.: see above. Ins.Sg.m. = dantena.
+gacchati, V.: goes. The verb root is gam- (to go). 3.Sg.act.in.pres. =
+gacchati.
+List of Abbreviations
+    This verse consists of two syntactically related sentences. They are:
+    1) na hi etehi yanehi gaccheyya agataj disaj (not by all these vehicles
+could one go to the land previously not traveled to). The subject is omitted;
+the verb implies the third person singular pronoun. The verb is gaccheyya
+(could go, 3rd person, singular, active, optative). It is negated by the
+negative particle na (not). The verb has an attribute, the noun yanehi (by
+vehicles, instrumental plural) with its attribute, the pronoun etehi (by these,
+instrumental plural). The object is the noun disaj (land, direction, accusative
+singular). It has an attribute, the past participle agataj (not gone, not
+traveled, accusative singular). The particle hi (indeed) serves mainly metrical
+purposes.
+    2) yathattana sudantena danto dantena gacchati (as would one who is tamed
+would go by himself being tamed and well controlled). The subject is the past
+participle danto (tamed, nominative singular). The verb is gacchati (goes, 3rd
+person, singular). It has an attribute, the noun attana (by oneself,
+instrumental singular). This word has two attributes, the past participles
+dantena (by tamed, instrumental singular) and sudantena (by well tamed,
+instrumental singular). The relative adverb yatha (as, like) connects this
+sentence to the previous one.
+===============================================================================
+
+
+Commentary:
+    A group of monks once saw an elephant trainer trying to subdue an elephant.
+The trainer could not succeed in any way he tried. One monk used to be an
+elephant trainer himself so he explained to the trainer how he should proceed.
+The elephant was then tamed very quickly.
+    When the monks returned to the monastery, they reported this story to the
+Buddha. The Buddha admonished the monk with this verse, saying that he should
+first tame himself. Only in this way will he be able to reach the Nirvana.
+Taming elephants will not help him one little bit in pursuing this goal.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+na
+hi
+etehi
+yanehi
+gaccheyya
+agataj
+disaj
+yatha
+attana
+sudantena
+danto
+dantena
+gacchati
+===============================================================================

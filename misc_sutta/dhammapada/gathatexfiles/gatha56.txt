@@ -1,0 +1,138 @@
+
+
+          __________________________________________________________
+         |Gāthā___________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+List of Abbreviations
+===============================================================================
+            ****** appamatto ayaṃ gandho yāyaṃ tagaracandanī ******
+            ****** yo ca sīlavataṃ gandho vāti devesu uttamo ******
+                            ****** (DhP 56) ******
+===============================================================================
+
+Sentence Translation:
+Very faint is this scent of tagara and sandal.
+Highest is the scent of a virtuous one; it blows even amongst the gods.
+
+===============================================================================
+
+Sentence Structure:
+
+List of Abbreviations
+appa+matto      ayaṃ    gandho          yā         ayaṃ  tagara+candanī
+|            |             |              |               |              
+|          |          |
+Adj.  Adj.m.    Pron.m.    N.m.    Rel.Pron.f.  Pron.f.  N.n.     N.f.
+|      Nom.Sg.  Nom.Sg.  Nom.Sg.  Nom.Sg.   Nom.Sg.   |     Nom.Sg.
+|______|              |________|               |               |         
+|_____|
+     |_______________|                       |               |________|
+                  |                                      |____________|
+                  |___________________________|
+                                       
+|___________________________________________
+List of Abbreviations
+yo                ca   sīlavataṃ  gandho       vāti     devesu     uttamo
+|                     |          |             |               |            
+|             |
+Rel.Pron.m. conj.  Adj.m.     N.m.      V.act.in.    N.m.     Adj.m.
+Nom.Sg.         |     Gen.Pl.  Nom.Sg.  3.Sg.pres.  Loc.Pl.  Nom.Sg.
+|____________|         |_______|                |_______|             |
+           |_______________|                             |                    |
+
+                        |________________________|___________|
+                                                       |_______|
+__________________________________|
+
+===============================================================================
+
+Vocabulary and Grammar:
+
+List of Abbreviations
+appamatto: appamatta-, Adj.: little, slight, insignificant. It is a compound
+of:
+    appa-, Adj.: small, little.
+    matta-, Adj.: measured, measuring.
+Nom.Sg.m. = appamatto.
+ayaṃ: idaṃ-, Pron.: this. Nom.Sg.m. = ayaṃ.
+gandho: gandha-, N.m.: smell. Nom.Sg. = gandho.
+yā: yad-, Rel.Pron.: that which, such as. Nom.Sg.f. = yā.
+List of Abbreviations
+ayaṃ: idaṃ-, Pron.: this. Nom.Sg.f. = ayaṃ.
+tagaracandanī: tagaracandanī-, N.f.: tagara and sandal. It is a compound of:
+    tagara-, N.n.: the incense obtained from a kind of shrub
+    (in Latin: Tabernaemontana coronaria).
+    candanī-, N.f.: sandal.
+Nom.Sg. = tagaracandanī.
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+ca, conj.: and.
+List of Abbreviations
+sīlavataṃ: sīlavant-, Adj.: virtuous. As a N.m.: virtuous person. It is the
+word sīla-, N.n.: virtue, with a possessive suffix -vant. Gen.Pl. = sīlavataṃ.
+gandho: see above.
+vāti, V.: blows. The verb root is vā- (to blow). 3.Sg.act.in.pres. = vāti.
+devesu: deva-, N.m.: god, deity. Loc.Pl. = devesu.
+uttamo: uttama-, Adj.: highest, utmost, best. Nom.Sg.m. = uttamo.
+List of Abbreviations
+    Two lines of this verse form two syntactically separated sentences.
+    In the first sentence, subject is the noun gandho (smell, nominative
+singular). It has an attribute, the pronoun ayaṃ (this, nominative singular).
+The verb is omitted, implying the verb "to be". It has the adjective appamatto
+(faint, nominative singular) as a predicate. There is a clause, yā ayaṃ
+tagaracandanī (namely, this tagara and sandal). Here, the subject is the
+compound tagaracandanī (tagara and sandal, nominative singular). It has the
+pronoun ayaṃ (this, nominative singular) as an attribute. The relative pronoun
+yā (that, which; nominative singular) connects the clause to the main sentence.
+
+    In the second line, the subject is the noun gandho (smell, nominative
+singular) with two attributes, the adjectiveuttamo (highest, nominative
+singular) and the adjective sīlavataṃ (of the virtuous ones, genitive plural).
+The verb is vāti (blows, 3rd person, singular, active, indicative, present
+tense) with an attribute, the noun devesu (amongst the gods, locative plural).
+The relative pronoun yo(that, which; nominative singular) introduces the
+sentence and also connects it to the previous one. The conjunction ca (and)
+serves a similar purpose.
+
+===============================================================================
+
+Commentary:
+One of the Buddha's chief disciples, Venerable Kassapa, went to the city of
+Rājagaha for alms food. He wanted to give some poor man opportunity to give him
+food and thus obtain merit.
+    Sakka, the king of the gods saw this, he assumed the form of an old poor
+weaver and together with his wife Sujātā came to Rājagaha. Venerable Kassapa
+stood at their door and Sakka filled his bowl with delicious rice and curry.
+Kassapa thought, that this cannot be a poor man - how could such a person
+afford so delicious food? Kassapa then realized that this man and his wife are
+actually Sakka and Sujātā.
+    They admitted this fact and told Kassapa that they were too very poor -
+they did not have enough opportunity to give alms and thus did not accumulate
+any merit.
+    Monks asked the Buddha how Sakka knew Kassapa was such a virtuous person
+that any alms given to him reap great meritorious reward. The Buddha answered
+by this verse, telling them that the fame of Kassapa's virtue reached even
+amongst the gods.
+
+===============================================================================
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+appamatto
+appa
+matto
+ayaṃ
+gandho
+yā
+ayaṃ
+tagaracandanī
+tagara
+candanī
+yo
+ca
+sīlavataṃ
+vāti
+devesu
+uttamo
+
+===============================================================================

@@ -1,0 +1,25 @@
+
+Parissuddha
+
+
+PAR 2 (AG) muḷho’si (AGB) mūḷho’si
+
+SD 3 (AG) methunūpasañhitāhi (AGB*) methunūpasaṁhitāhi
+SD 4 (AG) methunūpasañhitena (AGB*) methunūpasaṁhitena
+SD 7 (AG) Mahallakam (AGB*) mahallakaṁ
+SD 12 (AG) saṁvaḍḍhā (AGB*) saṁvaddhā - added extra database entry for both possibilities
+SD 13 (AG*) chandagamino Probable second occurance without long a is typo
+
+NP 7  (AG) abhihaṭṭhum (AGB*) abhihaṭṭhuṁ extra database entry
+NP 15  (AG) Nisīdanasanthatam (AGB*) Nisīdanasanthataṁ extra database entry
+NP 27  (AG) āvīyati (AGB*) vīyati - BIG difference
+
+P 19  (AG) mahallakam (AGB*) mahallakaṁ
+P 31 āvasatha’piṇḍo (AG) vs āvasathapiṇḍo (AGB*) - also "*'pi*" not working with dictionary lookup.
+
+P 83 atikkameyya (AG) vs atikkāmeyya (AGB*)
+P 70 Cara’pi re (AG) vs Cara pire (AGB*)
+P 89. Nisīdanaṁ* or m - A Geoff files have 'm' our book and original dictionary from Anandajoti is 'ṁ'
+
+(AG) dammayut text provided by A. Geoff
+(AGB) the little patimokkha book at abhayagiri

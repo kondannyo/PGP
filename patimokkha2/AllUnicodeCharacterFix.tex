@@ -1,0 +1,82 @@
+%\documentclass[a4paper,12pt]{article}
+%\usepackage{fontspec}
+%\defaultfontfeatures{Ligatures=TeX} 
+%\setmainfont{Minion Pro}
+
+\usepackage{newunicodechar}
+
+
+%\={o} ō macron accent (a bar over the letter)
+%\.{o} ȯ dot over the letter
+%\d{u} ụ dot under the letter
+
+%fix small letters āīūṅñṭḍṇḷṁ
+\UndeclareUTFcomposite[\UTFencname]{x0101}{\=}{a}
+\UndeclareUTFcomposite[\UTFencname]{x012B}{\=}{i}
+\UndeclareUTFcomposite[\UTFencname]{x016B}{\=}{u}
+\UndeclareUTFcomposite[\UTFencname]{x1E45}{\.}{n}
+\UndeclareUTFcomposite[\UTFencname]{x00F1}{\~}{n}
+\UndeclareUTFcomposite[\UTFencname]{x1E6D}{\d}{t}
+\UndeclareUTFcomposite[\UTFencname]{x1E0D}{\d}{d}
+\UndeclareUTFcomposite[\UTFencname]{x1E47}{\d}{n}
+\UndeclareUTFcomposite[\UTFencname]{x1E37}{\d}{l}
+\UndeclareUTFcomposite[\UTFencname]{x1E41}{\.}{m}
+%fix small letters ĀĪŪṄÑṬḌṆḶṀ
+\UndeclareUTFcomposite[\UTFencname]{x0100}{\=}{A}
+\UndeclareUTFcomposite[\UTFencname]{x012A}{\=}{I}
+\UndeclareUTFcomposite[\UTFencname]{x016A}{\=}{U}
+\UndeclareUTFcomposite[\UTFencname]{x1E44}{\.}{N}
+\UndeclareUTFcomposite[\UTFencname]{x00D1}{\~}{N}
+\UndeclareUTFcomposite[\UTFencname]{x1E6C}{\d}{T}
+\UndeclareUTFcomposite[\UTFencname]{x1E0C}{\d}{D}
+\UndeclareUTFcomposite[\UTFencname]{x1E46}{\d}{N}
+\UndeclareUTFcomposite[\UTFencname]{x1E36}{\d}{L}
+\UndeclareUTFcomposite[\UTFencname]{x1E40}{\.}{M}
+\makeatletter
+\let\d\relax
+\DeclareRobustCommand{\d}[1]
+  {\hmode@bgroup
+   \o@lign{\relax#1\crcr\hidewidth\ltx@sh@ft{-1ex}.\hidewidth}\egroup
+}
+\let\.\relax
+\DeclareRobustCommand{\.}[1]
+  {\hmode@bgroup\vbox{% \o@lign has \vtop
+   \lineskiplimit\z@
+   \baselineskip\z@skip
+   \lineskip.25ex
+   \ialign {##\crcr\hidewidth.\hidewidth\crcr#1\crcr}}\egroup
+}
+\makeatother
+
+\newunicodechar{ā}{\={a}}
+\newunicodechar{ī}{\={i}}
+\newunicodechar{ū}{\={u}}
+\newunicodechar{ṅ}{\.{n}}
+\newunicodechar{ñ}{\~{n}}
+\newunicodechar{ṭ}{\d{t}}
+\newunicodechar{ḍ}{\d{d}}
+\newunicodechar{ṇ}{\d{n}}
+\newunicodechar{ḷ}{\d{l}}
+\newunicodechar{ṁ}{\.{m}}
+
+\newunicodechar{Ā}{\={A}}
+\newunicodechar{Ī}{\={I}}
+\newunicodechar{Ū}{\={U}}
+\newunicodechar{Ṅ}{\.{N}}
+\newunicodechar{Ñ}{\~{N}}
+\newunicodechar{Ṭ}{\d{T}}
+\newunicodechar{Ḍ}{\d{D}}
+\newunicodechar{Ṇ}{\d{N}}
+\newunicodechar{Ḷ}{\d{L}}
+\newunicodechar{Ṁ}{\.{M}}
+
+%\begin{document}
+%m with dot above: 
+%\begin{itemize}
+%\item by function: ṁ
+%\item by \LaTeX: \.{m}
+%\end{itemize}
+
+%āīūṅñṭḍṇḷṁ\\
+%ĀĪŪṄÑṬḌṆḶṀ
+%\end{document}

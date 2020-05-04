@@ -1,0 +1,138 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** hinaj dhammaj na seveyya pamadena na sajvase ******
+          ****** micchaditthij na seveyya na siya lokavaddhano ******
+                            ****** (DhP 167) ******
+===============================================================================
+
+
+Sentence Translation:
+Don't practice inferior teachings; don't connect with negligence.
+Don't embrace wrong beliefs; don't be attached to the world.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+hinaj dhammaj na  seveyya pamadena na   sajvase
+|                |           |         |            |           |          |
+Adj.m.    N.m.    neg.  V.act.     N.m.     neg.   V.act.
+Acc.Sg. Acc.Sg.     |   3.Sg.opt. Ins.Sg.      |    3.Sg.opt.
+|_________|           |_____|            |           |______|
+        |______________|                |__________|
+List of Abbreviations
+miccha+ditthij  na   seveyya  na     siya    loka+vaddhano
+|                  |       |         |         |          |         |          
+|
+Adv.         N.f.  neg.  V.act.   neg.  V.act.   N.m.  Adj.m.
+|            Acc.Sg.  |    3.Sg.opt.  |    3.Sg.opt.   |     Nom.Sg.
+|__________|       |_____|         |______|         |______|
+       |_____________|                   |____________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+hinaj: hina-, Adj.: poor, inferior. It is p.p. of the verb ha- (to reject).
+Acc.Sg.m. = hinaj.
+dhammaj: dhamma-, N.m.: here not as the Dharma (Buddha's Teaching), but rather
+in a more general meaning: teaching, way. Acc.Sg. = dhammaj.
+na, neg.: not.
+seveyya, V.: associate with, practice, embrace. The verb root is sev-.
+3.Sg.act.opt. = seveyya.
+pamadena: pamada-, N.m.: negligence. Ins.Sg. = pamadena.
+List of Abbreviations
+na: see above.
+sajvase, V.: associate or connect with. The verb root is vas- (to live) with
+the prefix saj- (together). 3.Sg.act.opt. = sajvase.
+micchaditthij: micchaditthi-, N.f.: wrong belief. It is a compound of:
+    miccha, Adv.: wrongly, badly.
+    ditthi-, N.f.: view, belief, theory, idea. It is derived from the verb root
+dis- (to see).
+Acc.Sg. = micchaditthij.
+List of Abbreviations
+na: see above.
+seveyya: see above.
+na: see above.
+siya, V.: would be. The verb root is as-. 3.Sg.act.opt. = siya.
+lokavaddhano: lokavaddhana-, Adj.: indulgence in the world, attachment to the
+world. It is a compound of:
+    loka-, N.m.: world.
+    vaddhana-, N.n.: indulgence, attachment. The verb root is vaddh- (to grow).
+
+Nom.Sg.m. = lokavaddhano.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) hinaj dhammaj na seveyya (don't practice inferior teachings, lit.: one
+should not practice inferior teachings). The subject is omitted; the verb
+implies the third person singular pronoun. The verb is seveyya (one should
+practice, 3rd person, singular, active, optative). It is negated by the
+negative particle na (not). The object is the noun dhammaj (teaching,
+accusative singular). It has an attribute, the adjective hinaj (inferior,
+accusative singular).
+    2) pamadena na sajvase (don't connect with negligence, lit.: one should not
+connect with negligence). The subject is omitted; the verb implies the third
+person singular pronoun. The verb is sajvase (one should associate, 3rd person,
+singular, active, optative). It is negated by the negative particle na (not).
+It also has an attribute, the noun pamadena (with negligence, instrumental
+singular).
+    3) micchaditthij na seveyya (don't embrace wrong beliefs, lit.: one should
+not embrace wrong beliefs). The subject is omitted; the verb implies the third
+person singular pronoun. The verb is seveyya (one should practice, 3rd person,
+singular, active, optative). It is negated by the negative particle na (not).
+The object is the compound micchaditthij (wrong belief, accusative singular).
+    4) na siya lokavaddhano (don't be attached to the world, lit.: one should
+not be attached to the world). The subject is omitted; the verb implies the
+third person singular pronoun. The verb is siya (one should be, 3rd person,
+singular, active, optative). It is negated by the negative particle na (not).
+The object is the compound lokavaddhano (attached to the world, nominative
+singular).
+===============================================================================
+
+
+Commentary:
+    Visakha was a very famous benefactress of the Buddhist Community from
+Savatthi. Once an older monks with his young pupil came to her house for
+almsfood. Visakha's granddaughter was filtering water for the young monk and
+when she saw her reflection on the surface of the water, she laughed. The young
+monk also laughed. The girl got angry and said, "You shaven head, why do you
+laugh at me?!" The monk did not like it and replied, "You and your family are
+shaven heads yourself!" The girl went weeping to Visakha. Visakha tried to
+appease both the girl and the monk but the monk was angry and did not accept
+her explanations and apologies. The older monk also tried his best but did not
+succeed either.
+    The matter was brought to the Buddha, who saw that the monk was ready to
+reach the first stage of Awakenment. So he asked Visakha, "Why did your
+granddaughter had to address my monk as a shaven head? All the monks had to
+shave their heads when they became members of the Community!" The young monk
+felt very happy and praised the Buddha that he was the only one who could
+understand him. The Buddha then replied with this verse, saying that the monk
+was also to blame; he should not quarrel because of such a small and
+unimportant thing. Hearing that, the young monk reached the first stage of
+Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+hinaj
+dhammaj
+na
+seveyya
+pamadena
+sajvase
+micchaditthij
+miccha
+ditthij
+siya
+lokavaddhano
+loka
+vaddhano
+===============================================================================

@@ -1,0 +1,122 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+         ****** papaj ce puriso kayira na naj kayira punappunaj ******
+        ****** na tamhi chandaj kayiratha dukkho papassa uccayo ******
+                            ****** (DhP 117) ******
+===============================================================================
+
+
+Sentence Translation:
+Should a person do evil, let him not do it again and again.
+One should not wish for it. Accumulation of evil is painful.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+papaj  ce     puriso     kayira    na     naj      kayira punappunaj
+|             |          |              |         |         |            
+|             |
+N.n.     part.   N.m.      V.act.   neg.  Pron.n.   V.act.     Adv.
+Acc.Sg.   |    Nom.Sg. 3.Sg.opt.   |     Acc.Sg. 3.Sg.opt.      |
+|              |_____|________|         |_____|_______|             |
+|                |____|                                 |      |___________|
+|___________|                                     |_________|
+         |_______________________________|
+List of Abbreviations
+na           tamhi   chandaj kayiratha dukkho  papassa uccayo
+|                  |             |            |             |             
+|           |
+neg.        Pron.n.    N.m.   V.med.     Adj.m.     N.n.      N.m.
+|             Loc.Sg. Acc.Sg. 3.Sg.opt.   Nom.Sg. Gen.Sg. Nom.Sg.
+|                  |_______|            |              |              |______|
+|______________|__________|              |___________|
+                  |____|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+papaj: papa-, N.n.: evil, wrong doing. Acc.Sg. = papaj.
+ce, part.: if.
+puriso: purisa-, N.m.: person. Nom.Sg. = puriso.
+kayira, V.: would do. The verb root is kar- (to do). 3.Sg.act.opt. = kayira.
+na, neg.: not.
+naj: ena-, Pron.: it. In Pali used only in Acc.Sg.m.: naj (him).
+kayira: see above.
+punappunaj, Adv.: again and again. It is the word puna, Ind.: again, doubled in
+intensifying sense. The double -p- is a result of the euphonic combination.
+List of Abbreviations
+na: see above.
+tamhi: tad-, Pron.: that. Loc.Sg.n. = tamhi.
+chandaj: chanda-, N.m.: wish, desire, intention. Acc.Sg. = chandaj.
+kayiratha, V.: should do. The verb root is kar- (to do). 3.Sg.med.opt. =
+kayiratha.
+dukkho: dukkha-, Adj.: painful, unpleasant, causing suffering. Nom.Sg.m. =
+dukkho.
+papassa: papa-, N.n.: see above. Gen.Sg. = papassa.
+uccayo: uccaya-, N.m.: heaping up, accumulation. It is derived from the verb
+root ci- (to collect) with the prefixud-(up). Nom.Sg. = uccayo.
+List of Abbreviations
+    This verse contains three syntactically separate sentences. They are:
+    1) papaj ce puriso kayira na naj kayira punappunaj (should a person do
+evil, let him not do it again and again). This can be further subdivided into
+two parts:
+    a) papaj ce puriso kayira (should a person do evil). The subject is the
+noun puriso (person, nominative singular). The verb is kayira (should do, 3rd
+person, singular, active, optative). It is modified by the particle ce (if).
+The object is the noun papaj (evil, accusative singular).
+    b) na naj kayira punappunaj (let him not do it again and again). The
+subject is omitted; the word puriso from the first sentence is implied. The
+verb is kayira (should do, 3rd person, singular, active, optative). It is
+negated by the negative particle na (not). The adverb punappunaj (again and
+again) forms an attribute to the verb. The object is the pronoun naj (it,
+accusative singular).
+    2) na tamhi chandaj kayiratha (one should not wish for it, lit.: one should
+not make a wish in it). As above, the subject is omitted, implying the noun
+puriso from the first sentence. The verb is kayiratha (should do, 3rd person,
+singular, medium, optative). It is negated by the negative particle na (not).
+The object is the noun chandaj (wish, accusative singular) with its attribute,
+the pronoun tamhi (in it, locative singular).
+    3) dukkho papassa uccayo (accumulation of evil is painful). The subject is
+the noun uccayo (accumulation, nominative singular). It has an attribute, the
+noun papassa (of evil, genitive singular). The object is the adjective dukkho
+(painful, nominative singular). The verb is omitted, implying the verb "to be".
+
+===============================================================================
+
+
+Commentary:
+    There was a monk named Seyyasaka. He was not satisfied with his life as a
+monk. He had a habit of masturbating. When the Buddha heard about this, he
+admonished the monk for giving in to his desire for sensual pleasures. He made
+a new rule for the community of monks and nuns to abstain from such acts. He
+then added this verse, saying that one should not perform evil again and again,
+because such behavior leads to much suffering.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+papaj
+ce
+puriso
+kayira
+na
+naj
+punappunaj
+puna
+tamhi
+chandaj
+kayiratha
+dukkho
+papassa
+uccayo
+===============================================================================

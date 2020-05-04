@@ -1,0 +1,180 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** mase mase sahassena yo yajetha sataj samaj ******
+           ****** ekaj ca bhavit'attanaj muhuttam api pujaye ******
+          ****** sa yeva pujana seyyo yaj ce vassasataj hutaj ******
+                            ****** (DhP 106) ******
+===============================================================================
+
+
+Sentence Translation:
+If one should sacrifice every month thousand times even by hundreds,
+and if one should even for a moment pay respects to somebody, who has developed
+himself,
+then such a devotion is better than hundred years of sacrifice.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+mase     mase  sahassena    yo        yajetha    sataj    samaj
+|                |            |            |               |            
+|            |
+N.m.      N.m.    Num.n. Rel.Pron.  V.med.   Num.n.   Adj.n.
+Loc.Sg. Loc.Sg.  Ins.Sg.  Nom.Sg.  3.Sg.opt.  Acc.Sg. Acc.Sg.
+|_________|            |            |               |             |_______|
+       |____________|            |               |___________|
+                  |_____________|______________|
+                                |_____|
+                                    
+|_______________________________________________
+List of Abbreviations
+ekaj      ca  bhavita+attanaj muhuttam api  pujaye
+|               |        |           |              |           |        |
+Num.m. conj. Adj.     N.m.       N.m.     part.  V.act.
+Acc.Sg.    |        |      Acc.Sg.   Acc.Sg.      |    3.Sg.opt.
+|               |        |______|              |______|        |
+|________|________|                         |________|
+                      |_______________________|
+________________________|
+                  |__________________________________________________________
+List of Abbreviations
+sa          yeva   pujana    seyyo        yaj        ce  vassa+sataj     hutaj
+|                |          |             |               |            |      
+|          |            |
+Pron.f.    part.    N.f.      Adj.n.   Rel.Pron.n. part. N.n.  Num.n.   Adj.n.
+Nom.Sg.    |    Nom.Sg. Nom.Sg.   Nom.Sg.     |       |    Nom.Sg. Nom.Sg.
+|_________|_____|              |               |______|       
+|______|           |
+           |___|                        |                   
+|                    |_________|
+              |_______________|                    |________________|
+                           |___________________________|
+___________________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+mase: masa-, N.m.: month. Loc.Sg. = mase.
+mase: see above.
+The phrase mase mase = every month.
+sahassena: sahassa-, N.n.: thousand. Ins.Sg. = sahassena.
+yo: yad-, Rel.Pron.: that which. Nom.Sg.m. = yo.
+yajetha, V.: should sacrifice. The verb root is yaj-. 3.Sg.med.opt. = yajetha.
+sataj: sata-, Num.n.: hundred. Acc.Sg. = sataj.
+samaj: sama-, Adj.: same, even. Acc.Sg. = samaj.
+ekaj: eka-, Num.: one. Acc.Sg.m. = ekaj.
+List of Abbreviations
+ca, conj.: and.
+bhavit'attanaj: bhavit'attan-, Adj.: having developed oneself. It is a compound
+of:
+    bhavita-, Adj.: developed. It is a p.p. of the verb bhaveti (to develop, to
+meditate).
+    attan-, N.m.: self, oneself.
+Euphonic combination: bhavita- + attan- = bhavit'attan-.
+Acc.Sg.m. = bhavit'attanaj.
+muhuttam: muhutta-, N.m.: a moment, a second. Acc.Sg. = muhuttam: for a moment.
+api, part.: also, as well, even (often spelled pi).
+pujaye, V.: should worship, should pay respects to. The verb root is puj- (to
+worship).
+3.Sg.act.opt. = pujaye.
+sa: tad-, Pron.n.: it. Nom.Sg.f. = sa.
+yeva, part.: just, only. It is more often spelled as eva.
+List of Abbreviations
+pujana: pujana-, N.f.: worship, devotion. It is derived from the verb root puj-
+(to worship).
+Nom.Sg. = pujana.
+seyyo: seyya-, Adj.: better. Nom.Sg.n. = seyyo.
+yaj: yat-, Rel.Pron.: that, which. Nom.Sg.n.: yaj.
+ce, part.: if.
+vassasataj: vassasata-, N.n.: hundred years, century. It is a compound of:
+    vassa-, N.n.: year.
+    sata-, Num.n.: hundred.
+Nom.Sg. = vassasataj.
+hutaj: huta-, Adj.: sacrificed. It is a p.p. of the verb root hu- (to
+sacrifice). Nom.Sg.n. = hutaj.
+List of Abbreviations
+    This verse consists of two sentences. They are:
+    1) mase mase sahassena yo yajetha sataj samaj ekaj ca bhavit'attanaj
+muhuttam api pujaye (if one should sacrifice every month thousand times even by
+hundreds, and if one should even for a moment pay respects to somebody, who has
+developed himself). This can be further subdivided into two segments:
+    a) mase mase sahassena yo yajetha sataj samaj(if one should sacrifice every
+month thousand times even by hundreds). The subject is the relative pronoun yo
+(who, nominative singular). The verb is yajetha (should sacrifice, 3rd person,
+singular, medium, optative). It has two main attributes: I) sahassena (by
+thousand, instrumental singular) with its double attribute mase mase (every
+month, locative singular) and II) sataj (hundred, accusative singular) with its
+attribute, the adjective samaj (even, accusative singular).
+    b) ekaj ca bhavit'attanaj muhuttam api pujaye (and if one should even for a
+moment pay respects to somebody, who has developed himself). The subject is
+still the word yo from the previous sentence. The object is the compound
+bhavit'attanaj(one who has developd himself, accusative singular) with its
+attribute, the numeral ekaj (one, accusative singular). The verb is pujaye
+(should pay respects, 3rd person, singular, active, optative). It has an
+attribute, the word muhuttam (for a moment, accusative singular) with its
+attribute, the particle api (also, just). The conjunction ca (and) serves
+mainly for metrical purposes, but it also connects this sentence to the
+previous one.
+    2) sa yeva pujana seyyo yaj ce vassasataj hutaj (then such a devotion is
+better than hundred years of sacrifice). This can be further subdivided into
+two parts:
+    a) sa yeva pujana seyyo (such a devotion is better). The subject is double,
+the pronoun sa (she, nominative singular) and pujana (devotion, nominative
+singular). They are stressed by the particle yeva (just). The adjective seyyo
+(better, nominative singular) is an object of this sentence. The verb is
+omitted, implying the verb "to be".
+    b) yaj ce vassasataj hutaj(than hundred years of sacrifice). The subject is
+the compound vassasataj (century, nominative singular). It has an attribute,
+the past participle hutaj (sacrificed, nominative singular). The relative
+pronoun yaj (that, what; nominative singular) and the particle ce (if) form two
+parts of the phrase yaj ce (than). The verb is again omitted, as above implying
+the verb "to be".
+===============================================================================
+
+
+Commentary:
+    Venerable Sariputta once asked his uncle if he was doing any good deeds.
+His uncle (who was a Brahmin) replied that every month he was making offerings
+to ascetics, hoping to be reborn in the heavenly world in the future existence.
+Sariputta assured him that the ascetics did not really know the way to the
+heavenly world. He then took him to the Buddha who explained the Dharma to him
+and added that to pay respects to an Arahant is far better than to make
+offerings to somebody who is not really worth it.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+mase
+sahassena
+yo
+yajetha
+sataj
+samaj
+ekaj
+ca
+bhavit'attanaj
+bhavita
+attanaj
+muhuttam
+api
+pujaye
+sa
+yeva
+pujana
+seyyo
+yaj
+ce
+vassasataj
+vassa
+hutaj
+===============================================================================

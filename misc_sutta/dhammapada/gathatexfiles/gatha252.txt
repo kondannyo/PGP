@@ -1,0 +1,159 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+          ****** sudassaj vajjam abbesaj attano pana duddasaj ******
+           ****** paresaj hi so vajjani opunati yatha bhusaj ******
+            ****** attano pana chadeti kalij va kitava satho ******
+                            ****** (DhP 252) ******
+===============================================================================
+
+
+Sentence Translation:
+Easy to see are faults of others; one's own faults are difficult to see.
+One exposes the faults of others like husks.
+One's own conceals like a cheating player of dice an unlucky throw.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+sudassaj  vajjam  abbesaj  attano  pana duddasaj
+|                    |            |            |          |           |
+Adj.n.        N.n.     Adj.m.  Pron.m. part.     Adj.n.
+Nom.Sg. Nom.Sg. Gen.Pl.  Gen.Sg.    |      Nom.Sg.
+|                    |_______|            |_____|_______|
+|_______________|
+List of Abbreviations
+paresaj  hi       so        vajjani   opunati    yatha   bhusaj
+|              |          |              |            |            
+|            |
+Adj.m.   part. Pron.m.    N.n.    V.act.in.  Rel.Adv.  N.n.
+Gen.Pl.    |     Nom.Sg. Acc.Pl. 3.Sg.pres.      |       Acc.Sg.
+|________|_____|________|            |              |_______|
+                         |      |___________|                     |
+                         |                 |_________________|
+                         |__________________|
+List of Abbreviations
+attano   pana    chadeti     kalij    va   kitava      satho
+|               |            |             |         |         |             |
+Pron.m. part. V.act.caus.  N.m.   part. Adj.m.    Adj.m.
+Gen.Sg.    |     3.Sg.pres. Acc.Sg.    |   Nom.Sg. Nom.Sg.
+|________|             |             |         |         |_______|
+        |___________|             |_____|_________|
+                  |                                 |____|
+                  |____________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+sudassaj: sudassa-, Adj.: easy to see. It is derived from the verb root das-
+(to see) with the prefix su- (well, good). Nom.Sg.n. = sudassaj.
+vajjam: vajja-, N.n.: fault, what should be avoided. Nom.Sg. = vajjam.
+abbesaj: abba-, Adj.: other, different. Gen.Pl.m. = abbesaj.
+attano: attan-, N.m./Pron.: self, oneself. Gen.Sg. = attano.
+pana, part.: indeed.
+duddasaj: duddasa-, Adj. difficult to see. It is derived from the verb root
+das- (to see) with the prefix du- (bad, difficult). Nom.Sg.n. = duddasaj.
+List of Abbreviations
+paresaj: para-, Adj.m.: other. Gen.Pl. = paresaj.
+hi, part.: indeed.
+so: tad-, Pron.n.: it. Nom.Sg.m. = so.
+vajjani: vajja-, N.n.: see above. Acc.Pl. = vajjani.
+opunati, V.: lay bare, expose. Lit. to winnow, sift. The verb root is pu- (to
+cleanse) with the prefix ava- (away; here shortened to o-). 3.Sg.act.in.pres. =
+opunati.
+yatha, Rel.Adv.: as, just like.
+bhusaj: bhusa-, N.n.: chaff, husk. Acc.Sg. = bhusaj.
+List of Abbreviations
+attano: see above.
+pana: see above.
+chadeti, V.: covers, conceals. The verb root is chad- (to cover).
+3.Sg.act.caus.pres. = chadeti.
+kalij: kali-, N.m.: an unlucky throw at dice, number one. Acc.Sg. = kalij.
+va, part.: as, like.
+kitava: kitava-, Adj.: one who is lucky at throwing dice. Nom.Sg.m. = kitava.
+satho: satha-, Adj.: deceitful, treacherous, fraudulent. Nom.Sg.m. = satho.
+List of Abbreviations
+    This verse consists of four syntactically separate sentences. They are:
+    1) sudassaj vajjam abbesaj (easy to see are faults of others). The subject
+is the noun vajjam (fault, nominative singular). It has an attribute, the
+adjective abbesaj (of others, genitive plural). The verb is omitted, implying
+the verb "to be". The object is the adjective sudassaj (easy to see, nominative
+singular).
+    2) attano pana duddasaj (one's own faults are difficult to see). The
+subject is the word vajjam from the previous sentence. It has an attribute, the
+noun/pronoun attano (one's own, genitive singular). The verb is omitted,
+implying the verb "to be". The object is the adjective duddasaj (difficult to
+see, nominative singular). The particle pana (indeed) serves only for metrical
+purposes.
+    3) paresaj hi so vajjani opunati yatha bhusaj (one exposes the faults of
+others like husks). This can be further analysed into the main sentence and the
+clause:
+    a) paresaj hi so vajjani opunati (one exposes the faults of others). The
+subject is the pronoun so (he, nominative singular). The verb is opunati
+(exposes, 3rd person, singular, active, indicative, present tense). The object
+is the noun vajjani (faults, accusative plural). It has an attribute, the
+adjective paresaj (of others, genitive plural). The particle hi (indeed) serves
+only for metrical purposes.
+    b) yatha bhusaj (like husks). The object is the noun bhusaj (chaff,
+accusative singular). The relative adverb yatha (like, as) connects the clause
+to the main sentence.
+    4) attano pana chadeti kalij va kitava satho (one's own conceals like a
+cheating player of dice an unlucky throw). This can be further analysed into
+the main sentence and the clause:
+    a) attano pana chadeti (one's own conceals). The subject is the noun
+vajjani from the previous sentence. It has an attribute, the noun/pronoun
+attano (one's own, genitive singular). The verb is chadeti (conceals, 3rd
+person, singular, active, causative, present tense). The particle pana (indeed)
+serves only for metrical purposes.
+    b) kalij va kitava satho (like a cheating player of dice an unlucky throw).
+The subject is the adjective kitava (a player, one who is lucky at throwing
+dice, nominative singular). It has an attribute, the adjective satho (cheating,
+nominative singular). The verb is chadeti from the main sentence. The object is
+the noun kalij (number one, an unlucky throw, accusative singular). The
+particle va (as, like) connects the clause to the main sentence.
+===============================================================================
+
+
+Commentary:
+    In the town of Bhaddiya there lived a rich man named Mendaka. When the
+Buddha arrived at Bhaddiya, he realized that Mendaka and his whole family are
+able to understand the Dharma. He explained the teaching to them and after
+hearing the Dharma from him, Mendaka, his wife, son, daughter-in-law and
+servant all attained the first level of Awakenment. Mendaka related how many
+ascetic teachers spoke ill of the Buddha and tried to dissuade Mendaka from
+seeing the Buddha. The Buddha explained by this verse, that it is only very
+natural to see others' faults and not to see one's own.
+    The Buddha then revealed the past existences of Mendaka. He was always a
+rich man who donated many things to those seeking Awakenment.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+sudassaj
+vajjam
+abbesaj
+attano
+pana
+duddasaj
+paresaj
+hi
+so
+vajjani
+opunati
+yatha
+bhusaj
+chadeti
+kalij
+va
+kitava
+satho
+===============================================================================

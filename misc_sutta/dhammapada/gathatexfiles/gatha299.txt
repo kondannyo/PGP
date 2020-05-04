@@ -1,0 +1,121 @@
+
+
+ 
+          __________________________________________________________
+         |Gatha_____________|Sentence_Translation|Sentence_Structure|
+         |Vocabulary&Grammar|Commentary__________|Pronunciation_____|
+                          List of Abbreviations
+===============================================================================
+           ****** suppabuddhaj pabujjhanti sada gotamasavaka ******
+           ****** yesaj diva ca ratto ca niccaj kayagata sati ******
+                            ****** (DhP 299) ******
+===============================================================================
+
+
+Sentence Translation:
+The disciples of Gotama, whose mindfulness is day and night
+constantly directed to the body, those are always well awakened.
+===============================================================================
+
+
+Sentence Structure:
+List of Abbreviations
+suppabuddhaj pabujjhanti sada gotama+savaka
+|                              |           |          |           |
+Adv.                 V.act.in.  Adv.    N.m.    N.m.
+|_________________|          |          |      Nom.Pl.
+              |_______________|          |_______|
+                             |                            
+|_____________________________
+                             |________________________________|
+List of Abbreviations
+yesaj         diva    ca    ratto   ca  niccaj    kaya+gata          sati
+|                     |        |        |       |         |           |        
+|               |
+Rel.Pron.m. Adv. conj. Adv. conj.  Adv.     N.m.   Adj.f.        N.f.
+Gen.Pl.          |_____|        |____|        |           |     Nom.Sg.  
+Nom.Sg.
+|                         |__________|           |          
+|______|              |
+|                                   |___________|                  |__________|
+
+|                                            |______________________|
+|____________________________________|
+_________________|
+===============================================================================
+
+
+Vocabulary and Grammar:
+List of Abbreviations
+suppabuddhaj, Adv.: well "awakenedly". It is derived (accusative ending) from
+the word suppabuddha-, Adj.: well awakened. This is a p.p. from the verb root
+budh- (to awaken) with the prefixes su- (well, good) and pa- (strengthening).
+As an Adv.: suppabuddhaj.
+pabujjhanti, V.: wake up, awake. The verb root is budh- (to awake), with the
+prefix pa- (strengthening). 3.Pl.act.in.pres. = pabujjhanti.
+sada, Adv.: always.
+gotamasavaka: gotamasavaka-, N.m.: disciples of Gotama (the Buddha). It is a
+compound of:
+    gotama-, N.m.: Gotama, the Buddha's surname, the clan-name of the Buddha.
+    savaka-, N.m.: "listener", disciple, student, pupil. It is derived from the
+verb root su- (to hear, to listen).
+Nom.Pl. = gotamasavaka.
+yesaj: yat-, Rel.Pron.: that, which. Gen.Pl.m. = yesaj.
+List of Abbreviations
+diva, Adv.: by day, during day. It is derived from the word diva-, N.n.: day.
+ca, conj.: and.
+ratto, Adv.: by night, during night. It is derived from the word ratta-, N.n.:
+night.
+ca: see above.
+niccaj, Adv.: perpetually, constantly.
+kayagata: kayagata-, Adj.: bodily, as to the body. Lit. "gone to the body". It
+is a compound of:
+    kaya-, N.m.: body.
+    gata-, Adj.: gone. It is a p.p. of the verb root gam- (to go).
+Nom.Sg.f. = kayagata.
+sati: sati-, N.f.: mindfulness, wakefulness, alertness. Nom.Sg. = sati.
+List of Abbreviations
+    The subject is the compound gotamasavaka (disciples of Gotama, nominative
+plural). The verb is pabujjhanti (awaken, 3rd person, plural, active
+indicative, present tense). It has two attributes, the adverbs suppabuddhaj
+(well "awakenedly") and sada (always). There is a clause dependent on the
+subject: yesaj diva ca ratto ca niccaj kayagata sati (whose mindfulness is day
+and night constantly directed to the body). The subject is the noun sati
+(mindfulness, nominative singular). It has an attribute, the compound kayagata
+(directed to the body, nominative singular). The verb is omitted, implying the
+verb "to be". It has three attributes, the adverbs niccaj (constantly), diva
+(by day) and ratto (by night). The last two of these are connected by two
+conjunctions ca (and). The relative adverb yesaj (whose, genitive plural)
+connects the clause to the subject of the main sentence.
+===============================================================================
+
+
+Commentary:
+    The story for this verse is identical with the one for the previous verses
+(DhP 296, DhP 297 and DhP 298) and the following ones (DhP 300 and DhP 301).
+    This is perhaps the most important and most usual form of meditation -
+mindfulness of the body. We are trying to be mindful of all bodily movements,
+of breath, of every posture and intentions to move. There is one whole text in
+the Pali Buddhist Canon (Satipatthana-sutta) dealing with this meditation.
+===============================================================================
+
+
+Sentence pronunciation:
+Sentence_pronunciation
+Word pronunciation:
+suppabuddhaj
+pabujjhanti
+sada
+gotamasavaka
+gotama
+savaka
+yesaj
+diva
+ca
+ratto
+niccaj
+kayagata
+kaya
+gata
+sati
+===============================================================================

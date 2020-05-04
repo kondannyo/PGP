@@ -1,0 +1,19 @@
+
+
+pc 31 āvasatha’piṇḍo not working unicode issues - python 3.5?
+
+Requested improvements
+-upgrade 3.5 to normalize all the inputs and outputs in unicode bunny suits
+
+-modify'rule text' parcer so that it only updates files that have been modified and does not overwrite files that do not fit the standardized rule format.
+
+Markup of rules text so that pagebreaks, centering etc is continentially encoded either in dictionary/glosser, or outside of it.
+	for example, I had manually made file names so that they would conform to this in the combine.py logic
+		    (r'ES-eng\.tex$', english_section_file),
+	this obviously was broken when the automation of the file dividing was done.  
+	
+- move rule split python from \patimokkha to \patimokkha\kp - workflow
+
+- log file out dictionary lookup that outputs the raw word being searched, and the modified word (less punctuation) to help troubleshoot lookups.  The lookup problems maybe rectified by 3.5, but also useful for catching words that are variance because of tradition pronunciation.
+
+
