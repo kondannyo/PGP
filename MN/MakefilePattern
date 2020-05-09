@@ -15,9 +15,9 @@
 # Set PROJECT to the name of the .tex file to build.
 PROJECT =majjhima_nikaya_master
 SOURCE_DIR = sc_po_text
-BIN_DIR = ../bin/
-BUILD_DIR = build/
-TXMKR_BUILD_DIR = tex_build/
+BIN_DIR = ../bin
+BUILD_DIR = build
+TXMKR_BUILD_DIR = tex_build
 
 default: $(BUILD_DIR)/$(PROJECT).pdf
 
@@ -34,22 +34,18 @@ wc: default
 ### Compilation Flags
 LATEX_FLAGS  = -halt-on-error -jobname=$(BUILD_DIR)/$(PROJECT)
 
-BUILD_SOURCE_FILES = $(wildcard $(SOURCE_DIR)/*_sc_pali)
-BUILD_TEX_TARGETS = $(patsubst $(SOURCE_DIR)/%_sc_pali, $(TXMKR_BUILD_DIR)/%.tex, $(wildcard $(SOURCE_DIR)/*_sc_pali))
-
 ### File Types (for dependancies)
+SOURCE_FILES = $(SOURCE_DIR)mn*_sc_pali $(SOURCE_DIR)mn*_sc_engl
+
 TEX_FILES = \
 	../share/PM_A5_Definition.tex \
 	../share/PM_Font_TGT.tex \
 	../share/PM_BWDefintions.tex \
 	../share/PM_Tri_Gloss.tex \
 	../share/PM_UnicodeCharacterFix.tex \
-	$(BUILD_TEX_TARGETS) \
-	$(TXMKR_BUILD_DIR)/mn001.tex \
-	$(TXMKR_BUILD_DIR)/mn002.tex \
-	$(TXMKR_BUILD_DIR)/mn003.tex \
-	$(TXMKR_BUILD_DIR)/mn004.tex \
-	$(TXMKR_BUILD_DIR)/mn005.tex 
+	$(TXMKR_BUILD_DIR)/mn001.tex
+#	$(shell find ./build -name '*.tex') 
+
 BIN_FILES = \
 	$(BIN_DIR)/txmkr \
 	$(BIN_DIR)/txmakerwrapper.py \
@@ -108,6 +104,11 @@ $(TXMKR_BUILD_DIR):
 $(TXMKR_BUILD_DIR)/%.tex: $(SOURCE_DIR)/%_sc_pali $(SOURCE_DIR)/%_sc_engl $(BIN_FILES) $(TXMKR_BUILD_DIR) 
 	$(BIN_DIR)/txmkr -n --output=$@ $< $(word 2,$^)
 
+
+#$(TXMKR_BUILD_DIR)/mn001.tex: $(BIN_FILES) $(TXMKR_BUILD_DIR) $(SOURCE_DIR)/mn001_sc_pali $(SOURCE_DIR)/mn001_sc_engl
+#	$(BIN_DIR)/txmkr -n --output=$(TXMKR_BUILD_DIR)mn001.tex $(SOURCE_DIR)/mn001_sc_pali $(SOURCE_DIR)/mn001_sc_engl
+
+
 #build/$(PROJECT).aux: $(TEX_FILES) $(STY_FILES) | build/
 #	xelatex $(LATEX_FLAGS) $(PROJECT).tex
 
@@ -118,6 +119,6 @@ $(TXMKR_BUILD_DIR)/%.tex: $(SOURCE_DIR)/%_sc_pali $(SOURCE_DIR)/%_sc_engl $(BIN_
 #	xelatex $(LATEX_FLAGS) $(PROJECT)
 #endif
 	
-$(BUILD_DIR)/$(PROJECT).pdf: $(TEX_FILES) $(BIN_FILES) | $(BUILD_DIR)
+$(BUILD_DIR)/$(PROJECT).pdf: $(TXMKR_BUILD_DIR)/%.tex $(TEX_FILES) $(BIN_FILES) | $(BUILD_DIR)
 	xelatex $(LATEX_FLAGS) $(PROJECT).tex
 
