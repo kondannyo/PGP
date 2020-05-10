@@ -1,0 +1,122 @@
+#!/usr/bin/perl
+#
+# This prog takes .po files from suttacentral git repository and
+# divides them up into two separate files one pali, one english
+
+# use strict;
+use v5.14;
+# use warnings;
+use warnings FATAL => "utf8"; # throw encoding error exceptions
+use Unicode::GCString;
+# use Unicode::Normalize qw(NFC NFD);
+use diagnostics;
+use Text::ParseWords; 		# parses line into array of words
+use utf8;
+binmode STDOUT, ':utf8';
+
+# use DBI;
+
+# no warnings 'once'; # suppress 'only used once' warnings
+# no warnings 'utf8'; # suppress 'wide character in print' warnings
+# print NFC($line);
+
+######### Main #############
+
+# initialize_variables
+
+my $file_location_pref = "/media/data/git/sc-data/po_text/pli-en/";
+#my $file_output_pref = "/media/data/SC_split_files/";
+my $file_output_pref = "/media/data/PGP/MN/sc_po_text/";
+#my @nikayas = ("an_filelist", "sn_filelist", "dn_filelist", "mn_filelist");  
+my @nikayas = ( "mn_filelist");  
+my $pali_outfile = "pali";  
+my $engl_outfile = "engl";  
+my $processed_files = 0;
+my $processed_lines = 0;
+
+# my $master_file_location = "/media/data/MN/MN.total.cutnonheader"; # Large file to be divided into files
+my $error_file = $file_output_pref . "error_log.txt";
+open ERROR_TARGET, '>:encoding(UTF-8)', $error_file or die "Can't open $error_file";
+
+foreach my $nikaya (@nikayas) {
+	my $filenames = $file_output_pref . $nikaya;
+	print $filenames . "\n";
+open FILENAMES, '<:encoding(UTF-8)', $filenames or die "Can't open $filenames";
+
+chomp( my @filenames = <FILENAMES> );
+
+for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
+	$processed_files += 1;
+ 	my $current_file = $file_location_pref . $filenames[$file_num];
+	open CURRENT_FILE, '<:encoding(UTF-8)', $current_file or die "Can't open $current_file";
+	print "Current_file: $filenames[$file_num]\n";
+	my $root_target = $filenames[$file_num];
+	$root_target =~ s/\.po/_sc_/;	
+	my $pali_target = $file_output_pref . $root_target . $pali_outfile;
+	my $engl_target = $file_output_pref . $root_target . $engl_outfile;
+ 	open PALI_TARGET, '>:encoding(UTF-8)', $pali_target or die "Can't open $pali_target";
+ 	open ENGL_TARGET, '>:encoding(UTF-8)', $engl_target or die "Can't open $engl_target";
+	chomp( my @current_file = <CURRENT_FILE> );
+	for (my $line_num = 0; $line_num <= $#current_file ; $line_num++) {
+		my $process_lines += 1;
+		my $current_line = $current_file[$line_num];			
+		my $next_line = $current_file[$line_num+1];			
+		given ($current_line) {
+			when ( /msgctxt "mn[0-9]+:([1-9]([0-9]+)?)\.1"/ ) { 
+				print PALI_TARGET "\$\n";
+				print ENGL_TARGET "\$\n";
+				print PALI_TARGET $1 . ". ";
+			}
+			when ( /NOTE/ ) { print PALI_TARGET $_ . "\n";
+					 print ENGL_TARGET $_ . "\n";
+				 }
+			when ( /msgid ""/ )
+		       	{ 
+				if ($next_line =~ /msgstr "(.+)"/)
+			       	{
+					print PALI_TARGET "{}\n";
+					print ERROR_TARGET "Blank Pali at: $root_target Line# $current_line\n";
+				}
+				else
+			       	{
+					print ERROR_TARGET "Blank Pali followed by: $next_line\n";
+				}
+			}
+			when ( /msgid "(.+)"/ )
+		       	{ 
+				print PALI_TARGET $1 . "\n";
+				if ($next_line =~ /msgstr "\s?"/)
+			       	{
+					print ENGL_TARGET "{}\n";
+					$line_num++;
+				}
+			}
+
+			when ( /msgstr "(.+)"/ ) { print ENGL_TARGET $1. "\n";}
+		}
+	}
+ 	open PALI_TARGET, '<:encoding(UTF-8)', $pali_target or die "Can't open $pali_target";
+ 	open ENGL_TARGET, '<:encoding(UTF-8)', $engl_target or die "Can't open $engl_target";
+	chomp( my @pali_file = <PALI_TARGET> );
+	chomp( my @engl_file = <ENGL_TARGET> );
+	if ($#pali_file != $#engl_file) {
+		print ERROR_TARGET "File line mismatch!\n";
+		print ERROR_TARGET "$pali_target lines: $#pali_file\n";
+		print ERROR_TARGET "$engl_target lines: $#engl_file\n";
+	}	
+	print "$pali_target lines: $#pali_file\n";
+	print "$engl_target lines: $#engl_file\n";	
+}
+}
+
+# @headlocations[$#fileheads+1] = $#master + 1;	# set eof location in end of headlocations array
+# 
+# for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
+# 	my $target = $file_location_pref . $filenames[$file_num];
+# 	open TARGET, '>:encoding(UTF-8)', $target or die "Can't open $target";
+# 	print "Writing: $target from line: " . ($headlocations[$file_num] + 1) . " to " . $headlocations[$file_num+1] . "\n";
+# 	for (my $line_num = $headlocations[$file_num]; $line_num < $headlocations[$file_num+1]; $line_num++) {
+# 		print TARGET $master[$line_num] . "\n";
+# 		# print $master[$line_num] . "\n";
+# 	}
+# }
