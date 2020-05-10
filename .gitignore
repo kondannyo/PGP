@@ -20,3 +20,4 @@ bin/__pycache__*
 /bin/palitesttext
 /bin/paliwords.txt
 /bin/pip.needs
+/log/po_div.log
