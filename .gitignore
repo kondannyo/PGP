@@ -1,7 +1,8 @@
 *.swp
 *.swo
 MN/build/*
-MN/sc_po_text/mn*
+MN/sc_po_text/*_sc_engl
+MN/sc_po_text/*_sc_pali
 MN/tex_build/*
 bin/__pycache__*
 /MN/sc_po_text/error_log.txt
