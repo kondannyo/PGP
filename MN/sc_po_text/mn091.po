@@ -63,8 +63,7 @@ msgstr "It’s good to see such perfected ones.” "
 #. REF: nya4, pts-vp-pli2.134, sc2
 msgctxt "mn91:4.1"
 msgid "Tena kho pana samayena brahmāyussa brāhmaṇassa uttaro nāma māṇavo antevāsī hoti tiṇṇaṃ vedānaṃ pāragū sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo. "
-msgstr "Now at that time the brahmin Brahmāyu had a student named Uttara. He too had mastered the Vedic curriculum.
- "
+msgstr "Now at that time the brahmin Brahmāyu had a student named Uttara. He too had mastered the Vedic curriculum."
 
 msgctxt "mn91:4.2"
 msgid "Atha kho brahmāyu brāhmaṇo uttaraṃ māṇavaṃ āmantesi: "

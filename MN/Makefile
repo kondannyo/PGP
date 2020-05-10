@@ -14,7 +14,7 @@
 
 # Set PROJECT to the name of the .tex file to build.
 PROJECT =majjhima_nikaya_master
-SOURCE_DIR = sc_po_text
+SOURCE_DIR = sc_po_text/
 BIN_DIR = ../bin/
 BUILD_DIR = build/
 TXMKR_BUILD_DIR = tex_build/

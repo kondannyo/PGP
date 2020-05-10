@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.25)  4 MAY 2020 17:52
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.9)  9 MAY 2020 17:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **majjhima_nikaya_master.tex
 (./majjhima_nikaya_master.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-04-06>
+L3 programming layer <2020-05-05>
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk11.clo
@@ -155,10 +155,10 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-04-06 L3 programming layer (loader) 
+Package: expl3 2020-05-05 L3 programming layer (loader) 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
-File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
 \g__graphics_track_int=\count185
 \l__pdf_internal_box=\box51
 \g__pdf_backend_object_int=\count186
@@ -988,10 +988,9 @@ atn;language=dflt;mapping=tex-text;!
 [682]
 Missing character: There is no ʼ in font [texgyretermes-italic.otf]/OT:script=l
 atn;language=dflt;mapping=tex-text;!
- [683]
 Missing character: There is no ʼ in font [texgyretermes-italic.otf]/OT:script=l
 atn;language=dflt;mapping=tex-text;!
- [684] [685]) [686] (./tex_build/mn066.tex [687] [688] [689]
+ [683] [684] [685]) [686] (./tex_build/mn066.tex [687] [688] [689]
 [690] [691] [692] [693] [694] [695] [696] [697] [698]) [699]
 (./tex_build/mn067.tex [700] [701] [702] [703] [704] [705] [706]) [707]
 (./tex_build/mn068.tex [708] [709] [710] [711] [712] [713] [714] [715] [716]
@@ -1047,19 +1046,131 @@ atn;language=dflt;mapping=tex-text;!
 [963] [964] [965] [966] [967]) [968] (./tex_build/mn089.tex [969] [970]
 [971] [972] [973] [974] [975] [976]) [977] (./tex_build/mn090.tex [978]
 [979] [980] [981] [982] [983] [984] [985] [986]) [987] (./tex_build/mn091.tex
-[988]
-! You can't use `macro parameter character #' in internal vertical mode.
-<argument> ##
-              NOTE: Following BB in accepting PTS reading tayā. Curiously en...
-l.183 ...her MS nor PTS acknowledges the variant.}
-                                                  }\\ 
+[988] [989] [990] [991] [992] [993] [994] [995] [996] [997] [998] [999]
+[1000] [1001] [1002] [1003]
+Missing character: There is no ʼ in font [texgyretermes-italic.otf]/OT:script=l
+atn;language=dflt;mapping=tex-text;!
+ [1004]) [1005] (./tex_build/mn092.tex [1006]
+[1007] [1008] [1009] [1010] [1011] [1012] [1013]
+Missing character: There is no ʼ in font [texgyretermes-italic.otf]/OT:script=l
+atn;language=dflt;mapping=tex-text;!
+ [1014] [1015]) [1016]
+(./tex_build/mn093.tex [1017] [1018] [1019] [1020] [1021] [1022] [1023]
+[1024] [1025] [1026] [1027] [1028] [1029]) [1030] (./tex_build/mn094.tex
+[1031] [1032] [1033] [1034] [1035] [1036] [1037] [1038] [1039] [1040] [1041]
+[1042] [1043]) [1044] (./tex_build/mn095.tex [1045] [1046] [1047] [1048]
+[1049] [1050] [1051] [1052] [1053] [1054] [1055] [1056] [1057] [1058] [1059]
+[1060]) [1061] (./tex_build/mn096.tex [1062] [1063] [1064] [1065] [1066]
+[1067] [1068] [1069]) [1070] (./tex_build/mn097.tex [1071] [1072] [1073]
+[1074] [1075] [1076] [1077] [1078] [1079] [1080] [1081] [1082] [1083]) [1084]
+(./tex_build/mn098.tex [1085] [1086] [1087] [1088] [1089] [1090] [1091]
+[1092] [1093] [1094] [1095] [1096] [1097]) [1098] (./tex_build/mn099.tex
+[1099] [1100] [1101] [1102] [1103] [1104] [1105] [1106] [1107] [1108] [1109]
+[1110] [1111] [1112] [1113]) [1114] (./tex_build/mn100.tex [1115] [1116]
+[1117] [1118] [1119] [1120] [1121] [1122] [1123] [1124] [1125] [1126] [1127]
+[1128] [1129] [1130] [1131] [1132]) [1133] (./tex_build/mn101.tex [1134]
+[1135] [1136] [1137] [1138] [1139] [1140] [1141] [1142] [1143] [1144] [1145]
+[1146] [1147] [1148] [1149] [1150] [1151] [1152] [1153] [1154]) [1155]
+(./tex_build/mn102.tex [1156] [1157] [1158] [1159] [1160] [1161] [1162]
+[1163] [1164] [1165]) [1166] (./tex_build/mn103.tex [1167] [1168] [1169]
+[1170] [1171] [1172]) [1173] (./tex_build/mn104.tex [1174] [1175] [1176]
+[1177] [1178] [1179] [1180] [1181] [1182] [1183]) [1184] (./tex_build/mn105.tex
+[1185] [1186] [1187] [1188] [1189] [1190] [1191] [1192] [1193] [1194] [1195])
+[1196] (./tex_build/mn106.tex [1197] [1198] [1199] [1200] [1201] [1202])
+[1203] (./tex_build/mn107.tex [1204] [1205] [1206] [1207] [1208] [1209])
+[1210] (./tex_build/mn108.tex [1211] [1212] [1213] [1214] [1215] [1216]
+[1217] [1218] [1219]) [1220] (./tex_build/mn109.tex [1221] [1222] [1223]
+[1224] [1225] [1226]) [1227] (./tex_build/mn110.tex [1228] [1229] [1230]
+[1231] [1232]) [1233] (./tex_build/mn111.tex [1234] [1235] [1236] [1237]
+[1238]) [1239] [1240] (./tex_build/mn112.tex [1241] [1242] [1243] [1244]
+[1245] [1246] [1247] [1248] [1249]) [1250] (./tex_build/mn113.tex [1251]
+[1252] [1253] [1254] [1255] [1256] [1257] [1258] [1259] [1260]) [1261]
+(./tex_build/mn114.tex [1262] [1263] [1264] [1265] [1266] [1267] [1268]
+[1269] [1270] [1271] [1272] [1273] [1274] [1275] [1276] [1277] [1278] [1279]
+[1280]) [1281] (./tex_build/mn116.tex [1282] [1283] [1284] [1285]) [1286]
+(./tex_build/mn117.tex [1287] [1288] [1289] [1290] [1291] [1292] [1293]
+[1294]) [1295] (./tex_build/mn118.tex [1296] [1297] [1298] [1299] [1300]
+[1301] [1302] [1303] [1304]) [1305] (./tex_build/mn119.tex [1306] [1307]
+[1308] [1309] [1310] [1311] [1312] [1313] [1314] [1315] [1316]) [1317]
+(./tex_build/mn120.tex [1318] [1319] [1320] [1321] [1322] [1323] [1324]
+[1325] [1326]) [1327] (./tex_build/mn121.tex [1328] [1329] [1330] [1331]
+[1332] [1333]) [1334] (./tex_build/mn122.tex [1335] [1336] [1337] [1338]
+[1339] [1340] [1341] [1342] [1343] [1344]) [1345] (./tex_build/mn123.tex
+[1346] [1347] [1348] [1349] [1350] [1351]) [1352] (./tex_build/mn124.tex
+[1353] [1354] [1355]) [1356] (./tex_build/mn125.tex [1357] [1358] [1359]
+[1360] [1361] [1362] [1363] [1364] [1365]) [1366] (./tex_build/mn126.tex
+[1367] [1368] [1369] [1370] [1371] [1372] [1373] [1374] [1375]) [1376]
+(./tex_build/mn127.tex [1377] [1378] [1379] [1380] [1381] [1382] [1383]
+[1384]) [1385] (./tex_build/mn128.tex [1386] [1387] [1388] [1389] [1390]
+[1391] [1392] [1393] [1394] [1395] [1396] [1397] [1398] [1399]) [1400]
+(./tex_build/mn129.tex [1401] [1402] [1403] [1404] [1405] [1406] [1407]
+[1408] [1409] [1410] [1411] [1412] [1413] [1414] [1415] [1416] [1417] [1418])
+[1419] (./tex_build/mn130.tex [1420] [1421] [1422] [1423] [1424] [1425]
+[1426] [1427] [1428] [1429] [1430]) [1431] (./tex_build/mn131.tex [1432]
+[1433] [1434]) [1435] (./tex_build/mn132.tex [1436] [1437] [1438] [1439])
+[1440] (./tex_build/mn133.tex [1441] [1442] [1443] [1444] [1445] [1446]
+[1447] [1448] [1449] [1450] [1451]) [1452] (./tex_build/mn134.tex [1453]
+[1454] [1455] [1456] [1457]) [1458] (./tex_build/mn136.tex [1459] [1460]
+[1461] [1462] [1463] [1464] [1465] [1466] [1467] [1468]) [1469]
+(./tex_build/mn137.tex [1470] [1471] [1472] [1473] [1474] [1475] [1476]
+[1477] [1478] [1479]) [1480] (./tex_build/mn138.tex [1481] [1482] [1483]
+[1484] [1485] [1486] [1487] [1488] [1489]) [1490] (./tex_build/mn139.tex
+[1491] [1492] [1493] [1494] [1495] [1496] [1497] [1498] [1499] [1500] [1501])
+[1502] (./tex_build/mn140.tex [1503] [1504] [1505] [1506] [1507] [1508]
+[1509] [1510] [1511] [1512] [1513] [1514] [1515]) [1516] (./tex_build/mn141.tex
+[1517] [1518] [1519] [1520] [1521] [1522]) [1523] (./tex_build/mn142.tex
+[1524]
+Overfull \hbox (154.64pt too wide) in paragraph at lines 314--314
+[]\TU/texgyretermes(0)/m/n/10 abhivādanapaccu[][]hānaañjalikammasāmīcikamm
+acīvarapi[][]apātasenāsanagilānappaccayabhesajjaparikkhārānuppadānena.  
+
+ []
+
+
+Overfull \hbox (154.64pt too wide) in paragraph at lines 332--332
+[]\TU/texgyretermes(0)/m/n/10 abhivādanapaccu[][]hānaañjalikammasāmīcikamm
+acīvarapi[][]apātasenāsanagilānappaccayabhesajjaparikkhārānuppadānena.  
+
+ []
+
+[1525]
+Overfull \hbox (154.64pt too wide) in paragraph at lines 350--350
+[]\TU/texgyretermes(0)/m/n/10 abhivādanapaccu[][]hānaañjalikammasāmīcikamm
+acīvarapi[][]apātasenāsanagilānappaccayabhesajjaparikkhārānuppadānena.  
+
+ []
+
+
+Overfull \hbox (154.64pt too wide) in paragraph at lines 368--368
+[]\TU/texgyretermes(0)/m/n/10 abhivādanapaccu[][]hānaañjalikammasāmīcikamm
+acīvarapi[][]apātasenāsanagilānappaccayabhesajjaparikkhārānuppadānena.  
+
+ []
+
+[1526] [1527] [1528] [1529] [1530]) [1531] (./tex_build/mn143.tex [1532]
+[1533] [1534] [1535] [1536] [1537] [1538] [1539] [1540]) [1541]
+(./tex_build/mn144.tex [1542] [1543] [1544] [1545]) [1546]
+(./tex_build/mn145.tex [1547] [1548] [1549] [1550]) [1551]
+(./tex_build/mn146.tex [1552] [1553] [1554] [1555] [1556] [1557] [1558]
+[1559] [1560] [1561] [1562] [1563] [1564] [1565] [1566] [1567]) [1568]
+(./tex_build/mn147.tex [1569] [1570] [1571] [1572] [1573]) [1574]
+(./tex_build/mn148.tex [1575] [1576] [1577] [1578] [1579] [1580] [1581]
+[1582] [1583] [1584] [1585]) [1586] (./tex_build/mn149.tex [1587] [1588]
+[1589] [1590] [1591]) [1592] (./tex_build/mn150.tex [1593] [1594] [1595])
+[1596] (./tex_build/mn151.tex [1597] [1598] [1599] [1600] [1601]) [1602]
+(./tex_build/mn152.tex [1603] [1604] [1605] [1606] [1607] [1608] [1609])
+[1610] (./build//majjhima_nikaya_master.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 21926 strings out of 481366
- 465849 string characters out of 5927504
- 730131 words of memory out of 5000000
- 38698 multiletter control sequences out of 15000+600000
+ 24399 strings out of 481436
+ 515323 string characters out of 5928506
+ 751976 words of memory out of 5000000
+ 40925 multiletter control sequences out of 15000+600000
  532668 words of font info for 53 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 68i,11n,85p,1629b,702s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,11n,85p,1629b,3242s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on build//majjhima_nikaya_master.pdf (988 pages).
+Output written on build//majjhima_nikaya_master.pdf (1610 pages).
