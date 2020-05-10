@@ -14,7 +14,8 @@ use Text::ParseWords; 		# parses line into array of words
 use utf8;
 binmode STDOUT, ':utf8';
 
-# use DBI;
+use Log::Log4perl;
+Log::Log4perl->init("../share/po_div_log.conf");
 
 # no warnings 'once'; # suppress 'only used once' warnings
 # no warnings 'utf8'; # suppress 'wide character in print' warnings
@@ -45,11 +46,15 @@ open FILENAMES, '<:encoding(UTF-8)', $filenames or die "Can't open $filenames";
 
 chomp( my @filenames = <FILENAMES> );
 
+package My::MegaPackage;
+use  Log::Log4perl;
+my $log = Log::Log4perl->get_logger("My::MegaPackage");
+
 for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
 	$processed_files += 1;
  	my $current_file = $file_location_pref . $filenames[$file_num];
 	open CURRENT_FILE, '<:encoding(UTF-8)', $current_file or die "Can't open $current_file";
-	print "Current_file: $filenames[$file_num]\n";
+	$log->info("Current_file: $filenames[$file_num]\n");
 	my $root_target = $filenames[$file_num];
 	$root_target =~ s/\.po/_sc_/;	
 	my $pali_target = $file_output_pref . $root_target . $pali_outfile;
@@ -63,8 +68,8 @@ for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
 		my $next_line = $current_file[$line_num+1];			
 		given ($current_line) {
 			when ( /msgctxt "mn[0-9]+:([1-9]([0-9]+)?)\.1"/ ) { 
-				print PALI_TARGET "\n";
-				print ENGL_TARGET "\n";
+				print PALI_TARGET "\$\n";
+				print ENGL_TARGET "\$\n";
 			}
 			when ( /NOTE/ ) { print PALI_TARGET $_ . "\n";
 					 print ENGL_TARGET $_ . "\n";
@@ -73,12 +78,12 @@ for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
 		       	{ 
 				if ($next_line =~ /msgstr "(.+)"/)
 			       	{
-					print PALI_TARGET "\n";
-					print ERROR_TARGET "Blank Pali at: $root_target Line# $current_line\n";
+					print PALI_TARGET "{}\n";
+					$log->info("Blank Pali at: $root_target Line# $current_line\n");
 				}
 				else
 			       	{
-					print ERROR_TARGET "Blank Pali followed by: $next_line\n";
+					$log->info("Blank Pali followed by: $next_line\n");
 				}
 			}
 			when ( /msgid "(.+)"/ )
@@ -86,7 +91,7 @@ for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
 				print PALI_TARGET $1 . "\n";
 				if ($next_line =~ /msgstr "\s?"/)
 			       	{
-					print ENGL_TARGET "\n";
+					print ENGL_TARGET "{}\n";
 					$line_num++;
 				}
 			}
@@ -99,12 +104,12 @@ for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
 	chomp( my @pali_file = <PALI_TARGET> );
 	chomp( my @engl_file = <ENGL_TARGET> );
 	if ($#pali_file != $#engl_file) {
-		print ERROR_TARGET "File line mismatch!\n";
-		print ERROR_TARGET "$pali_target lines: $#pali_file\n";
-		print ERROR_TARGET "$engl_target lines: $#engl_file\n";
+		$log->error("File line mismatch!\n");
+		$log->error("$pali_target lines: $#pali_file\n");
+		$log->error("$engl_target lines: $#engl_file\n");
 	}	
-	print "$pali_target lines: $#pali_file\n";
-	print "$engl_target lines: $#engl_file\n";	
+	#	print "$pali_target lines: $#pali_file\n";
+	#	print "$engl_target lines: $#engl_file\n";	
 }
 }
 
