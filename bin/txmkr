@@ -181,18 +181,19 @@ def main():
                             if eng_line and pali_line:
                                 glossed = txmakerwrapper.alternating.format(pali_line, eng_line)
                             else:
-                                if not eng_line:
+                                if '$' in eng_line:
                                     if args.dash:
                                         eng_line = "    -"
                                         glossed = txmakerwrapper.alternating.format(pali_line, eng_line)
                                     else:
                                         glossed = txmakerwrapper.alternating_noenglish.format(pali_line)
                                 else:
-                                    if args.dash:
-                                        pali_line = "    -"
-                                        glossed = txmakerwrapper.alternating.format(pali_line, eng_line)
-                                    else:
-                                        glossed = txmakerwrapper.alternating_nopali.format(eng_line)
+                                    if '$' in pali_line:
+                                        if args.dash:
+                                            pali_line = "    -"
+                                            glossed = txmakerwrapper.alternating.format(pali_line, eng_line)
+                                        else:
+                                            glossed = txmakerwrapper.alternating_nopali.format(eng_line)
                         out_file.write(glossed)
     out_file.close()
     call(["head", "-30", "{}".format(outpath)])
