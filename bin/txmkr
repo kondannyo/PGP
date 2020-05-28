@@ -181,14 +181,14 @@ def main():
                             if eng_line and pali_line:
                                 glossed = txmakerwrapper.alternating.format(pali_line, eng_line)
                             else:
-                                if '$' in eng_line:
+                                if not eng_line:
                                     if args.dash:
                                         eng_line = "    -"
                                         glossed = txmakerwrapper.alternating.format(pali_line, eng_line)
                                     else:
                                         glossed = txmakerwrapper.alternating_noenglish.format(pali_line)
                                 else:
-                                    if '$' in pali_line:
+                                    if not pali_line:
                                         if args.dash:
                                             pali_line = "    -"
                                             glossed = txmakerwrapper.alternating.format(pali_line, eng_line)
