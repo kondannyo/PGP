@@ -89,7 +89,9 @@ for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
 			}
 			when ( /msgid "(.+)"/ )
 		       	{ 
-				print PALI_TARGET $1 . "\n";
+				my $line = $1;
+				$line =~ s/\s+$//; 
+				print PALI_TARGET $line . "\n";
 				if ($next_line =~ /msgstr "\s?"/)
 			       	{
 					print ENGL_TARGET "\n";
@@ -98,7 +100,11 @@ for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
 				}
 			}
 
-			when ( /msgstr "(.+)"/ ) { print ENGL_TARGET $1. "\n";}
+			when ( /msgstr "(.+)"/ )
+		       	{
+				my $line = $1;
+				$line =~ s/\s+$//; 
+			       	print ENGL_TARGET $line . "\n";}
 		}
 	}
  	open PALI_TARGET, '<:encoding(UTF-8)', $pali_target or die "Can't open $pali_target";
