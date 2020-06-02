@@ -1,0 +1,49 @@
+#!/usr/bin/perl
+
+use strict;
+use v5.14;
+use warnings;
+use warnings FATAL => "utf8";
+use open qw(:std :utf8); # all IO encoded to utf8
+use Unicode::GCString;
+use Text::ParseWords;
+use utf8;
+
+############ Main ###########
+#
+
+my $legalcharacters = "abcdeghijklmnoprstuvyñāīūḍḷṁṃṅṇṭ—!,.‘’“”;?ADMSN0123456789-()[]";
+# my $data_path ="/home/kondanno/data/Suttapitaka-Palitxt/";
+my $data_path ="/home/kondanno/data/PGP/MN/sc_po_text/";
+
+open (my $filelist_fh, "<", $ARGV[0])  || die "Unable to open : $ARGV[0]: $!";
+
+while (<$filelist_fh>) {
+	my $linecount = 0;
+	chomp;
+	my $processfile = $_;
+	my $process = $data_path . $processfile;
+	open (my $palifile_fh, "<", $process) || die "Unable to open: $process: $!";
+	print "Working: $processfile\n";
+	while (my $line = <$palifile_fh>) {
+		# print $line;
+		chomp($line);
+		$linecount++;
+		my @words = quotewords('\s+', 0, $line);
+		foreach (@words) {
+			my $word = $_ // next;
+			my $gcstring = Unicode::GCString->new($word);
+			# print "$gcstring\n";
+			my @letters = @{$gcstring};
+			foreach (@letters) {
+				my $testletter = $_;
+				
+				if (! (index($legalcharacters, $testletter) >= 0)) {
+					print "Illegal: $testletter at $linecount\n";
+					print "$line\n";
+				}
+			}
+		}
+	}
+}
+

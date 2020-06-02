@@ -89,7 +89,7 @@ for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
 			}
 			when ( /msgid "(.+)"/ )
 		       	{ 
-				my $line = $1;
+				my $line = lc($1);
 				$line =~ s/\s+$//; 
 				print PALI_TARGET $line . "\n";
 				if ($next_line =~ /msgstr "\s?"/)

@@ -9,9 +9,6 @@ bin/__pycache__*
 /bin/pali_aspirantsmall_h
 /bin/pali_dediacritic
 /bin/pali_dediacritic_translit
-/bin/pali_illegalchar_finder
-/bin/pali_legal_characters
-/bin/pali_legalchar_hash
 /bin/pali_process
 /bin/palialphabet
 /bin/palifilelist.txt

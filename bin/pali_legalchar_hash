@@ -1,0 +1,83 @@
+#!/usr/bin/perl
+
+use strict;
+use v5.14;
+use warnings;
+use warnings FATAL => "utf8"; # throw encoding error exceptions
+use open qw(:std :utf8);
+use Unicode::Normalize qw(NFD NFC);
+use Unicode::GCString;
+use diagnostics;
+use Text::ParseWords;
+use utf8;
+
+# use DBI;
+
+# no warnings 'once'; # suppress 'only used once' warnings
+# no warnings 'utf8'; # suppress 'wide character in print' warnings
+# print NFC($line);
+
+######### Main #############
+
+# initialize_variables
+
+my $debug = 0;
+my $strings = "";
+my %unique_hash;
+my %illegal_hash;
+
+while (<>) {
+	$_ = NFD($_);   # decompose + reorder canonically
+	$_ = NFC($_);
+	chomp;
+      	my @words = quotewords('\s+', 0, $_);
+	foreach (@words) {
+		my $word = $_ // next; # skip loop if $_ undefined
+		dbg("\$_ (of \@words): $_");
+		my $gcstring = Unicode::GCString->new($word); 	#Grapheme Clusters String into "characters"
+
+		while ($gcstring) {
+			# $gcstring =~ s/\A(.)//;
+			if ($gcstring =~ s/\A([aāiīuūeoṁṅñṇnṃmyrlḷvsh
+					\-…_!,.‘’“”;?0123456789{}()]
+					|
+					[kgcjṭḍtdpb]h?)//x) {
+				$unique_hash{$1}++;
+				# add if nikayas wanted in vri text 'ADMSN'
+			}
+			else {
+				# print "@_$gcstring - ";
+				$gcstring =~ s/(.)//;
+				$illegal_hash{$1}++;
+				# print "Illegal_char '$1'\n";
+			}
+		}
+	}
+}
+
+print "Legal Chars:\n";
+foreach my $key (sort keys %unique_hash) {
+	my $value = $unique_hash{$key};
+	print "$key = $value\n";
+}
+
+print "Illegal Chars:\n";
+foreach my $key (sort keys %illegal_hash) {
+	my $value = $illegal_hash{$key};
+	print "$key = $value\n";
+}
+# while (my ($k, $v) = each %unique_hash){ print "$k: $v\n";
+#     }
+# exit;
+
+######### subs follow #############
+
+sub dbg {
+  return if( ! $debug );
+  print my $outprint =  join("\n", @_), "\n";
+  print STDERR NFC($outprint);
+  # example text in body
+  # dbg("text");
+}
+
+
