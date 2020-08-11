@@ -1,0 +1,101 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Oct 29 13:44:17 2017
+
+@author: kondanno
+"""
+
+import argparse
+import unicodedata
+import os
+import re
+import sys
+import itertools
+from subprocess import call
+from colorama import init, Fore
+from glosstext import make_dictionary, split_words, basic_gloss_word
+
+# personal files
+import txmakerwrapper
+from pali_parse import *
+
+error_free = True
+
+def reader(path):
+        file = open(str(path), 'r', encoding='utf-8')
+        text = file.read()
+        # Remove any decomposed characters
+        text_file = unicodedata.normalize('NFC', text)
+        return text_file
+
+
+def writer(path, output):
+        file = open(str(path), 'w', encoding='utf-8')
+        for i in output:
+            print(i)
+            strg = str(i) + '\n'
+            file.write(strg)
+
+
+def filecheck(path):
+        file = open(str(path), 'r', encoding='utf-8')
+        text = file.read()
+        # Remove any decomposed characters
+        text_file = unicodedata.normalize('NFC', text)
+        for line in text_file:
+            print(line)
+
+
+def pathcheck(desc, os_object, quite):
+    global error_free
+    if not quite:
+        print(Fore.LIGHTYELLOW_EX + 'Target: ', desc)
+        print('    ', Fore.CYAN + os_object, end="")
+        if os.path.exists(os_object):
+            print(Fore.GREEN + ' Found')
+        else:
+            error_free = False
+            print(Fore.RED + ' NOT Found')
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Pali Object Maker")
+    parser.add_argument('pali', type=str, help='Pali text file'\
+                        , metavar="'string'")
+#    parser.add_argument('pof', type=str, help='Pali Object File ".pof"'\
+#                        , metavar="'string'")
+
+class Pali_Sutta:
+
+    newid = itertools.count()
+
+    def __init__(self):
+        self.id = next(self.newid)
+        self.lines = []
+        self.error = (False, "")
+
+    # use isinstance() to create iterators over words 
+    # actually in line type
+
+def main():
+    init(autoreset=True)
+    PALI_FILE = "/media/data/PGP/MN/sc_po_text/mn121_sc_pali"
+    if not error_free:
+        print(Fore.RED + 'Exit with Error')
+        sys.exit()
+
+    with open(PALI_FILE) as pali_file:
+        Current_Sutta = Pali_Sutta()
+        for index, line in enumerate(pali_file):
+            pali_line = Pali_Sentence_Parse_FSM(line.rstrip())
+            pali_line.id = index
+            pali_line.run()
+            Current_Sutta.lines.append(pali_line)
+        Line_Number = int(input("Line Number 0 to {}: ".format(len(Current_Sutta.lines) - 1)))
+        for object in Current_Sutta.lines[Line_Number].sentence_object_list:
+            print(object.text, end="")
+        print() 
+if __name__ == '__main__':
+    main()
+

@@ -1,6 +1,6 @@
 majjhima nikāya 39
 mahāassapurasutta
-
+$1
 evaṃ me sutaṃ—
 ekaṃ samayaṃ bhagavā aṅgesu viharati assapuraṃ nāma aṅgānaṃ nigamo.
 tatra kho bhagavā bhikkhū āmantesi:
@@ -8,20 +8,20 @@ tatra kho bhagavā bhikkhū āmantesi:
 “bhadante”ti te bhikkhū bhagavato paccassosuṃ.
 bhagavā etadavoca:
 # NOTE: The verbs sanjanati and paijanati in this opening correlate with samanna and patinna just below. Thus here sanjanati means “to label, designate” rather than “perceive”.
-
+$2
 “samaṇā samaṇāti vo, bhikkhave, jano sañjānāti.
 tumhe ca pana ‘ke tumhe’ti puṭṭhā samānā ‘samaṇāmhā’ti paṭijānātha;
 tesaṃ vo, bhikkhave, evaṃsamaññānaṃ sataṃ evaṃpaṭiññānaṃ sataṃ ‘ye dhammā samaṇakaraṇā ca brāhmaṇakaraṇā ca te dhamme samādāya vattissāma, evaṃ no ayaṃ amhākaṃ samaññā ca saccā bhavissati paṭiññā ca bhūtā.
 yesañca mayaṃ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṃ paribhuñjāma, tesaṃ te kārā amhesu mahapphalā bhavissanti mahānisaṃsā, amhākañcevāyaṃ pabbajjā avañjhā bhavissati saphalā saudrayā’ti.
 evañhi vo, bhikkhave, sikkhitabbaṃ.
-
+$3
 katame ca, bhikkhave, dhammā samaṇakaraṇā ca brāhmaṇakaraṇā ca?
 ‘hirottappena samannāgatā bhavissāmā’ti evañhi vo, bhikkhave, sikkhitabbaṃ.
 siyā kho pana, bhikkhave, tumhākaṃ evamassa:
 ‘hirottappenamha samannāgatā, alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṃ karaṇīyan’ti tāvatakeneva tuṭṭhiṃ āpajjeyyātha.
 ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:
 ‘mā vo sāmaññatthikānaṃ sataṃ sāmaññattho parihāyi, sati uttariṃ karaṇīye’.
-
+$4
 kiñca, bhikkhave, uttariṃ karaṇīyaṃ?
 # NOTE: While samvuta usually means “restrained”, here I think it means “hidden, covered up”. The sentence construction is ambiguous and unusual, with the introduction of ca for the last two terms, but na applied to only one of them. But I think na is meant to be distributed. This accords with Comm, which defines chidda as “consistent” and saṃvutoti as “closing a door over the defilements, not concealing one’s faults, is the meaning” kilesānaṃ dvāra pidahanena pidahito, na vajjapaṭicchādanatthāya."This makes better sense as samvara is brought up in the next section. Chalmers is the only translator who catches this sense.
 ‘parisuddho no kāyasamācāro bhavissati uttāno vivaṭo na ca chiddavā saṃvuto ca.
@@ -31,7 +31,7 @@ siyā kho pana, bhikkhave, tumhākaṃ evamassa:
 alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṃ karaṇīyan’ti tāvatakeneva tuṭṭhiṃ āpajjeyyātha.
 ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:
 ‘mā vo sāmaññatthikānaṃ sataṃ sāmaññattho parihāyi, sati uttariṃ karaṇīye’.
-
+$5
 kiñca, bhikkhave, uttariṃ karaṇīyaṃ?
 ‘parisuddho no vacīsamācāro bhavissati uttāno vivaṭo na ca chiddavā saṃvuto ca.
 tāya ca pana parisuddhavacīsamācāratāya nevattānukkaṃsessāma na paraṃ vambhessāmā’ti evañhi vo, bhikkhave, sikkhitabbaṃ.
@@ -40,7 +40,7 @@ siyā kho pana, bhikkhave, tumhākaṃ evamassa:
 alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṃ karaṇīyan’ti tāvatakeneva tuṭṭhiṃ āpajjeyyātha.
 ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:
 ‘mā vo sāmaññatthikānaṃ sataṃ sāmaññattho parihāyi, sati uttariṃ karaṇīye’.
-
+$6
 kiñca, bhikkhave, uttariṃ karaṇīyaṃ?
 ‘parisuddho no manosamācāro bhavissati uttāno vivaṭo na ca chiddavā saṃvuto ca.
 tāya ca pana parisuddhamanosamācāratāya nevattānukkaṃsessāma na paraṃ vambhessāmā’ti evañhi vo, bhikkhave, sikkhitabbaṃ.
@@ -49,7 +49,7 @@ siyā kho pana, bhikkhave, tumhākaṃ evamassa:
 alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṃ karaṇīyan’ti tāvatakeneva tuṭṭhiṃ āpajjeyyātha.
 ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:
 ‘mā vo sāmaññatthikānaṃ sataṃ sāmaññattho parihāyi, sati uttariṃ karaṇīye’.
-
+$7
 kiñca, bhikkhave, uttariṃ karaṇīyaṃ?
 ‘parisuddho no ājīvo bhavissati uttāno vivaṭo na ca chiddavā saṃvuto ca.
 tāya ca pana parisuddhājīvatāya nevattānukkaṃsessāma na paraṃ vambhessāmā’ti evañhi vo, bhikkhave, sikkhitabbaṃ.
@@ -58,7 +58,7 @@ siyā kho pana, bhikkhave, tumhākaṃ evamassa:
 alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṃ karaṇīyan’ti tāvatakeneva tuṭṭhiṃ āpajjeyyātha.
 ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:
 ‘mā vo sāmaññatthikānaṃ sataṃ sāmaññattho parihāyi, sati uttariṃ karaṇīye’.
-
+$8
 kiñca, bhikkhave, uttariṃ karaṇīyaṃ?
 ‘indriyesu guttadvārā bhavissāma;
 cakkhunā rūpaṃ disvā na nimittaggāhī nānubyañjanaggāhī.
@@ -74,7 +74,7 @@ siyā kho pana, bhikkhave, tumhākaṃ evamassa:
 alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṃ karaṇīyan’ti tāvatakeneva tuṭṭhiṃ āpajjeyyātha.
 ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:
 ‘mā vo sāmaññatthikānaṃ sataṃ sāmaññattho parihāyi, sati uttariṃ karaṇīye’.
-
+$9
 kiñca, bhikkhave, uttariṃ karaṇīyaṃ?
 ‘bhojane mattaññuno bhavissāma, paṭisaṅkhā yoniso āhāraṃ āharissāma,
 neva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya, vihiṃsūparatiyā, brahmacariyānuggahāya, iti purāṇañca vedanaṃ paṭihaṅkhāma navañca vedanaṃ na uppādessāma, yātrā ca no bhavissati, anavajjatā ca, phāsu vihāro cā’ti evañhi vo, bhikkhave, sikkhitabbaṃ.
@@ -83,7 +83,7 @@ siyā kho pana, bhikkhave, tumhākaṃ evamassa:
 alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṃ karaṇīyan’ti tāvatakeneva tuṭṭhiṃ āpajjeyyātha.
 ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:
 ‘mā vo, sāmaññatthikānaṃ sataṃ sāmaññattho parihāyi sati uttariṃ karaṇīye’.
-
+$10
 kiñca, bhikkhave, uttariṃ karaṇīyaṃ?
 ‘jāgariyaṃ anuyuttā bhavissāma, divasaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhessāma.
 rattiyā paṭhamaṃ yāmaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhessāma.
@@ -94,7 +94,7 @@ siyā kho pana, bhikkhave, tumhākaṃ evamassa:
 alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṃ karaṇīyan’ti, tāvatakeneva tuṭṭhiṃ āpajjeyyātha.
 ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:
 ‘mā vo, sāmaññatthikānaṃ sataṃ sāmaññattho parihāyi sati uttariṃ karaṇīye’.
-
+$11
 kiñca, bhikkhave, uttariṃ karaṇīyaṃ?
 ‘satisampajaññena samannāgatā bhavissāma, abhikkante paṭikkante sampajānakārī, ālokite vilokite sampajānakārī, samiñjite pasārite sampajānakārī, saṅghāṭipattacīvaradhāraṇe sampajānakārī, asite pīte khāyite sāyite sampajānakārī, uccārapassāvakamme sampajānakārī, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī’ti, evañhi vo, bhikkhave, sikkhitabbaṃ.
 siyā kho pana, bhikkhave, tumhākaṃ evamassa:
@@ -102,10 +102,10 @@ siyā kho pana, bhikkhave, tumhākaṃ evamassa:
 alamettāvatā katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttariṃ karaṇīyan’ti tāvatakeneva tuṭṭhiṃ āpajjeyyātha.
 ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave:
 ‘mā vo, sāmaññatthikānaṃ sataṃ sāmaññattho parihāyi sati uttariṃ karaṇīye’.
-
+$12
 kiñca, bhikkhave, uttariṃ karaṇīyaṃ?
 idha, bhikkhave, bhikkhu vivittaṃ senāsanaṃ bhajati—araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanappatthaṃ abbhokāsaṃ palālapuñjaṃ.
-
+$13
 so pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā, ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
 so abhijjhaṃ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṃ parisodheti;
 byāpādapadosaṃ pahāya abyāpannacitto viharati, sabbapāṇabhūtahitānukampī, byāpādapadosā cittaṃ parisodheti;
@@ -113,7 +113,7 @@ thinamiddhaṃ pahāya vigatathinamiddho viharati, ālokasaññī sato sampajān
 uddhaccakukkuccaṃ pahāya anuddhato viharati, ajjhattaṃ vūpasantacitto, uddhaccakukkuccā cittaṃ parisodheti;
 vicikicchaṃ pahāya tiṇṇavicikiccho viharati, akathaṃkathī kusalesu dhammesu, vicikicchāya cittaṃ parisodheti.
 # NOTE: Note that acc. to AN 4.80 this should be gendered.
-
+$14
 seyyathāpi, bhikkhave, puriso iṇaṃ ādāya kammante payojeyya.
 tassa te kammantā samijjheyyuṃ.
 so yāni ca porāṇāni iṇamūlāni tāni ca byantī kareyya, siyā cassa uttariṃ avasiṭṭhaṃ dārabharaṇāya.
@@ -144,39 +144,39 @@ somhi etarahi tamhā kantārā nitthiṇṇo sotthinā abbhayena, natthi ca me k
 so tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.
 evameva kho, bhikkhave, bhikkhu yathā iṇaṃ yathā rogaṃ yathā bandhanāgāraṃ yathā dāsabyaṃ yathā kantāraddhānamaggaṃ, ime pañca nīvaraṇe appahīne attani samanupassati.
 seyyathāpi, bhikkhave, āṇaṇyaṃ yathā ārogyaṃ yathā bandhanāmokkhaṃ yathā bhujissaṃ yathā khemantabhūmiṃ; evameva bhikkhu ime pañca nīvaraṇe pahīne attani samanupassati.
-
+$15
 so ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe,
 vivicceva kāmehi vivicca akusalehi dhammehi, savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.
 so imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti.
 seyyathāpi, bhikkhave, dakkho nhāpako vā nhāpakantevāsī vā kaṃsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṃ paripphosakaṃ sanneyya. sāyaṃ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā, phuṭā snehena na ca pagghariṇī.
 evameva kho, bhikkhave, bhikkhu imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti.
-
+$16
 puna caparaṃ, bhikkhave, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.
 so imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti.
 seyyathāpi, bhikkhave, udakarahado ubbhidodako. tassa nevassa puratthimāya disāya udakassa āyamukhaṃ, na pacchimāya disāya udakassa āyamukhaṃ, na uttarāya disāya udakassa āyamukhaṃ, na dakkhiṇāya disāya udakassa āyamukhaṃ, devo ca na kālena kālaṃ sammādhāraṃ anuppaveccheyya. atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṃ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṃ assa.
 evameva kho, bhikkhave, bhikkhu imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti.
-
+$17
 puna caparaṃ, bhikkhave, bhikkhu pītiyā ca virāgā upekkhako ca viharati, sato ca sampajāno, sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati.
 so imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti.
 seyyathāpi, bhikkhave, uppaliniyaṃ vā paduminiyaṃ vā puṇḍarīkiniyaṃ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni udakānuggatāni antonimuggaposīni, tāni yāva caggā yāva ca mūlā sītena vārinā abhisannāni parisannāni paripūrāni paripphuṭāni, nāssa kiñci sabbāvataṃ uppalānaṃ vā padumānaṃ vā puṇḍarīkānaṃ vā sītena vārinā apphuṭaṃ assa.
 evameva kho, bhikkhave, bhikkhu imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti.
-
+$18
 puna caparaṃ, bhikkhave, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā, adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati.
 so imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti.
 seyyathāpi, bhikkhave, puriso odātena vatthena sasīsaṃ pārupetvā nisinno assa, nāssa kiñci sabbāvato kāyassa odātena vatthena apphuṭaṃ assa.
 evameva kho, bhikkhave, bhikkhu imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti.
-
+$19
 so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhininnāmeti.
 so anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ, dvepi jātiyo … pe … iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.
 seyyathāpi, bhikkhave, puriso sakamhā gāmā aññaṃ gāmaṃ gaccheyya, tamhāpi gāmā aññaṃ gāmaṃ gaccheyya, so tamhā gāmā sakaṃyeva gāmaṃ paccāgaccheyya. tassa evamassa: ‘ahaṃ kho sakamhā gāmā amuṃ gāmaṃ agacchiṃ, tatrapi evaṃ aṭṭhāsiṃ evaṃ nisīdiṃ evaṃ abhāsiṃ evaṃ tuṇhī ahosiṃ; tamhāpi gāmā amuṃ gāmaṃ agacchiṃ, tatrapi evaṃ aṭṭhāsiṃ evaṃ nisīdiṃ evaṃ abhāsiṃ evaṃ tuṇhī ahosiṃ; somhi tamhā gāmā sakaṃyeva gāmaṃ paccāgato’ti.
 evameva kho, bhikkhave, bhikkhu anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo … pe … iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.
-
+$20
 so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhininnāmeti.
 so dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate, yathākammūpage satte pajānāti … pe …
 # NOTE: BB has “houses” but it is singular; Horner gets this right. thanissaro, in what looks like a copy paste error, has the wrong simile here.
 seyyathāpi, bhikkhave, dve agārā sadvārā. tattha cakkhumā puriso majjhe ṭhito passeyya manusse gehaṃ pavisantepi nikkhamantepi, anucaṅkamantepi anuvicarantepi.
 evameva kho, bhikkhave, bhikkhu dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage satte pajānāti … pe ….
-
+$21
 so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmeti.
 so ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti.
 ‘ime āsavā’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti.
@@ -189,33 +189,33 @@ tassa evamassa:
 ‘ayaṃ kho udakarahado accho vippasanno anāvilo. tatrime sippisambukāpi sakkharakathalāpi macchagumbāpi carantipi tiṭṭhantipī’ti’.
 evameva kho, bhikkhave, bhikkhu ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti … pe …
 nāparaṃ itthattāyāti pajānāti.
-
+$22
 ayaṃ vuccati, bhikkhave, bhikkhu ‘samaṇo’ itipi ‘brāhmaṇo’itipi ‘nhātako’itipi ‘vedagū’itipi ‘sottiyo’itipi ‘ariyo’itipi ‘arahaṃ’itipi.
-
+$23
 kathañca, bhikkhave, bhikkhu samaṇo hoti?
 samitāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṃ, jātijarāmaraṇiyā.
 evaṃ kho, bhikkhave, bhikkhu samaṇo hoti.
-
+$24
 kathañca, bhikkhave, bhikkhu brāhmaṇo hoti?
 bāhitāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṃ, jātijarāmaraṇiyā.
 evaṃ kho, bhikkhave, bhikkhu brāhmaṇo hoti.
-
+$25
 kathañca, bhikkhave, bhikkhu nhātako hoti?
 nhātāssa honti pāpakā akusalā dhammā, saṃkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṃ, jātijarāmaraṇiyā.
 evaṃ kho, bhikkhave, bhikkhu nhātako hoti.
-
+$26
 kathañca, bhikkhave, bhikkhu vedagū hoti?
 viditāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṃ, jātijarāmaraṇiyā.
 evaṃ kho, bhikkhave, bhikkhu vedagū hoti.
-
+$27
 kathañca, bhikkhave, bhikkhu sottiyo hoti?
 nissutāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṃ, jātijarāmaraṇiyā.
 evaṃ kho, bhikkhave, bhikkhu sottiyo hoti.
-
+$28
 kathañca, bhikkhave, bhikkhu ariyo hoti?
 ārakāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṃ, jātijarāmaraṇiyā.
 evaṃ kho, bhikkhave, bhikkhu ariyo hoti.
-
+$29
 kathañca, bhikkhave, bhikkhu arahaṃ hoti?
 ārakāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṃ, jātijarāmaraṇiyā.
 evaṃ kho, bhikkhave, bhikkhu arahaṃ hotī”ti.

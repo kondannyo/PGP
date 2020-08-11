@@ -1,0 +1,78 @@
+#!/usr/bin/perl
+
+use strict;
+use v5.14;
+use warnings;
+use warnings FATAL => "utf8"; # throw encoding error exceptions
+use open qw(:std :utf8);
+use Unicode::GCString;
+use diagnostics;
+use Text::ParseWords;
+use utf8;
+
+# use DBI;
+
+# no warnings 'once'; # suppress 'only used once' warnings
+# no warnings 'utf8'; # suppress 'wide character in print' warnings
+# print NFC($line);
+
+######### Main #############
+
+# initialize_variables
+
+my $debug = 0;
+# my $data_path = "/home/kondanno/data/texfiles/sutta/";
+my $data_path = "/home/kondanno/data/MN/sc_po_text/";
+my %unique_letters;
+
+open(my $filelist_fh, "<", $ARGV[0])
+                    or die "Unable to open < $ARGV[0]: $!";
+
+while ( <$filelist_fh> ) {
+	my $linecount = 0;
+	my $wordclustercount = 0;
+	my $lettercount = 0;
+	chomp;
+	my $processfile = $_;
+	my $process = $data_path . $processfile;
+	open(my $palifile_fh, "<", $process)
+			    or die "Unable to open < $processfile: $!";
+	print "Processing contents of: $processfile\n";	# would like to know how to print $fh?
+	while (my $line = <$palifile_fh>) {
+		chomp($line);
+		$linecount++;
+		my @words = quotewords('\s+', 0, $line);
+		foreach (@words) {
+			$wordclustercount++;
+			my $word = $_ // next; #skip loop if $_ undef
+			my $gcstring = Unicode::GCString->new($word);
+			my @letters = @{$gcstring};
+			foreach (@letters) {
+				$lettercount++;
+				$unique_letters{$_}++;
+			}
+		}
+	}
+	print "$processfile contains...\n$linecount lines\n";
+	print "$wordclustercount word clusters\n";
+	print $wordclustercount / $linecount . " word clusters per line\n";
+	print $lettercount / $wordclustercount .  " average letters per word clusters\n";
+}
+my @letter_list = sort keys %unique_letters;
+print "@letter_list\n";
+foreach my $key (sort keys %unique_letters) {
+	my $value = $unique_letters{$key};
+	print "$key = $value\n";
+}
+	
+######### subs follow #############
+
+sub dbg {
+  return if( ! $debug );
+  print my $outprint =  join("\n", @_), "\n";
+  print STDERR NFC($outprint);
+  # example text in body
+  # dbg("text");
+}
+
+

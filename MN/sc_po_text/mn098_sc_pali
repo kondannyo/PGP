@@ -1,12 +1,12 @@
 majjhima nikāya 98
 vāseṭṭhasutta
-
+$1
 evaṃ me sutaṃ—
 ekaṃ samayaṃ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe.
-
+$2
 tena kho pana samayena sambahulā abhiññātā abhiññātā brāhmaṇamahāsālā icchānaṅgale paṭivasanti, seyyathidaṃ—
 caṅkī brāhmaṇo, tārukkho brāhmaṇo, pokkharasāti brāhmaṇo, jāṇussoṇi brāhmaṇo, todeyyo brāhmaṇo, aññe ca abhiññātā abhiññātā brāhmaṇamahāsālā.
-
+$3
 atha kho vāseṭṭhabhāradvājānaṃ māṇavānaṃ jaṅghāvihāraṃ anucaṅkamantānaṃ anuvicarantānaṃ ayamantarākathā udapādi:
 “kathaṃ, bho, brāhmaṇo hotī”ti?
 bhāradvājo māṇavo evamāha:
@@ -16,9 +16,9 @@ vāseṭṭho māṇavo evamāha:
 # NOTE: Note that vrt and its derivates in Sanskrit don’t seem to have any special ritual meaning, but rather just behavior, work, actions, etc.
 “yato kho, bho, sīlavā ca hoti vattasampanno ca—
 ettāvatā kho, bho, brāhmaṇo hotī”ti.
-
+$4
 neva kho asakkhi bhāradvājo māṇavo vāseṭṭhaṃ māṇavaṃ saññāpetuṃ, na pana asakkhi vāseṭṭho māṇavo bhāradvājaṃ māṇavaṃ saññāpetuṃ.
-
+$5
 atha kho vāseṭṭho māṇavo bhāradvājaṃ māṇavaṃ āmantesi:
 “ayaṃ kho, bho bhāradvāja, samaṇo gotamo sakyaputto sakyakulā pabbajito icchānaṅgale viharati icchānaṅgalavanasaṇḍe.
 taṃ kho pana bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato:
@@ -26,11 +26,11 @@ taṃ kho pana bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato:
 āyāma, bho bhāradvāja, yena samaṇo gotamo tenupasaṅkamissāma; upasaṅkamitvā samaṇaṃ gotamaṃ etamatthaṃ pucchissāma.
 yathā no samaṇo gotamo byākarissati tathā naṃ dhāressāmā”ti.
 “evaṃ, bho”ti kho bhāradvājo māṇavo vāseṭṭhassa māṇavassa paccassosi.
-
+$6
 atha kho vāseṭṭhabhāradvājā māṇavā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavatā saddhiṃ sammodiṃsu.
 sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu.
 ekamantaṃ nisinno kho vāseṭṭho māṇavo bhagavantaṃ gāthāhi ajjhabhāsi:
-
+$7
 “anuññātapaṭiññātā,
 tevijjā mayamasmubho;
 ahaṃ pokkharasātissa,
@@ -59,7 +59,7 @@ jātiyā brāhmaṇo hoti,
 udāhu bhavati kammunā;
 ajānataṃ no pabrūhi,
 yathā jānemu brāhmaṇan”ti.
-
+$8
 “tesaṃ vo ahaṃ byakkhissaṃ, (vāseṭṭhāti bhagavā)
 anupubbaṃ yathātathaṃ;
 jātivibhaṅgaṃ pāṇānaṃ,
@@ -89,7 +89,7 @@ tato pakkhīpi jānātha,
 pattayāne vihaṅgame;
 liṅgaṃ jātimayaṃ tesaṃ,
 aññamaññā hi jātiyo.
-
+$9
 yathā etāsu jātīsu,
 liṅgaṃ jātimayaṃ puthu;
 evaṃ natthi manussesu,
@@ -113,7 +113,7 @@ paccattañca sarīresu,
 manussesvetaṃ na vijjati;
 vokārañca manussesu,
 samaññāya pavuccati.
-
+$10
 yo hi koci manussesu,
 gorakkhaṃ upajīvati;
 evaṃ vāseṭṭha jānāhi,
@@ -148,7 +148,7 @@ yo hi koci manussesu,
 gāmaṃ raṭṭhañca bhuñjati;
 evaṃ vāseṭṭha jānāhi,
 rājā eso na brāhmaṇo.
-
+$11
 na cāhaṃ brāhmaṇaṃ brūmi,
 yonijaṃ mattisambhavaṃ;
 bhovādi nāma so hoti,
@@ -265,7 +265,7 @@ pubbenivāsaṃ yo vedi,
 saggāpāyañca passati;
 atho jātikkhayaṃ patto,
 tamahaṃ brūmi brāhmaṇaṃ.
-
+$12
 samaññā hesā lokasmiṃ,
 nāmagottaṃ pakappitaṃ;
 sammuccā samudāgataṃ,
@@ -286,7 +286,7 @@ coropi kammunā hoti,
 yodhājīvopi kammunā;
 yājako kammunā hoti,
 rājāpi hoti kammunā.
-
+$13
 evametaṃ yathābhūtaṃ,
 kammaṃ passanti paṇḍitā;
 paṭiccasamuppādadassā,
@@ -303,7 +303,7 @@ tīhi vijjāhi sampanno,
 santo khīṇapunabbhavo;
 evaṃ vāseṭṭha jānāhi,
 brahmā sakko vijānatan”ti.
-
+$14
 evaṃ vutte, vāseṭṭhabhāradvājā māṇavā bhagavantaṃ etadavocuṃ:
 “abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama.
 seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito.

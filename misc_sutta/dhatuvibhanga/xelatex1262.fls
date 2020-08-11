@@ -1,6 +1,0 @@
-PWD /media/sf_KONDANNO/texfiles/sutta/dhatuvibhanga
-INPUT /usr/local/texlive/2018/texmf.cnf
-INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt
-INPUT dhatuvibhanga_alternating.tex
-OUTPUT dhatuvibhanga_alternating.log

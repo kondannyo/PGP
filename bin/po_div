@@ -62,14 +62,16 @@ for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
  	open PALI_TARGET, '>:encoding(UTF-8)', $pali_target or die "Can't open $pali_target";
  	open ENGL_TARGET, '>:encoding(UTF-8)', $engl_target or die "Can't open $engl_target";
 	chomp( my @current_file = <CURRENT_FILE> );
+    my $paragraphBreakNum = 1;
 	for (my $line_num = 0; $line_num <= $#current_file ; $line_num++) {
 		my $process_lines += 1;
 		my $current_line = $current_file[$line_num];			
 		my $next_line = $current_file[$line_num+1];			
 		given ($current_line) {
 			when ( /msgctxt "mn[0-9]+:([1-9]([0-9]+)?)\.1"/ ) { 
-				print PALI_TARGET "\n";
-				print ENGL_TARGET "\n";
+				print PALI_TARGET "\$". $paragraphBreakNum . "\n";
+				print ENGL_TARGET "\$". $paragraphBreakNum . "\n";
+                $paragraphBreakNum += 1;
 			}
 			when ( /NOTE/ ) { print PALI_TARGET $_ . "\n";
 					 print ENGL_TARGET $_ . "\n";
@@ -78,8 +80,8 @@ for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
 		       	{ 
 				if ($next_line =~ /msgstr "(.+)"/)
 			       	{
-					print PALI_TARGET "\n";
-					#print PALI_TARGET "{}\n";
+                    #print PALI_TARGET "\n";
+					print PALI_TARGET "{}\n";
 					$log->info("Blank Pali at: $root_target Line# $current_line\n");
 				}
 				else
@@ -94,8 +96,8 @@ for (my $file_num = 0; $file_num <= $#filenames ; $file_num++) {
 				print PALI_TARGET $line . "\n";
 				if ($next_line =~ /msgstr "\s?"/)
 			       	{
-					print ENGL_TARGET "\n";
-					#print ENGL_TARGET "{}\n";
+                    #print ENGL_TARGET "\n";
+					print ENGL_TARGET "{}\n";
 					$line_num++;
 				}
 			}

@@ -1,4 +1,0 @@
-doit==0.29.0
-cloudpickle==0.2.1
-six==1.10.0
-#MacFSEvents==0.7

@@ -1,9 +1,9 @@
 majjhima nikāya 74
 dīghanakhasutta
-
+$1
 evaṃ me sutaṃ—
 ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate sūkarakhatāyaṃ.
-
+$2
 atha kho dīghanakho paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi.
 sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhito kho dīghanakho paribbājako bhagavantaṃ etadavoca:
 “ahañhi, bho gotama, evaṃvādī evaṃdiṭṭhi:
@@ -13,14 +13,14 @@ sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ aṭṭhāsi
 ‘sabbaṃ me nakkhamatī’ti, esāpi te diṭṭhi nakkhamatī”ti?
 # NOTE: The same idion is found at AN 4.24. Here, I feel the negative form is more natural and comprehensible English.
 “esā ce me, bho gotama, diṭṭhi khameyya, taṃpassa tādisameva, taṃpassa tādisamevā”ti.
-
+$3
 “ato kho te, aggivessana, bahū hi bahutarā lokasmiṃ ye evamāhaṃsu:
 ‘taṃpassa tādisameva, taṃpassa tādisamevā’ti.
 te tañceva diṭṭhiṃ nappajahanti aññañca diṭṭhiṃ upādiyanti.
 ato kho te, aggivessana, tanū hi tanutarā lokasmiṃ ye evamāhaṃsu:
 ‘taṃpassa tādisameva, taṃpassa tādisamevā’ti.
 te tañceva diṭṭhiṃ pajahanti aññañca diṭṭhiṃ na upādiyanti.
-
+$4
 santaggivessana, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:
 ‘sabbaṃ me khamatī’ti;
 santaggivessana, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:
@@ -31,14 +31,14 @@ tatraggivessana, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: �
 tesamayaṃ diṭṭhi sārāgāya santike, saññogāya santike, abhinandanāya santike, ajjhosānāya santike, upādānāya santike;
 tatraggivessana ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino: ‘sabbaṃ me nakkhamatī’ti
 tesamayaṃ diṭṭhi asārāgāya santike, asaññogāya santike, anabhinandanāya santike, anajjhosānāya santike, anupādānāya santike”ti.
-
+$5
 evaṃ vutte, dīghanakho paribbājako bhagavantaṃ etadavoca:
 “ukkaṃseti me bhavaṃ gotamo diṭṭhigataṃ, samukkaṃseti me bhavaṃ gotamo diṭṭhigatan”ti.
 “tatraggivessana, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:
 ‘ekaccaṃ me khamati, ekaccaṃ me nakkhamatī’ti.
 yā hi tesaṃ khamati sāyaṃ diṭṭhi sārāgāya santike, saññogāya santike, abhinandanāya santike, ajjhosānāya santike, upādānāya santike;
 yā hi tesaṃ nakkhamati sāyaṃ diṭṭhi asārāgāya santike, asaññogāya santike, anabhinandanāya santike, anajjhosānāya santike, anupādānāya santike.
-
+$6
 tatraggivessana, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:
 ‘sabbaṃ me khamatī’ti
 tattha viññū puriso iti paṭisañcikkhati:
@@ -53,7 +53,7 @@ imehi assa dvīhi viggaho.
 iti viggahe sati vivādo, vivāde sati vighāto, vighāte sati vihesā’.
 iti so viggahañca vivādañca vighātañca vihesañca attani sampassamāno tañceva diṭṭhiṃ pajahati aññañca diṭṭhiṃ na upādiyati.
 evametāsaṃ diṭṭhīnaṃ pahānaṃ hoti, evametāsaṃ diṭṭhīnaṃ paṭinissaggo hoti.
-
+$7
 tatraggivessana, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:
 ‘sabbaṃ me nakkhamatī’ti
 tattha viññū puriso iti paṭisañcikkhati:
@@ -68,7 +68,7 @@ imehi assa dvīhi viggaho.
 iti viggahe sati vivādo, vivāde sati vighāto, vighāte sati vihesā’.
 iti so viggahañca vivādañca vighātañca vihesañca attani sampassamāno tañceva diṭṭhiṃ pajahati aññañca diṭṭhiṃ na upādiyati.
 evametāsaṃ diṭṭhīnaṃ pahānaṃ hoti, evametāsaṃ diṭṭhīnaṃ paṭinissaggo hoti.
-
+$8
 tatraggivessana, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:
 ‘ekaccaṃ me khamati, ekaccaṃ me nakkhamatī’ti
 tattha viññū puriso iti paṭisañcikkhati:
@@ -83,11 +83,11 @@ imehi assa dvīhi viggaho.
 iti viggahe sati vivādo, vivāde sati vighāto, vighāte sati vihesā’.
 iti so viggahañca vivādañca vighātañca vihesañca attani sampassamāno tañceva diṭṭhiṃ pajahati aññañca diṭṭhiṃ na upādiyati.
 evametāsaṃ diṭṭhīnaṃ pahānaṃ hoti, evametāsaṃ diṭṭhīnaṃ paṭinissaggo hoti.
-
+$9
 ayaṃ kho panaggivessana, kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādanaparimaddanabhedanaviddhaṃsanadhammo, aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassitabbo.
 # NOTE: The meaning of kayanvayata is shown in MN 36
 tassimaṃ kāyaṃ aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassato yo kāyasmiṃ kāyachando kāyasneho kāyanvayatā sā pahīyati.
-
+$10
 tisso kho imā, aggivessana, vedanā—
 sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā.
 yasmiṃ, aggivessana, samaye sukhaṃ vedanaṃ vedeti, neva tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, na adukkhamasukhaṃ vedanaṃ vedeti;
@@ -96,26 +96,26 @@ yasmiṃ, aggivessana, samaye dukkhaṃ vedanaṃ vedeti, neva tasmiṃ samaye s
 dukkhaṃyeva tasmiṃ samaye vedanaṃ vedeti.
 yasmiṃ, aggivessana, samaye adukkhamasukhaṃ vedanaṃ vedeti, neva tasmiṃ samaye sukhaṃ vedanaṃ vedeti, na dukkhaṃ vedanaṃ vedeti;
 adukkhamasukhaṃyeva tasmiṃ samaye vedanaṃ vedeti.
-
+$11
 sukhāpi kho, aggivessana, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā;
 dukkhāpi kho, aggivessana, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā;
 adukkhamasukhāpi kho, aggivessana, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā.
-
+$12
 evaṃ passaṃ, aggivessana, sutavā ariyasāvako sukhāyapi vedanāya nibbindati, dukkhāyapi vedanāya nibbindati, adukkhamasukhāyapi vedanāya nibbindati;
 nibbindaṃ virajjati, virāgā vimuccati. vimuttasmiṃ, vimuttamiti ñāṇaṃ hoti.
 ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti.
-
+$13
 evaṃ vimuttacitto kho, aggivessana, bhikkhu na kenaci saṃvadati, na kenaci vivadati, yañca loke vuttaṃ tena voharati, aparāmasan”ti.
-
+$14
 tena kho pana samayena āyasmā sāriputto bhagavato piṭṭhito ṭhito hoti bhagavantaṃ bījayamāno.
 atha kho āyasmato sāriputtassa etadahosi:
 “tesaṃ tesaṃ kira no bhagavā dhammānaṃ abhiññā pahānamāha, tesaṃ tesaṃ kira no sugato dhammānaṃ abhiññā paṭinissaggamāhā”ti.
 iti hidaṃ āyasmato sāriputtassa paṭisañcikkhato anupādāya āsavehi cittaṃ vimucci.
-
+$15
 dīghanakhassa pana paribbājakassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi:
 “yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamman”ti.
 atha kho dīghanakho paribbājako diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṃkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṃ etadavoca:
-
+$16
 “abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama.
 seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evameva kho bhotā gotamena anekapariyāyena dhammo pakāsito.
 esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṃghañca.

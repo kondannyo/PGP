@@ -1,0 +1,54 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use Sort::ArbBiLex (
+        'pali_sort',   # pali_sort to be defined
+        "
+	A	a
+	Ā	ā
+	I	i
+	Ī	ī
+	U	u
+	Ū	ū
+	E	e
+	O	o
+	Ṁ	ṁ	
+	K	k
+	Kh	kh
+	G	g
+	Gh	gh
+	Ṅ	ṅ
+	C	c
+	Ch	ch
+	J	j
+	Jh	jh
+	Ñ	ñ
+	Ṭ	ṭ
+	Ṭh	ṭh
+	Ḍh	ḍh
+	Ṇ	ṇ
+	T	t
+	Th	th
+	D	d
+	Dh	dh
+	N	n
+	P	p
+	Ph	ph
+	B	b
+	Bh	bh
+	M	m
+	Y	y
+	R	r
+	L	l
+	Ḷ	ḷ
+	V	v
+	S	s
+	H	h
+"
+      );
+      my @words = <>;
+      chomp;
+      my @stuff = pali_sort(@words);
+      foreach (@stuff) { print "$_" }

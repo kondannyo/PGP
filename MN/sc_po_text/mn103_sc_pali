@@ -1,13 +1,13 @@
 majjhima nikāya 103
 kintisutta
-
+$1
 evaṃ me sutaṃ—
 ekaṃ samayaṃ bhagavā pisinārāyaṃ viharati baliharaṇe vanasaṇḍe.
 tatra kho bhagavā bhikkhū āmantesi:
 “bhikkhavo”ti.
 “bhadante”ti te bhikkhū bhagavato paccassosuṃ.
 bhagavā etadavoca:
-
+$2
 “kinti vo, bhikkhave, mayi hoti:
 ‘cīvarahetu vā samaṇo gotamo dhammaṃ deseti, piṇḍapātahetu vā samaṇo gotamo dhammaṃ deseti, senāsanahetu vā samaṇo gotamo dhammaṃ deseti, itibhavābhavahetu vā samaṇo gotamo dhammaṃ desetī’”ti?
 “na kho no, bhante, bhagavati evaṃ hoti:
@@ -22,12 +22,12 @@ anukampaṃ upādāya dhammaṃ desetī’”ti.
 “evañca kira vo, bhikkhave, mayi hoti:
 ‘anukampako bhagavā hitesī;
 anukampaṃ upādāya dhammaṃ desetī’ti.
-
+$3
 tasmātiha, bhikkhave, ye vo mayā dhammā abhiññā desitā, seyyathidaṃ—
 cattāro satipaṭṭhānā cattāro sammappadhānā cattāro iddhipādā pañcindriyāni pañca balāni satta bojjhaṅgā ariyo aṭṭhaṅgiko maggo, tattha sabbeheva samaggehi sammodamānehi avivadamānehi sikkhitabbaṃ.
-
+$4
 tesañca vo, bhikkhave, samaggānaṃ sammodamānānaṃ avivadamānānaṃ sikkhataṃ siyaṃsu dve bhikkhū abhidhamme nānāvādā.
-
+$5
 tatra ce tumhākaṃ evamassa:
 ‘imesaṃ kho āyasmantānaṃ atthato ceva nānaṃ byañjanato ca nānan’ti, tattha yaṃ bhikkhuṃ suvacataraṃ maññeyyātha so upasaṅkamitvā evamassa vacanīyo:
 ‘āyasmantānaṃ kho atthato ceva nānaṃ, byañjanato ca nānaṃ.
@@ -41,7 +41,7 @@ yathā atthato ceva nānaṃ, byañjanato ca nānaṃ.
 māyasmanto vivādaṃ āpajjitthā’ti.
 iti duggahitaṃ duggahitato dhāretabbaṃ, suggahitaṃ suggahitato dhāretabbaṃ.
 duggahitaṃ duggahitato dhāretvā suggahitaṃ suggahitato dhāretvā yo dhammo yo vinayo so bhāsitabbo.
-
+$6
 tatra ce tumhākaṃ evamassa:
 ‘imesaṃ kho āyasmantānaṃ atthato hi kho nānaṃ, byañjanato sametī’ti, tattha yaṃ bhikkhuṃ suvacataraṃ maññeyyātha so upasaṅkamitvā evamassa vacanīyo:
 ‘āyasmantānaṃ kho atthato hi nānaṃ, byañjanato sameti.
@@ -55,7 +55,7 @@ yathā atthato hi kho nānaṃ, byañjanato sameti.
 māyasmanto vivādaṃ āpajjitthā’ti.
 iti duggahitaṃ duggahitato dhāretabbaṃ, suggahitaṃ suggahitato dhāretabbaṃ.
 duggahitaṃ duggahitato dhāretvā suggahitaṃ suggahitato dhāretvā yo dhammo yo vinayo so bhāsitabbo.
-
+$7
 tatra ce tumhākaṃ evamassa:
 ‘imesaṃ kho āyasmantānaṃ atthato hi kho sameti, byañjanato nānan’ti, tattha yaṃ bhikkhuṃ suvacataraṃ maññeyyātha so upasaṅkamitvā evamassa vacanīyo:
 ‘āyasmantānaṃ kho atthato hi sameti, byañjanato nānaṃ.
@@ -71,7 +71,7 @@ appamattakaṃ kho panetaṃ yadidaṃ—byañjanaṃ.
 māyasmanto appamattake vivādaṃ āpajjitthā’ti.
 iti suggahitaṃ suggahitato dhāretabbaṃ, duggahitaṃ duggahitato dhāretabbaṃ.
 suggahitaṃ suggahitato dhāretvā duggahitaṃ duggahitato dhāretvā yo dhammo yo vinayo so bhāsitabbo.
-
+$8
 tatra ce tumhākaṃ evamassa:
 ‘imesaṃ kho āyasmantānaṃ atthato ceva sameti byañjanato ca sametī’ti, tattha yaṃ bhikkhuṃ suvacataraṃ maññeyyātha so upasaṅkamitvā evamassa vacanīyo:
 ‘āyasmantānaṃ kho atthato ceva sameti, byañjanato ca sameti.
@@ -85,40 +85,40 @@ yathā atthato ceva sameti byañjanato ca sameti.
 māyasmanto vivādaṃ āpajjitthā’ti.
 iti suggahitaṃ suggahitato dhāretabbaṃ.
 suggahitaṃ suggahitato dhāretvā yo dhammo yo vinayo so bhāsitabbo.
-
+$9
 tesañca vo, bhikkhave, samaggānaṃ sammodamānānaṃ avivadamānānaṃ sikkhataṃ siyā aññatarassa bhikkhuno āpatti siyā vītikkamo,
 # NOTE: Punctuation in MS is incorrect: the following iti belongs on this line, as shown in the repetition below.
-
+$10
 tatra, bhikkhave, na codanāya taritabbaṃ. puggalo upaparikkhitabbo:
 ‘iti mayhañca avihesā bhavissati parassa ca puggalassa anupaghāto, paro hi puggalo akkodhano anupanāhī adaḷhadiṭṭhī suppaṭinissaggī, sakkomi cāhaṃ etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetun’ti.
 sace, bhikkhave, evamassa, kallaṃ vacanāya.
-
+$11
 sace pana, bhikkhave, evamassa:
 ‘mayhaṃ kho avihesā bhavissati parassa ca puggalassa upaghāto, paro hi puggalo kodhano upanāhī adaḷhadiṭṭhī suppaṭinissaggī, sakkomi cāhaṃ etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetuṃ.
 appamattakaṃ kho panetaṃ yadidaṃ—parassa puggalassa upaghāto.
 atha kho etadeva bahutaraṃ—
 svāhaṃ sakkomi etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetun’ti.
 sace, bhikkhave, evamassa, kallaṃ vacanāya.
-
+$12
 sace pana, bhikkhave, evamassa:
 ‘mayhaṃ kho vihesā bhavissati parassa ca puggalassa anupaghāto. paro hi puggalo akkodhano anupanāhī daḷhadiṭṭhī duppaṭinissaggī, sakkomi cāhaṃ etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetuṃ.
 appamattakaṃ kho panetaṃ yadidaṃ—mayhaṃ vihesā.
 atha kho etadeva bahutaraṃ—
 svāhaṃ sakkomi etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetun’ti.
 sace, bhikkhave, evamassa, kallaṃ vacanāya.
-
+$13
 sace pana, bhikkhave, evamassa:
 ‘mayhañca kho vihesā bhavissati parassa ca puggalassa upaghāto. paro hi puggalo kodhano upanāhī daḷhadiṭṭhī duppaṭinissaggī, sakkomi cāhaṃ etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetuṃ.
 appamattakaṃ kho panetaṃ yadidaṃ—mayhañca vihesā bhavissati parassa ca puggalassa upaghāto.
 atha kho etadeva bahutaraṃ—
 svāhaṃ sakkomi etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetun’ti.
 sace, bhikkhave, evamassa, kallaṃ vacanāya.
-
+$14
 sace pana, bhikkhave, evamassa:
 ‘mayhañca kho vihesā bhavissati parassa ca puggalassa upaghāto. paro hi puggalo kodhano upanāhī daḷhadiṭṭhī duppaṭinissaggī, na cāhaṃ sakkomi etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetun’ti.
 evarūpe, bhikkhave, puggale upekkhā nātimaññitabbā.
 # NOTE: Var readings vacisamhara, vacisamsara, vacisankhara: Comm: Vacīsaṃhāroti vacanasañcāro. Imehi kathitaṃ amūsaṃ antaraṃ paveseyya, tumhe imehi idañcidañca vuttāti amūhi kathitaṃ imesaṃ antaraṃ paveseyyāti attho, Tika: Vacanasañcāroti pesuññavasena aññathāvacanupasaṃhāro. The parallel passage is at AN 2.63, where samsara is the MS reading, and adopted by BB there. Comm there gives a completely different explanation: ubhato vacīsaṃsāroti dvīsupi pakkhesu aññamaññaṃ akkosanapaccakkosanavasena saṃsaramānā vācā vacīsaṃsāro. Tika has: Saṃsaramānāti pavattamānā. Despite this, I think the reading samhara makes better sense, as per MN comm.
-
+$15
 tesañca vo, bhikkhave, samaggānaṃ sammodamānānaṃ avivadamānānaṃ sikkhataṃ aññamaññassa vacīsaṃhāro uppajjeyya diṭṭhipaḷāso cetaso āghāto appaccayo anabhiraddhi.
 tattha ekatopakkhikānaṃ bhikkhūnaṃ yaṃ bhikkhuṃ suvacataraṃ maññeyyātha so upasaṅkamitvā evamassa vacanīyo:
 ‘yaṃ no, āvuso, amhākaṃ samaggānaṃ sammodamānānaṃ avivadamānānaṃ sikkhataṃ aññamaññassa vacīsaṃhāro uppanno diṭṭhipaḷāso cetaso āghāto appaccayo anabhiraddhi, taṃ jānamāno samaṇo garaheyyā’ti.
@@ -127,7 +127,7 @@ sammā byākaramāno, bhikkhave, bhikkhu evaṃ byākareyya:
 etaṃ panāvuso, dhammaṃ appahāya nibbānaṃ sacchikareyyā’ti.
 sammā byākaramāno, bhikkhave, bhikkhu evaṃ byākareyya:
 ‘etaṃ, āvuso, dhammaṃ appahāya na nibbānaṃ sacchikareyyā’ti.
-
+$16
 athāparesaṃ ekatopakkhikānaṃ bhikkhūnaṃ yaṃ bhikkhuṃ suvacataraṃ maññeyyātha, so upasaṅkamitvā evamassa vacanīyo:
 ‘yaṃ no, āvuso, amhākaṃ samaggānaṃ sammodamānānaṃ avivadamānānaṃ sikkhataṃ aññamaññassa vacīsaṃhāro uppanno diṭṭhipaḷāso cetaso āghāto appaccayo anabhiraddhi, taṃ jānamāno samaṇo garaheyyā’ti.
 sammā byākaramāno, bhikkhave, bhikkhu evaṃ byākareyya:
@@ -135,7 +135,7 @@ sammā byākaramāno, bhikkhave, bhikkhu evaṃ byākareyya:
 etaṃ panāvuso, dhammaṃ appahāya nibbānaṃ sacchikareyyā’ti.
 sammā byākaramāno, bhikkhave, bhikkhu evaṃ byākareyya:
 ‘etaṃ kho, āvuso, dhammaṃ appahāya na nibbānaṃ sacchikareyyā’ti.
-
+$17
 tañce, bhikkhave, bhikkhuṃ pare evaṃ puccheyyuṃ:
 ‘āyasmatā no ete bhikkhū akusalā vuṭṭhāpetvā kusale patiṭṭhāpitā’ti?
 sammā byākaramāno, bhikkhave, bhikkhu evaṃ byākareyya:

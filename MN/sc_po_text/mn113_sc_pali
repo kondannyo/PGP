@@ -1,6 +1,6 @@
 majjhima nikāya 113
 sappurisasutta
-
+$1
 evaṃ me sutaṃ—
 ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.
 tatra kho bhagavā bhikkhū āmantesi:
@@ -8,12 +8,12 @@ tatra kho bhagavā bhikkhū āmantesi:
 “bhadante”ti te bhikkhū bhagavato paccassosuṃ.
 bhagavā etadavoca:
 # NOTE: Here it seems "quality" seems better than "teaching" for dhamma. Nevertheless, I wonder whether teaching is not meant even here: the problem is glorifying oneself, which perhaps means in a Dhamma talk?
-
+$2
 “sappurisadhammañca vo, bhikkhave, desessāmi asappurisadhammañca.
 taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.
 “evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.
 bhagavā etadavoca:
-
+$3
 “katamo ca, bhikkhave, asappurisadhammo?
 idha, bhikkhave, asappuriso uccākulā pabbajito hoti.
 so iti paṭisañcikkhati:
@@ -40,7 +40,7 @@ no cepi uḷārabhogakulā pabbajito hoti;
 so ca hoti dhammānudhammappaṭipanno sāmīcippaṭipanno anudhammacārī, so tattha pujjo, so tattha pāsaṃso’ti.
 so paṭipadaṃyeva antaraṃ karitvā tāya uḷārabhogatāya nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (2–4.)
-
+$4
 puna caparaṃ, bhikkhave, asappuriso ñāto hoti yasassī.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi ñāto yasassī, ime panaññe bhikkhū appaññātā appesakkhā’ti.
@@ -52,7 +52,7 @@ no cepi ñāto hoti yasassī;
 so ca hoti dhammānudhammappaṭipanno sāmīcippaṭipanno anudhammacārī, so tattha pujjo, so tattha pāsaṃso’ti.
 so paṭipadaṃyeva antaraṃ karitvā tena ñattena nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (5)
-
+$5
 puna caparaṃ, bhikkhave, asappuriso lābhī hoti cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānaṃ.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi lābhī cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānaṃ, ime panaññe bhikkhū na lābhino cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan’ti.
@@ -64,7 +64,7 @@ no cepi lābhī hoti cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikk
 so ca hoti dhammānudhammappaṭipanno sāmīcippaṭipanno anudhammacārī, so tattha pujjo, so tattha pāsaṃso’ti.
 so paṭipadaṃyeva antaraṃ karitvā tena lābhena nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (6)
-
+$6
 puna caparaṃ, bhikkhave, asappuriso bahussuto hoti.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi bahussuto, ime panaññe bhikkhū na bahussutā’ti.
@@ -76,7 +76,7 @@ no cepi bahussuto hoti;
 so ca hoti dhammānudhammappaṭipanno sāmīcippaṭipanno anudhammacārī, so tattha pujjo, so tattha pāsaṃso’ti.
 so paṭipadaṃyeva antaraṃ karitvā tena bāhusaccena nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (7)
-
+$7
 puna caparaṃ, bhikkhave, asappuriso vinayadharo hoti.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi vinayadharo, ime panaññe bhikkhū na vinayadharā’ti.
@@ -88,7 +88,7 @@ no cepi vinayadharo hoti;
 so ca hoti dhammānudhammappaṭipanno sāmīcippaṭipanno anudhammacārī, so tattha pujjo, so tattha pāsaṃso’ti.
 so paṭipadaṃyeva antaraṃ karitvā tena vinayadharattena nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (8)
-
+$8
 puna caparaṃ, bhikkhave, asappuriso dhammakathiko hoti.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi dhammakathiko, ime panaññe bhikkhū na dhammakathikā’ti.
@@ -100,7 +100,7 @@ no cepi dhammakathiko hoti;
 so ca hoti dhammānudhammappaṭipanno sāmīcippaṭipanno anudhammacārī, so tattha pujjo, so tattha pāsaṃso’ti.
 so paṭipadaṃyeva antaraṃ karitvā tena dhammakathikattena nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (9)
-
+$9
 puna caparaṃ, bhikkhave, asappuriso āraññiko hoti.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi āraññiko ime panaññe bhikkhū na āraññikā’ti.
@@ -112,7 +112,7 @@ no cepi āraññiko hoti;
 so ca hoti dhammānudhammappaṭipanno sāmīcippaṭipanno anudhammacārī, so tattha pujjo, so tattha pāsaṃso’ti.
 so paṭipadaṃyeva antaraṃ karitvā tena āraññikattena nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (10)
-
+$10
 puna caparaṃ, bhikkhave, asappuriso paṃsukūliko hoti.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi paṃsukūliko, ime panaññe bhikkhū na paṃsukūlikā’ti.
@@ -124,7 +124,7 @@ no cepi paṃsukūliko hoti;
 so ca hoti dhammānudhammappaṭipanno sāmīcippaṭipanno anudhammacārī, so tattha pujjo, so tattha pāsaṃso’ti.
 so paṭipadaṃyeva antaraṃ karitvā tena paṃsukūlikattena nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (11)
-
+$11
 puna caparaṃ, bhikkhave, asappuriso piṇḍapātiko hoti.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi piṇḍapātiko, ime panaññe bhikkhū na piṇḍapātikā’ti.
@@ -136,7 +136,7 @@ no cepi piṇḍapātiko hoti;
 so ca hoti dhammānudhammappaṭipanno sāmīcippaṭipanno anudhammacārī, so tattha pujjo, so tattha pāsaṃso’ti.
 so paṭipadaṃyeva antaraṃ karitvā tena piṇḍapātikattena nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (12)
-
+$12
 puna caparaṃ, bhikkhave, asappuriso rukkhamūliko hoti.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi rukkhamūliko, ime panaññe bhikkhū na rukkhamūlikā’ti.
@@ -163,7 +163,7 @@ no cepi ekāsaniko hoti;
 so ca hoti dhammānudhammappaṭipanno sāmīcippaṭipanno anudhammacārī, so tattha pujjo, so tattha pāsaṃso’ti.
 so paṭipadaṃyeva antaraṃ karitvā tena ekāsanikattena nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (14–18.)
-
+$13
 puna caparaṃ, bhikkhave, asappuriso vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi paṭhamajjhānasamāpattiyā lābhī, ime panaññe bhikkhū paṭhamajjhānasamāpattiyā na lābhino’ti.
@@ -186,7 +186,7 @@ sappuriso ca kho, bhikkhave, iti paṭisañcikkhati:
 yena yena hi maññanti tato taṃ hoti aññathā’ti.
 so atammayataññeva antaraṃ karitvā tāya catutthajjhānasamāpattiyā nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (20–22.)
-
+$14
 puna caparaṃ, bhikkhave, asappuriso sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṃ upasampajja viharati.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi ākāsānañcāyatanasamāpattiyā lābhī, ime panaññe bhikkhū ākāsānañcāyatanasamāpattiyā na lābhino’ti.
@@ -197,7 +197,7 @@ sappuriso ca kho, bhikkhave, iti paṭisañcikkhati:
 yena yena hi maññanti tato taṃ hoti aññathā’ti.
 so atammayataññeva antaraṃ karitvā tāya ākāsānañcāyatanasamāpattiyā nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (23)
-
+$15
 puna caparaṃ, bhikkhave, asappuriso sabbaso ākāsānañcāyatanaṃ samatikkamma ‘anantaṃ viññāṇan’ti viññāṇañcāyatanaṃ upasampajja viharati.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi viññāṇañcāyatanasamāpattiyā lābhī, ime panaññe bhikkhū viññāṇañcāyatanasamāpattiyā na lābhino’ti.
@@ -208,7 +208,7 @@ sappuriso ca kho, bhikkhave, iti paṭisañcikkhati:
 yena yena hi maññanti tato taṃ hoti aññathā’ti.
 so atammayataññeva antaraṃ karitvā tāya viññāṇañcāyatanasamāpattiyā nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (24)
-
+$16
 puna caparaṃ, bhikkhave, asappuriso sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi ākiñcaññāyatanasamāpattiyā lābhī, ime panaññe bhikkhū ākiñcaññāyatanasamāpattiyā na lābhino’ti.
@@ -219,7 +219,7 @@ sappuriso ca kho, bhikkhave, iti paṭisañcikkhati:
 yena yena hi maññanti tato taṃ hoti aññathā’ti.
 so atammayataññeva antaraṃ karitvā tāya ākiñcaññāyatanasamāpattiyā nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (25)
-
+$17
 puna caparaṃ, bhikkhave, asappuriso sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanaṃ upasampajja viharati.
 so iti paṭisañcikkhati:
 ‘ahaṃ khomhi nevasaññānāsaññāyatanasamāpattiyā lābhī, ime panaññe bhikkhū nevasaññānāsaññāyatanasamāpattiyā na lābhino’ti.
@@ -230,7 +230,7 @@ sappuriso ca kho, bhikkhave, iti paṭisañcikkhati:
 yena yena hi maññanti tato taṃ hoti aññathā’ti.
 so atammayataññeva antaraṃ karitvā tāya nevasaññānāsaññāyatanasamāpattiyā nevattānukkaṃseti, na paraṃ vambheti.
 ayampi, bhikkhave, sappurisadhammo. (26)
-
+$18
 puna caparaṃ, bhikkhave, sappuriso sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati. paññāya cassa disvā āsavā parikkhīṇā honti.
 ayaṃ, bhikkhave, bhikkhu na kiñci maññati, na kuhiñci maññati, na kenaci maññatī”ti. (27)
 idamavoca bhagavā.

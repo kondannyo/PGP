@@ -1,0 +1,190 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Oct 29 13:44:17 2017
+
+@author: kondanno
+"""
+
+import argparse
+import unicodedata
+import os
+import re
+import sys
+import itertools
+from subprocess import call
+from colorama import init, Fore
+from glosstext import make_dictionary, split_words, basic_gloss_word
+
+# personal files
+import txmakerwrapper
+from pali_parse import *
+
+error_free = True
+
+def reader(path):
+        file = open(str(path), 'r', encoding='utf-8')
+        text = file.read()
+        # Remove any decomposed characters
+        text_file = unicodedata.normalize('NFC', text)
+        return text_file
+
+
+def writer(path, output):
+        file = open(str(path), 'w', encoding='utf-8')
+        for i in output:
+            print(i)
+            strg = str(i) + '\n'
+            file.write(strg)
+
+
+def filecheck(path):
+        file = open(str(path), 'r', encoding='utf-8')
+        text = file.read()
+        # Remove any decomposed characters
+        text_file = unicodedata.normalize('NFC', text)
+        for line in text_file:
+            print(line)
+
+
+def pathcheck(desc, os_object, quite):
+    global error_free
+    if not quite:
+        print(Fore.LIGHTYELLOW_EX + 'Target: ', desc)
+        print('    ', Fore.CYAN + os_object, end="")
+        if os.path.exists(os_object):
+            print(Fore.GREEN + ' Found')
+        else:
+            error_free = False
+            print(Fore.RED + ' NOT Found')
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Pali Object Maker")
+    parser.add_argument('pali', type=str, help='Pali text file'\
+                        , metavar="'string'")
+#    parser.add_argument('pof', type=str, help='Pali Object File ".pof"'\
+#                        , metavar="'string'")
+
+class Pali_Sutta:
+
+    newid = itertools.count()
+
+    def __init__(self):
+        self.id = next(self.newid)
+        self.lines = []
+        self.error = (False, "")
+
+    # use isinstance() to create iterators over words 
+    # actually in line type
+
+def draw_menu(stdscr):
+    k = 0
+    cursor_x = 0
+    cursor_y = 0
+
+    # Clear and refresh the screen for a blank canvas
+    stdscr.clear()
+    stdscr.refresh()
+
+    # Start colors in curses
+    curses.start_color()
+    curses.init_pair(1, curses.COLOR_CYAN, curses.COLOR_BLACK)
+    curses.init_pair(2, curses.COLOR_RED, curses.COLOR_BLACK)
+    curses.init_pair(3, curses.COLOR_BLACK, curses.COLOR_WHITE)
+
+    # Loop where k is the last character pressed
+    while (k != ord('q')):
+
+        # Initialization
+        stdscr.clear()
+        height, width = stdscr.getmaxyx()
+
+        if k == curses.KEY_DOWN:
+            cursor_y = cursor_y + 1
+        elif k == curses.KEY_UP:
+            cursor_y = cursor_y - 1
+        elif k == curses.KEY_RIGHT:
+            cursor_x = cursor_x + 1
+        elif k == curses.KEY_LEFT:
+            cursor_x = cursor_x - 1
+
+        cursor_x = max(0, cursor_x)
+        cursor_x = min(width-1, cursor_x)
+
+        cursor_y = max(0, cursor_y)
+        cursor_y = min(height-1, cursor_y)
+
+        # Declaration of strings
+        title = "Curses example"[:width-1]
+        subtitle = "Written by Clay McLeod"[:width-1]
+        keystr = "Last key pressed: {}".format(k)[:width-1]
+        statusbarstr = "Press 'q' to exit | STATUS BAR | Pos: {}, {}".format(cursor_x, cursor_y)
+        if k == 0:
+            keystr = "No key press detected..."[:width-1]
+
+        # Centering calculations
+        start_x_title = int((width // 2) - (len(title) // 2) - len(title) % 2)
+        start_x_subtitle = int((width // 2) - (len(subtitle) // 2) - len(subtitle) % 2)
+        start_x_keystr = int((width // 2) - (len(keystr) // 2) - len(keystr) % 2)
+        start_y = int((height // 2) - 2)
+
+        # Rendering some text
+        whstr = "Width: {}, Height: {}".format(width, height)
+        stdscr.addstr(0, 0, whstr, curses.color_pair(1))
+
+        # Render status bar
+        stdscr.attron(curses.color_pair(3))
+        stdscr.addstr(height-1, 0, statusbarstr)
+        stdscr.addstr(height-1, len(statusbarstr), " " * (width - len(statusbarstr) - 1))
+        stdscr.attroff(curses.color_pair(3))
+
+        # Turning on attributes for title
+        stdscr.attron(curses.color_pair(2))
+        stdscr.attron(curses.A_BOLD)
+
+        # Rendering title
+        stdscr.addstr(start_y, start_x_title, title)
+
+        # Turning off attributes for title
+        stdscr.attroff(curses.color_pair(2))
+        stdscr.attroff(curses.A_BOLD)
+
+        # Print rest of text
+        stdscr.addstr(start_y + 1, start_x_subtitle, subtitle)
+        stdscr.addstr(start_y + 3, (width // 2) - 2, '-' * 4)
+        stdscr.addstr(start_y + 5, start_x_keystr, keystr)
+        stdscr.move(cursor_y, cursor_x)
+
+        # Refresh the screen
+        stdscr.refresh()
+
+        # Wait for next input
+        k = stdscr.getch()
+def main():
+    init(autoreset=True)
+    PALI_FILE = "/media/data/PGP/MN/sc_po_text/mn121_sc_pali"
+    if not error_free:
+        print(Fore.RED + 'Exit with Error')
+        sys.exit()
+
+    with open(PALI_FILE) as pali_file:
+        Current_Sutta = Pali_Sutta()
+        for index, line in enumerate(pali_file):
+            pali_line = Pali_Sentence_Parse_FSM(line.rstrip())
+            pali_line.id = index
+            pali_line.run()
+            Current_Sutta.lines.append(pali_line)
+        Line_Number = int(input("Line Number 0 to {}: ".format(len(Current_Sutta.lines) - 1)))
+        for object in Current_Sutta.lines[Line_Number].sentence_object_list:
+            print(object.text, end="")
+        print() 
+if __name__ == '__main__':
+    main()
+
+
+def main():
+    curses.wrapper(draw_menu)
+
+if __name__ == "__main__":
+    main()
