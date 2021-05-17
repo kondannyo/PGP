@@ -1,0 +1,1014 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.6.6)  19 OCT 2020 20:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**an_vagga_10.tex
+(./an_vagga_10.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@chapter=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(../share/AN_general.tex (../share/PM_A5_Definition.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count172
+\Gm@cntv=\count173
+\c@Gm@tempcnt=\count174
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box45
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen143
+\ttl@minus=\dimen144
+\ttl@toksa=\toks17
+\titlewidth=\dimen145
+\titlewidthlast=\dimen146
+\titlewidthfirst=\dimen147
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/expex/expex.sty
+Package: expex 5/1/2017 v5.1b LaTex wrapper for expex.tex (JF)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count175
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/expex/expex.tex
+File: expex.tex 5/25/2017 v5.1b ExPex linguistics example formatter (JF)
+\ep@dima=\dimen148
+\ep@dimb=\dimen149
+\ep@dimc=\dimen150
+\ep@cnta=\count176
+\epc@b=\count177
+\excnt=\count178
+\numbox=\box46
+\epd@numright=\dimen151
+\pexcnt=\count179
+\epd@labelleft=\dimen152
+\epd@labelright=\dimen153
+\epd@textleft=\dimen154
+\epd@preambleleft=\dimen155
+\epd@sampleexnowidth=\dimen156
+\ep@everylabel=\toks20
+\exnobox=\box47
+\ling@tagsfile=\write3
+\ling@tagsin=\read2
+\glstrutbox=\box48
+\ep@cascadeindent=\dimen157
+\ep@hangindentamount=\dimen158
+\ep@cascadecount=\count180
+\gltoks@a=\toks21
+\gltoks@b=\toks22
+\glw@maxht=\dimen159
+\glw@maxdp=\dimen160
+\@itemtype=\count181
+\gl@maxdplast=\dimen161
+\gltoks@sofar=\toks23
+\gltoks@every=\toks24
+\gltoks@next=\toks25
+\debug@glword=\box49
+\@glaparsestate=\count182
+\glwcascade@pshapeindent=\dimen162
+\glwcascade@pshapelinewd=\dimen163
+\ssleftwd=\dimen164
+\ssrightwd=\dimen165
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip51
+\enit@outerparindent=\dimen166
+\enit@toks=\toks26
+\enit@inbox=\box50
+\enit@count@id=\count183
+\enitdp@description=\count184
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-06-03 L3 programming layer (loader) 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-06-03 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count185
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count186
+\g__pdf_backend_annotation_int=\count187
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+tex
+\l__xparse_current_arg_int=\count188
+\g__xparse_grabber_int=\count189
+\l__xparse_m_args_int=\count190
+\l__xparse_v_nesting_int=\count191
+))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count192
+\l__fontspec_language_int=\count193
+\l__fontspec_strnum_int=\count194
+\l__fontspec_tmp_int=\count195
+\l__fontspec_tmpa_int=\count196
+\l__fontspec_tmpb_int=\count197
+\l__fontspec_tmpc_int=\count198
+\l__fontspec_em_int=\count199
+\l__fontspec_emdef_int=\count266
+\l__fontspec_strong_int=\count267
+\l__fontspec_strongdef_int=\count268
+\l__fontspec_tmpa_dim=\dimen167
+\l__fontspec_tmpb_dim=\dimen168
+\l__fontspec_tmpc_dim=\dimen169
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count269
+\calc@Bcount=\count270
+\calc@Adimen=\dimen170
+\calc@Bdimen=\dimen171
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count271
+\calc@Cskip=\skip54
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/background/background.sty
+Package: background 2014/03/04 v2.1 background material
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen172
+\pgfutil@tempdimb=\dimen173
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box52
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+)
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks30
+))
+\pgf@x=\dimen176
+\pgf@y=\dimen177
+\pgf@xa=\dimen178
+\pgf@ya=\dimen179
+\pgf@xb=\dimen180
+\pgf@yb=\dimen181
+\pgf@xc=\dimen182
+\pgf@yc=\dimen183
+\pgf@xd=\dimen184
+\pgf@yd=\dimen185
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count272
+\c@pgf@countb=\count273
+\c@pgf@countc=\count274
+\c@pgf@countd=\count275
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count276
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
+File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
+File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)
+\pgfsys@objnum=\count277
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count278
+\pgfsyssoftpath@bigbuffer@items=\count279
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen186
+\pgfmath@count=\count280
+\pgfmath@box=\box53
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count281
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count282
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen261
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen265
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count283
+\pgf@shadingcount=\count284
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box57
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box58
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen267
+\pgf@nodesepend=\dimen268
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen269
+\pgffor@skip=\dimen270
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count285
+\pgfplotmarksize=\dimen271
+)
+\tikz@lastx=\dimen272
+\tikz@lasty=\dimen273
+\tikz@lastxsaved=\dimen274
+\tikz@lastysaved=\dimen275
+\tikz@lastmovetox=\dimen276
+\tikz@lastmovetoy=\dimen277
+\tikzleveldistance=\dimen278
+\tikzsiblingdistance=\dimen279
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count286
+\tikznumberofchildren=\count287
+\tikznumberofcurrentchild=\count288
+\tikz@fig@count=\count289
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count290
+\pgfmatrixcurrentcolumn=\count291
+\pgf@matrix@numberofcolumns=\count292
+)
+\tikz@expandcount=\count293
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/everypage/everypage.sty
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks39
+\AP@partial=\box63
+\AP@footins=\box64
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2020/04/19 v3.30 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2020/04/19 v3.30 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/04/19 v3.30 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/04/19 v3.30 KOMA-Script package (loading files)
+))))
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+)
+\tipaTiiicode=\count294
+\tipasavetokens=\toks40
+\tipachecktokens=\toks41
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box65
+\UL@hyphenbox=\box66
+\UL@skip=\skip55
+\UL@hook=\toks42
+\UL@height=\dimen280
+\UL@pe=\count295
+\UL@pixel=\dimen281
+\ULC@box=\box67
+Package: ulem 2019/11/18
+\ULdepth=\dimen282
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cinzel/cinzel.sty
+Package: cinzel 2019/10/15 (Bob Tennent) Supports Cinzel and CinzelDecorative f
+or all LaTeX engines.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+Requested font "[Cinzel-Regular.ttf]/OT" at 10.94997pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Regular.ttf
+Requested font "[Cinzel-Regular.ttf]/OT" at 10.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Regular.ttf
+Requested font "[Cinzel-Regular.ttf]/OT:script=latn;language=dflt;" at 10.95003
+pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Regular.ttf
+Requested font "[Cinzel-Bold.ttf]/OT:script=latn;language=dflt;" at 10.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Bold.ttf
+Requested font "[CinzelDecorative-Regular.ttf]/OT:script=latn;language=dflt;" a
+t 10.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+Decorative-Regular.ttf
+Requested font "[CinzelDecorative-Bold.ttf]/OT:script=latn;language=dflt;" at 1
+0.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+Decorative-Bold.ttf
+
+Package fontspec Info: Font family 'Cinzel(0)' created for font 'Cinzel' with
+(fontspec)             options [Ligatures = TeX,Extension = .ttf,UprightFont =
+(fontspec)             *-Regular,ItalicFont = *Decorative-Regular,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *Decorative-Bold].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[Cinzel-Regular.ttf]/OT:script=latn;language=dflt;ma
+pping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[Cinzel-Bold.ttf]/OT:script=latn;language=dflt;mappi
+ng=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[CinzelDecorative-Regular.ttf]/OT:script=latn;langua
+ge=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[CinzelDecorative-Bold.ttf]/OT:script=latn;language=
+dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+Requested font "[Cinzel-Black.ttf]/OT" at 10.94997pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Black.ttf
+Requested font "[Cinzel-Black.ttf]/OT" at 10.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Black.ttf
+Requested font "[Cinzel-Black.ttf]/OT:script=latn;language=dflt;" at 10.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+-Black.ttf
+Requested font "[CinzelDecorative-Black.ttf]/OT:script=latn;language=dflt;" at 
+10.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel
+Decorative-Black.ttf
+
+Package fontspec Info: Font family 'Cinzel(1)' created for font 'Cinzel' with
+(fontspec)             options [Ligatures = TeX,Extension = .ttf,UprightFont =
+(fontspec)             *-Black,ItalicFont = *Decorative-Black].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[Cinzel-Black.ttf]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[CinzelDecorative-Black.ttf]/OT:script=latn;language
+=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip56
+\f@nch@O@elh=\skip57
+\f@nch@O@erh=\skip58
+\f@nch@O@olh=\skip59
+\f@nch@O@orh=\skip60
+\f@nch@O@elf=\skip61
+\f@nch@O@erf=\skip62
+\f@nch@O@olf=\skip63
+\f@nch@O@orf=\skip64
+)
+(../share/PM_Font_TGT.tex
+Requested font "[texgyretermes-regular.otf]/OT" at 10.94997pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-regular.otf]/OT" at 10.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=dflt;" at 1
+0.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-bold.otf]/OT:script=latn;language=dflt;" at 10.9
+5003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-bold.otf
+Requested font "[texgyretermes-italic.otf]/OT:script=latn;language=dflt;" at 10
+.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+Requested font "[texgyretermes-bolditalic.otf]/OT:script=latn;language=dflt;" a
+t 10.95003pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-bolditalic.otf
+
+Package fontspec Info: Font family 'texgyretermes(0)' created for font
+(fontspec)             'texgyretermes' with options
+(fontspec)             [Ligatures=TeX,Extension=.otf,UprightFont=
+(fontspec)             *-regular,BoldFont=*-bold,ItalicFont=*-italic,BoldItalic
+Font=*-bolditalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-regular.otf]/OT:script=latn;language=
+dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-regular.otf]/OT:script=latn;language=
+dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-bold.otf]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-bold.otf]/OT:script=latn;language=dfl
+t;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-italic.otf]/OT:script=latn;language=d
+flt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-italic.otf]/OT:script=latn;language=d
+flt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-bolditalic.otf]/OT:script=latn;langua
+ge=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-bolditalic.otf]/OT:script=latn;langua
+ge=dflt;+smcp;mapping=tex-text;"
+
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=dflt;mappin
+g=tex-text;" at 10.95pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+) (../share/PM_BWDefintions.tex)
+(../share/PM_Tri_Gloss.tex) (../share/PM_UnicodeCharacterFix.tex
+(/usr/local/texlive/2020/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
+))) (build/an_vagga_10.aux)
+\openout1 = `an_vagga_10.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 4.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 4.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 4.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(30.0pt, 336.0pt, 30.0pt)
+* v-part:(T,H,B)=(20.0pt, 572.0pt, 20.0pt)
+* \paperwidth=396.0pt
+* \paperheight=612.0pt
+* \textwidth=336.0pt
+* \textheight=572.0pt
+* \oddsidemargin=-42.26999pt
+* \evensidemargin=-42.26999pt
+* \topmargin=-78.26999pt
+* \headheight=12.0pt
+* \headsep=14.0pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 4.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 4.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 4.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 4.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 4.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 4.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 4.
+LaTeX Font Info:    Redeclaring math accent \check on input line 4.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 4.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 4.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 4.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 4.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 4.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 4.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/texgyretermes(0)/m/n on input line 4
+.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 4.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/texgyretermes(0)/m/n on input line 
+4.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/texgyretermes(0)/m/n --> TU/texgyretermes(0)/m/n on 
+input line 4.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/texgyretermes(0)/m/it on input line
+ 4.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/texgyretermes(0)/b/n on input line 
+4.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 4.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 4.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/texgyretermes(0)/m/n --> TU/texgyretermes(0)/b/n on 
+input line 4.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/texgyretermes(0)/b/it on input lin
+e 4.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 4.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 4.
+ABD: EveryShipout initializing macros (./tex_build/an10.001.tex
+Requested font "[texgyretermes-regular.otf]/OT:script=latn;language=dflt;mappin
+g=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-regular.otf
+Requested font "[texgyretermes-italic.otf]/OT:script=latn;language=dflt;mapping
+=tex-text;" at 10.95pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+Requested font "[texgyretermes-italic.otf]/OT:script=latn;language=dflt;mapping
+=tex-text;" at 8.0pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
+rmes-italic.otf
+ [1
+
+]) [2]
+(./tex_build/an10.002.tex [3]) [4] (./tex_build/an10.003.tex [5]) [6]
+(./tex_build/an10.004.tex) [7] (./tex_build/an10.005.tex [8]) [9]
+(./tex_build/an10.006.tex [10]) [11] (./tex_build/an10.007.tex [12]) [13]
+(./tex_build/an10.008.tex [14]) [15] (./tex_build/an10.009.tex [16]) [17]
+(./tex_build/an10.010.tex [18]) [19] (./tex_build/an10.011.tex [20]) [21]
+(./tex_build/an10.012.tex [22]) [23] (./tex_build/an10.013.tex) [24]
+(./tex_build/an10.014.tex [25] [26] [27]) [28] (./tex_build/an10.015.tex
+[29]) [30] (./tex_build/an10.016.tex) [31] (./tex_build/an10.017.tex [32]
+[33]) [34] (./tex_build/an10.018.tex [35] [36] [37] [38]) [39]
+(./tex_build/an10.019.tex) [40] (./tex_build/an10.020.tex [41] [42]) [43]
+(./tex_build/an10.021.tex [44] [45] [46]) [47] (./tex_build/an10.022.tex
+[48] [49]) [50] (./tex_build/an10.023.tex [51] [52] [53] [54]) [55]
+(./tex_build/an10.024.tex [56] [57] [58] [59] [60] [61] [62] [63]) [64]
+(./tex_build/an10.025.tex) [65] (./tex_build/an10.026.tex [66]) [67]
+(./tex_build/an10.027.tex [68] [69] [70] [71] [72] [73]) [74]
+(./tex_build/an10.028.tex [75] [76] [77] [78]) [79] (./tex_build/an10.029.tex
+[80] [81] [82] [83] [84] [85]) [86] (./tex_build/an10.030.tex [87] [88]
+[89] [90]) [91] (./tex_build/an10.031.tex) [92] (./tex_build/an10.032.tex)
+[93] (./tex_build/an10.033.tex) [94] (./tex_build/an10.034.tex) [95]
+(./tex_build/an10.035.tex) [96] (./tex_build/an10.036.tex) [97]
+(./tex_build/an10.037.tex) [98] (./tex_build/an10.038.tex) [99]
+(./tex_build/an10.039.tex) [100] (./tex_build/an10.040.tex [101]) [102]
+(./tex_build/an10.041.tex) [103] (./tex_build/an10.042.tex) [104]
+(./tex_build/an10.043.tex) [105] (./tex_build/an10.044.tex [106] [107])
+[108] (./tex_build/an10.045.tex [109] [110]) [111] (./tex_build/an10.046.tex
+[112] [113] [114] [115]) [116] (./tex_build/an10.047.tex [117]) [118]
+(./tex_build/an10.048.tex) [119] (./tex_build/an10.049.tex) [120]
+(./tex_build/an10.050.tex [121] [122] [123]) [124] (./tex_build/an10.051.tex
+[125]) [126] (./tex_build/an10.052.tex [127]) [128] (./tex_build/an10.053.tex
+[129] [130]) [131] (./tex_build/an10.054.tex [132] [133] [134] [135] [136])
+[137] (./tex_build/an10.055.tex [138] [139]) [140] (./tex_build/an10.056.tex)
+[141] (./tex_build/an10.057.tex) [142] (./tex_build/an10.058.tex) [143]
+(./tex_build/an10.059.tex) [144] (./tex_build/an10.060.tex [145] [146] [147]
+[148]) [149] (./tex_build/an10.061.tex [150] [151] [152]) [153]
+(./tex_build/an10.062.tex [154] [155] [156]) [157] [158]
+(./tex_build/an10.063.tex) [159] (./tex_build/an10.064.tex) [160]
+(./tex_build/an10.065.tex) [161] (./tex_build/an10.066.tex [162]) [163]
+(./tex_build/an10.067.tex [164] [165] [166] [167]) [168]
+(./tex_build/an10.068.tex [169] [170] [171]) [172] (./tex_build/an10.069.tex
+[173]) [174] (./tex_build/an10.070.tex [175]) [176] (./tex_build/an10.071.tex
+[177]) [178] (./tex_build/an10.072.tex [179]) [180] (./tex_build/an10.073.tex
+[181]) [182] (./tex_build/an10.074.tex) [183] (./tex_build/an10.075.tex
+[184] [185] [186] [187] [188] [189]) [190] (./tex_build/an10.076.tex [191]
+[192] [193] [194] [195]) [196] (./tex_build/an10.077.tex) [197]
+(./tex_build/an10.078.tex) [198] (./tex_build/an10.079.tex) [199]
+(./tex_build/an10.080.tex) [200] (./tex_build/an10.081.tex [201]) [202]
+(./tex_build/an10.082.tex [203]) [204] (./tex_build/an10.083.tex [205])
+[206] (./tex_build/an10.084.tex [207] [208]) [209] (./tex_build/an10.085.tex
+[210] [211] [212] [213]) [214] (./tex_build/an10.086.tex [215] [216] [217])
+[218] (./tex_build/an10.087.tex [219] [220] [221] [222]) [223]
+(./tex_build/an10.088.tex) [224] (./tex_build/an10.089.tex [225] [226] [227]
+[228]) [229] (./tex_build/an10.090.tex [230] [231]) [232]
+(./tex_build/an10.091.tex [233] [234] [235] [236] [237]) [238]
+(./tex_build/an10.092.tex [239] [240]) [241] (./tex_build/an10.093.tex [242]
+[243] [244] [245] [246]) [247] (./tex_build/an10.094.tex [248] [249] [250])
+[251] (./tex_build/an10.095.tex [252] [253]) [254] [255]
+(./tex_build/an10.096.tex [256] [257] [258]) [259] (./tex_build/an10.097.tex
+[260] [261]) [262] (./tex_build/an10.098.tex) [263] (./tex_build/an10.099.tex
+[264] [265] [266] [267] [268] [269] [270] [271]) [272]
+(./tex_build/an10.100.tex) [273] (./tex_build/an10.101.tex) [274]
+(./tex_build/an10.102.tex) [275] (./tex_build/an10.103.tex) [276]
+(./tex_build/an10.104.tex [277]) [278] (./tex_build/an10.105.tex) [279]
+(./tex_build/an10.106.tex [280]) [281] (./tex_build/an10.107.tex [282])
+[283] (./tex_build/an10.108.tex [284]) [285] (./tex_build/an10.109.tex [286])
+[287] (./tex_build/an10.110.tex) [288] (./tex_build/an10.111.tex) [289]
+(./tex_build/an10.112.tex) [290] (./tex_build/an10.113.tex) [291]
+(./tex_build/an10.114.tex [292] [293]) [294] (./tex_build/an10.115.tex [295]
+[296] [297] [298] [299]) [300] (./tex_build/an10.116.tex [301] [302]) [303]
+(./tex_build/an10.117.tex [304]) [305] (./tex_build/an10.118.tex [306])
+[307] (./tex_build/an10.119.tex [308] [309] [310]) [311]
+(./tex_build/an10.120.tex [312]) [313] (./tex_build/an10.121.tex) [314]
+(./tex_build/an10.122.tex) [315] (./tex_build/an10.123.tex) [316]
+(./tex_build/an10.124.tex) [317] (./tex_build/an10.125.tex) [318]
+(./tex_build/an10.126.tex) [319] (./tex_build/an10.127.tex) [320]
+(./tex_build/an10.128.tex) [321] (./tex_build/an10.129.tex) [322]
+(./tex_build/an10.130.tex) [323] (./tex_build/an10.131.tex) [324]
+(./tex_build/an10.132.tex) [325] (./tex_build/an10.133.tex) [326]
+(./tex_build/an10.134.tex) [327] (./tex_build/an10.135.tex) [328]
+(./tex_build/an10.136.tex) [329] (./tex_build/an10.137.tex) [330]
+(./tex_build/an10.138.tex) [331] (./tex_build/an10.139.tex) [332]
+(./tex_build/an10.140.tex) [333] (./tex_build/an10.141.tex) [334]
+(./tex_build/an10.142.tex) [335] (./tex_build/an10.143.tex) [336]
+(./tex_build/an10.144.tex) [337] (./tex_build/an10.145.tex) [338]
+(./tex_build/an10.146.tex) [339] (./tex_build/an10.147.tex) [340]
+(./tex_build/an10.148.tex) [341] (./tex_build/an10.149.tex) [342]
+(./tex_build/an10.150.tex) [343] (./tex_build/an10.151.tex) [344]
+(./tex_build/an10.152.tex) [345] (./tex_build/an10.153.tex) [346]
+(./tex_build/an10.154.tex) [347] (./tex_build/an10.155.tex) [348]
+(./tex_build/an10.156-166.tex [349]) [350] (./tex_build/an10.167.tex [351]
+[352] [353]) [354] (./tex_build/an10.168.tex [355]) [356]
+(./tex_build/an10.169.tex [357]) [358] (./tex_build/an10.170.tex [359])
+[360] (./tex_build/an10.171.tex) [361] (./tex_build/an10.172.tex [362] [363]
+[364] [365] [366] [367]) [368] (./tex_build/an10.173.tex [369]) [370]
+(./tex_build/an10.174.tex [371]) [372] (./tex_build/an10.175.tex) [373]
+(./tex_build/an10.176.tex [374] [375] [376] [377] [378]) [379]
+(./tex_build/an10.177.tex [380] [381] [382] [383]) [384]
+(./tex_build/an10.178.tex) [385] (./tex_build/an10.179.tex) [386]
+(./tex_build/an10.180.tex) [387] (./tex_build/an10.181.tex) [388]
+(./tex_build/an10.182.tex) [389] (./tex_build/an10.183.tex) [390]
+(./tex_build/an10.184.tex) [391] (./tex_build/an10.185.tex) [392]
+(./tex_build/an10.186.tex) [393] (./tex_build/an10.187.tex) [394]
+(./tex_build/an10.188.tex) [395] (./tex_build/an10.189.tex) [396]
+(./tex_build/an10.190.tex) [397] (./tex_build/an10.191.tex) [398]
+(./tex_build/an10.192.tex) [399] (./tex_build/an10.193.tex) [400]
+(./tex_build/an10.194.tex) [401] (./tex_build/an10.195.tex) [402]
+(./tex_build/an10.196.tex) [403] (./tex_build/an10.197.tex) [404]
+(./tex_build/an10.198.tex) [405] (./tex_build/an10.199-210.tex [406]) [407]
+(./tex_build/an10.211.tex [408] [409]) [410] (./tex_build/an10.212.tex [411])
+[412] (./tex_build/an10.213.tex [413]) [414] (./tex_build/an10.214.tex)
+[415] (./tex_build/an10.215.tex [416]) [417] (./tex_build/an10.216.tex [418]
+[419] [420]) [421] (./tex_build/an10.217.tex [422] [423] [424] [425]) [426]
+(./tex_build/an10.218.tex [427] [428]) [429] (./tex_build/an10.219.tex [430]
+[431]) [432] (./tex_build/an10.220.tex [433]) [434] (./tex_build/an10.221.tex)
+[435] (./tex_build/an10.222.tex [436]) [437] (./tex_build/an10.223.tex [438])
+[439] (./tex_build/an10.224.tex [440]) [441] (./tex_build/an10.225-228.tex)
+[442] (./tex_build/an10.229-232.tex) [443] (./tex_build/an10.233-236.tex)
+[444] (./tex_build/an10.237.tex) [445] (./tex_build/an10.238.tex) [446]
+(./tex_build/an10.239.tex) [447] (./tex_build/an10.240-266.tex) [448]
+(./tex_build/an10.267-746.tex [449]) [450] (build/an_vagga_10.aux) ) 
+Here is how much of TeX's memory you used:
+ 22381 strings out of 481276
+ 470557 string characters out of 5924661
+ 746174 words of memory out of 5000000
+ 38921 multiletter control sequences out of 15000+600000
+ 532644 words of font info for 50 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 71i,11n,87p,1176b,692s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on build/an_vagga_10.xdv (450 pages, 9712896 bytes).
