@@ -1,7 +1,14 @@
 *.swp
 *.swo
+Suttapitaka-EnglishTranslations/
 MN/build/*
 MN/tex_build/*
+AN/build/*
+AN/tex_build/*
+DN/build/*
+DN/tex_build/*
+SN/build/*
+SN/tex_build/*
 bin/__pycache__*
 /MN/sc_po_text/error_log.txt
 /bin/pali_CV_analysis
